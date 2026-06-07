@@ -2,42 +2,42 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chapitres</title>
+<title>Sections</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<a class="back" href="index.html">← Retour</a>
+<header>
+  <div class="cadre-presentation taped">
+    <h1>Sections</h1>
+  </div>
+</header>
 
-<h1 id="title"></h1>
-
-<div id="chapters"></div>
+<main class="divisions-container" id="container"></main>
 
 <script src="data.js"></script>
 
 <script>
-const sectionId = new URLSearchParams(location.search).get("section");
-const section = thirukuralData.sections[sectionId];
+const params = new URLSearchParams(window.location.search);
+const section = params.get("section");
 
-document.getElementById("title").innerText = section.name;
+const container = document.getElementById("container");
 
-const container = document.getElementById("chapters");
+const iyals = thirukuralData[section].iyals;
 
-section.chapters.forEach(chap => {
+iyals.forEach(i => {
+  const a = document.createElement("a");
+  a.className = "polaroid taped";
+  a.href = `chapter.html?iyal=${i.id}`;
 
-    const div = document.createElement("div");
-    div.className = "card";
+  a.innerHTML = `
+    <div class="polaroid-caption">
+      <h3>${i.name}</h3>
+    </div>
+  `;
 
-    div.innerHTML = `
-        <h2>${chap.name}</h2>
-        <a class="btn" href="chapter.html?section=${sectionId}&chapter=${chap.id}">
-            Lire →
-        </a>
-    `;
-
-    container.appendChild(div);
+  container.appendChild(a);
 });
 </script>
 
