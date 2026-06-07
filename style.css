@@ -22,7 +22,7 @@ body {
 }
 
 /* =========================
-   HEADER (VERSION PLUS PRO)
+   HEADER
 ========================= */
 
 header {
@@ -45,13 +45,13 @@ header {
     margin-bottom: 60px;
 
     box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    border-radius: 6px;
 
     position: relative;
-    border-radius: 4px;
 }
 
 /* =========================
-   SCOTCH AMÉLIORÉ
+   EFFET SCOTCH
 ========================= */
 
 .taped {
@@ -81,7 +81,7 @@ header {
 }
 
 /* =========================
-   CONTAINER FLEX PRO
+   CONTAINER
 ========================= */
 
 .divisions-container {
@@ -95,7 +95,7 @@ header {
 }
 
 /* =========================
-   POLAROID VERSION PRO
+   POLAROID
 ========================= */
 
 .polaroid {
@@ -113,15 +113,14 @@ header {
     padding: 18px 18px 30px;
 
     box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+    border-radius: 6px;
 
     transition: all 0.25s ease;
 
     position: relative;
-
-    border-radius: 6px;
 }
 
-/* rotation plus naturelle */
+/* effet posé */
 .polaroid:nth-child(1) { transform: rotate(-2.5deg); }
 .polaroid:nth-child(2) { transform: rotate(1.5deg); }
 .polaroid:nth-child(3) { transform: rotate(2.5deg); }
@@ -140,7 +139,7 @@ header {
     height: 210px;
 
     overflow: hidden;
-    border-radius: 3px;
+    border-radius: 4px;
 
     background-color: #eee;
 }
@@ -166,7 +165,56 @@ header {
 }
 
 /* =========================
-   RESPONSIVE MOBILE PRO
+   KURALS
+========================= */
+
+.kural {
+    background: #fff;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 800px;
+
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    border-radius: 6px;
+}
+
+.kural-number {
+    font-weight: bold;
+    color: #777;
+    margin-bottom: 10px;
+}
+
+/* =========================
+   BOUTON RETOUR
+========================= */
+
+.back-btn {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+
+    background: #fff;
+    padding: 10px 14px;
+
+    border-radius: 8px;
+    text-decoration: none;
+
+    color: #333;
+    font-weight: bold;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+
+    z-index: 999;
+
+    transition: 0.2s ease;
+}
+
+.back-btn:hover {
+    transform: scale(1.05);
+}
+
+/* =========================
+   RESPONSIVE MOBILE
 ========================= */
 
 @media (max-width: 768px) {
@@ -201,35 +249,16 @@ header {
     .polaroid-image {
         height: 180px;
     }
-}
 
+    .kural {
+        margin: 10px;
+        padding: 15px;
+    }
 
-
-
-
-
-.divisions-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 40px;
-    padding: 20px;
-}
-
-
-
-
-
-.kural {
-  background: #fff;
-  padding: 20px;
-  margin: 15px auto;
-  max-width: 800px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-}
-
-.kural-number {
-  font-weight: bold;
-  color: #777;
-  margin-bottom: 10px;
+    .back-btn {
+        top: 10px;
+        left: 10px;
+        padding: 8px 12px;
+        font-size: 0.9rem;
+    }
 }
