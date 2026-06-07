@@ -34,7 +34,7 @@ const thirukuralData = {
               },
               {
                 id: 4,
-                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கu யாண்டும் இடும்பை இல",
+                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல",
                 tamilfr: "Ventudhal Ventaamai Ilaanati Serndhaarkku Yaantum Itumpai Ila",
                 translation: "Pour ceux qui s’unissent aux pieds de Celui qui est sans désir ni aversion, aucune souffrance n’existe en aucun lieu ni en aucun temps.",
                 comment: "Celui qui médite ou suit le divin, libéré du désir et de l’aversion, n’est jamais touché par la souffrance. La paix intérieure naît de l’absence d’attachement."
