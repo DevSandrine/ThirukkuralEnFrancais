@@ -771,6 +771,7 @@ body {
 
 /*moi*/
 
+/* ===== LAYOUT GLOBAL ===== */
 .board-layout {
   display: flex;
   flex-direction: column;
@@ -779,53 +780,38 @@ body {
   position: relative;
 }
 
-/* présentation centrée */
+/* ===== PRESENTATION ===== */
 .note-center {
-  position: relative;
-  width: min(600px, 90%);
+  width: min(650px, 90%);
   text-align: center;
+  position: relative;
   transform: none !important;
 }
 
-/* ligne des livres */
-.book-card {
-  position: relative;
-  width: 260px;
-  text-align: center;
-  transform: none !important;
-}
-
-/* alignement horizontal des livres */
-.board-layout .book-card {
-  display: inline-block;
-}
-
-/* conteneur des livres */
-.board-layout::after {
-  content: "";
+/* ===== LIGNE DES LIVRES ===== */
+.books-row {
   display: flex;
   justify-content: center;
   gap: 30px;
+  flex-wrap: wrap;
+}
+
+/* chaque livre */
+.book-card {
+  width: 260px;
+  transform: none !important;
+  position: relative;
+}
+
+/* garde ton style polaroid */
+.book-card .polaroid-frame {
   width: 100%;
 }
 
-
-.board-layout {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 30px;
-  align-items: flex-start;
-}
-
-/* présentation au centre */
-.note-center {
-  flex: 1 1 100%;
-  max-width: 600px;
-  text-align: center;
-}
-
-/* livres alignés */
-.book-card {
-  width: 260px;
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .books-row {
+    flex-direction: column;
+    align-items: center;
+  }
 }
