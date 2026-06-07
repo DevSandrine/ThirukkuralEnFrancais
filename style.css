@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: "Georgia", serif;
+  background: #f4efe6; /* beige papier */
+  color: #2b2b2b;
+}
+
+/* titre central */
+.header-box {
+  width: 70%;
+  margin: 30px auto;
+  padding: 20px;
+  text-align: center;
+  background: #fffaf3;
+  border: 2px solid #b9a48b;
+  box-shadow: 4px 4px 0 #b9a48b;
+  position: relative;
+}
+
+/* effet scotch */
+.header-box::before,
+.header-box::after {
+  content: "";
+  width: 60px;
+  height: 20px;
+  background: rgba(180,160,120,0.6);
+  position: absolute;
+  top: -10px;
+  transform: rotate(-5deg);
+}
+
+.header-box::after {
+  right: 20px;
+}
+
+/* POLAROID */
+.polaroid {
+  width: 220px;
+  background: white;
+  padding: 10px 10px 25px;
+  margin: 20px;
+  box-shadow: 5px 5px 0 #b9a48b;
+  transform: rotate(-2deg);
+  display: inline-block;
+}
+
+.polaroid img {
+  width: 100%;
+}
+
+.polaroid:hover {
+  transform: rotate(0deg) scale(1.05);
+}
+
+/* boutons division */
+.division-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
