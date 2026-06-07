@@ -215,3 +215,21 @@ header {
     gap: 40px;
     padding: 20px;
 }
+
+
+
+
+
+.kural {
+  background: #fff;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 800px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.kural-number {
+  font-weight: bold;
+  color: #777;
+  margin-bottom: 10px;
+}
