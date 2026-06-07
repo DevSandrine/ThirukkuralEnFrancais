@@ -5,11 +5,11 @@ const thirukuralData = {
     iyals: [
       {
         id: 1,
-        name: "Payiraviyal <br> Préliminaires",
+        name: "Payiraviyal" <br> "Préliminaires",
         chapters: [
           {
             id: 1,
-            name: "Kadavul Vaazhthu <br> Louange à Dieu",
+            name: "Kadavul Vaazhthu " <br> " Louange à Dieu",
             kurals: [
               {
                 id: 1,
@@ -41,7 +41,7 @@ const thirukuralData = {
               },
               {
                 id: 5,
-                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்பuரிந்தார் மாட்டு",
+                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்புரிந்தார் மாட்டு",
                 tamilfr: "Irulser Iruvinaiyum Seraa Iraivan Porulser Pukazhpurindhaar Maattu",
                 translation: "Les deux types d’actions issues de l’ignorance ne s’attachent pas à ceux qui aiment et honorent la véritable gloire du divin.",
                 comment: "Celui qui comprend et honore la véritable nature du divin est libéré des effets du bien et du mal nés de l’ignorance et atteint une pureté intérieure."
