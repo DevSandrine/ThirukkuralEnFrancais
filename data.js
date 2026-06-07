@@ -81,8 +81,8 @@ const thirukuralData = {
                 tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் இறைவன் அடிசேரா தார்",
                 tamilfr: "Piravip Perungatal Neendhuvar Neendhaar Iraivan Atiseraa Thaar",
                 translation: "Ceux qui s’unissent aux pieds du divin traversent l’océan des renaissances ; les autres ne le traversent pas.",
-                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu.<br><br><strong>மு.வ உரை :</strong><br>இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது<br><br><strong>கலைஞர் உரை :</strong><br>வாழ்க்கை எனும் பெருங்கடலை நீந்திக் கடக்க முனைவோர், தலையானவனாக இருப்பவனின் அடி தொடர்ந்து செல்லாவிடில் நீந்த முடியாமல் தவிக்க நேரிடும்.<br><br><strong>சாலமன் பாப்பையா உரை :</strong><br>கடவுளின் திருவடிகளைச் சேர்ந்தவர் பிறவியாகிய பெருங்கடலை நீந்திக் கடப்பர்; மற்றவர் நீந்தவும் மாட்டார்.<br><br><strong>English Explanation :</strong><br>None can swim the great sea of births but those who are united to the feet of God"
-              }
+                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu.
+              },
             ]
           },
           {
