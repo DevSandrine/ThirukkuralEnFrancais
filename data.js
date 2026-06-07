@@ -69,7 +69,7 @@ const thirukuralData = {
               },
               {
                 id: 9,
-                tamil: "கோளில் பொறியின் குணமிலве எண்குணத்தான் தாளை வணங்காத் தலை",
+                tamil: "கோளில் பொறியின் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை",
                 tamilfr: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 translation: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
                 comment: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
