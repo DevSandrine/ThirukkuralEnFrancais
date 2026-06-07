@@ -764,3 +764,42 @@ body {
     margin-left: 0; margin-right: 0;
   }
 }
+
+
+.board-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 60px;
+  position: relative;
+}
+
+/* présentation centrée */
+.note-center {
+  position: relative;
+  width: min(600px, 90%);
+  text-align: center;
+  transform: none !important;
+}
+
+/* ligne des livres */
+.book-card {
+  position: relative;
+  width: 260px;
+  text-align: center;
+  transform: none !important;
+}
+
+/* alignement horizontal des livres */
+.board-layout .book-card {
+  display: inline-block;
+}
+
+/* conteneur des livres */
+.board-layout::after {
+  content: "";
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  width: 100%;
+}
