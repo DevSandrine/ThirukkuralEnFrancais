@@ -1,0 +1,201 @@
+/* =========================
+   BASE GÉNÉRALE
+========================= */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f1ea;
+    color: #333;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin: 0;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* =========================
+   HEADER / PRÉSENTATION
+========================= */
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.cadre-presentation {
+    background: #fff;
+    border: 1px solid #ddd;
+
+    padding: 40px 25px;
+    max-width: 900px;
+    width: 100%;
+
+    text-align: center;
+
+    margin-top: 20px;
+    margin-bottom: 50px;
+
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+
+    position: relative;
+}
+
+/* =========================
+   EFFET SCOTCH
+========================= */
+
+.taped {
+    position: relative;
+}
+
+.taped::before {
+    content: "";
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: translateX(-50%) rotate(-3deg);
+
+    width: 140px;
+    height: 35px;
+
+    background: linear-gradient(
+        135deg,
+        rgba(255, 240, 200, 0.7),
+        rgba(255, 230, 180, 0.3)
+    );
+
+    border: 1px dashed rgba(0,0,0,0.1);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+
+    z-index: 10;
+}
+
+/* =========================
+   CONTAINER POLAROID
+========================= */
+
+.divisions-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+
+    width: 100%;
+    max-width: 1200px;
+
+    margin-top: 20px;
+}
+
+/* =========================
+   POLAROID CARD
+========================= */
+
+.polaroid {
+    text-decoration: none;
+    color: inherit;
+
+    background: #fff;
+
+    width: 280px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    padding: 15px 15px 25px;
+
+    box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+
+    position: relative;
+}
+
+/* léger effet “posé sur table” */
+.polaroid:nth-child(1) { transform: rotate(-2deg); }
+.polaroid:nth-child(2) { transform: rotate(1deg); }
+.polaroid:nth-child(3) { transform: rotate(2deg); }
+
+.polaroid:hover {
+    transform: scale(1.05) rotate(0deg);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.18);
+}
+
+/* =========================
+   IMAGE POLAROID
+========================= */
+
+.polaroid-image {
+    width: 100%;
+    height: 200px;
+
+    overflow: hidden;
+
+    border: 1px solid #eee;
+    background-color: #eee;
+}
+
+.polaroid-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* =========================
+   TEXTE POLAROID
+========================= */
+
+.polaroid-caption {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.polaroid-caption h3 {
+    margin: 5px 0;
+    font-size: 1.2rem;
+}
+
+/* =========================
+   RESPONSIVE MOBILE
+========================= */
+
+@media (max-width: 768px) {
+
+    body {
+        padding: 12px;
+    }
+
+    .cadre-presentation {
+        padding: 25px 15px;
+        margin-bottom: 30px;
+    }
+
+    .cadre-presentation h1 {
+        font-size: 1.5rem;
+    }
+
+    .cadre-presentation p {
+        font-size: 0.95rem;
+    }
+
+    .divisions-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .polaroid {
+        width: 90%;
+        max-width: 320px;
+    }
+
+    .polaroid-image {
+        height: 180px;
+    }
+}
