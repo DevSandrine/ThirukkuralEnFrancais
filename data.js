@@ -76,7 +76,7 @@ const thirukuralData = {
               },
               {
                 id: 10,
-                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீндар இறைவன் அடிசேரா தார்",
+                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் இறைவன் அடிசேரா தார்",
                 tamilfr: "Piravip Perungatal Neendhuvar Neendhaar Iraivan Atiseraa Thaar",
                 translation: "Ceux qui s’unissent aux pieds du divin traversent l’océan des renaissances ; les autres ne le traversent pas.",
                 comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu."
