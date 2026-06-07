@@ -766,6 +766,11 @@ body {
 }
 
 
+
+
+
+/*moi*/
+
 .board-layout {
   display: flex;
   flex-direction: column;
@@ -802,4 +807,25 @@ body {
   justify-content: center;
   gap: 30px;
   width: 100%;
+}
+
+
+.board-layout {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+/* présentation au centre */
+.note-center {
+  flex: 1 1 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
+/* livres alignés */
+.book-card {
+  width: 260px;
 }
