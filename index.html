@@ -1,35 +1,51 @@
-<main class="home">
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thirukural</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-  <!-- INTRO -->
-  <section class="hero">
-    <h1>Thirukkural en français</h1>
-    <p>Traduction et exploration des 1330 vers tamouls</p>
-  </section>
+    <header>
+        <div class="cadre-presentation taped">
+            <h1>Thirukural (திருக்குறள்)</h1>
+            <p>Découvrez les 1330 maximes de la littérature tamoule, divisées en trois grandes sections éthiques et philosophiques.</p>
+        </div>
+    </header>
 
-  <!-- BOOKS -->
-  <section class="books">
+    <main class="divisions-container">
+        <a href="chapitres.html?section=1" class="polaroid taped">
+            <div class="polaroid-image">
+                <img src="images/aram.jpg" alt="Aram">
+            </div>
+            <div class="polaroid-caption">
+                <h3>Aram (அறம்)</h3>
+                <p>La Vertu / Virtue</p>
+            </div>
+        </a>
 
-    <a class="polaroid" href="livre1.html">
-      <div class="tape"></div>
-      <img src="images/book1.jpg">
-      <h3>Livre I</h3>
-      <p>Vertu</p>
-    </a>
+        <a href="chapitres.html?section=2" class="polaroid taped">
+            <div class="polaroid-image">
+                <img src="images/porul.jpg" alt="Porul">
+            </div>
+            <div class="polaroid-caption">
+                <h3>Porul (பொருள்)</h3>
+                <p>La Richesse / Wealth</p>
+            </div>
+        </a>
 
-    <a class="polaroid" href="livre2.html">
-      <div class="tape"></div>
-      <img src="images/book2.jpg">
-      <h3>Livre II</h3>
-      <p>Politique</p>
-    </a>
+        <a href="chapitres.html?section=3" class="polaroid taped">
+            <div class="polaroid-image">
+                <img src="images/inbam.jpg" alt="Inbam">
+            </div>
+            <div class="polaroid-caption">
+                <h3>Inbam (இன்பம்)</h3>
+                <p>L'Amour / Love</p>
+            </div>
+        </a>
+    </main>
 
-    <a class="polaroid" href="livre3.html">
-      <div class="tape"></div>
-      <img src="images/book3.jpg">
-      <h3>Livre III</h3>
-      <p>Amour</p>
-    </a>
-
-  </section>
-
-</main>
+</body>
+</html>
