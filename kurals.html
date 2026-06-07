@@ -2,78 +2,56 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title> Distique - Kural - குறள்</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Distique - Kural - குறள்</title>
+
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header>
-  <div class="cadre-presentation taped">
-    <h1> Distique - Kural - குறள்</h1>
-  </div>
-  <a href="javascript:history.back()" class="back-btn">← Retour</a>
+
+    <div class="cadre-presentation taped">
+        <h1>Distique - Kural - குறள்</h1>
+    </div>
+
+    <a href="javascript:history.back()" class="back-btn">
+        ← Retour
+    </a>
+
 </header>
 
 <main id="container"></main>
 
-
-<div id="container"></div>
-
 <div class="pagination">
-  <button id="prev">←</button>
-  <span id="page"></span>
-  <button id="next">→</button>
+    <button id="prev">←</button>
+    <span id="page"></span>
+    <button id="next">→</button>
 </div>
 
-  
 <script src="data.js"></script>
 
 <script>
-const chapterId = new URLSearchParams(window.location.search).get("chapter");
-const container = document.getElementById("container");
 
-let kurals = [];
-
-Object.values(thirukuralData).forEach(section => {
-  section.iyals.forEach(i => {
-    i.chapters.forEach(c => {
-      if (c.id == chapterId) {
-        kurals = c.kurals;
-      }
-    });
-  });
-});
-
-kurals.forEach((k, index) => {
-  const div = document.createElement("div");
-  div.className = "kural";
-
-  div.innerHTML = `
-    <div class="kural-number">Kural ${index + 1}</div>
-    <p>${k.tamil}</p>
-    <p>${k.translation}</p>
-  `;
-
-  container.appendChild(div);
-});
-</script>
-
-
-  <!-- Pagination JS script -->
-<script>
 const chapterId = new URLSearchParams(window.location.search).get("chapter");
 
 let kurals = [];
 
 Object.values(thirukuralData).forEach(section => {
-  section.iyals.forEach(i => {
-    i.chapters.forEach(c => {
-      if (c.id == chapterId) {
-        kurals = c.kurals;
-      }
+
+    section.iyals.forEach(iyal => {
+
+        iyal.chapters.forEach(chapter => {
+
+            if (chapter.id == chapterId) {
+                kurals = chapter.kurals;
+            }
+
+        });
+
     });
-  });
+
 });
 
 const container = document.getElementById("container");
@@ -83,44 +61,75 @@ let currentPage = 1;
 const perPage = 5;
 
 function render() {
-  container.innerHTML = "";
 
-  let start = (currentPage - 1) * perPage;
-  let end = start + perPage;
+    container.innerHTML = "";
 
-  let pageItems = kurals.slice(start, end);
+    const start = (currentPage - 1) * perPage;
+    const end = start + perPage;
 
-  pageItems.forEach((k, index) => {
-    const div = document.createElement("div");
-    div.className = "kural";
+    const pageItems = kurals.slice(start, end);
 
-    div.innerHTML = `
-      <div class="kural-number">Kural ${start + index + 1}</div>
-      <p>${k.tamil}</p>
-      <p>${k.translation}</p>
-    `;
+    pageItems.forEach((kural, index) => {
 
-    container.appendChild(div);
-  });
+        const div = document.createElement("div");
 
-  pageText.innerText = `Page ${currentPage}`;
+        div.className = "kural";
+
+        div.innerHTML = `
+            <div class="kural-number">
+                Kural ${start + index + 1}
+            </div>
+
+            <p><strong>Tamoul :</strong><br>
+            ${kural.tamil || ""}</p>
+
+            <p><strong>Translittération :</strong><br>
+            ${kural.tamilfr || ""}</p>
+
+            <p><strong>Traduction :</strong><br>
+            ${kural.translation || ""}</p>
+
+            <p><strong>Commentaire :</strong><br>
+            ${kural.comment || ""}</p>
+        `;
+
+        container.appendChild(div);
+
+    });
+
+    const totalPages = Math.max(1, Math.ceil(kurals.length / perPage));
+
+    pageText.textContent =
+        `Page ${currentPage} / ${totalPages}`;
+
 }
 
-document.getElementById("prev").onclick = () => {
-  if (currentPage > 1) {
-    currentPage--;
-    render();
-  }
-};
+document.getElementById("prev").addEventListener("click", () => {
 
-document.getElementById("next").onclick = () => {
-  if (currentPage < Math.ceil(kurals.length / perPage)) {
-    currentPage++;
-    render();
-  }
-};
+    if (currentPage > 1) {
+        currentPage--;
+        render();
+        window.scrollTo(0, 0);
+    }
+
+});
+
+document.getElementById("next").addEventListener("click", () => {
+
+    const totalPages =
+        Math.ceil(kurals.length / perPage);
+
+    if (currentPage < totalPages) {
+        currentPage++;
+        render();
+        window.scrollTo(0, 0);
+    }
+
+});
 
 render();
+
 </script>
+
 </body>
 </html>
