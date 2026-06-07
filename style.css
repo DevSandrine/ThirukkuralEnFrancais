@@ -239,6 +239,7 @@ header {
     .divisions-container {
         flex-direction: column;
         gap: 25px;
+       align-items: center; 
     }
 
     .polaroid {
