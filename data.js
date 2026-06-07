@@ -5,11 +5,13 @@ const thirukuralData = {
     iyals: [
       {
         id: 1,
-        name: "Payiraviyal <br> Préliminaires",
+        name: "Payiraviyal",
+        fr: "Préliminaires",
         chapters: [
           {
             id: 1,
-            name: "Kadavul Vaazhthu <br> Louange à Dieu",
+            name: "Kadavul Vaazhthu",
+            fr: "Louange à Dieu",
             kurals: [
               {
                 id: 1,
@@ -69,7 +71,7 @@ const thirukuralData = {
               },
               {
                 id: 9,
-                tamil: "கோளில் பொறியின் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை",
+                tamil: "கோளில் பொறியின் குணமிலவே எண்கuணத்தான் தாளை வணங்காத் தலை",
                 tamilfr: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 translation: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
                 comment: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
@@ -79,34 +81,26 @@ const thirukuralData = {
                 tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் இறைவன் அடிசேரா தார்",
                 tamilfr: "Piravip Perungatal Neendhuvar Neendhaar Iraivan Atiseraa Thaar",
                 translation: "Ceux qui s’unissent aux pieds du divin traversent l’océan des renaissances ; les autres ne le traversent pas.",
-                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu."
+                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu.<br><br><strong>மு.வ உரை :</strong><br>இறைவனுடைய திருவடிகளை பொருந்தி நினைக்கின்றவர் பிறவியாகிய பெரிய கடலைக் கடக்க முடியும். மற்றவர் கடக்க முடியாது<br><br><strong>கலைஞர் உரை :</strong><br>வாழ்க்கை எனும் பெருங்கடலை நீந்திக் கடக்க முனைவோர், தலையானவனாக இருப்பவனின் அடி தொடர்ந்து செல்லாவிடில் நீந்த முடியாமல் தவிக்க நேரிடும்.<br><br><strong>சாலமன் பாப்பையா உரை :</strong><br>கடவுளின் திருவடிகளைச் சேர்ந்தவர் பிறவியாகிய பெருங்கடலை நீந்திக் கடப்பர்; மற்றவர் நீந்தவும் மாட்டார்.<br><br><strong>English Explanation :</strong><br>None can swim the great sea of births but those who are united to the feet of God"
               }
             ]
           },
           {
             id: 2,
-            name: "Vaan Sirappu <br> Grandeur de la pluie",
+            name: "Vaan Sirappu",
+            fr: "Grandeur de la pluie",
             kurals: []
           },
           {
             id: 3,
-            name: "Neethaar Perumai <br> Grandeur des ascètes",
+            name: "Neethaar Perumai",
+            fr: "Grandeur des ascètes",
             kurals: []
           },
           {
             id: 4,
-            name: "Aran Valiyuruththal <br> Importance de la vertu",
-            kurals: []
-          }
-        ]
-      },
-      {
-        id: 2,
-        name: "Illaraviyal <br> Vie de famille",
-        chapters: [
-          {
-            id: 1,
-            name: "Introduction",
+            name: "Aran Valiyuruththal",
+            fr: "Importance de la vertu",
             kurals: []
           }
         ]
@@ -124,3 +118,4 @@ const thirukuralData = {
     iyals: []
   }
 };
+
