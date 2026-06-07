@@ -5,13 +5,11 @@ const thirukuralData = {
     iyals: [
       {
         id: 1,
-        name: "Payiraviyal",
-        fr: "Préliminaires",
+        name: "Payiraviyal <br> Préliminaires",
         chapters: [
           {
             id: 1,
-            name: "Kadavul Vaazhthu",
-            fr: "Louange à Dieu",
+            name: "Kadavul Vaazhthu <br> Louange à Dieu",
             kurals: [
               {
                 id: 1,
@@ -87,20 +85,17 @@ const thirukuralData = {
           },
           {
             id: 2,
-            name: "Vaan Sirappu",
-            fr: "Grandeur de la pluie",
+            name: "Vaan Sirappu <br> Grandeur de la pluie",
             kurals: []
           },
           {
             id: 3,
-            name: "Neethaar Perumai",
-            fr: "Grandeur des ascètes",
+            name: "Neethaar Perumai <br> Grandeur des ascètes",
             kurals: []
           },
           {
             id: 4,
-            name: "Aran Valiyuruththal",
-            fr: "Importance de la vertu",
+            name: "Aran Valiyuruththal <br> Importance de la vertu",
             kurals: []
           }
         ]
