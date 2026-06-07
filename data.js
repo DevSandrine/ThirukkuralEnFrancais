@@ -43,7 +43,7 @@ const thirukuralData = {
               },
               {
                 id: 5,
-                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்புரிந்தார் மாட்டு",
+                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்பuரிந்தார் மாட்டு",
                 tamilfr: "Irulser Iruvinaiyum Seraa Iraivan Porulser Pukazhpurindhaar Maattu",
                 translation: "Les deux types d’actions issues de l’ignorance ne s’attachent pas à ceux qui aiment et honorent la véritable gloire du divin.",
                 comment: "Celui qui comprend et honore la véritable nature du divin est libéré des effets du bien et du mal nés de l’ignorance et atteint une pureté intérieure."
@@ -71,18 +71,18 @@ const thirukuralData = {
               },
               {
                 id: 9,
-                tamil: "கோளில் பொறியின் குணமிலவே எண்கuணத்தான் தாளை வணங்காத் தலை",
+                tamil: "கோளில் பொறியின் குணமிலве எண்குணத்தான் தாளை வணங்காத் தலை",
                 tamilfr: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 translation: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
                 comment: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
               },
               {
                 id: 10,
-                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் இறைவன் அடிசேரா தார்",
+                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீндар இறைவன் அடிசேரா தார்",
                 tamilfr: "Piravip Perungatal Neendhuvar Neendhaar Iraivan Atiseraa Thaar",
                 translation: "Ceux qui s’unissent aux pieds du divin traversent l’océan des renaissances ; les autres ne le traversent pas.",
-                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu.
-              },
+                comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu."
+              }
             ]
           },
           {
@@ -118,4 +118,3 @@ const thirukuralData = {
     iyals: []
   }
 };
-
