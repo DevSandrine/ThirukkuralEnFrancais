@@ -109,7 +109,11 @@ commentaire: "La libération des cycles de l’existence est présentée comme a
         
         
         /*fin des kurals du 1er chamitre*/   ]  
-
+}
+]
+}
+]
+},
 
 
 
