@@ -5,11 +5,11 @@ const thirukuralData = {
     iyals: [
       {
         id: 1,
-        name: "Payiraviyal" <br> "Préliminaires",
+        name: "Payiraviyal <br> Préliminaires",
         chapters: [
           {
             id: 1,
-            name: "Kadavul Vaazhthu " <br> " Louange à Dieu",
+            name: "Kadavul Vaazhthu <br>  Louange à Dieu",
             kurals: [
               {
                 id: 1,
