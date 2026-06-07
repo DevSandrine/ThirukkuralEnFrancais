@@ -41,7 +41,7 @@ const thirukuralData = {
 
               {
                 id: 4,
-                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல",
+                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கu யாண்டும் இடும்பை இல",
                 translittération: "Ventudhal Ventaamai Ilaanati Serndhaarkku Yaantum Itumpai Ila",
                 traduction: "Pour ceux qui s’unissent aux pieds de Celui qui est sans désir ni aversion, aucune souffrance n’existe en aucun lieu ni en aucun temps.",
                 commentaire: "Celui qui médite ou suit le divin, libéré du désir et de l’aversion, n’est jamais touché par la souffrance. La paix intérieure naît de l’absence d’attachement."
@@ -49,7 +49,7 @@ const thirukuralData = {
 
               {
                 id: 5,
-                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்புரிந்தார் மாட்டு",
+                tamil: "இருள்சேர் இருவினையும் சேரா இறைவன் பொருள்சேர் புகழ்புриந்தார் மாட்டு",
                 translittération: "Irulser Iruvinaiyum Seraa Iraivan Porulser Pukazhpurindhaar Maattu",
                 traduction: "Les deux types d’actions issues de l’ignorance ne s’attachent pas à ceux qui aiment et honorent la véritable gloire du divin.",
                 commentaire: "Celui qui comprend et honore la véritable nature du divin est libéré des effets du bien et du mal nés de l’ignorance et atteint une pureté intérieure."
@@ -84,7 +84,7 @@ const thirukuralData = {
                 tamil: "கோளில் பொறியின் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை",
                 translittération: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 traduction: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
-                commentaire: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
+                commentaire: "Sans reconnaissance du divin et de ses qualités, even l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
               },
 
               {
@@ -129,3 +129,4 @@ const thirukuralData = {
     iyals: []
   }
 };
+
