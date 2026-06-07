@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Kurals</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="cadre-presentation taped">
+    <h1>Kurals</h1>
+  </div>
+</header>
+
+<main id="container"></main>
+
+<script src="data.js"></script>
+
+<script>
+const chapterId = new URLSearchParams(window.location.search).get("chapter");
+const container = document.getElementById("container");
+
+let kurals = [];
+
+Object.values(thirukuralData).forEach(section => {
+  section.iyals.forEach(i => {
+    i.chapters.forEach(c => {
+      if (c.id == chapterId) {
+        kurals = c.kurals;
+      }
+    });
+  });
+});
+
+kurals.forEach((k, index) => {
+  const div = document.createElement("div");
+  div.className = "kural";
+
+  div.innerHTML = `
+    <div class="kural-number">Kural ${index + 1}</div>
+    <p>${k.tamil}</p>
+    <p>${k.translation}</p>
+  `;
+
+  container.appendChild(div);
+});
+</script>
+
+</body>
+</html>
