@@ -5,10 +5,12 @@ const thirukuralData = {
       {
         id: 1,
         name: "Payiraviyal",
+        fr:" Préliminaires",
         chapters: [
           {
             id: 1,
             name: "Kadavul Vaazhthu",
+            fr: "Louange à Dieu",
             kurals: [
               {
                id: 1,
