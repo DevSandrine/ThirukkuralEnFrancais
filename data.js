@@ -69,14 +69,14 @@ const thirukuralData = {
               },
               {
                 id: 9,
-                tamil: "கோளில் பொறியின் குணமிலве எண்குணத்தான் தாளை வணங்காத் தலை",
+                tamil: "கோளில் பொறியின் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை",
                 tamilfr: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 translation: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
                 comment: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
               },
               {
                 id: 10,
-                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீндар இறைவன் அடிசேரா தார்",
+                tamil: "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார் இறைவன் அடிசேரா தார்",
                 tamilfr: "Piravip Perungatal Neendhuvar Neendhaar Iraivan Atiseraa Thaar",
                 translation: "Ceux qui s’unissent aux pieds du divin traversent l’océan des renaissances ; les autres ne le traversent pas.",
                 comment: "La libération des cycles de l’existence est présentée comme accessible uniquement à ceux qui suivent la voie du divin et de la vertu."
