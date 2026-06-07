@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kurals</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<a class="back" href="javascript:history.back()">← Retour</a>
+
+<h1 id="chapterTitle"></h1>
+
+<input id="search" placeholder="Rechercher un kural...">
+
+<button id="darkBtn">🌙 Mode nuit</button>
+
+<div id="kurals"></div>
+<div id="pagination"></div>
+
+<script src="data.js"></script>
+
+<script>
+const params = new URLSearchParams(location.search);
+const sectionId = params.get("section");
+const chapterId = params.get("chapter");
+
+const section = thirukuralData.sections[sectionId];
+const chapter = section.chapters.find(c => c.id == chapterId);
+
+document.getElementById("chapterTitle").innerText = chapter.name;
+
+let currentPage = 1;
+const perPage = 10;
+let filtered = chapter.kurals;
+
+const container = document.getElementById("kurals");
+const pagination = document.getElementById("pagination");
+const search = document.getElementById("search");
+
+// -------- RENDER --------
+function render() {
+
+    container.innerHTML = "";
+
+    let start = (currentPage - 1) * perPage;
+    let pageItems = filtered.slice(start, start + perPage);
+
+    pageItems.forEach(k => {
+
+        let div = document.createElement("div");
+        div.className = "kural";
+
+        div.innerHTML = `
+            <p><strong>${k.tamil}</strong></p>
+            <p>${k.translation}</p>
+            <button onclick="fav('${k.id}')">⭐</button>
+        `;
+
+        container.appendChild(div);
+    });
+
+    renderPagination();
+}
+
+// -------- PAGINATION --------
+function renderPagination() {
+    pagination.innerHTML = "";
+
+    let pages = Math.ceil(filtered.length / perPage);
+
+    for (let i = 1; i <= pages; i++) {
+
+        let btn = document.createElement("button");
+        btn.innerText = i;
+
+        if (i === currentPage) btn.classList.add("active");
+
+        btn.onclick = () => {
+            currentPage = i;
+            render();
+        };
+
+        pagination.appendChild(btn);
+    }
+}
+
+// -------- SEARCH --------
+search.addEventListener("input", (e) => {
+
+    let val = e.target.value.toLowerCase();
+
+    filtered = chapter.kurals.filter(k =>
+        k.tamil.toLowerCase().includes(val) ||
+        k.translation.toLowerCase().includes(val)
+    );
+
+    currentPage = 1;
+    render();
+});
+
+// -------- FAVORIS --------
+function fav(id) {
+    let f = JSON.parse(localStorage.getItem("favs") || "[]");
+
+    if (f.includes(id)) {
+        f = f.filter(x => x !== id);
+    } else {
+        f.push(id);
+    }
+
+    localStorage.setItem("favs", JSON.stringify(f));
+}
+
+// -------- MODE NUIT --------
+document.getElementById("darkBtn").onclick = () => {
+    document.body.classList.toggle("dark");
+};
+
+// INIT
+render();
+</script>
+
+</body>
+</html>
