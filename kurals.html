@@ -17,6 +17,16 @@
 
 <main id="container"></main>
 
+
+<div id="container"></div>
+
+<div class="pagination">
+  <button id="prev">←</button>
+  <span id="page"></span>
+  <button id="next">→</button>
+</div>
+
+  
 <script src="data.js"></script>
 
 <script>
@@ -49,5 +59,68 @@ kurals.forEach((k, index) => {
 });
 </script>
 
+
+  <!-- Pagination JS script -->
+<script>
+const chapterId = new URLSearchParams(window.location.search).get("chapter");
+
+let kurals = [];
+
+Object.values(thirukuralData).forEach(section => {
+  section.iyals.forEach(i => {
+    i.chapters.forEach(c => {
+      if (c.id == chapterId) {
+        kurals = c.kurals;
+      }
+    });
+  });
+});
+
+const container = document.getElementById("container");
+const pageText = document.getElementById("page");
+
+let currentPage = 1;
+const perPage = 5;
+
+function render() {
+  container.innerHTML = "";
+
+  let start = (currentPage - 1) * perPage;
+  let end = start + perPage;
+
+  let pageItems = kurals.slice(start, end);
+
+  pageItems.forEach((k, index) => {
+    const div = document.createElement("div");
+    div.className = "kural";
+
+    div.innerHTML = `
+      <div class="kural-number">Kural ${start + index + 1}</div>
+      <p>${k.tamil}</p>
+      <p>${k.translation}</p>
+    `;
+
+    container.appendChild(div);
+  });
+
+  pageText.innerText = `Page ${currentPage}`;
+}
+
+document.getElementById("prev").onclick = () => {
+  if (currentPage > 1) {
+    currentPage--;
+    render();
+  }
+};
+
+document.getElementById("next").onclick = () => {
+  if (currentPage < Math.ceil(kurals.length / perPage)) {
+    currentPage++;
+    render();
+  }
+};
+
+render();
+</script>
 </body>
 </html>
