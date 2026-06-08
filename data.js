@@ -385,7 +385,7 @@ const thirukuralData = {
          //DEBUT DES CHAPITRES DU L IYAL 2 DU LIVRE 1 
          //=======================================================
       chapters: [
-        { id : 5,
+        { id: 5,
            name: " Ilvaazhkkai <br> La vie domestique", 
         // chapitres de l'iyal 2 ici
         
@@ -396,7 +396,7 @@ const thirukuralData = {
               tamilfr: "Ilvaazhvaan Enpaan Iyalputaiya Moovarkkum Nallaatrin Nindra Thunai",
               translation: "Le véritable chef de famille est celui qui demeure un soutien sûr et vertueux pour les trois autres voies de vie.",
               comment: "Tiruvalluvar définit ici l'idéal du maître de maison. Dans la tradition tamoule, les 'trois autres' désignent généralement les étudiants, les ascètes et les renonçants. Grâce à son travail, sa générosité et sa conduite morale, le chef de famille soutient matériellement et moralement ces autres groupes de la société. La vie domestique est ainsi présentée comme le fondement de l'ordre social et de la vertu."
-            },
+            }
 
         
 
