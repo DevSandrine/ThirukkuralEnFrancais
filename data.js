@@ -612,6 +612,102 @@ const thirukuralData = {
        
           ] // Fermeture des kural du chapitre 7 
        },// fermeture du chapitre 7 
+
+
+
+           { 
+            id: 8,
+            name: " Anpudaimai <br> L’amour et la bienveillance", 
+            // KURAL DU CHAPITRE 8 ICI 
+            kurals: [
+              {
+                id: 71,
+                tamil: "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர் புன்கணீர் பூசல் தரும்",
+                tamilfr: "Anpirkum Unto Ataikkundhaazh Aarvalar Punkaneer Poosal Tharum",
+                translation: "L’amour peut-il être enfermé ? Les larmes discrètes le révèlent toujours.",
+                comment: "L’amour est présenté comme une force impossible à contenir ou à dissimuler totalement. Même lorsqu’il est retenu, il finit par se manifester à travers des signes naturels et sincères comme les larmes."
+              },
+
+              {
+                id: 72,
+                tamil: "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார் என்பும் உரியர் பிறர்க்கு",
+                tamilfr: "Anpilaar Ellaam Thamakkuriyar Anputaiyaar Enpum Uriyar Pirarkku",
+                translation: "Ceux qui manquent d’amour n’appartiennent qu’à eux-mêmes, tandis que ceux qui aiment appartiennent aux autres jusqu’à leurs os.",
+                comment: "L’amour est présenté comme une ouverture totale à autrui. Une personne sans amour reste centrée sur elle-même, tandis que la personne aimante dépasse l’individualisme et se met entièrement au service des autres."
+              },
+
+              
+              {
+                id: 73,
+                tamil: "அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு என்போடு இயைந்த தொடர்பு",
+                tamilfr: "Anpotu Iyaindha Vazhakkenpa Aaruyirkku Enpotu Iyaindha Thotarpu",
+                translation: "L’union de l’âme avec le corps est comparée à l’union de l’amour avec la vie elle-même.",
+                comment: "L’amour est présenté comme le principe vital qui relie l’âme à l’existence. Sans amour, la vie perd sa cohérence et son sens profond."
+              },
+
+              {
+                id: 74,
+                tamil: "அன்புஈனும் ஆர்வம் உடைமை அதுஈனும் நண்பென்னும் நாடாச் சிறப்பு",
+                tamilfr: "AnpuEenum Aarvam Utaimai Adhueenum NanpuEnnum Naataach Chirappu",
+                translation: "L’amour engendre le désir, et ce désir donne naissance à la noble excellence appelée amitié.",
+                comment: "L’amour est présenté comme une force qui évolue et s’élargit. De l’attachement naît l’élan du cœur, puis une relation plus stable et profonde : l’amitié, considérée ici comme une forme élevée de lien humain."
+              },
+
+
+              {
+                id: 75,
+                tamil: "அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து இன்புற்றார் எய்தும் சிறப்பு",
+                tamilfr: "Anputru Amarndha Vazhakkenpa Vaiyakaththu Inputraar Eydhum Sirappu",
+                translation: "Le véritable bonheur dans ce monde est atteint par ceux qui vivent dans l’amour.",
+                comment: "Le bonheur est présenté comme le résultat naturel d’une vie fondée sur l’amour. Lorsque les relations humaines sont guidées par l’affection et la bienveillance, elles conduisent à une forme de paix et d’épanouissement durable."
+              },
+
+              {
+                id: 76,
+                tamil: "அறத்திற்கே அன்புசார் பென்ப அறியார் மறத்திற்கும் அஃதே துணை",
+                tamilfr: "Araththirke Anpusaar Penpa Ariyaar Maraththirkum Aqdhe Thunai",
+                translation: "L’amour ne soutient pas seulement la vertu ; il peut aussi soutenir le vice.",
+                comment: "L’amour est une force neutre en soi : selon la direction qu’on lui donne, il peut nourrir aussi bien des actions vertueuses que des comportements négatifs. Il dépend donc de la sagesse qui le guide."
+              },
+
+              {
+                id: 77,
+                tamil: "என்பிலதனை வெயில்போலக் காயுமே அன்பிலதனை அறம்",
+                tamilfr: "Enpi Ladhanai Veyilpolak Kaayume Anpi Ladhanai Aram",
+                translation: "Comme le soleil brûlant dessèche un être sans os, la vertu accable celui qui est dépourvu d’amour.",
+                comment: "La vertu, sans amour, devient une force dure et écrasante. L’idée souligne que la droiture doit être accompagnée de bienveillance pour ne pas devenir une souffrance."
+              },
+
+              
+              {
+                id: 78,
+                tamil: "அன்பகத்தில்லா உயிர்வாழ்க்கை வன்பாற்கண் வற்றல் மரந்தளிர்த்தற்று",
+                tamilfr: "Anpakath Thillaa Uyirvaazhkkai Vanpaarkan Vatral Marandhalirth Thatru",
+                translation: "Une vie dépourvue d’amour est comme un arbre desséché dans un désert stérile, incapable de produire des feuilles.",
+                comment: "L’absence d’amour est comparée à une absence de sève vitale. Sans affection ni bienveillance, la vie perd sa croissance, sa fraîcheur et son sens profond."
+              },
+
+              
+              {
+                id: 79,
+                tamil: "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை அகத்துறுப்பு அன்பிலவர்க்கு",
+                tamilfr: "Puraththurup Pellaam Evanseyyum Yaakkai Akaththuruppu Anpilavarkku",
+                translation: "À quoi sert le corps extérieur pour ceux qui sont dépourvus d’amour intérieur ?",
+                comment: "La valeur d’une personne ne réside pas dans son apparence ou sa structure physique, mais dans la présence d’amour en elle. Sans cette qualité intérieure, le corps devient vide de sens moral et humain."
+              },
+
+              {
+                id: 80,
+                tamil: "அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு என்புதோல் போர்த்த உடம்பு",
+                tamilfr: "Anpin Vazhiyadhu Uyirnilai Aqdhilaarkku Enpudhol Porththa Utampu",
+                translation: "La vie véritable est fondée sur l’amour ; sans lui, le corps n’est qu’un assemblage d’os recouvert de peau.",
+                comment: "L’amour est présenté comme le principe vital qui donne sens et humanité à l’existence. Sans lui, la vie perd sa dimension intérieure et devient purement matérielle."
+              }
+                       
+            ]// fin des kural du chapitre 8 
+
+           },// fin du chapitre 8 
+
           
           
         ] // fermeture de tous les chapter de l iyal 2 
