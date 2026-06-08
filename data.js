@@ -524,7 +524,7 @@ const thirukuralData = {
 
            { 
             id: 7,
-            name: " Makkaṭpēṟu <br> Bénédiction des enfants", 
+            name: " Makkatpēru <br> Bénédiction des enfants", 
             // KURAL DU CHAPITRE 7 ICI 
             kurals: [
 
