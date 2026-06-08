@@ -46,7 +46,7 @@ const thirukuralData = {
               },
               {
                 id: 4,
-                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கu யாண்டும் இடும்பை இல",
+                tamil: "வேண்டுதல்வேண் டாமை இலானடி சேர்ந்தார்க்கு யாண்டும் இடும்பை இல",
                 tamilfr: "Ventudhal Ventaamai Ilaanati Serndhaarkku Yaantum Itumpai Ila",
                 translation: "Pour ceux qui s’unissent aux pieds de Celui qui est sans désir ni aversion, aucune souffrance n’existe en aucun lieu ni en aucun temps.",
                 comment: "Celui qui médite ou suit le divin, libéré du désir et de l’aversion, n’est jamais touché par la souffrance. La paix intérieure naît de l’absence d’attachement."
@@ -81,7 +81,7 @@ const thirukuralData = {
               },
               {
                 id: 9,
-                tamil: "கோளில் பொறியின் குணமிலவே எண்கuணத்தான் தாளை வணங்காத் தலை",
+                tamil: "கோளில் பொறியின் குணமிலவே எண்குணத்தான் தாளை வணங்காத் தலை",
                 tamilfr: "Kolil Poriyin Kunamilave Enkunaththaan Thaalai Vanangaath Thalai",
                 translation: "Une tête qui ne s’incline pas devant les pieds de Celui qui possède les huit qualités est aussi inutile qu’un sens dépourvu de perception.",
                 comment: "Sans reconnaissance du divin et de ses qualités, même l’intelligence ou la vie humaine perd son véritable sens et sa valeur."
@@ -114,7 +114,7 @@ const thirukuralData = {
               },
               {
                 id: 12,
-                tamil: "துப்பார்க்கuத் துப்பாய துப்பாக்கித் துப்பார்க்கuத் துப்பாய தூஉம் மழை",
+                tamil: "துப்பார்க்கuத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை",
                 tamilfr: "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth Thuppaaya Thooum Mazhai",
                 translation: "La pluie est elle-même une nourriture pour ceux qui vivent, et elle fait également naître toutes les autres nourritures dont ils se nourrissent.",
                 comment: "La pluie ne se contente pas d'être une ressource essentielle à la vie ; elle permet aussi la croissance des récoltes et la production de tous les aliments. Ainsi, elle est à la fois une source directe de vie et l'origine de toute subsistance."
@@ -142,7 +142,7 @@ const thirukuralData = {
               },
               {
                 id: 16,
-                tamil: "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பu அரிது",
+                tamil: "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது",
                 tamilfr: "Visumpin Thuliveezhin Allaalmar Raange Pasumpul Thalaikaanpu Aridhu",
                 translation: "Si les nuages ne laissent pas tomber une seule goute de pluie, même les brins d’herbe verte peinent à pousser.",
                 comment: "Ce kural souligne l’extrême dépendance de la nature à la pluie. Sans elle, même la plus petite forme de vie végétale ne peut émerger. Tiruvalluvar insiste ainsi sur le rôle fondamental et irremplaçable de la pluie dans la vitalité du monde."
@@ -217,7 +217,7 @@ const thirukuralData = {
               },
               {
                 id: 25,
-                tamil: "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான் இந்திரனே சாலuங் கரி",
+                tamil: "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான் இந்திரனே சாலுங் கரி",
                 tamilfr: "Amindhaviththaan Aatral Akalvisumpu Laarkomaan Indhirane Saalung Kari",
                 translation: "Même Indra, le roi des cieux, reconnaîtra la force de celui qui a maîtrisé ses cinq sens.",
                 comment: "Ce kural exalte la puissance intérieure de celui qui contrôle parfaitement ses cinq sens. Une telle maîtrise est si grande qu’elle est reconnue même par les puissances célestes comme Indra."
