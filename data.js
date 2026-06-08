@@ -114,14 +114,14 @@ const thirukuralData = {
               },
               {
                 id: 12,
-                tamil: "துப்பார்க்கuத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை",
+                tamil: "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை",
                 tamilfr: "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth Thuppaaya Thooum Mazhai",
                 translation: "La pluie est elle-même une nourriture pour ceux qui vivent, et elle fait également naître toutes les autres nourritures dont ils se nourrissent.",
                 comment: "La pluie ne se contente pas d'être une ressource essentielle à la vie ; elle permet aussi la croissance des récoltes et la production de tous les aliments. Ainsi, elle est à la fois une source directe de vie et l'origine de toute subsistance."
               },
               {
                 id: 13,
-                tamil: "விண்இன்று பொய்ப்பின் விரிநீர் வியנוலகத்து உள்நின்று உடற்றும் பசி",
+                tamil: "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து உள்நின்று உடற்றும் பசி",
                 tamilfr: "Vinindru Poippin Virineer Viyanulakaththu Ulnindru Utatrum Pasi",
                 translation: "Si le ciel manque à sa promesse de pluie, la faim tourmentera l'intérieur même de ce vaste monde entouré d'immenses étendues d'eau.",
                 comment: "Bien que la Terre soit entourée de vastes océans, l'eau de pluie demeure indispensable à la vie. Lorsque les nuages ne donnent pas la pluie attendue, les récoltes échouent et la famine s'installe. Tiruvalluvar souligne ainsi que l'abondance des mers ne peut remplacer le rôle vital de la pluie."
