@@ -369,12 +369,51 @@ const thirukuralData = {
               comment: "Ce kural donne une définition simple et essentielle de la morale : la vertu correspond aux actions justes à accomplir, tandis que le vice correspond aux actions honteuses à éviter. Il pose ainsi un cadre clair du bien et du mal."
             },
               
-            ]
-          }
-        ]
-      }
-    ]
-  },
+            ] // FIN des kurals du chapitre 4
+          } // FIN du chapitre 4 : Aran Valiyuruththal
+        ] // FIN de tous les chapitres de l'Iyal 1 (Payiraviyal)
+      }, // FIN de l'Iyal 1 (Payiraviyal) /!\ la virgule à la fin important! 
+
+      
+      
+       {
+      id: 2, //===========================================
+             // DEBUT DE L IYAL 2 DU LIVRE 1 
+             //==============================================
+      name: "Illaraviyal <br> La vie domestique",
+         //====================================================
+         //DEBUT DES CHAPITRES DU L IYAL 2 DU LIVRE 1 
+         //=======================================================
+      chapters: [
+        { id : 5,
+           name: " Ilvaazhkkai <br> La vie domestique", 
+        // chapitres de l'iyal 2 ici
+        
+          kurals: [
+                {
+              id: 41,
+              tamil: "இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும் நல்லாற்றின் நின்ற துணை",
+              tamilfr: "Ilvaazhvaan Enpaan Iyalputaiya Moovarkkum Nallaatrin Nindra Thunai",
+              translation: "Le véritable chef de famille est celui qui demeure un soutien sûr et vertueux pour les trois autres voies de vie.",
+              comment: "Tiruvalluvar définit ici l'idéal du maître de maison. Dans la tradition tamoule, les 'trois autres' désignent généralement les étudiants, les ascètes et les renonçants. Grâce à son travail, sa générosité et sa conduite morale, le chef de famille soutient matériellement et moralement ces autres groupes de la société. La vie domestique est ainsi présentée comme le fondement de l'ordre social et de la vertu."
+            },
+
+        
+
+
+
+            
+         ] // fin des kural du chapitre 5 
+        } // Fin du chapitre 5
+
+        
+      ] // fermeture de tous les chapter de l iyal 2 
+    }// fermeture de l iyal 2 
+      ] //fin des iyals du livre 1 
+      }// fin livre 1 
+  };// fin du thirukural data
+
+  
   2: {
     name: "Porutpāl",
     fr: "Livre de la Société",
