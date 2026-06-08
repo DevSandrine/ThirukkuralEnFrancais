@@ -173,7 +173,7 @@ const thirukuralData = {
                 tamil: "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும் வான்இன்று அமையாது ஒழுக்கு",
                 tamilfr: "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum Vaanindru Amaiyaadhu Ozhukku",
                 translation: "Si le monde ne peut exister sans eau, l’eau elle-même ne peut exister sans pluie.",
-                comment: "Ce kural établrait le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
+                comment: "Ce kural établit le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
               }       
             ]
           },
@@ -487,6 +487,14 @@ const thirukuralData = {
               },
 
               {
+                id: 56,
+                tamil: "தற்காத்துத் தற்கொண்டாற் பேணித் தகைசான்ற சொற்காத்துச் சோர்விலாள் பெண்",
+                tamilfr: "Tharkaaththuth Tharkontaar Penith Thakaisaandra Sorkaaththuch Chorvilaal Pen",
+                translation: "La femme idéale veille sur elle-même, prend soin de son époux, protège la réputation du foyer et reste constante dans la vertu sans jamais faiblir.",
+                comment: "Le texte décrit une figure de stabilité intérieure et familiale : une conduite disciplinée, un souci du bien-être du couple et une fidélité aux principes moraux, maintenus avec constance."
+              },
+              
+              {
                 id: 57,
                 tamil: "சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர் நிறைகாக்கும் காப்பே தலை",
                 tamilfr: "Siraikaakkum Kaappevan Seyyum Makalir Niraikaakkum Kaappe Thalai",
@@ -711,7 +719,7 @@ const thirukuralData = {
           
           
         ] // fermeture de tous les chapter de l iyal 2 
-      } // fermeture de l iyal 2 
+      }, // fermeture de l iyal 2 
     ] //fin des iyals du livre 1 
   }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
   2: {
