@@ -438,7 +438,7 @@ const thirukuralData = {
                 comment: "Le vers souligne que la valeur d’une vie ne dépend pas du lieu où elle est vécue, mais de la manière dont elle est menée. Une existence droite et harmonieuse sur terre élève l’individu à un statut spirituel comparable à celui des êtres célestes."
               }
             ] // fin des kural du chapitre 5 
-          } // Fin du chapitre 5
+          }, // Fin du chapitre 5
 
           { 
             id: 6,
@@ -519,7 +519,7 @@ const thirukuralData = {
                 comment: "Le foyer est présenté comme une richesse fondée sur l’harmonie familiale. La valeur d’une maison repose à la fois sur la qualité de la vie conjugale et sur l’éducation des enfants, considérés comme la continuité et l’accomplissement de cette harmonie."
               }
              ] // FERMETURE DES KURALS DU CHAPITRE 6 
-          }// FEERMETURE DU CHAPITRE 6 
+          },// FEERMETURE DU CHAPITRE 6 
 
           
           
