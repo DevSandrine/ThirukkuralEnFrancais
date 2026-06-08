@@ -1,15 +1,26 @@
 const thirukuralData = {
   1: {
+
+    //=================================================================================================
+    // 1 er LIVRE ARATUPAL
+    //=================================================================================================
     name: "Arattupāl",
     fr: "Livre de la Vertu",
     iyals: [
-      {
+      { //============================================================================================
+        //1ERE SECTION DU 1ER LIVRE ARATUPAL
+        //============================================================================================
         id: 1,
         name: "Payiraviyal <br> Préliminaires",
         chapters: [
-          {
+          { //==========================================================================================
+            //1ER CHAPITRE DE LA 1ERE SECTION PAYIRAVIYAL DU 1ER LIVRE
+            //===========================================================================================
             id: 1,
             name: "Kadavul Vaazhthu <br> Louange à Dieu",
+            // ===========================================================================================
+            // TOUS LES KURALS DU 1ER CHAPITRE
+            //=============================================================================================
             kurals: [
               {
                 id: 1,
@@ -83,9 +94,14 @@ const thirukuralData = {
               }
             ]
           },
-          {
+          {//===================================================================================================================
+            //2EME CHAPITRE DE LA 1ERE SECTION PAYIRAVIYAL 
+            //==================================================================================================================
             id: 2,
             name: "Vaan Sirappu <br> Grandeur de la pluie",
+            //===================================================================================================================
+            // TOUS LES KURALS DU 2EME CHAPITRE DU 1ER LIVRE ET DE LA 1ERE SECTION 
+            //===================================================================================================================
             kurals: [
               {
                 id: 11,
@@ -168,19 +184,23 @@ const thirukuralData = {
                 tamilfr: "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum Vaanindru Amaiyaadhu Ozhukku",
                 translation: "Si le monde ne peut exister sans eau, l’eau elle-même ne peut exister sans pluie.",
                 comment: "Ce kural établit le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
-              },
-
-
+              },       
+            ]
+          },
+          { //===================================================================================================================
+            //3EME CHAPITRE DE LA 1ERE SECTION DU 1ERE LIVRE 
+            //===================================================================================================================
+            id: 3,
+            name: "Neethaar Perumai <br> Grandeur des ascètes",
+            //====================================================================================================================
+            //TOUT LES KURALS DU 3EME CHAPITRE DU 1ER LIVRE / 1ER SECTION 
+            //=====================================================================================================================
+            kurals: [
 
 
 
               
             ]
-          },
-          {
-            id: 3,
-            name: "Neethaar Perumai <br> Grandeur des ascètes",
-            kurals: []
           },
           {
             id: 4,
