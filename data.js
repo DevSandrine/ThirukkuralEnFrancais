@@ -19,7 +19,7 @@ const thirukuralData = {
             id: 1,
             name: "Kadavul Vaazhthu <br> Louange à Dieu",
             // ===========================================================================================
-            // TOUS LES KURALS DU 1ER CHAPITRE
+            // TOUS LES KURAL DU 1ER CHAPITRE
             //=============================================================================================
             kurals: [
               {
@@ -100,7 +100,7 @@ const thirukuralData = {
             id: 2,
             name: "Vaan Sirappu <br> Grandeur de la pluie",
             //===================================================================================================================
-            // TOUS LES KURALS DU 2EME CHAPITRE DU 1ER LIVRE ET DE LA 1ERE SECTION 
+            // TOUS LES KURAL DU 2EME CHAPITRE DU 1ER LIVRE ET DE LA 1ERE SECTION 
             //===================================================================================================================
             kurals: [
               {
@@ -193,7 +193,7 @@ const thirukuralData = {
             id: 3,
             name: "Neethaar Perumai <br> Grandeur des ascètes",
             //====================================================================================================================
-            //TOUT LES KURALS DU 3EME CHAPITRE DU 1ER LIVRE / 1ER SECTION 
+            //TOUS LES KURAL DU 3EME CHAPITRE DU 1ER LIVRE / 1ER SECTION 
             //=====================================================================================================================
             kurals: [
 
