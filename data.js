@@ -184,7 +184,7 @@ const thirukuralData = {
                 tamilfr: "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum Vaanindru Amaiyaadhu Ozhukku",
                 translation: "Si le monde ne peut exister sans eau, l’eau elle-même ne peut exister sans pluie.",
                 comment: "Ce kural établit le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
-              },       
+              }       
             ]
           },
           { //===================================================================================================================
@@ -196,10 +196,85 @@ const thirukuralData = {
             //TOUS LES KURAL DU 3EME CHAPITRE DU 1ER LIVRE / 1ER SECTION 
             //=====================================================================================================================
             kurals: [
+              {
+                id: 21,
+                tamil: "ஒழுக்கத்து நீத்தார் பெருமை விழுப்பத்து வேண்டும் பனுவல் துணிவு",
+                tamilfr: "Ozhukkaththu Neeththaar Perumai Vizhuppaththu Ventum Panuval Thunivu",
+                translation: "Les écrits doivent, avec fermeté, exalter la grandeur des ascètes qui vivent dans la discipline.",
+                comment: "Ce kural souligne que la littérature et les enseignements doivent affirmer clairement la valeur des personnes vertueuses et disciplinées. Tiruvalluvar insiste sur l’importance de reconnaître et de glorifier la droiture morale dans les textes et la pensée."
+              },
 
+              {
+                id: 22,
+                tamil: "துறந்தார் பெருமை துணைக்கூறின் வையத்து இறந்தாரை எண்ணிக்கொண் டற்று",
+                tamilfr: "Thurandhaar Perumai Thunaikkoorin Vaiyaththu Irandhaarai Ennikkon Tatru",
+                translation: "Énumérer la grandeur des ascètes renonçants est aussi impossible que de compter les morts dans le monde.",
+                comment: "Ce kural exprime l’idée que la grandeur des ascètes est immense et sans limite. Elle est si vaste qu’on ne peut la mesurer ni la décrire entièrement, tout comme il est impossible de compter tous les morts dans le monde."
+              },
 
+              {
+                id: 23,
+                tamil: "இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார் பெருமை பிறங்கிற்று உலகு",
+                tamilfr: "Irumai Vakaidherindhu Eentuaram Poontaar Perumai Pirangitru Ulaku",
+                translation: "La grandeur de ceux qui, ayant compris les deux états de la vie, embrassent la vertu en ce monde, illumine le monde entier.",
+                comment: "Ce kural met en valeur les personnes qui comprennent les deux voies de l’existence (matérielle et spirituelle) et choisissent la voie de la vertu et du renoncement. Leur conduite exemplaire devient une lumière pour le monde."
+              },
 
-              
+              {
+                id: 24,
+                tamil: "உரனென்னும் தோட்டியான் ஓரைந்தும் காப்பான் வரனென்னும் வைப்பிற்கோர் வித்தது",
+                tamilfr: "Uranennum Thottiyaan Oraindhum Kaappaan Varanennum Vaippirkor Viththu",
+                translation: "La maîtrise des cinq sens par la force de la discipline est la semence qui mène au bonheur suprême.",
+                comment: "Ce kural compare la maîtrise des sens à un éléphant contrôlé par un aiguillon. Celui qui parvient à discipliner ses cinq sens pose les fondations d’une vie vertueuse et du bonheur spirituel."
+              },
+
+              {
+                id: 25,
+                tamil: "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான் இந்திரனே சாலுங் கரி",
+                tamilfr: "Aindhaviththaan Aatral Akalvisumpu Laarkomaan Indhirane Saalung Kari",
+                translation: "Même Indra, le roi des cieux, reconnaîtra la force de celui qui a maîtrisé ses cinq sens.",
+                comment: "Ce kural exalte la puissance intérieure de celui qui contrôle parfaitement ses cinq sens. Une telle maîtrise est si grande qu’elle est reconnue même par les puissances célestes comme Indra."
+              },
+
+              {
+                id: 26,
+                tamil: "செயற்கரிய செய்வார் பெரியர் சிறியர் செயற்கரிய செய்கலா தார்",
+                tamilfr: "Seyarkariya Seyvaar Periyar Siriyar Seyarkariya Seykalaa Thaar",
+                translation: "Les grands hommes accomplissent les tâches difficiles, tandis que les petits les évitent.",
+                comment: "Ce kural distingue les personnes de grandeur morale par leur capacité à entreprendre des actions difficiles et exigeantes. Les personnes de faible envergure, au contraire, évitent les efforts et les responsabilités."
+              },
+
+              {
+                id: 27,
+                tamil: "சுவைஒளி ஊறுஓசை நாற்றமென ஐந்தின் வகைதெரிவான் கட்டே உலகு",
+                tamilfr: "Suvaioli Ooruosai Naatramena Aindhin Vakaidherivaan Katte Ulaku",
+                translation: "Le monde appartient à celui qui comprend la nature des cinq sens : goût, vue, toucher, son et odeur.",
+                comment: "Ce kural souligne l’importance de la connaissance et de la maîtrise des cinq sens. Celui qui comprend leur fonctionnement et leur rôle peut mieux se maîtriser et diriger sa vie avec sagesse."
+              },
+
+              {
+                id: 28,
+                tamil: "நிறைமொழி மாந்தர் பெருமை நிலத்து மறைமொழி காட்டி விடும்",
+                tamilfr: "Niraimozhi Maandhar Perumai Nilaththu Maraimozhi Kaatti Vitum",
+                translation: "Les paroles des Écritures révèlent et attestent la grandeur des hommes de sagesse accomplie.",
+                comment: "Ce kural souligne que la véritable grandeur des sages et des hommes accomplis est reconnue et validée par les enseignements sacrés et les textes de sagesse. Leur valeur est ainsi confirmée par la tradition et la vérité universelle."
+              },
+
+              {
+                id: 29,
+                tamil: "குணமென்னும் குன்றேறி நின்றார் வெகுளி கணமேயும் காத்தல் அரிது",
+                tamilfr: "Kunamennum Kundreri Nindraar Vekuli Kanameyum Kaaththal Aridhu",
+                translation: "La colère de ceux qui ont atteint les sommets de la vertu ne peut être supportée même un instant.",
+                comment: "Ce kural met en lumière le pouvoir moral des personnes vertueuses : lorsqu’elles atteignent un haut niveau de caractère, même leur colère devient redoutable et difficile à supporter."
+              },
+
+              {
+                id: 30,
+                tamil: "அந்தணர் என்போர் அறவோர் மற்றெவ்வுயிர்க்கும் செந்தண்மை பூண்டொழுக லான்",
+                tamilfr: "Andhanar Enpor Aravormar Revvuyirkkum Sendhanmai Poontozhuka Laan",
+                translation: "Les ascètes sont appelés hommes de vertu parce qu’ils cultivent la compassion envers tous les êtres vivants.",
+                comment: "Ce kural définit la véritable qualité de l’ascète : non pas un statut social, mais une conduite fondée sur la droiture et la compassion universelle envers toutes les formes de vie."
+              }
             ]
           },
           {
