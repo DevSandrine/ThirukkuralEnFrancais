@@ -86,7 +86,96 @@ const thirukuralData = {
           {
             id: 2,
             name: "Vaan Sirappu <br> Grandeur de la pluie",
-            kurals: []
+            kurals: [
+              {
+                id: 11,
+                tamil: "வான்நின்று உலகம் வழங்கி வருதலால் தான்அமிழ்தம் என்றுணரற் பாற்று",
+                tamilfr: "Vaannindru Ulakam Vazhangi Varudhalaal Thaanamizhdham Endrunarar Paatru",
+                translation: "Puisque la pluie descend du ciel et permet au monde de subsister, elle peut à juste titre être considérée comme le nectar de la vie.",
+                comment: "La pluie est présentée comme une source indispensable à toute existence. En nourrissant les êtres vivants, les cultures et l'ensemble du monde, elle mérite d'être comparée à l'ambroisie ou au nectar divin qui donne la vie."
+              },
+
+              {
+                id: 12,
+                tamil: "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்குத் துப்பாய தூஉம் மழை",
+                tamilfr: "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth Thuppaaya Thooum Mazhai",
+                translation: "La pluie est elle-même une nourriture pour ceux qui vivent, et elle fait également naître toutes les autres nourritures dont ils se nourrissent.",
+                comment: "La pluie ne se contente pas d'être une ressource essentielle à la vie ; elle permet aussi la croissance des récoltes et la production de tous les aliments. Ainsi, elle est à la fois une source directe de vie et l'origine de toute subsistance."
+              },
+
+              {
+                id: 13,
+                tamil: "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து உள்நின்று உடற்றும் பசி",
+                tamilfr: "Vinindru Poippin Virineer Viyanulakaththu Ulnindru Utatrum Pasi",
+                translation: "Si le ciel manque à sa promesse de pluie, la faim tourmentera l'intérieur même de ce vaste monde entouré d'immenses étendues d'eau.",
+                comment: "Bien que la Terre soit entourée de vastes océans, l'eau de pluie demeure indispensable à la vie. Lorsque les nuages ne donnent pas la pluie attendue, les récoltes échouent et la famine s'installe. Tiruvalluvar souligne ainsi que l'abondance des mers ne peut remplacer le rôle vital de la pluie."
+              },
+
+              {
+                id: 14,
+                tamil: "ஏரின் உழாஅர் உழவர் புயல்என்னும் வாரி வளங்குன்றிக் கால்",
+                tamilfr: "Erin Uzhaaar Uzhavar Puyalennum Vaari Valangundrik Kaal",
+                translation: "Lorsque la richesse que constitue la pluie vient à manquer, les cultivateurs eux-mêmes cessent de labourer leurs champs.",
+                comment: "L'agriculture dépend entièrement de la pluie. Si celle-ci fait défaut, les réservoirs s'assèchent, les terres deviennent improductives et les agriculteurs ne peuvent plus cultiver. Tiruvalluvar rappelle ainsi que la prospérité de toute société repose sur l'abondance des pluies."
+              },
+
+
+              {
+                id: 15,
+                tamil: "கெடுப்பதூஉம் கெட்டார்க்குச் சார்வாய்மற் றாங்கே எடுப்பதூஉம் எல்லாம் மழை",
+                tamilfr: "Ketuppadhooum Kettaarkkuch Chaarvaaimar Raange Etuppadhooum Ellaam Mazhai",
+                translation: "La pluie a le pouvoir de ruiner les hommes lorsqu'elle fait défaut ; mais c'est également elle qui leur permet de retrouver prospérité et relèvement.",
+                comment: "La pluie possède un double pouvoir. Son absence entraîne la misère, la famine et le déclin des activités humaines. Pourtant, lorsqu'elle revient, elle restaure les récoltes, la richesse et le bien-être. Tiruvalluvar souligne ainsi que la pluie peut être à la fois cause de ruine et source de renouveau."
+              },
+
+
+              {
+                id: 16,
+                tamil: "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது",
+                tamilfr: "Visumpin Thuliveezhin Allaalmar Raange Pasumpul Thalaikaanpu Aridhu",
+                translation: "Si les nuages ne laissent pas tomber une seule goutte de pluie, même les brins d’herbe verte peinent à pousser.",
+                comment: "Ce kural souligne l’extrême dépendance de la nature à la pluie. Sans elle, même la plus petite forme de vie végétale ne peut émerger. Tiruvalluvar insiste ainsi sur le rôle fondamental et irremplaçable de la pluie dans la vitalité du monde."
+              },
+
+              {
+                id: 17,
+                tamil: "நெடுங்கடலும் தன்நீர்மை குன்றும் தடிந்தெழிலி தான்நல்கா தாகி விடின்",
+                tamilfr: "Netungatalum Thanneermai Kundrum Thatindhezhili Thaannalkaa Thaaki Vitin",
+                translation: "Même la vaste mer perdrait sa richesse et sa nature, si les nuages cessaient de donner la pluie.",
+                comment: "Tiruvalluvar montre ici que même les océans, pourtant immenses et abondants, dépendent indirectement de la pluie. Sans le cycle des nuages et des précipitations, même la mer perdrait son équilibre et sa richesse naturelle."
+              },
+ 
+              {
+                id: 18,
+                tamil: "சிறப்பொடு பூசனை செல்லாது வானம் வறக்குமேல் வானோர்க்கும் ஈண்டு",
+                tamilfr: "Sirappotu Poosanai Sellaadhu Vaanam Varakkumel Vaanorkkum Eentu",
+                translation: "Si le ciel venait à se dessécher, même les dieux ne recevraient plus d’offrandes ni de célébrations.",
+                comment: "Ce kural souligne que la pluie est si fondamentale qu’elle conditionne même les rites et la prospérité des dieux. Sans pluie, la vie terrestre s’arrête, et avec elle les offrandes, les fêtes et les activités humaines et spirituelles."
+              },
+
+              {
+                id: 19,
+                tamil: "தானம் தவம்இரண்டும் தங்கா வியன்உலகம் வானம் வழங்கா தெனின்",
+                tamilfr: "Thaanam Thavamirantum Thangaa Viyanulakam Vaanam Vazhangaa Thenin",
+                translation: "Dans ce vaste monde, ni la charité ni l’ascèse ne pourraient subsister si le ciel ne donnait pas la pluie.",
+                comment: "La pluie est présentée comme la condition essentielle de toute activité humaine vertueuse. Sans elle, la vie matérielle s’effondre, rendant impossibles la charité, les rites et les efforts spirituels."
+              },
+
+
+              {
+                id: 20,
+                tamil: "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும் வான்இன்று அமையாது ஒழுக்கு",
+                tamilfr: "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum Vaanindru Amaiyaadhu Ozhukku",
+                translation: "Si le monde ne peut exister sans eau, l’eau elle-même ne peut exister sans pluie.",
+                comment: "Ce kural établit le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
+              },
+
+
+
+
+
+              
+            ]
           },
           {
             id: 3,
