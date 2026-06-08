@@ -364,9 +364,165 @@ const thirukuralData = {
                 tamilfr: "Ilvaazhvaan Enpaan Iyalputaiya Moovarkkum Nallaatrin Nindra Thunai",
                 translation: "Le véritable chef de famille est celui qui demeure un soutien sûr et vertueux pour les trois autres voies de vie.",
                 comment: "Tiruvalluvar définit ici l'idéal du maître de maison. Dans la tradition tamoule, les 'trois autres' désignent généralement les étudiants, les ascètes et les renonçants. Grâce à son travail, sa génériosité et sa conduite morale, le chef de famille soutient matériellement et moralement ces autres groupes de la société. La vie domestique est ainsi présentée comme le fondement de l'ordre social et de la vertu."
+              },
+
+              {
+                id: 42,
+                tamil: "துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும் இல்வாழ்வான் என்பான் துணை",
+                tamilfr: "Thurandhaarkkum Thuvvaa Dhavarkkum Irandhaarkkum Ilvaazhvaan Enpaan Thunai",
+                translation: "Le chef de famille est le soutien des renonçants, des ascètes et des défunts ainsi que des pauvres.",
+                comment: "Tiruvalluvar explique ici que la vie domestique (celle du chef de famille) joue un rôle essentiel dans l’équilibre de la société. Par son travail, sa générosité et ses offrandes, il soutient les renonçants (ceux qui ont quitté la vie matérielle), les ascètes, les pauvres et même les ancêtres disparus à travers les rites. Ainsi, la vie de foyer est présentée comme la base qui permet aux autres formes de vie spirituelle et sociale de prospérer."
+              },
+
+              {
+                id: 43,
+                tamil: "தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு ஐம்புலத்தாறு ஓம்பல் தலை",
+                tamilfr: "Thenpulaththaar Theyvam Virundhokkal Thaanendraangu Aimpulaththaaru Ompal Thalai",
+                translation: "Le devoir principal d’un chef de famille est de prendre soin des cinq : les dieux, les invités, les proches, les ancêtres et lui-même.",
+                comment: "La vie domestique est présentée comme un équilibre de cinq devoirs essentiels : le respect du sacré, l’accueil des invités, le soutien de la famille, le lien avec les ancêtres et la prise en charge de soi-même. L’idée centrale est que vivre en société implique une responsabilité globale, où chaque relation a une place précise dans l’harmonie du foyer."
+              },
+
+              {
+                id: 44,
+                tamil: "பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை வழியெஞ்சல் எஞ்ஞான்றும் இல்",
+                tamilfr: "Pazhiyanjip Paaththoon Utaiththaayin Vaazhkkai Vazhiyenjal Egngnaandrum Il",
+                translation: "Celui qui évite le blâme et partage sa nourriture verra sa vie et sa lignée se perpétuer sans fin.",
+                comment: "L’idée centrale est la valeur de la générosité et de la droiture. Une personne qui vit sans nuire à autrui et qui partage ce qu’elle possède construit une existence durable et respectée. Sa réputation et son héritage moral se transmettent naturellement, comme une continuité de vie qui dépasse l’individu."
+              },
+
+              {
+                id: 45,
+                tamil: "அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை பண்பும் பயனும் அது",
+                tamilfr: "Anpum Aranum Utaiththaayin Ilvaazhkkai Panpum Payanum Adhu",
+                translation: "Une vie de famille fondée sur l’amour et la vertu est celle qui possède à la fois noblesse de caractère et véritable bonheur.",
+                comment: "La vie domestique prend tout son sens lorsqu’elle est guidée par l’amour et la droiture. Sans ces deux qualités, elle reste vide de valeur profonde. Avec elles, elle devient équilibrée, harmonieuse et porteuse de bien-être durable pour tous ceux qui la vivent."
+              },
+
+              {
+                id: 46,
+                tamil: "அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில் போஒய்ப் பெறுவ எவன்",
+                tamilfr: "Araththaatrin Ilvaazhkkai Aatrin Puraththaatril Pooip Peruva Thevan?",
+                translation: "S’il mène une vie de foyer conforme à la vertu, que pourrait-il donc gagner en suivant d’autres voies ?",
+                comment: "L’idée mise en avant est la suffisance de la vie vertueuse du foyer. Lorsqu’une existence est déjà fondée sur la droiture et l’équilibre moral, les autres chemins apparaissent comme inutiles ou secondaires. La stabilité éthique de la vie domestique devient ainsi une voie complète en elle-même."
+              },
+
+              {
+                id: 47,
+                tamil: "இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான் முயல்வாருள் எல்லாம் தலை",
+                tamilfr: "Iyalpinaan Ilvaazhkkai Vaazhpavan Enpaan Muyalvaarul Ellaam Thalai",
+                translation: "Parmi ceux qui s’efforcent d’atteindre la libération, le plus élevé est celui qui mène une vie de foyer conforme à sa nature et à la droiture.",
+                comment: "Le vers met en avant la valeur spirituelle de la vie domestique lorsqu’elle est vécue avec rectitude. Même parmi ceux qui cherchent l’élévation ou la libération intérieure, celui qui accomplit correctement ses devoirs de foyer sans dévier de la vertu est considéré comme particulièrement accompli."
+              },
+
+              {
+                id: 48,
+                tamil: "ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை நோற்பாரின் நோன்மை உடைத்து",
+                tamilfr: "Aatrin Ozhukki Aranizhukkaa Ilvaazhkkai Norpaarin Nonmai Utaiththu",
+                translation: "La vie de foyer menée avec droiture et sans faute morale est supérieure à l’ascèse des ascètes.",
+                comment: "La rigueur morale de la vie domestique est mise en avant ici. Vivre en famille tout en respectant parfaitement la vertu demande une discipline intérieure comparable, voire supérieure, à celle de l’ascèse. La véritable force n’est pas seulement dans le renoncement extérieur, mais dans la constance éthique au quotidien."
+              },
+
+              {
+                id: 49,
+                tamil: "அறனென்ப் பட்டதே இல்வாழ்க்கை அஃதும் பிறன்பழிப்ப தில்லாயின் நன்று",
+                tamilfr: "Aran Enap Pattadhe Ilvaazhkkai Aqdhum Piranpazhippa Thillaayin Nandru",
+                translation: "La vie de foyer est considérée comme vertu elle-même, à condition qu’elle soit exempte de toute faute et de tout blâme.",
+                comment: "La vie domestique est ici présentée comme une forme de vertu en soi. Elle devient véritablement digne lorsqu’elle ne donne lieu à aucun reproche moral. L’idée est que la valeur du foyer ne dépend pas seulement de son existence, mais de la qualité éthique avec laquelle il est vécu."
+              },
+
+              {
+                id: 50,
+                tamil: "வையத்துள் வாழ்வாங்கு வாழ்பவன் வானுறையும் தெய்வத்துள் வைக்கப் படும்",
+                tamilfr: "Vaiyaththul Vaazhvaangu Vaazhpavan Vaanuraiyum Theyvaththul Vaikkap Patum",
+                translation: "Celui qui vit dans ce monde comme il se doit est compté parmi les êtres divins du ciel.",
+                comment: "Le vers souligne que la valeur d’une vie ne dépend pas du lieu où elle est vécue, mais de la manière dont elle est menée. Une existence droite et harmonieuse sur terre élève l’individu à un statut spirituel comparable à celui des êtres célestes."
               }
             ] // fin des kural du chapitre 5 
           } // Fin du chapitre 5
+
+          { 
+            id: 6,
+            name: " Vaazhkkaith Thunainalam <br> Vertu du conjoint", 
+            // KURAL DU CHAPITRE 6 ICI 
+            kurals: [
+              {
+                id: 51,
+                tamil: "மனைத்தக்க மாண்புடையள் ஆகித் தற் கொண்டான் வளத்தக்காள் வாழ்க்கைத் துணை",
+                tamilfr: "Manaithakka Maanputaiyal Aakith Thar Kontaan Valaththakkaal Vaazhkkaith Thunai",
+                translation: "La véritable compagne de vie est celle qui possède des qualités vertueuses et qui vit selon les moyens de son foyer.",
+                comment: "Le vers met en avant l’harmonie conjugale fondée sur la vertu et la modération. Une compagne idéale est celle qui contribue à l’équilibre du foyer, en s’adaptant aux ressources du couple et en incarnant des qualités morales solides. L’accent est mis sur la stabilité et la simplicité dans la vie familiale."
+              },
+
+              {
+                id: 52,
+                tamil: "மனைமாட்சி இல்லாள்கண் இல்லாயின் வாழ்க்கை எனைமாட்சித் தாயினும் இல்",
+                tamilfr: "Manaimaatchi Illaalkan Illaayin Vaazhkkai Enaimaatchith Thaayinum Il",
+                translation: "Si la femme manque de qualités domestiques, aucune autre excellence dans la vie ne peut vraiment s’épanouir.",
+                comment: "Le vers souligne l’importance de l’équilibre et de l’harmonie dans le foyer. La qualité de la vie domestique dépend fortement de la capacité de la compagne à maintenir ordre, stabilité et bienveillance. Sans cela, même les autres formes de réussite perdent leur valeur et leur cohérence."
+              },
+
+              {
+                id: 53,
+                tamil: "இல்லதென் இல்லவள் மாண்பானால் உள்ளதென் இல்லவள் மாணாக் கடை",
+                tamilfr: "Illadhen Illaval Maanpaanaal Ulladhen Illaval Maanaak Katai",
+                translation: "Quand une épouse est vertueuse, que manque-t-il ? Et lorsqu’elle ne l’est pas, que reste-t-il de bon ?",
+                comment: "Le vers exprime l’idée que la qualité du foyer dépend essentiellement de la valeur morale de la compagne. Une union harmonieuse transforme même une vie simple en richesse, tandis qu’un manque de vertu dans le couple peut rendre toute autre réussite sans véritable valeur."
+              },
+
+                            
+              {
+                id: 54,
+                tamil: "பெண்ணின் பெருந்தக்க யாவுள கற்பென்னும் திண்மைஉண்டாகப் பெறின்",
+                tamilfr: "Pennin Perundhakka Yaavula Karpennum Thinmaiundaaga Perin",
+                translation: "Quelle plus grande grandeur peut-il exister pour une femme que la force de la chasteté ?",
+                comment: "Le vers met en avant la notion de 'kārpu' (chasteté / intégrité morale) comme une qualité de grande valeur dans la conception classique du foyer. L’idée exprimée est que la dignité d’une femme est liée à sa force intérieure et à sa fidélité aux principes moraux, considérée ici comme une forme d’excellence."
+              },
+
+              {
+                id: 55,
+                tamil: "தெய்வம் தொழாஅள் கொழுநன் தொழுதெழுவாள் பெய்யெனப் பெய்யும் மழை",
+                tamilfr: "Theyvam Thozhaaal Kozhunan Thozhudhezhuvaal Peyyenap Peyyum Mazhai",
+                translation: "La pluie elle-même répond à la volonté de celle qui, au lieu d’adorer les dieux, honore son époux en se levant.",
+                comment: "Ici, la puissance symbolique de la fidélité et du respect conjugal est mise en avant. Le texte illustre une vision traditionnelle où l’harmonie du foyer et la droiture morale d’une épouse sont associées à un ordre naturel favorable. C’est une image d’idéal social plus qu’une affirmation littérale."
+              },
+
+              {
+                id: 57,
+                tamil: "சிறைகாக்கும் காப்பெவன் செய்யும் மகளிர் நிறைகாக்கும் காப்பே தலை",
+                tamilfr: "Siraikaakkum Kaappevan Seyyum Makalir Niraikaakkum Kaappe Thalai",
+                translation: "À quoi sert la contrainte physique pour une femme, lorsque sa véritable protection est la maîtrise morale d’elle-même ?",
+                comment: "L’idée centrale est que la véritable discipline ne vient pas de la contrainte extérieure, mais de la rectitude intérieure. Une personne guidée par des principes solides n’a pas besoin de restrictions imposées, car sa conduite est déjà régulée par sa propre conscience."
+              },
+
+              {
+                id: 58,
+                tamil: "பெற்றாற் பெறின்பெறுவர் பெண்டிர் பெருஞ்சிறப்புப் புத்தேளிர் வாழும் உலகு",
+                tamilfr: "Petraar Perinperuvar Pentir Perunjirappup Puththelir Vaazhum Ulaku",
+                translation: "La femme qui obtient l’amour de son époux atteint une grande gloire, digne du monde des êtres célestes.",
+                comment: "L’amour conjugal est présenté comme une source de valeur et de respect dans la vie du foyer."
+              },
+
+              {
+                id: 59,
+                tamil: "புகழ்புரிந்த இல்லிலோர்க்கு இல்லை இகழ்வார்முன் ஏறுபோல் பீடு நடை",
+                tamilfr: "Pukazhpurindha Illilorkku Illai Ikazhvaarmun Erupol Peetu Natai",
+                translation: "Celui dont l’épouse n’est pas vertueuse ne peut pas marcher avec assurance face à ses détracteurs.",
+                comment: "La réputation et la force sociale d’un homme sont liées à la valeur morale de son foyer, en particulier de son épouse. Un foyer respecté donne assurance et dignité dans la société, tandis qu’un foyer mal considéré fragilise cette position."
+              },
+
+
+              {
+                id: 60,
+                tamil: "மங்கலம் என்ப மனைமாட்சி மற்றதன் நன்கலம் நன்மக்கட் பேறு",
+                tamilfr: "Mangalam Enpa Manaimaatchi Matru Adhan Nankalam Nanmakkat Peru",
+                translation: "Une bonne épouse est un véritable bonheur pour le foyer, et de bons enfants en sont les joyaux.",
+                comment: "Le foyer est présenté comme une richesse fondée sur l’harmonie familiale. La valeur d’une maison repose à la fois sur la qualité de la vie conjugale et sur l’éducation des enfants, considérés comme la continuité et l’accomplissement de cette harmonie."
+              }
+             ] // FERMETURE DES KURALS DU CHAPITRE 6 
+          }// FEERMETURE DU CHAPITRE 6 
+
+          
+          
         ] // fermeture de tous les chapter de l iyal 2 
       } // fermeture de l iyal 2 
     ] //fin des iyals du livre 1 
