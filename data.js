@@ -521,6 +521,97 @@ const thirukuralData = {
              ] // FERMETURE DES KURALS DU CHAPITRE 6 
           },// FEERMETURE DU CHAPITRE 6 
 
+
+           { 
+            id: 7,
+            name: " Makkaṭpēṟu <br> Bénédiction des enfants", 
+            // KURAL DU CHAPITRE 7 ICI 
+            kurals: [
+
+              {
+            id: 61,
+            tamil: "பெறுமவற்றுள் யாமறிவது இல்லை அறிவறிந்த மக்கட்பேறு அல்ல பிற",
+            tamilfr: "Perumavatrul Yaamarivadhu Illai Arivarindha Makkatperu Alla Pira",
+            translation: "Parmi tous les biens, il n’en est aucun de plus grand que d’avoir des enfants intelligents.",
+            comment: "Les enfants sont présentés comme une des plus grandes richesses de la vie, surtout lorsqu’ils sont instruits et dotés de discernement. Leur valeur dépasse les autres biens matériels ou avantages."
+          },
+
+          {
+            id: 62,
+            tamil: "எழுபிறப்பும் தீயவை தீண்டா பழிபிறங்காப் பண்புடை மக்கட் பெறின்",
+            tamilfr: "Ezhupirappum Theeyavai Theentaa Pazhipirangaap Panputai Makkat Perin",
+            translation: "Celui qui a des enfants vertueux et irréprochables ne subira aucun mal, même au fil des vies.",
+            comment: "Les enfants sont ici vus comme une protection morale et spirituelle pour la famille. Leur droiture et leur bonne conduite apportent une continuité de bien-être et de sécurité, au-delà même d’une seule existence."
+          },
+
+          {
+            id: 63,
+            tamil: "தம்பொருள் என்பதம் மக்கள் அவர்பொருள் தம்தம் வினையான் வரும்",
+            tamilfr: "Thamporul Enpadham Makkal Avarporul Thamdham Vinaiyaan Varum",
+            translation: "Les enfants sont la richesse de leurs parents, mais leur propre destinée dépend de leurs actions.",
+            comment: "Les enfants sont considérés comme une continuité précieuse du foyer, mais chacun reste responsable de son propre chemin et de ses actes."
+          },
+
+          {
+            id: 64,
+            tamil: "அமிழ்தினும் ஆற்ற இனிதேதம் மக்கள் சிறுகை அளாவிய கூழ்",
+            tamilfr: "Amizhdhinum Aatra Inidhedham Makkal Sirukai Alaaviya Koozh",
+            translation: "Plus doux que le nectar est le repas préparé et touché par les petites mains de ses enfants.",
+            comment: "Le bonheur du foyer est ici associé aux gestes simples des enfants. Leur présence et leurs actions, même modestes, donnent une valeur affective supérieure à tout luxe ou richesse."
+          },
+
+          {
+            id: 65,
+            tamil: "மக்கள்மெய் தீண்டல் உடற்கின்பம் மற்றுஅவர் சொற்கேட்டல் இன்பம் செவிக்கு",
+            tamilfr: "Makkalmey Theental Utarkinpam Matru Avar Sorkettal Inpam Sevikku",
+            translation: "Le contact des enfants procure une joie au corps, et entendre leurs paroles une joie à l’oreille.",
+            comment: "Le bonheur familial est associé à la présence vivante des enfants. Leurs gestes et leurs paroles apportent une satisfaction simple mais profonde, liée à l’affection et à la proximité quotidienne."
+          },
+
+          {
+            id: 66,
+            tamil: "குழல்இனிது யாழ்இனிது என்பதம் மக்கள் மழலைச்சொல் கேளாதவர்",
+            tamilfr: "Kuzhal Inidhu Yaazhinidhu Enpadham Makkal Mazhalaichchol Kelaa Thavar",
+            translation: "Ceux qui n’ont jamais entendu le babillage de leurs enfants disent que la flûte et la lyre sont douces.",
+            comment: "Le vers oppose les plaisirs esthétiques aux joies familiales. Il suggère que la parole enfantine dépasse en douceur toutes les autres formes de musique ou d’harmonie."
+          },
+
+          
+          {
+            id: 67,
+            tamil: "தந்தை மகற்காற்று நன்றி அவையத்து முந்தி இருப்பச் செயல்",
+            tamilfr: "Thandhai Makarkaatrum Nandri Avaiyaththu Mundhi Iruppach Cheyal",
+            translation: "Le plus grand bien qu’un père puisse faire à son enfant est de le faire briller parmi les savants.",
+            comment: "L’éducation est mise au centre du rôle parental. Le véritable héritage transmis par un père n’est pas matériel, mais la capacité donnée à l’enfant de s’élever par le savoir et de trouver sa place dans la société."
+          },
+
+         {
+            id: 68,
+            tamil: "தம்மின்தம் மக்கள் அறிவுடைமை மாநிலத்து மன்னுயிர்க்கெல்லாம் இனிது",
+            tamilfr: "Thammindham Makkal Arivutaimai Maanilaththu Mannuyirk Kellaam Inidhu",
+            translation: "La sagesse des enfants d’une personne apporte de la joie à tous les êtres vivants sur la terre.",
+            comment: "La valeur des enfants instruits et sages dépasse le cercle familial. Leur intelligence et leur conduite bénéfique profitent à l’ensemble de la société et contribuent à l’harmonie collective."
+          }, 
+
+          {
+            id: 69,
+            tamil: "ஈன்ற பொழுதின் பெரிதுவக்கும் தன்மகனைச் சான்றோன் எனக்கேட்ட தாய்",
+            tamilfr: "Eendra Pozhudhin Peridhuvakkum Thanmakanaich Chaandron Enakketta Thaai",
+            translation: "Une mère se réjouit à la naissance de son fils, mais encore davantage lorsqu’elle entend dire qu’il est un homme vertueux.",
+            comment: "La vraie joie parentale ne réside pas seulement dans la naissance, mais dans la réputation morale et la valeur que l’enfant acquiert en grandissant."
+          },
+
+          
+          {
+            id: 70,
+            tamil: "மகன்தந்தைக்கு ஆற்றும் உதவி இவன்தந்தை என்நோற்றான் கொல்எனும் சொல்",
+            tamilfr: "Makandhandhaikku Aatrum Udhavi Ivandhandhai Ennotraan Kol Enum Sol",
+            translation: "Le plus grand service qu’un fils puisse rendre à son père est de faire dire aux autres : « Par quelles vertus ce père a-t-il mérité un tel fils ? »",
+            comment: "La véritable reconnaissance filiale ne se limite pas aux actes directs envers les parents, mais se manifeste par une conduite exemplaire qui honore la famille entière. La valeur d’un enfant rejaillit ainsi sur ses parents."
+          }
+       
+          ] // Fermeture des kural du chapitre 7 
+       },// fermeture du chapitre 7 
           
           
         ] // fermeture de tous les chapter de l iyal 2 
