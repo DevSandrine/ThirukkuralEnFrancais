@@ -114,14 +114,14 @@ const thirukuralData = {
               },
               {
                 id: 12,
-                tamil: "துப்பார்க்குத் துப்பாய துப்பாக்கித் துப்பார்க்கuத் துப்பாய தூஉம் மழை",
+                tamil: "துப்பார்க்கuத் துப்பாய துப்பாக்கித் துப்பார்க்கuத் துப்பாய தூஉம் மழை",
                 tamilfr: "Thuppaarkkuth Thuppaaya Thuppaakkith Thuppaarkkuth Thuppaaya Thooum Mazhai",
                 translation: "La pluie est elle-même une nourriture pour ceux qui vivent, et elle fait également naître toutes les autres nourritures dont ils se nourrissent.",
                 comment: "La pluie ne se contente pas d'être une ressource essentielle à la vie ; elle permet aussi la croissance des récoltes et la production de tous les aliments. Ainsi, elle est à la fois une source directe de vie et l'origine de toute subsistance."
               },
               {
                 id: 13,
-                tamil: "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து உள்நின்று உடற்றும் பசி",
+                tamil: "விண்இன்று பொய்ப்பின் விரிநீர் வியנוலகத்து உள்நின்று உடற்றும் பசி",
                 tamilfr: "Vinindru Poippin Virineer Viyanulakaththu Ulnindru Utatrum Pasi",
                 translation: "Si le ciel manque à sa promesse de pluie, la faim tourmentera l'intérieur même de ce vaste monde entouré d'immenses étendues d'eau.",
                 comment: "Bien que la Terre soit entourée de vastes océans, l'eau de pluie demeure indispensable à la vie. Lorsque les nuages ne donnent pas la pluie attendue, les récoltes échouent et la famine s'installe. Tiruvalluvar souligne ainsi que l'abondance des mers ne peut remplacer le rôle vital de la pluie."
@@ -142,7 +142,7 @@ const thirukuralData = {
               },
               {
                 id: 16,
-                tamil: "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பு அரிது",
+                tamil: "விசும்பின் துளிவீழின் அல்லால்மற் றாங்கே பசும்புல் தலைகாண்பu அரிது",
                 tamilfr: "Visumpin Thuliveezhin Allaalmar Raange Pasumpul Thalaikaanpu Aridhu",
                 translation: "Si les nuages ne laissent pas tomber une seule goute de pluie, même les brins d’herbe verte peinent à pousser.",
                 comment: "Ce kural souligne l’extrême dépendance de la nature à la pluie. Sans elle, même la plus petite forme de vie végétale ne peut émerger. Tiruvalluvar insiste ainsi sur le rôle fondamental et irremplaçable de la pluie dans la vitalité du monde."
@@ -173,7 +173,7 @@ const thirukuralData = {
                 tamil: "நீர்இன்று அமையாது உலகெனின் யார்யார்க்கும் வான்இன்று அமையாது ஒழுக்கு",
                 tamilfr: "Neerindru Amaiyaadhu Ulakenin Yaaryaarkkum Vaanindru Amaiyaadhu Ozhukku",
                 translation: "Si le monde ne peut exister sans eau, l’eau elle-même ne peut exister sans pluie.",
-                comment: "Ce kural établit le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
+                comment: "Ce kural établrait le lien fondamental entre la pluie, l’eau et la vie. Il montre une interdépendance universelle : sans pluie, il n’y a pas d’eau, et sans eau, le monde entier s’effondre. Tiruvalluvar insiste ainsi sur la chaîne essentielle qui soutient toute existence."
               }       
             ]
           },
@@ -203,7 +203,7 @@ const thirukuralData = {
               },
               {
                 id: 23,
-                tamil: "இருமை வகைதெரிந்து ஈண்டுஅறம் பூண்டார் பெருமை பிறங்கிற்று உலகு",
+                tamil: "இருமை வகைதெриந்து ஈண்டுஅறம் பூண்டார் பெருமை பிறங்கிற்று உலகு",
                 tamilfr: "Irumai Vakaidherindhu Eentuaram Poontaar Perumai Pirangitru Ulaku",
                 translation: "La grandeur de ceux qui, ayant compris les deux états de la vie, embrassent la vertu en ce monde, illumine le monde entier.",
                 comment: "Ce kural met en valeur les personnes qui comprennent les deux voies de l’existence (matérielle et spirituelle) et choisissent la voie de la vertu et du renoncement. Leur conduite exemplaire devient une lumière pour le monde."
@@ -217,8 +217,8 @@ const thirukuralData = {
               },
               {
                 id: 25,
-                tamil: "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான் இந்திரனே சாலுங் கரி",
-                tamilfr: "Aindhaviththaan Aatral Akalvisumpu Laarkomaan Indhirane Saalung Kari",
+                tamil: "ஐந்தவித்தான் ஆற்றல் அகல்விசும்பு ளார்கோமான் இந்திரனே சாலuங் கரி",
+                tamilfr: "Amindhaviththaan Aatral Akalvisumpu Laarkomaan Indhirane Saalung Kari",
                 translation: "Même Indra, le roi des cieux, reconnaîtra la force de celui qui a maîtrisé ses cinq sens.",
                 comment: "Ce kural exalte la puissance intérieure de celui qui contrôle parfaitement ses cinq sens. Une telle maîtrise est si grande qu’elle est reconnue même par les puissances célestes comme Indra."
               },
@@ -271,7 +271,7 @@ const thirukuralData = {
             kurals: [
               {
                 id: 31,
-                tamil: "சிறப்புஈனும் செல்வமும் ईனும் அறத்தினூஉங்கு ஆக்கம் எவனோ உயிர்க்கு",
+                tamil: "சிறப்புஈனும் செல்வமும் ஈனும் அறத்தினூஉங்கு ஆக்கம் எவனோ உயிர்க்கு",
                 tamilfr: "Sirappu Eenum Selvamum Eenum Araththinooungu Aakkam Evano Uyirkku",
                 translation: "Quel gain pour l’être vivant peut surpasser la vertu, qui donne à la fois la gloire et la richesse ?",
                 comment: "Ce kural souligne que la vertu est la plus haute des richesses. Elle apporte à la fois honneur et prospérité, et aucun autre gain ne peut égaler son importance pour la vie humaine."
@@ -329,7 +329,7 @@ const thirukuralData = {
                 id: 39,
                 tamil: "அறத்தான் வருவதே இன்பம் மற்றெல்லாம் புறத்த புகழும் இல",
                 tamilfr: "Araththaan Varuvadhe Inpam MarRellaam Puraththa Pukazhum Ila",
-                translation: "Seule la vertu apporte le bonheur ; tout le reste n’est qu’apparence et sans véritable gloire.",
+                translation: "Seule la vertu apporte le bonheur ; tout le reste n’est quapparence et sans véritable gloire.",
                 comment: "Ce kural affirme que le véritable bonheur provient uniquement de la vertu. Tout ce qui n’est pas fondé sur elle est considéré comme extérieur, vide de valeur durable et dépourvu de vraie reconnaissance."
               },
               {
@@ -370,10 +370,7 @@ const thirukuralData = {
         ] // fermeture de tous les chapter de l iyal 2 
       } // fermeture de l iyal 2 
     ] //fin des iyals du livre 1 
-  } // fin livre 1 
-}; // fin du thirukural data
-
-  
+  }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
   2: {
     name: "Porutpāl",
     fr: "Livre de la Société",
@@ -384,4 +381,4 @@ const thirukuralData = {
     fr: "Livre de l'Amour",
     iyals: []
   }
-};
+}; // Fin complète de l'objet thirukuralData
