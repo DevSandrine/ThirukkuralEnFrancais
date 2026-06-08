@@ -367,7 +367,7 @@ const thirukuralData = {
               tamilfr: "Seyarpaala Thorum Arane Oruvarku Uyarpaala Thorum Pazhi",
               translation: "La vertu est ce qui doit être accompli par l’homme, et le vice ce qu’il doit éviter.",
               comment: "Ce kural donne une définition simple et essentielle de la morale : la vertu correspond aux actions justes à accomplir, tandis que le vice correspond aux actions honteuses à éviter. Il pose ainsi un cadre clair du bien et du mal."
-            },
+            }
               
             ] // FIN des kurals du chapitre 4
           } // FIN du chapitre 4 : Aran Valiyuruththal
