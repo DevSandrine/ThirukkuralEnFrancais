@@ -277,10 +277,99 @@ const thirukuralData = {
               }
             ]
           },
-          {
+          { //=============================================================================================
+            //4EME CHAPITRE DU 1ERE SECTION / 1ER LIVRE 
+            //==============================================================================================
             id: 4,
             name: "Aran Valiyuruththal <br> Importance de la vertu",
-            kurals: []
+            //===============================================================================================
+            //ICI TOUS LES KURAL DU CHAPITRE 4 DE LA SECTION 1 ET DU LIVRE 1 
+            //===============================================================================================
+            kurals: [
+
+            {
+              id: 31,
+              tamil: "சிறப்புஈனும் செல்வமும் ஈனும் அறத்தினூஉங்கு ஆக்கம் எவனோ உயிர்க்கு",
+              tamilfr: "Sirappu Eenum Selvamum Eenum Araththinooungu Aakkam Evano Uyirkku",
+              translation: "Quel gain pour l’être vivant peut surpasser la vertu, qui donne à la fois la gloire et la richesse ?",
+              comment: "Ce kural souligne que la vertu est la plus haute des richesses. Elle apporte à la fois honneur et prospérité, et aucun autre gain ne peut égaler son importance pour la vie humaine."
+            },
+
+            {
+              id: 32,
+              tamil: "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை மறத்தலின் ஊங்கில்லை கேடு",
+              tamilfr: "Araththinooungu Aakkamum Illai Adhanai Maraththalin Oongillai Ketu",
+              translation: "Il n’existe aucun gain supérieur à la vertu, et aucun mal plus grand que de l’oublier ou de la négliger.",
+              comment: "Ce kural affirme que la vertu est le plus grand bien, et que son abandon conduit inévitablement à la déchéance. Il établit une opposition claire entre la prospérité morale et la ruine spirituelle."
+            },
+
+            {
+              id: 33,
+              tamil: "ஒல்லும் வகையான் அறவினை ஓவாதே செல்லும்வாய் எல்லாஞ் செயல்",
+              tamilfr: "Ollum Vakaiyaan Aravinai Ovaadhe Sellumvaai Ellaanj Cheyal",
+              translation: "Il faut accomplir des actions vertueuses sans interruption, en toutes circonstances et en tous lieux.",
+              comment: "Ce kural insiste sur la constance dans la vertu : la conduite juste doit être pratiquée en permanence, sans interruption, partout et en toute situation."
+            }, 
+
+            {
+              id: 34,
+              tamil: "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன் ஆகுல நீர பிற",
+              tamilfr: "Manaththukkan Maasilan Aadhal Anaiththu Aran Aakula Neera Pira",
+              translation: "Avoir un esprit sans souillure est la base de toute vertu ; tout le reste n’est que apparence vide.",
+              comment: "Ce kural affirme que la véritable moralité commence dans la pureté intérieure. Sans une pensée droite et sans tache, les autres formes de vertu ne sont que des apparences sans valeur réelle."
+            },
+
+            {
+              id: 35,
+              tamil: "அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும் இழுக்கா இயன்றது அறம்",
+              tamilfr: "Azhukkaaru Avaavekuli Innaachchol Naankum Izhukkaa Iyandradhu Aram",
+              translation: "L’envie, le désir insatiable, la colère et les paroles dures : éviter ces quatre défauts constitue la vertu.",
+              comment: "Ce kural définit la vertu par la négation des quatre grands défauts moraux : l’envie, l’avidité, la colère et la parole blessante. La maîtrise de ces tendances est présentée comme le fondement de la conduite morale."
+            },
+
+            {
+              id: 36,
+              tamil: "அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது பொன்றுங்கால் பொன்றாத் துணை",
+              tamilfr: "Andrarivaam Ennaadhu Aranjeyka Matradhu Pondrungaal Pondraath Thunai",
+              translation: "Ne remets pas la vertu à plus tard : pratique-la maintenant, car au moment de la mort elle sera ton seul soutien indestructible.",
+              comment: "Ce kural insiste sur l’urgence de la pratique de la vertu. Tiruvalluvar rappelle que seule la vertu accompagne l’être humain jusqu’à la fin, au moment où tout le reste disparaît."
+            },
+
+            {
+              id: 37,
+              tamil: "அறத்தாறு இதுவென வேண்டா சிவிகை பொறுத்தானோடு ஊர்ந்தான் இடை",
+              tamilfr: "Araththaaru Ithuvena Ventaa Sivikai Poruththaanotu Oorndhaan Itai",
+              translation: "Il n’est pas nécessaire de demander quel est le fruit de la vertu : il suffit de regarder la relation entre celui qui porte le palanquin et celui qui y est porté.",
+              comment: "Ce kural illustre concrètement le principe de la vertu et du karma : les conséquences des actions se manifestent dans les rôles et situations des individus. L’exemple du porteur et du passager montre la différence de destin selon les actes passés."
+            },
+
+            {
+              id: 38,
+              tamil: "வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன் வாழ்நாள் வழியடைக்கும் கல்",
+              tamilfr: "Veezhnaal Pataaamai Nandraatrin Aqdhoruvan Vaazhnaal Vazhiyataikkum Kal",
+              translation: "Le bien accompli sans laisser passer un seul jour devient une pierre qui bloque le chemin de la renaissance.",
+              comment: "La vertu pratiquée sans procrastination produit un effet puissant et durable. L’action juste, accomplie immédiatement et constamment, devient un obstacle aux cycles de souffrance et de renaissance."
+            },
+
+            
+            {
+              id: 39,
+              tamil: "அறத்தான் வருவதே இன்பம் மற்றெல்லாம் புறத்த புகழும் இல",
+              tamilfr: "Araththaan Varuvadhe Inpam MarRellaam Puraththa Pukazhum Ila",
+              translation: "Seule la vertu apporte le bonheur ; tout le reste n’est qu’apparence et sans véritable gloire.",
+              comment: "Ce kural affirme que le véritable bonheur provient uniquement de la vertu. Tout ce qui n’est pas fondé sur elle est considéré comme extérieur, vide de valeur durable et dépourvu de vraie reconnaissance."
+            },
+
+
+            {
+              id: 40,
+              tamil: "செயற்பால தோரும் அறனே ஒருவற்கு உயற்பால தோரும் பழி",
+              tamilfr: "Seyarpaala Thorum Arane Oruvarku Uyarpaala Thorum Pazhi",
+              translation: "La vertu est ce qui doit être accompli par l’homme, et le vice ce qu’il doit éviter.",
+              comment: "Ce kural donne une définition simple et essentielle de la morale : la vertu correspond aux actions justes à accomplir, tandis que le vice correspond aux actions honteuses à éviter. Il pose ainsi un cadre clair du bien et du mal."
+            },
+              
+            ]
           }
         ]
       }
