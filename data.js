@@ -718,7 +718,7 @@ const thirukuralData = {
 
           
            { 
-            id: 8,
+            id: 9,
             name: " Virundhompal <br> Hospitalité ", 
             // KURAL DU CHAPITRE 8 ICI 
             kurals: [
@@ -804,6 +804,16 @@ const thirukuralData = {
               },  
             ] //fin des kural du chapitre 8 
            },// fin du chapitre 8
+
+          
+           { 
+            id: 10,
+            name: " Virundhompal <br> Hospitalité ", 
+            // KURAL DU CHAPITRE 8 ICI 
+            kurals: [
+              
+            ] // fin des kural du chapitre 10
+           }// fin du chapitre 10 
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
