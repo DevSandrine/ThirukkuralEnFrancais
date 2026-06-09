@@ -442,7 +442,7 @@ const thirukuralData = {
 
           { 
             id: 6,
-            name: " Vaazhkkaith Thunainalam <br> Vertu du conjoint", 
+            name: " Vaazhkkaith Thunainalam <br> La vertu de l’épouse", 
             // KURAL DU CHAPITRE 6 ICI 
             kurals: [
               {
@@ -720,7 +720,7 @@ const thirukuralData = {
            { 
             id: 9,
             name: " Virundhompal <br> Hospitalité ", 
-            // KURAL DU CHAPITRE 8 ICI 
+            // KURAL DU CHAPITRE 9 ICI 
             kurals: [
               {
                 id: 81,
@@ -808,12 +808,96 @@ const thirukuralData = {
           
            { 
             id: 10,
-            name: " Virundhompal <br> Hospitalité ", 
-            // KURAL DU CHAPITRE 8 ICI 
+            name: " Iniyavaikooral <br> Les paroles agréables ", 
+            // KURAL DU CHAPITRE 10 ICI 
             kurals: [
+
+              {
+                id: 91,
+                tamil: "இன்சொலால் ஈரம் அளைஇப் படிறுஇலவாம் செம்பொருள் கண்டார்வாய்ச் சொல்",
+                tamilfr: "Insolaal Eeram Alaiip Patiruilavaam Semporul Kantaarvaaich Chol",
+                translation: "Les paroles des sages sont douces, empreintes de bienveillance et dépourvues d’artifice.",
+                comment: "La valeur d’une parole ne réside pas seulement dans son contenu, mais dans la sincérité et la chaleur avec lesquelles elle est exprimée. Une parole juste est à la fois vraie et empreinte de douceur humaine."
+              },
+
+              {
+                id: 92,
+                tamil: "அகன்அமர்ந்து ஈதலின் நன்றே முகனமர்ந்து இன்சொலன் ஆகப் பெறின்",
+                tamilfr: "Akanamarndhu Eedhalin Nandre Mukanamarndhu Insolan Aakap Perin",
+                translation: "Un visage souriant et des paroles douces valent mieux qu’un simple don.",
+                comment: "La manière de donner compte autant que le don lui-même. La bienveillance, exprimée par le sourire et la douceur des mots, donne une valeur humaine et chaleureuse à l’acte de générosité."
+              },
+
+              {
+                id: 93,
+                tamil: "முகத்தான் அமர்ந்து இனிதுநோக்கி அகத்தானாம் இன்சொலினதே அறம்",
+                tamilfr: "Mukaththaan Amarndhuinidhu Nokki Akaththaanaam Insol Inadhe Aram",
+                translation: "La vertu consiste à accueillir avec un visage souriant, un regard bienveillant et des paroles douces venues du cœur.",
+                comment: "La droiture est ici définie par la cohérence entre l’intérieur et l’extérieur : une intention sincère qui se manifeste par la douceur du regard et des paroles. L’éthique passe par la bienveillance dans les relations humaines."
+              },
+
+              {
+                id: 94,
+                tamil: "துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும் இன்புறூஉம் இன்சொ லவர்க்கு",
+                tamilfr: "Thunpurooum Thuvvaamai Illaakum Yaarmaattum Inpurooum Inso Lavarkku",
+                translation: "Ceux qui parlent avec douceur à tous ne connaîtront ni pauvreté ni souffrance.",
+                comment: "La parole bienveillante est présentée comme une source de paix et de stabilité. Elle améliore les relations humaines et contribue à une vie plus harmonieuse et équilibrée."
+              },
+
+              {
+                id: 95,
+                tamil: "பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு அணியல்ல மற்றுப் பிற",
+                tamilfr: "Panivutaiyan Insolan Aadhal Oruvarku Aniyalla Matrup Pira",
+                translation: "L’humilité et la douceur de parole sont les véritables ornements d’une personne, tout le reste est secondaire.",
+                comment: "La valeur d’un individu ne réside pas dans les biens matériels ou l’apparence, mais dans la qualité de son attitude et de sa manière de s’exprimer. L’humilité et la bienveillance sont présentées comme les véritables marques de noblesse."
+              },
+
+              {
+                id: 96,
+                tamil: "அல்லவை தேய அறம்பெருகும் நல்லவை நாடி இனிய சொலின்",
+                tamilfr: "Allavai Theya Aramperukum Nallavai Naati Iniya Solin",
+                translation: "Le bien grandit et le mal s’affaiblit lorsque l’on cherche le bon et que l’on parle avec douceur.",
+                comment: "Les paroles douces et la recherche du bien ont un effet transformateur sur soi et sur les autres. Elles favorisent l’épanouissement de la vertu et la diminution des comportements négatifs."
+              },
+
+              {
+                id: 97,
+                tamil: "நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று பண்பின் தலைப்பிரியாச் சொல்",
+                tamilfr: "Nayan Eendru Nandri Payakkum Payaneendru Panpin Thalaippiriyaach Chol",
+                translation: "Des paroles utiles et bienveillantes engendrent le bien et renforcent la vertu.",
+                comment: "Les paroles justes, lorsqu’elles sont associées à la courtoisie et à la bienveillance, produisent des effets positifs durables. La qualité du langage influence directement le comportement moral et social."
+              },
+
+              {
+                id: 98,
+                tamil: "சிறுமையுவு நீங்கிய இன்சொல் மறுமையும் இம்மையும் இன்பம் தரும்",
+                tamilfr: "Sirumaiyul Neengiya Insol Marumaiyum Immaiyum Inpam Tharum",
+                translation: "Des paroles douces, exemptes de bassesse, apportent le bonheur dans cette vie et dans l’au-delà.",
+                comment: "La qualité de la parole a des effets durables. Une communication bienveillante et pure contribue au bien-être immédiat et à une forme de paix plus durable, dans la vie présente comme dans la vision spirituelle."
+              },
+
+
+              {
+                id: 99,
+                tamil: "இன்சொல் இனிதீன்றல் காண்பான் எவன்கொலோ வன்சொல் வழங்குவது",
+                tamilfr: "Insol Inidheendral Kaanpaan Evankolo Vansol Vazhangu Vadhu?",
+                translation: "Après avoir vu les bienfaits des paroles douces, comment peut-on encore utiliser des mots durs ?",
+                comment: "L’expérience des effets positifs de la bienveillance verbale devrait naturellement dissuader l’usage de paroles dures. Le vers met en avant la responsabilité morale liée à la parole."
+              },
+
+              {
+                id: 100,
+                tamil: "இனிய உளவாக இன்னாத கூறல் கனிஇருப்பக் காய்கவர்ந்தற்று",
+                tamilfr: "Iniya Ulavaaka Innaadha Kooral Kaniiruppak Kaaikavarn Thatru",
+                translation: "Employer des paroles dures alors que des paroles douces sont possibles revient à préférer un fruit vert à un fruit mûr.",
+                comment: "Le choix des mots reflète la sagesse et la maturité intérieure. Lorsque la douceur est possible, la dureté devient inutile et contre-productive. Le vers valorise donc la maîtrise de la parole comme forme de discernement."
+              },
               
             ] // fin des kural du chapitre 10
-           }// fin du chapitre 10 
+           },// fin du chapitre 10 
+
+
+          
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
