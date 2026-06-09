@@ -717,6 +717,93 @@ const thirukuralData = {
            },// fin du chapitre 8 
 
           
+           { 
+            id: 8,
+            name: " Virundhompal <br> Hospitalité ", 
+            // KURAL DU CHAPITRE 8 ICI 
+            kurals: [
+              {
+                id: 81,
+                tamil: "இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி வேளாண்மை செய்தற் பொருட்டு",
+                tamilfr: "Irundhompi Ilvaazhva Thellaam Virundhompi Velaanmai Seydhar Poruttu",
+                translation: "Toute la vie du foyer et le fruit du travail ont pour but d’accueillir et d’honorer les invités.",
+                comment: "L’hospitalité est présentée comme une valeur centrale de la vie domestique. Les efforts accomplis pour faire vivre le foyer prennent tout leur sens lorsqu’ils permettent de partager ses ressources avec autrui."
+              },
+
+              {
+                id: 82,
+                tamil: "விருந்து புறத்ததாத் தானுண்டல் சாவா மருந்தெனினும் வேண்டற்பாற் றன்று",
+                tamilfr: "Virundhu Puraththadhaath Thaanuntal Saavaa Marundheninum Ventarpaar Randru",
+                translation: "Manger seul alors qu’un invité attend dehors est inacceptable, même s’il s’agit du nectar d’immortalité.",
+                comment: "Le partage passe avant le plaisir personnel. Refuser l’hospitalité à quelqu’un dans le besoin est considéré comme contraire aux devoirs fondamentaux du foyer, quelle que soit la valeur de ce que l’on possède."
+              },
+
+              {
+                id: 83,
+                tamil: "வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை பருவந்து பாழ்படுதல் இன்று",
+                tamilfr: "Varuvirundhu Vaikalum Ompuvaan Vaazhkkai Paruvandhu Paazhpatudhal Indru",
+                translation: "La vie de celui qui accueille généreusement ses invités ne connaîtra jamais le déclin ni la misère.",
+                comment: "La générosité envers les visiteurs est présentée comme une source durable de prospérité. Celui qui partage volontiers ce qu’il possède crée autour de lui un cercle de bienveillance qui préserve son foyer."
+              },
+
+              {
+                id: 84,
+                tamil: "அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து நல்விருந்து ஓம்புவான் இல்",
+                tamilfr: "Akanamarndhu Seyyaal Uraiyum Mukanamarndhu Nalvirundhu Ompuvaan Il",
+                translation: "La déesse de la prospérité demeure dans la maison de celui qui accueille ses invités avec un visage souriant.",
+                comment: "L’accueil chaleureux compte autant que le repas offert. Une hospitalité sincère, exprimée avec joie et bienveillance, est présentée comme une source de prospérité et d’harmonie pour le foyer."
+              },
+
+              {
+                id: 85,
+                tamil: "வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி மிச்சில் மிசைவான் புலம்",
+                tamilfr: "Viththum Italventum Kollo Virundhompi Michchil Misaivaan Pulam",
+                translation: "Faut-il même semer son champ, pour celui qui nourrit d’abord ses invités et ne mange que le reste ?",
+                comment: "Une générosité aussi exemplaire est présentée comme naturellement féconde. Celui qui place l’hospitalité avant son propre intérêt semble attirer l’abondance sans avoir à s’en préoccuper."
+              },
+
+              {
+                id: 86,
+                tamil: "செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான் நல்வருந்து வானத் தவர்க்கு",
+                tamilfr: "Selvirundhu Ompi Varuvirundhu Paarththiruppaan Nalvarundhu Vaanath Thavarkku",
+                translation: "Celui qui honore les invités présents et attend avec joie ceux qui viendront sera lui-même honoré par les êtres célestes.",
+                comment: "L’hospitalité n’est pas un devoir occasionnel, mais une disposition permanente du cœur. L’accueil généreux et constant est présenté comme une qualité qui élève celui qui la pratique."
+              },
+
+
+              {
+                id: 87,
+                tamil: "இனைத்துணைத் தென்பதொன்று இல்லை விருந்தின் துணைத்துணை வேள்விப் பயன்",
+                tamilfr: "Inaiththunaith Thenpadhon Rillai Virundhin Thunaiththunai Velvip Payan",
+                translation: "Les bénéfices de l’hospitalité ne peuvent être mesurés, car leur valeur dépend de la dignité de l’invité.",
+                comment: "La valeur de l’hospitalité est présentée comme incomparable et difficile à quantifier. Elle prend tout son sens selon la qualité de la relation et la sincérité de l’accueil."
+              },
+
+              {
+                id: 88,
+                tamil: "பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி வேள்வி தலைப்படாதார்",
+                tamilfr: "Parindhompip Patratrem Enpar Virundhompi Velvi Thalaippataa Thaar",
+                translation: "Ceux qui n’ont pas pratiqué l’hospitalité et le partage finissent par regretter d’avoir accumulé sans profiter.",
+                comment: "Le vers souligne que l’accumulation sans générosité mène au regret. La vraie richesse réside dans le partage, et non dans la simple possession."
+              },
+
+              {
+                id: 89,
+                tamil: "உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா மடமை மடவார்கண் உண்டு",
+                tamilfr: "Utaimaiyul Inmai Virundhompal Ompaa Matamai Matavaarkan Untu",
+                translation: "Ne pas accueillir d’invités alors qu’on possède des biens est une forme de pauvreté propre aux insensés.",
+                comment: "La richesse véritable se mesure aussi à la capacité de partager. Refuser l’hospitalité malgré l’abondance est présenté comme un manque de sagesse et une pauvreté intérieure."
+              },
+
+              {
+                id: 90,
+                tamil: "மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து நோக்கக் குநழ்யும் விருந்து",
+                tamilfr: "Moppak Kuzhaiyum Anichcham Mukandhirindhu Nokkak Kuzhaiyum Virundhu",
+                translation: "La fleur s’effeuille au simple parfum, et un regard hostile suffit à troubler un invité.",
+                comment: "L’accueil doit être empreint de douceur et de bienveillance. Même sans paroles ni actes, une attitude froide ou un regard défavorable peut suffire à faire disparaître la chaleur de l’hospitalité."
+              },  
+            ] //fin des kural du chapitre 8 
+           },// fin du chapitre 8
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
