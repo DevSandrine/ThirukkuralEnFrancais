@@ -984,7 +984,7 @@ const thirukuralData = {
                                                         
               
             ]//fin des kural du chapitre 11
-           }// fin du chapitre 11
+           },// fin du chapitre 11
 
            { 
             id: 12,
@@ -1074,7 +1074,7 @@ const thirukuralData = {
               },
    
             ]// fin des kural du chapitre 12 
-           } // fin du chapitre 12 
+           }, // fin du chapitre 12 
 
            { 
             id: 13,
@@ -1164,7 +1164,7 @@ const thirukuralData = {
               },
   
             ]//fin des kural du chapitre 13 
-           }// fin du chapitre 13 
+           },// fin du chapitre 13 
 
            { 
             id: 14,
@@ -1254,7 +1254,7 @@ const thirukuralData = {
               },
                             
               ]// fin des kural du chapitre 14
-           }// fin du chapitre 14
+           },// fin du chapitre 14
 
 
           { 
@@ -1265,7 +1265,7 @@ const thirukuralData = {
 
               
             ]// fin des kural du chapitre 15
-          }//fin du chapitre 15 
+          },//fin du chapitre 15 
 
 
           
