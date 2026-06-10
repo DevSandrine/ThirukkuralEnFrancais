@@ -1256,6 +1256,16 @@ const thirukuralData = {
               ]// fin des kural du chapitre 14
            },// fin du chapitre 14
 
+            { 
+            id: 15,
+            name: " 	Piranil Vizhaiyaamai <br> Ne pas convoiter la femme d’autrui ", 
+            // KURAL DU CHAPITRE 15 ICI 
+            kurals: [
+
+              
+            ]// fin des kural du chapitre 15
+          },//fin du chapitre 15 
+
 
           
         ] // fermeture de tous les chapter de l iyal 2 
