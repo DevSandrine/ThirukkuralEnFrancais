@@ -1257,18 +1257,6 @@ const thirukuralData = {
            },// fin du chapitre 14
 
 
-          { 
-            id: 15,
-            name: " 	Piranil Vizhaiyaamai <br> La maîtrise de soi ", 
-            // KURAL DU CHAPITRE 15 ICI 
-            kurals: [
-
-              
-            ]// fin des kural du chapitre 15
-          },//fin du chapitre 15 
-
-
-          
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
