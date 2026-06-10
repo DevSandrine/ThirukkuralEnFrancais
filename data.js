@@ -896,6 +896,377 @@ const thirukuralData = {
             ] // fin des kural du chapitre 10
            },// fin du chapitre 10 
 
+           { 
+            id: 11,
+            name: " Seynnandri Aridhal <br> La gratitude ", 
+            // KURAL DU CHAPITRE 11 ICI 
+            kurals: [
+
+                            {
+                id: 101,
+                tamil: "செய்யாமல் செய்த உதவிக்கு வையகமும் வானகமும் ஆற்றல் அரிது",
+                tamilfr: "Seyyaamal Seydha Udhavikku Vaiyakamum Vaanakamum Aatral Aridhu",
+                translation: "Ni la terre ni le ciel ne peuvent véritablement rendre un service offert spontanément.",
+                comment: "Une aide apportée librement, sans attente ni obligation, possède une valeur si grande qu’aucune récompense ne peut l’égaler. La gratitude envers un tel acte dépasse toute mesure ordinaire."
+              },
+
+              {
+                id: 102,
+                tamil: "காலத்தி னாற்செய்த நன்றி சிறிதெனினும் ஞாலத்தின் மாணப் பெரிது",
+                tamilfr: "Kaalaththi Naarseydha Nandri Siridheninum Gnaalaththin Maanap Peridhu",
+                translation: "Une aide apportée au moment opportun, même modeste, vaut plus que le monde entier.",
+                comment: "La valeur d’un service ne dépend pas seulement de son importance matérielle, mais aussi du moment où il est rendu. Une aide offerte lorsqu’elle est réellement nécessaire prend une dimension inestimable."
+              },
+
+              {
+                id: 103,
+                tamil: "பயன்தூக்கார் செய்த உதவி நயன்தூக்கின் நன்மை கடலின் பெரிது",
+                tamilfr: "Payandhookkaar Seydha Udhavi Nayandhookkin Nanmai Katalin Peridhu",
+                translation: "L’aide apportée sans calculer de retour est, lorsqu’on en mesure la valeur, plus vaste que l’océan.",
+                comment: "Un service rendu sans attendre de récompense possède une grandeur exceptionnelle. Sa valeur ne réside pas dans son importance matérielle, mais dans le désintéressement et la générosité qui l’inspirent."
+              },
+
+              {
+                id: 104,
+                tamil: "தினைத்துணை நன்றி செயினும் பனைத்துணையாக் கொள்வர் பயன்தெரி வார்",
+                tamilfr: "Thinaiththunai Nandri Seyinum Panaiththunaiyaak Kolvar Payandheri Vaar",
+                translation: "Même une aide aussi petite qu’un grain de millet est considérée comme aussi grande qu’un palmier par ceux qui en comprennent la valeur.",
+                comment: "Les personnes reconnaissantes ne jugent pas un service à sa taille. Elles apprécient le geste reçu et lui accordent une grande importance, même lorsqu’il paraît modeste."
+              },
+              
+              {
+                id: 105,
+                tamil: "உதவி வரைத்தன்று உதவி உதவி செயப்பட்டார் சால்பின் வரைத்து",
+                tamilfr: "Udhavi Varaiththandru Udhavi Udhavi Seyappattaar Saalpin Varaiththu",
+                translation: "La valeur d’une aide ne dépend pas de son importance, mais de la qualité de celui qui la reçoit.",
+                comment: "Un même service peut avoir des effets très différents selon la personne qui en bénéficie. Lorsqu’il est reçu par quelqu’un de noble et reconnaissant, même un petit geste peut prendre une valeur considérable."
+              },
+
+              {
+                id: 106,
+                tamil: "மறவற்க மாசற்றார் கேண்மை துறவற்க துன்பத்துள் துப்பாயார் நட்பு",
+                tamilfr: "Maravarka Maasatraar Kenmai Thuravarka Thunpaththul Thuppaayaar Natpu",
+                translation: "N’oublie jamais l’amitié des personnes vertueuses et n’abandonne pas ceux qui t’ont soutenu dans l’épreuve.",
+                comment: "La gratitude doit s’étendre aux relations humaines. Les personnes intègres et les amis qui ont été présents dans les moments difficiles méritent une fidélité durable et ne doivent jamais être délaissés."
+              },
+
+              {
+                id: 107,
+                tamil: "எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண் விழுமந் துடைத்தவர் நட்பு",
+                tamilfr: "Ezhumai Ezhupirappum Ulluvar Thangan Vizhuman Thutaiththavar Natpu",
+                translation: "Les personnes nobles se souviennent, à travers toutes leurs vies, de ceux qui ont essuyé leurs larmes.",
+                comment: "La reconnaissance envers ceux qui apportent du réconfort dans les moments de détresse est présentée comme impérissable. Un soutien reçu dans l’épreuve laisse une empreinte profonde qui ne s’efface jamais."
+              },
+
+              {
+                id: 108,
+                tamil: "நன்றி மறப்பது நன்றன்று நன்றல்லது அன்றே மறப்பது நன்று",
+                tamilfr: "Nandri Marappadhu Nandrandru Nandralladhu Andre Marappadhu Nandru",
+                translation: "Oublier un bienfait n’est pas bien ; oublier immédiatement une offense est préférable.",
+                comment: "La mémoire doit conserver les actes de bonté reçus, tandis que les torts et les blessures gagnent à être effacés. La reconnaissance nourrit les relations, alors que le ressentiment les détruit."
+              },
+
+              {
+                id: 109,
+                tamil: "கொன்றன்ன இன்னா செயினும் அவர்செய்த ஒன்றுநன்று உள்ளக் கெடும்",
+                tamilfr: "Kondranna Innaa Seyinum Avarseydha Ondrunandru Ullak Ketum",
+                translation: "Même une grave offense s’efface lorsque l’on se souvient d’un bienfait reçu de cette personne.",
+                comment: "La gratitude possède le pouvoir d’atténuer les blessures et les ressentiments. Se rappeler le bien accompli par quelqu’un permet de ne pas réduire une relation à une seule faute."
+              },
+
+              {
+                id: 110,
+                tamil: "எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை செய்ந்நன்றி கொன்ற மகற்கு",
+                tamilfr: "Ennandri Kondraarkkum Uyvuntaam Uyvillai Seynnandri Kondra Makarku",
+                translation: "Celui qui commet toutes sortes de fautes peut encore être sauvé, mais il n’y a aucun salut pour celui qui trahit la gratitude.",
+                comment: "La reconnaissance est présentée comme une valeur fondamentale. Oublier ou trahir un bienfait reçu est considéré comme l’une des fautes les plus graves, car elle détruit le lien moral entre les êtres."
+              },
+                                                        
+              
+            ]//fin des kural du chapitre 11
+           }// fin du chapitre 11
+
+           { 
+            id: 12,
+            name: " Natuvu Nilaimai <br> L’impartialité ", 
+            // KURAL DU CHAPITRE 12 ICI 
+            kurals: [
+
+              {
+                  id: 111,
+                  tamil: "தகுதி எனவொன்று நன்றே பகுதியால் பாற்பட்டு ஒழுகப் பெறின்",
+                  tamilfr: "Thakudhi Enavondru Nandre Pakudhiyaal Paarpattu Ozhukap Perin",
+                  translation: "La justice n’est véritablement bonne que lorsqu’elle agit sans favoritisme, sans distinction de personnes.",
+                  comment: "La droiture et la justice exigent l’impartialité. Une décision juste ne doit pas être influencée par les liens, les statuts ou les préférences personnelles."
+                },
+
+              {
+                id: 112,
+                tamil: "செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி எச்சத்திற் கேமாப்பு உடைத்து",
+                tamilfr: "Seppam Utaiyavan Aakkanj Chidhaivindri Echchaththir Kemaappu Utaiththu",
+                translation: "La richesse d’un homme juste se conserve sans déclin et assure la prospérité de sa descendance.",
+                comment: "La justice et la droiture garantissent une prospérité durable. Une richesse acquise honnêtement a plus de stabilité et profite aussi aux générations futures."
+              },
+
+              {
+                id: 113,
+                tamil: "நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை அன்றே யொழிய விடல்",
+                tamilfr: "Nandre Tharinum Natuvikandhaam Aakkaththai Andre Yozhiya Vital",
+                translation: "Même si cela apporte du profit, il faut immédiatement rejeter tout gain obtenu injustement.",
+                comment: "Le vers insiste sur l’intégrité : aucun avantage matériel ne justifie une injustice. La rectitude morale exige de renoncer sans délai aux profits obtenus de manière incorrecte."
+              },
+
+              {
+                id: 114,
+                tamil: "தக்கார் தகவிலர் என்பது அவரவர் எச்சத்தாற் காணப்ப படும்",
+                tamilfr: "Thakkaar Thakavilar Enpadhu Avaravar Echchaththaar Kaanap Patum",
+                translation: "Les justes et les injustes se reconnaissent à ce qu’ils laissent derrière eux.",
+                comment: "La véritable nature d’une personne se révèle par ses actions et leurs conséquences durables. L’héritage moral et social qu’elle laisse permet de juger de sa droiture."
+              },
+
+              {
+                id: 115,
+                tamil: "கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக் கோடாமை சான்றோர்க் கணி",
+                tamilfr: "Ketum Perukkamum Illalla Nenjaththuk Kotaamai Saandrork Kani",
+                translation: "L’adversité et la prospérité sont passagères, mais un cœur impartial est l’ornement des hommes nobles.",
+                comment: "Les conditions extérieures changent constamment, mais la véritable noblesse réside dans l’équité et l’absence de partialité dans le cœur. C’est cette stabilité intérieure qui définit la grandeur morale."
+              },
+
+              {
+                id: 116,
+                tamil: "கெடுவல்யான் என்பது அறிகதன் நெஞ்சம் நடுவொரீஇ அல்ல செயின்",
+                tamilfr: "Ketuvalyaan Enpadhu Arikadhan Nenjam Natuvoreei Alla Seyin",
+                translation: "Sache que le malheur approche lorsque le cœur s’écarte de la justice.",
+                comment: "La perte morale commence dans la pensée avant d’apparaître dans les actes. S’éloigner de l’impartialité et de la droiture est présenté comme un signe précurseur de déclin et de malheur."
+              },
+
+
+              {
+                id: 117,
+                tamil: "கெடுவாக வையாது உலகம் நடுவாக நன்றிக்கண் தங்கியான் தாழ்வு",
+                tamilfr: "Ketuvaaka Vaiyaadhu Ulakam Natuvaaka Nandrikkan Thangiyaan Thaazhvu",
+                translation: "Le monde ne considère pas comme une honte la pauvreté de celui qui demeure dans la droiture et la gratitude.",
+                comment: "La dignité morale prime sur la condition matérielle. Même dans la pauvreté, celui qui reste juste et reconnaissant conserve l’estime du monde."
+              },
+
+              {
+                id: 118,
+                tamil: "சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால் கோடாமை சான்றோர்க் கணி",
+                tamilfr: "Samanseydhu Seerdhookkung Kolpol Amaindhorupaal Kotaamai Saandrork Kani",
+                translation: "Être impartial comme une balance parfaitement équilibrée est l’ornement des hommes nobles.",
+                comment: "L’impartialité est comparée à une balance juste : elle ne penche ni d’un côté ni de l’autre. Cette équité constante est présentée comme une qualité essentielle de la véritable grandeur morale."
+              },
+
+              {
+                id: 119,
+                tamil: "சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா உட்கோட்டம் இன்மை பெறின்",
+                tamilfr: "Sorkottam Illadhu Seppam Orudhalaiyaa Utkottam Inmai Perin",
+                translation: "La droiture des paroles naît d’un esprit ferme et sans biais.",
+                comment: "La justice dans les paroles reflète la clarté intérieure. Un esprit libre de partialité produit naturellement des paroles équilibrées et équitables."
+              },
+
+              {
+                id: 120,
+                tamil: "வாணிகம் செய்வார்க்கு வாணிகம் பேணிப் பிறவும் தமபோல் செயின்",
+                tamilfr: "Vaanikam Seyvaarkku Vaanikam Penip Piravum Thamapol Seyin",
+                translation: "Pour un marchand, le meilleur commerce consiste à traiter les biens d’autrui comme les siens propres.",
+                comment: "L’éthique commerciale repose sur la confiance et l’intégrité. Considérer les biens des autres avec le même soin que les siens est la base d’un commerce juste et durable."
+              },
+   
+            ]// fin des kural du chapitre 12 
+           } // fin du chapitre 12 
+
+           { 
+            id: 13,
+            name: " Adakkamudaimai <br> La maîtrise de soi ", 
+            // KURAL DU CHAPITRE 13 ICI 
+            kurals: [ 
+
+              {
+                id: 121,
+                tamil: "அடக்கம் அமரருள் உய்க்கும் அடங்காமை ஆரிருள் உய்த்து விடும்",
+                tamilfr: "Atakkam Amararul Uykkum Atangaamai Aarirul Uyththu Vitum",
+                translation: "La maîtrise de soi conduit vers les êtres divins, tandis que l’absence de maîtrise plonge dans l’obscurité totale.",
+                comment: "La discipline intérieure est présentée comme une force d’élévation morale et spirituelle. À l’inverse, l’absence de retenue mène à la confusion et à la dégradation de l’être."
+              },
+
+              {
+                id: 122,
+                tamil: "காக்க பொருளா அடக்கத்தை ஆக்கம் அதனினூஉங் கில்லை உயிர்க்கு",
+                tamilfr: "Kaakka Porulaa Atakkaththai Aakkam Adhaninooung Killai Uyirkku",
+                translation: "Il faut préserver la maîtrise de soi comme un trésor, car il n’existe rien de plus précieux pour la vie.",
+                comment: "La discipline intérieure est comparée à une richesse inestimable. Elle est présentée comme le fondement de toute prospérité véritable, bien au-delà des biens matériels."
+              },
+
+              {
+                id: 123,
+                tamil: "செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்து ஆற்றின் அடங்கப் பெறின்",
+                tamilfr: "Serivarindhu Seermai Payakkum Arivarindhu Aatrin Atangap Perin",
+                translation: "Celui qui pratique la maîtrise de soi avec discernement et sagesse acquiert une noble réputation.",
+                comment: "La maîtrise de soi, lorsqu’elle est exercée avec intelligence et compréhension, conduit naturellement à la respectabilité et à une réputation vertueuse."
+              },
+
+              {
+                id: 124,
+                tamil: "நிலையின் திரியாது அடங்கியான் தோற்றம் மலையினும் மாணப் பெரிது",
+                tamilfr: "Nilaiyin Thiriyaadhu Atangiyaan Thotram Malaiyinum Maanap Peridhu",
+                translation: "L’apparence de celui qui demeure stable et maître de lui-même est plus imposante qu’une montagne.",
+                comment: "La véritable grandeur ne vient pas de la force physique ou de l’apparence, mais de la stabilité intérieure et de la maîtrise de soi. Cette fermeté inspire naturellement respect et admiration."
+              },
+
+              {
+                id: 125,
+                tamil: "எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும் செல்வர்க்கே செல்வம் தகைத்து",
+                tamilfr: "Ellaarkkum Nandraam Panidhal Avarullum Selvarkke Selvam Thakaiththu",
+                translation: "L’humilité est une qualité pour tous, mais elle est un véritable enrichissement pour les riches.",
+                comment: "La modestie est une vertu universelle, mais elle prend une valeur encore plus grande chez ceux qui possèdent déjà des biens ou du pouvoir. Elle équilibre la richesse par la simplicité et la dignité."
+              },
+
+              {
+                id: 126,
+                tamil: "ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின் எழுநம்யும் ஏமாப் புடைத்து",
+                tamilfr: "Orumaiyul Aamaipol Aindhatakkal Aatrin Ezhumaiyum Emaap Putaiththu",
+                translation: "Comme la tortue qui retire ses membres, celui qui maîtrise ses cinq sens dans cette vie se protège pour les sept vies à venir.",
+                comment: "Le contrôle des sens est présenté comme une forme de protection durable. La discipline intérieure agit comme un bouclier spirituel qui sécurise non seulement la vie présente, mais aussi l’avenir."
+              },
+
+              {
+                id: 127,
+                tamil: "யாகாவா ராயினும் நாகாக்க காவாக்கால் சோகாப்பர் சொல்லிழுக்குப் பட்டு",
+                tamilfr: "Yaakaavaa Raayinum Naakaakka Kaavaakkaal Sokaappar Sollizhukkup Pattu",
+                translation: "Même si l’on ne protège rien d’autre, il faut au moins protéger sa langue, car des paroles non maîtrisées causent du chagrin.",
+                comment: "La maîtrise de la parole est essentielle. Des mots dits sans contrôle peuvent provoquer des conséquences durables et douloureuses, alors que la retenue protège soi-même et les autres."
+              },
+
+              {
+                id: 128,
+                tamil: "ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின் நன்றாகா தாகி விடும்",
+                tamilfr: "Ondraanun Theechchol Porutpayan Untaayin Nandraakaa Thaaki Vitum",
+                translation: "Un seul mot dur peut suffire à détruire tout le bien qu’on voulait accomplir.",
+                comment: "Le kural met en garde contre la puissance destructrice de la parole blessante. Même une intention positive peut être annulée par un seul mot mal formulé."
+              },
+
+
+              {
+                id: 129,
+                tamil: "தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே நாவினாற் சுட்ட வடு",
+                tamilfr: "Theeyinaar Suttapun Ullaarum Aaraadhe Naavinaar Sutta Vatu",
+                translation: "Une blessure causée par le feu peut guérir, mais celle causée par la langue ne guérit pas facilement.",
+                comment: "La parole blessante laisse une trace durable dans les relations humaines. Contrairement aux blessures physiques, les blessures morales causées par des mots peuvent persister longtemps dans la mémoire et le cœur."
+              },
+
+              {
+                id: 130,
+                tamil: "கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி அறம்பார்க்கும் ஆற்றின் நுழைந்து",
+                tamilfr: "Kadhangaaththuk Katratangal Aatruvaan Sevvi Arampaarkkum Aatrin Nuzhaindhu",
+                translation: "La vertu trouve sa place dans la vie de celui qui maîtrise sa colère et pratique la discipline intérieure.",
+                comment: "La maîtrise de soi, notamment la gestion de la colère et la discipline, ouvre la voie à la vertu. Sans cette préparation intérieure, la droiture ne peut s’installer durablement dans la conduite d’une personne."
+              },
+  
+            ]//fin des kural du chapitre 13 
+           }// fin du chapitre 13 
+
+           { 
+            id: 14,
+            name: " Ozhukkamudaimai <br> La maîtrise de soi ", 
+            // KURAL DU CHAPITRE 14 ICI 
+            kurals: [
+              {
+                id: 131,
+                tamil: "ஒழுக்கம் விழுப்பந் தரலான் ஒழுக்கம் உயிரினும் ஓம்பப் படும்",
+                tamilfr: "Ozhukkam Vizhuppan Tharalaan Ozhukkam Uyirinum Ompap Patum",
+                translation: "La discipline est plus précieuse que la vie elle-même, car c’est elle qui confère la grandeur.",
+                comment: "La conduite droite et disciplinée est présentée comme une valeur supérieure à la simple survie. Elle élève l’individu et constitue la base de toute excellence morale et sociale."
+              },
+
+              {
+                id: 132,
+                tamil: "பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித் தேரினும் அஃதே துணை",
+                tamilfr: "Parindhompik Kaakka Ozhukkam Therindhompith Therinum Aqdhe Thunai",
+                translation: "Il faut préserver la discipline avec soin : en toute analyse, elle se révèle être la seule véritable compagne.",
+                comment: "La conduite morale est présentée comme un soutien constant dans la vie. Quelle que soit la perspective adoptée, la discipline reste un appui fiable et durable."
+              },
+
+             {
+                id: 133,
+                tamil: "ஒழுக்கம் உடைமை குடிமை இழுக்கம் இழிந்த பிறப்பாய் விடும்",
+                tamilfr: "Ozhukkam Utaimai Kutimai Izhukkam Izhindha Pirappaai Vitum",
+                translation: "La bonne conduite est une véritable noblesse de naissance, tandis que l’inconduite entraîne une dégradation de l’être.",
+                comment: "La dignité ne dépend pas de la naissance sociale mais de la conduite. L’éthique et l’élévation morale définissent la véritable noblesse, tandis que l’absence de discipline conduit à l’avilissement."
+              },
+
+              {
+                id: 134,
+                tamil: "மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான் பிறப்பொழுக்கங் குன்றக் கெடும்",
+                tamilfr: "Marappinum Oththuk Kolalaakum Paarppaan Pirappozhukkang Kundrak Ketum",
+                translation: "Les textes sacrés oubliés peuvent être réappris, mais la mauvaise conduite dégrade la noblesse de naissance.",
+                comment: "Le savoir peut être retrouvé même après l’oubli, mais la perte de rectitude morale a des conséquences plus profondes. La conduite éthique est présentée comme essentielle à la véritable dignité."
+              },
+
+
+              {
+                id: 135,
+                tamil: "அழுக்காறுடையான்கண் ஆக்கம்போன்று இல்லை ஒழுக்கமிலான்கண் உயர்வு",
+                tamilfr: "Azhukkaarudaiyaankan Aakkampol Illai Ozhukkamilaankan Uyarvu",
+                translation: "De même que la jalousie ne mène pas à la prospérité, l’inconduite ne conduit pas à la grandeur.",
+                comment: "La croissance morale et sociale dépend de la qualité intérieure. Les défauts comme la jalousie ou l’absence de discipline empêchent toute véritable élévation."
+              },
+
+              {
+                id: 136,
+                tamil: "ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின் ஏதம் படுபாக் கறிந்து",
+                tamilfr: "Ozhukkaththin Olkaar Uravor Izhukkaththin Edham Patupaak Karindhu",
+                translation: "Les personnes fortes ne s’écartent pas de la droiture, sachant que sa rupture entraîne la ruine.",
+                comment: "La fermeté morale repose sur la conscience des conséquences. Ceux qui ont une volonté solide maintiennent une conduite droite, car ils comprennent les dangers de l’écart éthique."
+              },
+
+              {
+                id: 137,
+                tamil: "ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின் எய்துவர் எய்தாப் பழி",
+                tamilfr: "Ozhukkaththin Eydhuvar Menmai Izhukkaththin Eydhuvar Eydhaap Pazhi",
+                translation: "La bonne conduite mène à l’excellence, tandis que la mauvaise conduite conduit à une honte injuste.",
+                comment: "La réputation et la valeur d’une personne dépendent de sa conduite. La droiture élève naturellement, tandis que l’inconduite entraîne une dégradation de l’image et du respect social."
+              },
+
+              {
+                id: 138,
+                tamil: "நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம் என்றும் இடும்பை தரும்",
+                tamilfr: "Nandrikku Viththaakum Nallozhukkam Theeyozhukkam Endrum Itumpai Tharum",
+                translation: "La bonne conduite est la semence du bien, tandis que la mauvaise conduite engendre toujours la souffrance.",
+                comment: "Les actions morales produisent des conséquences durables. La vertu engendre naturellement des résultats positifs, alors que l’inconduite conduit inévitablement à la souffrance et aux difficultés."
+              },
+
+              {
+                id: 139,
+                tamil: "ஒழுக்க முடையவர்க்கு ஒல்லாவே தீய வழுக்கியும் வாயாற் சொலல்",
+                tamilfr: "Ozhukka Mutaiyavarkku Ollaave Theeya Vazhukkiyum Vaayaar Solal",
+                translation: "Les personnes de bonne conduite ne peuvent proférer de paroles mauvaises, même par inadvertance.",
+                comment: "La maîtrise de soi est si profonde qu’elle influence même les paroles involontaires. La véritable discipline morale protège le langage et empêche les propos nuisibles, même accidentels."
+              },
+
+
+              {
+                id: 140,
+                tamil: "உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும் கல்லார் அறிவிலாதார்",
+                tamilfr: "Ulakaththotu Otta Ozhukal Palakatrum Kallaar Arivilaa Thaar",
+                translation: "Même très instruits, ceux qui ne savent pas vivre en harmonie avec le monde restent ignorants.",
+                comment: "Le savoir intellectuel seul ne suffit pas. La véritable intelligence inclut la capacité à s’adapter, à comprendre les autres et à vivre en accord avec la société."
+              },
+                            
+              ]// fin des kural du chapitre 14
+           }// fin du chapitre 14
+
+
+          { 
+            id: 15,
+            name: " 	Piranil Vizhaiyaamai <br> La maîtrise de soi ", 
+            // KURAL DU CHAPITRE 15 ICI 
+            kurals: [
+
+              
+            ]// fin des kural du chapitre 15
+          }//fin du chapitre 15 
+
 
           
           
