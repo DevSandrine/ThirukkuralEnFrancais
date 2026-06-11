@@ -1589,7 +1589,7 @@ const thirukuralData = {
             },
                           
             ]// fin des kural du chapitre 18
-          }// fin du chapitre 18
+          },// fin du chapitre 18
 
            { 
             id: 19,
@@ -1669,7 +1669,7 @@ const thirukuralData = {
               },
               
               ]// fin des kural du chapitre 19
-           }//fin du chapitre 19
+           },//fin du chapitre 19
 
            { 
             id: 20,
@@ -1748,7 +1748,7 @@ const thirukuralData = {
             },
               
             ]//fin des kural du chapitre 20
-           }//fin du chapitre 20
+           },//fin du chapitre 20
 
 
            { 
