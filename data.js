@@ -1826,6 +1826,9 @@ const thirukuralData = {
               translation: "Sache qu’aucun mal ne peut atteindre celui qui ne s’engage jamais dans le mal.",
               comment: "L’intégrité morale agit comme une protection : éviter le mal empêche d’en subir les conséquences.",
             },
+
+              ]
+           },// fin du chapitre 21
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
