@@ -1262,7 +1262,88 @@ const thirukuralData = {
             // KURAL DU CHAPITRE 15 ICI 
             kurals: [
 
-              
+              {
+              id: 141,
+              tamil: "பிறன்பொருளாள் பெட்டொழுகும் பேதைமை ஞாலத்து அறம்பொருள் கண்டார்கண் இல்",
+              tamilfr: "Piranporulaal Pettozhukum Pedhaimai Gnaalaththu Aramporul Kantaarkan Il",
+              translation: "Ceux qui comprennent la valeur de la vertu ne commettent pas la folie de convoiter la femme d’autrui.",
+              comment: "Le kural souligne que la sagesse et la compréhension des principes moraux éloignent naturellement des comportements qui portent atteinte à autrui et à l’harmonie sociale."
+            },
+
+              {
+              id: 142,
+              tamil: "அறன்கடை நின்றாருள் எல்லாம் பிறன்கடை நின்றாரின் பேதையார் இல்",
+              tamilfr: "Arankatai Nindraarul Ellaam Pirankatai Nindraarin Pedhaiyaar Il",
+              translation: "Parmi ceux qui s’écartent de la vertu, nul n’est plus insensé que celui qui convoite la femme d’autrui.",
+              comment: "Le vers condamne fermement l’atteinte aux liens conjugaux. Il présente ce comportement comme une faute grave, révélatrice d’un manque de discernement et de respect envers les principes moraux et sociaux."
+            },
+
+             {
+              id: 143,
+              tamil: "விளிந்தாரின் வேறல்லர் மன்ற தெளிந்தாரில் தீமை புரிந்துதொழுகு வார்",
+              tamilfr: "Vilindhaarin Verallar Mandra Thelindhaaril Theemai Purindhu Ozhuku Vaar",
+              translation: "Ceux qui trahissent la confiance d’autrui en convoitant sa femme ne valent guère mieux que des morts.",
+              comment: "Le kural souligne la gravité de la trahison envers ceux qui accordent leur confiance. Une telle conduite est présentée comme une négation des valeurs morales essentielles et de la dignité humaine."
+            },
+
+              {
+              id: 144,
+              tamil: "எனைத்துணையர் ஆயினும் என்னாம் தினைத்துணையும் தேரான் பிறனில் புகல்",
+              tamilfr: "Enaiththunaiyar Aayinum Ennaam Thinaiththunaiyum Theraan Piranil Pukal",
+              translation: "À quoi sert la grandeur d’une personne si elle manque de discernement au point de porter atteinte au foyer d’autrui ?",
+              comment: "La valeur et la réputation d’un individu perdent tout leur sens lorsqu’il commet une faute morale grave. La véritable grandeur exige le respect des limites et des droits d’autrui."
+            },
+
+
+              {
+              id: 145,
+              tamil: "எளிதென இல்லிறப்பான் எய்துமெஞ் ஞான்றும் விளியாது நிற்கும் பழி",
+              tamilfr: "Elidhena Illirappaan Eydhumenj Gnaandrum Viliyaadhu Nirkum Pazhi",
+              translation: "Celui qui croit facile de porter atteinte au foyer d’autrui s’expose à une honte qui ne s’effacera jamais.",
+              comment: "Le vers met en garde contre les conséquences durables d’une faute morale commise par légèreté. Un acte peut sembler facile à accomplir, mais le discrédit qu’il entraîne peut demeurer longtemps et marquer durablement la réputation d’une personne."
+            },
+
+
+            {
+              id: 146,
+              tamil: "பகைபாவம் அச்சம் பழியென நான்கும் இகவாவாம் இல்லிறப்பான் கண்",
+              tamilfr: "Pakaipaavam Achcham Pazhiyena Naankum Ikavaavaam Illirappaan Kan",
+              translation: "Celui qui porte atteinte au foyer d’autrui ne peut échapper à quatre conséquences : l’hostilité, la faute morale, la crainte et la honte.",
+              comment: "Le kural souligne que certaines fautes engendrent inévitablement des conséquences négatives. Elles troublent à la fois les relations avec les autres, la conscience personnelle et la réputation sociale."
+            },
+
+              {
+              id: 147,
+              tamil: "அறனியலான் இல்வாழ்வான் என்பான் பிறனியலாள் பெண்மை நயவாதவன்",
+              tamilfr: "Araniyalaan Ilvaazhvaan Enpaan Piraniyalaal Penmai Nayavaa Thavan",
+              translation: "On appelle véritablement vertueux le chef de famille qui ne convoite pas la femme d’autrui.",
+              comment: "La vertu domestique est ici définie par la maîtrise des désirs et le respect des liens d’autrui. La droiture dans la vie familiale repose sur la fidélité et l’absence de convoitise."
+              },
+
+              {
+              id: 148,
+              tamil: "பிறன்மனை நோக்காத பேராண்மை சான்றோர்க்கு அறனொன்றோ ஆன்ற வொழுக்கு",
+              tamilfr: "Piranmanai Nokkaadha Peraanmai Saandrorkku Aranondro Aandra Vozhukku",
+              translation: "La grandeur d’âme qui refuse de convoiter la femme d’autrui est à la fois vertu et conduite noble pour les hommes vertueux.",
+              comment: "Le kural associe la maîtrise des désirs à une forme de grandeur morale. Le respect des foyers d’autrui est présenté comme une qualité essentielle de la noblesse de caractère."
+            },
+
+              {
+              id: 149,
+              tamil: "நலக்குரியார் யாரெனின் நாமநீர் வைப்பின் பிறர்க்குரியாள் தோள்தோயாதார்",
+              tamilfr: "Nalakkuriyaar Yaarenin Naamaneer Vaippin Pirarkkuriyaal Tholdhoyaa Thaar",
+              translation: "Qui mérite tout le bien dans ce monde ? Celui qui ne touche pas la femme d’autrui.",
+              comment: "Le kural définit la véritable valeur morale d’une personne par la maîtrise de ses désirs et le respect des limites d’autrui. La vertu est ici associée à la pureté de conduite."
+              },
+
+              {
+              id: 150,
+              tamil: "அறன்வரையான் அல்ல செயினும் பிறன்வரையாள் பெண்மை நயவாமை நன்று",
+              tamilfr: "Aranvaraiyaan Alla Seyinum Piranvaraiyaal Penmai Nayavaamai Nandru",
+              translation: "On peut transgresser certaines limites morales, mais il ne faut jamais convoiter la femme d’autrui.",
+              comment: "Le kural insiste sur la hiérarchie des fautes morales : certaines erreurs peuvent être tolérées, mais l’atteinte au foyer d’autrui est présentée comme une transgression grave et inacceptable."
+              },
+ 
             ]// fin des kural du chapitre 15
           },//fin du chapitre 15 
 
