@@ -1355,87 +1355,477 @@ const thirukuralData = {
             // KURAL DU CHAPITRE 16 ICI 
             kurals: [
 
-              {
-            id: 151,
-            tamil: "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை",
-            tamilfr: "Akazhvaaraith Thaangum Nilampolath Thammai Ikazhvaarp Poruththal Thalai",
-            translation: "Supporter ceux qui nous insultent est la meilleure des conduites, comme la terre qui supporte ceux qui la creusent.",
-            comment: "La patience face aux offenses est présentée comme une grandeur morale. Comme la terre qui endure sans se plaindre, la personne vertueuse répond à l’injustice par la maîtrise de soi et la tolérance."
-             },
-
+                        {
+              id: 151,
+              tamil: "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை",
+              tamilfr: "Akazhvaaraith Thaangum Nilampolath Thammai Ikazhvaarp Poruththal Thalai",
+              translation: "Supporter ceux qui nous insultent est la meilleure des conduites, comme la terre qui supporte ceux qui la creusent.",
+              comment: "La patience face aux offenses est comparée à la stabilité de la terre : une grandeur morale qui consiste à supporter sans réagir avec hostilité.",
+            },
             {
               id: 152,
               tamil: "பொறுத்தல் இறப்பினை என்றும் அதனை மறத்தல் அதனினும் நன்று",
               tamilfr: "Poruththal Irappinai Endrum Adhanai Maraththal Adhaninum Nandru",
               translation: "Pardonner les offenses en permanence, et mieux encore : les oublier.",
-              comment: "Le kural élève le pardon au niveau le plus haut de la maturité morale. Non seulement pardonner apaise les relations, mais oublier les torts évite aussi de raviver la souffrance intérieure et favorise une paix durable."
+              comment: "Le pardon est élevé comme une vertu essentielle, et l’oubli des torts est présenté comme un niveau encore supérieur de paix intérieure.",
             },
-
             {
               id: 153,
               tamil: "இன்நம்யுள் இன்மை விருந்தொரால் வன்மையுள் வன்மை மடவார்ப் பொறை",
               tamilfr: "Inmaiyul Inmai Virundhoraal Vanmaiyul Vanmai Matavaarp Porai",
               translation: "La pire des pauvretés est de ne pas accueillir l’hôte, et la plus grande des forces est la patience envers les ignorants.",
-              comment: "Le vers oppose deux extrêmes moraux : l’absence d’hospitalité comme forme de misère intérieure, et la patience comme véritable marque de grandeur. La force morale ne réside pas dans la domination, mais dans la maîtrise de soi face aux comportements difficiles."
+              comment: "Le vers oppose pauvreté morale et vraie force : l’hospitalité et la patience sont des marqueurs essentiels de grandeur humaine.",
             },
-
-              {
+            {
               id: 154,
               tamil: "நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை போற்றி யொழுகப் படும்",
               tamilfr: "Niraiyutaimai Neengaamai Ventin Poraiyutaimai Potri Yozhukap Patum",
-              translation: "Si l’on souhaite que la grandeur ne quitte jamais une personne, il faut cultiver la patience et la tolérance.",
-              comment: "La stabilité de la dignité personnelle dépend de la maîtrise de soi. La patience et la capacité à supporter les difficultés sont présentées comme des fondations durables de l’excellence morale."
-              },
-
-              {
-                id: 155,
-                tamil: "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர் பொறுத்தாரைப் பொன்போற் பொதிந்து",
-                tamilfr: "Oruththaarai Ondraaka Vaiyaare Vaippar Poruththaaraip Ponpor Podhindhu",
-                translation: "Les vengeurs sont méprisés comme sans valeur, tandis que ceux qui savent pardonner sont estimés comme de l’or.",
-                comment: "Le kural oppose vengeance et patience : la première dégrade l’individu, tandis que la seconde lui confère une valeur morale élevée. La tolérance est ici associée à une noblesse comparable à l’or."
-              },
-
-              {
+              translation: "Si l’on souhaite conserver sa dignité, il faut cultiver patience et tolérance.",
+              comment: "La constance morale dépend de la patience : la capacité à supporter les épreuves stabilise la grandeur personnelle.",
+            },
+            {
+              id: 155,
+              tamil: "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர் பொறுத்தாரைப் பொன்போற் பொதிந்து",
+              tamilfr: "Oruththaarai Ondraaka Vaiyaare Vaippar Poruththaaraip Ponpor Podhindhu",
+              translation: "Les vengeurs sont méprisés, tandis que ceux qui pardonnent sont estimés comme de l’or.",
+              comment: "Le texte oppose vengeance et patience : la première dégrade, la seconde élève moralement et socialement.",
+            },
+            {
               id: 156,
               tamil: "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப் பொன்றுந் துணையும் புகழ்",
               tamilfr: "Oruththaarkku Orunaalai Inpam Poruththaarkkup Pondrun Thunaiyum Pukazh",
               translation: "La vengeance procure un plaisir d’un jour, mais la patience apporte une gloire durable.",
-              comment: "Le kural oppose l’éphémère et le durable : la satisfaction de la vengeance est passagère, tandis que la maîtrise de soi et la patience construisent une réputation de vertu qui perdure dans le temps."
-              },
-
-              {
+              comment: "Le plaisir immédiat de la vengeance est opposé à la réputation durable que construit la patience.",
+            },
+            {
               id: 157,
               tamil: "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து அறனல்ல செய்யாமை நன்று",
               tamilfr: "Thiranalla Tharpirar Seyyinum Nonondhu Aranalla Seyyaamai Nandru",
-              translation: "Même si l’on subit une injustice de la part d’autrui, il est préférable de souffrir en silence et de ne pas répondre par une action injuste.",
-              comment: "Le kural insiste sur la maîtrise de soi face à l’injustice. La souffrance ne doit pas conduire à reproduire le mal ; la véritable force morale consiste à préserver la droiture même dans l’épreuve."
-              },
-
-              {
-                id: 158,
-                tamil: "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம் தகுதியான் வென்று விடல்",
-                tamilfr: "Mikudhiyaan Mikkavai Seydhaaraith Thaandham Thakudhiyaan Vendru Vital",
-                translation: "Que l’on triomphe par sa vertu et sa patience de ceux qui nous offensent avec arrogance.",
-                comment: "Le kural propose une forme de victoire morale : répondre à l’agressivité non par la réciprocité, mais par la maîtrise de soi. La vraie supériorité réside dans la retenue et la droiture."
-              },
-
-              {
-                id: 159,
-                tamil: "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற்பவர்",
-                tamilfr: "Thurandhaarin Thooimai Utaiyar Irandhaarvaai Innaachchol Norkir Pavar",
-                translation: "Plus purs que les ascètes sont ceux qui supportent les paroles blessantes de leurs adversaires.",
-                comment: "La véritable pureté ne vient pas seulement de l’ascèse ou du retrait du monde, mais de la capacité à rester stable intérieurement face aux insultes et à l’injustice."
-              },
-
-              {
-                id: 160,
-                tamil: "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும் இன்னாச்சொல் நோற்பாரின் பின்",
-                tamilfr: "Unnaadhu Norpaar Periyar Pirarsollum Innaachchol Norpaarin Pin",
-                translation: "Les grands ascètes qui jeûnent et pratiquent l’austérité viennent après ceux qui supportent les paroles blessantes d’autrui.",
-                comment: "Le texte place la patience face aux insultes au-dessus même des pratiques ascétiques comme le jeûne. La maîtrise intérieure et la tolérance verbale sont considérées comme des formes supérieures de discipline morale."
-              }, 
+              translation: "Même face à l’injustice, il vaut mieux souffrir que répondre par une mauvaise action.",
+              comment: "La maîtrise de soi face à l’injustice est valorisée : ne pas reproduire le mal est une force morale supérieure.",
+            },
+            {
+              id: 158,
+              tamil: "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம் தகுதியான் வென்று விடல்",
+              tamilfr: "Mikudhiyaan Mikkavai Seydhaaraith Thaandham Thakudhiyaan Vendru Vital",
+              translation: "Triompher des arrogants par la vertu et la patience est la vraie victoire.",
+              comment: "La véritable victoire est intérieure : elle consiste à répondre à l’agressivité par la maîtrise de soi.",
+            },
+            {
+              id: 159,
+              tamil: "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற்பவர்",
+              tamilfr: "Thurandhaarin Thooimai Utaiyar Irandhaarvaai Innaachchol Norkir Pavar",
+              translation: "Plus purs que les ascètes sont ceux qui supportent les paroles blessantes.",
+              comment: "La pureté morale est définie par la capacité à rester stable face aux insultes, au-delà même de l’ascèse.",
+            },
+            {
+              id: 160,
+              tamil: "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும் இன்னாச்சொல் நோற்பாரின் பின்",
+              tamilfr: "Unnaadhu Norpaar Periyar Pirarsollum Innaachchol Norpaarin Pin",
+              translation: "Les ascètes sont grands, mais encore plus grands sont ceux qui supportent les paroles blessantes.",
+              comment: "La maîtrise des paroles reçues est considérée comme une discipline morale supérieure même aux pratiques ascétiques.",
+            },
             ]// fin des kurals du chapitre 16
            },// fin du chapitre 16
+
+
+
+           { 
+            id: 17,
+            name: " 	Azhukkaaraamai <br> L’absence d’envie ", 
+            // KURAL DU CHAPITRE 17 ICI 
+            kurals: [
+
+                        {
+              id: 161,
+              tamil: "ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்து அழுக்காறு இலாத இயல்பு",
+              tamilfr: "Ozhukkaaraak Kolka Oruvandhan Nenjaththu Azhukkaaru Ilaadha Iyalpu",
+              translation: "La véritable vertu se reconnaît chez celui dont le cœur est dépourvu de jalousie.",
+              comment: "L’absence de jalousie est ici présentée comme une forme essentielle de droiture intérieure : elle reflète une stabilité morale et une conduite juste envers autrui.",
+            },
+            {
+              id: 162,
+              tamil: "விழுப்பேற்றின் அஃதொப்பது இல்லையார் மாட்டும் அழுக்காற்றின் அன்மை பெறின்",
+              tamilfr: "Vizhuppetrin Aqdhoppadhu Illaiyaar Maattum Azhukkaatrin Anmai Perin",
+              translation: "Être totalement libéré de la jalousie envers autrui est le plus grand des bienfaits.",
+              comment: "Se libérer de la jalousie est considéré comme un accomplissement supérieur à toute autre réussite, car cela apporte une paix intérieure durable.",
+            },
+            {
+              id: 163,
+              tamil: "அறன்ஆக்கம் வேண்டாதான் என்பான் பிறனாக்கம் பேணாது அழுக்கறுப்பான்",
+              tamilfr: "Aranaakkam Ventaadhaan Enpaan Piranaakkam Penaadhu Azhukkarup Paan",
+              translation: "Celui qui jalouse la prospérité d’autrui perd lui-même la richesse de la vertu.",
+              comment: "L’envie appauvrit moralement celui qui la nourrit : elle détourne de la droiture et empêche l’épanouissement intérieur.",
+            },
+            {
+              id: 164,
+              tamil: "அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின் ஏதம் படுபாக்கு அறிந்து",
+              tamilfr: "Azhukkaatrin Allavai Seyyaar Izhukkaatrin Edham Patupaakku Arindhu",
+              translation: "Ceux qui comprennent les effets néfastes de la jalousie ne commettent pas d’actes injustes sous son influence.",
+              comment: "La conscience des conséquences négatives de la jalousie agit comme une protection morale contre les comportements injustes.",
+            },
+            {
+              id: 165,
+              tamil: "அழுக்காறு உடையார்க்கு அதுசாலும் ஒன்னார் வழுக்காயும் கேடீன்பது",
+              tamilfr: "Azhukkaaru Utaiyaarkku Adhusaalum Onnaar Vazhukkayum Keteen Padhu",
+              translation: "Pour l’envieux, sa propre jalousie est déjà un ennemi plus destructeur que tout adversaire extérieur.",
+              comment: "La jalousie agit comme une force d’autodestruction : elle devient un ennemi intérieur plus dangereux que les obstacles extérieurs.",
+            },
+            {
+              id: 166,
+              tamil: "கொடுப்பது அழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம் உண்பதூஉம் இன்றிக் கெடும்",
+              tamilfr: "Kotuppadhu Azhukkaruppaan Sutram Utuppadhooum Unpadhooum Indrik Ketum",
+              translation: "La jalousie envers la générosité des autres entraîne la ruine de sa propre famille, privée de ressources essentielles.",
+              comment: "L’envie ne nuit pas seulement à l’individu, mais aussi à son entourage, provoquant appauvrissement et désintégration sociale.",
+            },
+            {
+              id: 167,
+              tamil: "அவ்வித்து அழுக்காறு உடையானைச் செய்யவள் தவ்வையைக் காட்டி விடும்",
+              tamilfr: "Avviththu Azhukkaaru Utaiyaanaich Cheyyaval Thavvaiyaik Kaatti Vitum",
+              translation: "La prospérité s’éloigne de celui qui est envieux et le livre à la misère.",
+              comment: "L’envie est décrite comme une force qui repousse naturellement la réussite et attire les conditions défavorables.",
+            },
+            {
+              id: 168,
+              tamil: "அழுக்காறு எனஒரு பாவி திருச்செற்றுத் தீயுழி உய்த்து விடும்",
+              tamilfr: "Azhukkaaru Ena Oru Paavi Thiruchchetruth Theeyuzhi Uyiththu Vidum",
+              translation: "L’envie détruit la prospérité et conduit l’homme vers le malheur.",
+              comment: "La jalousie est une force destructrice qui ruine à la fois la richesse matérielle et le bien-être moral.",
+            },
+            {
+              id: 169,
+              tamil: "அவ்விய நெஞ்சத்தான் ஆக்கமும் செவ்வியான் கேடும் நினைக்கப் படும்",
+              tamilfr: "Avviya Nenjaththaan Aakkamum Sevviyaan Kedum Ninaikkap Padum",
+              translation: "La réussite de l’envieux et les épreuves de l’homme droit suscitent réflexion et questionnement.",
+              comment: "Ce vers invite à dépasser les jugements immédiats sur la réussite et l’échec, et à comprendre la complexité des situations humaines.",
+            },
+            {
+              id: 170,
+              tamil: "அழுக்கற்று அகன்றாரும் இல்லை அஃதில்லார் பெருக்கத்தில் தீர்ந்தாரும் இல்",
+              tamilfr: "Azhukkatru Akandraarum Illai Aqdhuillaar Perukkaththil Theerndhaarum Il",
+              translation: "La jalousie n’a jamais conduit à un véritable gain, et son absence n’a jamais empêché une prospérité durable.",
+              comment: "Le kural distingue le gain réel de l’illusion : la jalousie n’apporte pas de bénéfice durable, tandis que la droiture n’empêche pas la réussite véritable.",
+            },
+                          
+            ]// fin des kural du chapitre 17
+           },// fin du chapitre 17 
+
+            { 
+            id: 18,
+            name: " 	Veqkaamai <br> Ne pas convoiter ", 
+            // KURAL DU CHAPITRE 18 ICI 
+            kurals: [
+             {
+                id: 171,
+                tamil: "நடுவின்றி நன்பொருள் வெஃகின் குடிபொன்றிக் குற்றமும் ஆங்கே தரும்",
+                tamilfr: "Natuvindri Nanporul Veqkin Kutipondrik Kutramum Aange Tharum",
+                translation: "Le désir injuste de convoiter la richesse honnête d’autrui détruit la famille et engendre immédiatement le mal.",
+                comment: "La convoitise injuste entraîne une double destruction : elle ruine la stabilité du foyer et fait naître le tort moral. Le texte met en garde contre le désir de ce qui ne nous appartient pas.",
+              },
+              {
+                id: 172,
+                tamil: "படுபயன் வெஃகிப் பழிப்படுவ செய்யார் நடுவன்மை நாணுபவர்",
+                tamilfr: "Patupayan Veqkip Pazhippatuva Seyyaar Natuvanmai Naanu Pavar",
+                translation: "Ceux qui considèrent l’injustice comme une honte évitent toute convoitise qui entraîne le blâme.",
+                comment: "L’honneur moral et le sens de la justice empêchent d’agir par cupidité. La honte de l’injustice devient une protection intérieure contre les mauvaises actions.",
+              },
+              {
+                id: 173,
+                tamil: "சிற்றின்பம் வெஃகி அறனல்ல செய்யாரே மற்றின்பம் வேண்டுபவர்",
+                tamilfr: "Sitrinpam Veqki Aranalla Seyyaare Matrinpam Ventu Pavar",
+                translation: "Ceux qui recherchent un bonheur durable ne commettent pas d’actions injustes pour des plaisirs éphémères.",
+                comment: "La recherche d’un bonheur durable oriente naturellement vers une conduite éthique, en rejetant les plaisirs courts qui impliquent des actes contraires à la droiture.",
+              },
+              {
+                id: 174,
+                tamil: "இலமென்று வெஃகுதல் செய்யார் புலம்வென்ற புன்மையில் காட்சி யவர்",
+                tamilfr: "Ilamendru Veqkudhal Seyyaar Pulamvendra Punmaiyil Kaatchi Yavar",
+                translation: "Ceux dont l’esprit est clair et les sens maîtrisés ne convoitent pas en invoquant leur pauvreté.",
+                comment: "La lucidité et la maîtrise des sens empêchent de justifier la convoitise par la pauvreté. L’éthique repose ici sur la clarté intérieure et le contrôle de soi.",
+              },
+              {
+                id: 175,
+                tamil: "அஃகி அகன்ற அறிவென்னாம் யார்மாட்டும் வெஃகி வெறிய செயின்",
+                tamilfr: "Aqki Akandra Arivennaam Yaarmaattum Veqki Veriya Seyin",
+                translation: "À quoi sert une intelligence vive et étendue si la convoitise et la folie de l’avidité prennent le dessus ?",
+                comment: "Le savoir perd sa valeur lorsqu’il est dominé par la cupidité : l’intelligence seule ne suffit pas sans maîtrise morale et contrôle des désirs.",
+              },
+              {
+                id: 176,
+                tamil: "அருள்வெஃகி ஆற்றின்கண் நின்றான் பொருள்வெஃகிப் பொல்லாத சூழக் கெடும்",
+                tamilfr: "Arulveqki Aatrinkan Nindraan Porulveqkip Pollaadha Soozhak Ketum",
+                translation: "Même celui qui est ancré dans la voie de la compassion peut périr s’il est saisi par la convoitise des biens et des pensées mauvaises.",
+                comment: "Même une personne vertueuse n’est pas à l’abri de la chute si elle cède à la cupidité. Le texte avertit que la convoitise peut détruire même les qualités spirituelles les plus solides.",
+              },
+              {
+                id: 177,
+                tamil: "வேண்டற்க வெஃகியாம் ஆக்கம் விளைவயின் மாண்டற் கரிதாம் பயன்",
+                tamilfr: "Ventarka Veqkiyaam Aakkam Vilaivayin Maantar Karidhaam Payan",
+                translation: "Ne convoite pas les richesses issues de la cupidité, car leur fruit est rarement bénéfique.",
+                comment: "Il est déconseillé de rechercher un gain né de la convoitise : même s’il semble avantageux, ses résultats sont généralement nuisibles ou sans valeur durable.",
+              },
+              {
+              id: 178,
+              tamil: "அஃகாமை செல்வத்திற்கு யாதெனின் வெஃகாமை வேண்டும் பிறன்கைப் பொருள்",
+              tamilfr: "Aqkaamai Selvaththirku Yaadhenin Veqkaamai Ventum Pirankaip Porul",
+              translation: "Si l’on veut préserver sa propre richesse, il faut s’abstenir de convoiter les biens d’autrui.",
+              comment: "Le kural établit un lien direct entre l’absence de convoitise et la stabilité de ses propres biens : respecter ce qui appartient aux autres protège aussi sa propre prospérité.",
+            },
+
+              {
+              id: 179,
+              tamil: "அறனறிந்து வெஃகா அறிவுடையார்ச் சேரும் திறன்அறிந்தாங்கே திரு",
+              tamilfr: "Aranarindhu Veqkaa Arivutaiyaarch Cherum Thiranarin Thaange Thiru",
+              translation: "La fortune s’approche de ceux qui, sages et conscients du devoir moral, s’abstiennent de convoiter les biens d’autrui.",
+              comment: "La prospérité est associée à la sagesse éthique : comprendre la valeur de la non-convoitise attire naturellement la stabilité et la réussite dans la vie.",
+            },
+
+              {
+              id: 180,
+              tamil: "இறலீனும் எண்ணாது வெஃகின் விறல்ஈனும் வேண்டாமை என்னுஞ் செருக்கு",
+              tamilfr: "Iral eenum Ennaadhu Veqkin Viral eenum Ventaamai Ennum Cherukku",
+              translation: "La convoitise aveugle conduit à la perte, tandis que la fierté de ne pas désirer apporte la force et la réussite.",
+              comment: "Le vers oppose deux attitudes : la convoitise irréfléchie qui mène à la ruine, et la maîtrise de soi qui engendre une force durable. Le véritable pouvoir réside dans l’absence de désir excessif et le contrôle intérieur.",
+            },
+                          
+            ]// fin des kural du chapitre 18
+          }// fin du chapitre 18
+
+           { 
+            id: 19,
+            name: " 	Purangooraamai <br> Ne pas médire ", 
+            // KURAL DU CHAPITRE 19 ICI 
+            kurals: [
+
+                            {
+                id: 181,
+                tamil: "அறங்கூறான் அல்ல செயினும் ஒருவன் புறங்கூறான் என்றல் இனிது",
+                tamilfr: "Arangooraan Alla Seyinum Oruvan Purangooraan Endral Inidhu",
+                translation: "Même si l’on ne pratique pas parfaitement la vertu, il est agréable de ne pas être un calomniateur.",
+                comment: "Ne pas médire d’autrui est déjà une qualité morale précieuse, même si le reste de la conduite n’est pas irréprochable.",
+              },
+              {
+                id: 182,
+                tamil: "அறனழீஇ அல்லவை செய்தலின் தீதே புறனழீஇப் பொய்த்து நகை",
+                tamilfr: "Aranazheei Allavai Seydhalin Theedhe Puranazheeip Poiththu Nakai",
+                translation: "Il est pire de sourire en face tout en dénigrant derrière que de commettre directement une faute.",
+                comment: "L’hypocrisie et la calomnie sont présentées comme des formes particulièrement graves d’injustice morale.",
+              },
+              {
+                id: 183,
+                tamil: "புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல் அறங்கூற்றும் ஆக்கத் தரும்",
+                tamilfr: "Purangoorip Poiththuyir Vaazhdhalin Saadhal Arangootrum Aakkath Tharum",
+                translation: "Il vaut mieux mourir avec droiture que vivre en calomniant sous de fausses apparences.",
+                comment: "La sincérité morale est valorisée au point que la mort est préférable à une vie fondée sur la calomnie et l’hypocrisie.",
+              },
+              {
+                id: 184,
+                tamil: "கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க முன்னின்று பின்னோக்காச் சொல்",
+                tamilfr: "Kannindru Kannarach Chollinum Sollarka Munnindru Pinnokkaach Chol",
+                translation: "Il vaut mieux dire en face des paroles dures que de parler derrière le dos sans courage.",
+                comment: "Le texte condamne la parole sournoise et valorise la franchise directe, même lorsqu’elle est difficile à entendre.",
+              },
+              {
+                id: 185,
+                tamil: "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும் புன்மையாற் காணப் படும்",
+                tamilfr: "Aranjollum Nenjaththaan Anmai Puranjollum Punmaiyaar Kaanap Patum",
+                translation: "L’hypocrisie de celui qui parle de vertu mais médite en secret se révèle dans ses paroles malveillantes.",
+                comment: "Le décalage entre discours moral et comportement réel est mis en lumière à travers la tendance à médire d’autrui.",
+              },
+              {
+                id: 186,
+                tamil: "பிறன்பழி கூறுவான் தன்பழி யுள்ளும் திறன்தெரிந்து கூறப் படும்",
+                tamilfr: "Piranpazhi Kooruvaan Thanpazhi Yullum Thirandherindhu Koorap Patum",
+                translation: "Celui qui critique les défauts des autres verra ses propres défauts révélés.",
+                comment: "La critique d’autrui est présentée comme un mécanisme qui expose aussi les propres faiblesses de celui qui juge.",
+              },
+              {
+                id: 187,
+                tamil: "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி நட்பாடல் தேற்றாதவர்",
+                tamilfr: "Pakachchollik Kelirp Pirippar Nakachcholli Natpaatal Thetraa Thavar",
+                translation: "Ceux qui ne savent pas entretenir l’amitié par des paroles bienveillantes finissent par semer la division.",
+                comment: "La qualité de la parole détermine la qualité des relations : l’absence de bienveillance détruit les liens sociaux.",
+              },
+              {
+                id: 188,
+                tamil: "துன்னியார் குற்றமும் தூற்றும் மரபினார் என்னைகொல் ஏதிலார் மாட்டு",
+                tamilfr: "Thunniyaar Kutramum Thootrum Marapinaar Ennaikol Edhilaar Maattu",
+                translation: "S’ils dénoncent même les défauts de leurs proches, que feront-ils envers des étrangers ?",
+                comment: "Le vers met en garde contre la tendance à la calomnie, qui peut s’étendre sans limite et détruire toutes les relations.",
+              },
+              {
+                id: 189,
+                tamil: "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப் புன்சொல் உரைப்பான் பொறை",
+                tamilfr: "Arannokki Aatrungol Vaiyam Puranokkip Punsol Uraippaan Porai",
+                translation: "La terre supporte les calomniateurs uniquement par devoir et ordre moral.",
+                comment: "La patience du monde est comparée à une force morale qui tolère même les comportements nuisibles par principe d’ordre et de stabilité.",
+              },
+              {
+                id: 190,
+                tamil: "ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின் தீதுண்டோ மன்னும் உயிர்க்கு",
+                tamilfr: "Edhilaar Kutrampol Thangutrang Kaankirpin Theedhunto Mannum Uyirkku",
+                translation: "S’il voyait ses propres défauts comme ceux des autres, l’être humain pourrait-il encore faire le mal ?",
+                comment: "L’introspection est présentée comme une clé morale essentielle : reconnaître ses propres défauts permet d’éviter de juger injustement autrui.",
+              },
+              
+              ]// fin des kural du chapitre 19
+           }//fin du chapitre 19
+
+           { 
+            id: 20,
+            name: " 	Payanila Sollaamai <br> Ne pas parler inutilement ", 
+            // KURAL DU CHAPITRE 20 ICI 
+            kurals: [
+              {
+              id: 191,
+              tamil: "பல்லார் முனியப் பயனில சொல்லுவான் எல்லாரும் எள்ளப் படும்",
+              tamilfr: "Pallaar Muniyap Payanila Solluvaan Ellaarum Ellap Patum",
+              translation: "Celui qui parle inutilement devant beaucoup de gens finit par être méprisé de tous.",
+              comment: "Les paroles sans utilité finissent par nuire à la réputation de celui qui les prononce, car elles fatiguent et agacent l’auditoire.",
+            },
+            {
+              id: 192,
+              tamil: "பயனில பல்லார்முன் சொல்லல் நயனில நட்டார்கண் செய்தலிற் றீது",
+              tamilfr: "Payanila Pallaarmun Sollal Nayanila Nattaarkan Seydhalir Reedhu",
+              translation: "Parler inutilement en public est pire qu’un tort commis envers un ami.",
+              comment: "Le texte souligne la gravité de la parole vaine, qui peut endommager les relations sociales et la confiance plus qu’un simple acte isolé.",
+            },
+            {
+              id: 193,
+              tamil: "நயனிலன் என்பது சொல்லும் பயனில பாரித் துரைக்கும் உரை",
+              tamilfr: "Nayanilan Enpadhu Sollum Payanila Paarith Thuraikkum Urai",
+              translation: "Celui qui multiplie les paroles inutiles révèle son manque de valeur.",
+              comment: "La parole excessive et vide est présentée comme un signe de faiblesse intérieure et de manque de discernement.",
+            },
+            {
+              id: 194,
+              tamil: "நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப் பண்பில்சொல் பல்லா ரகத்து",
+              tamilfr: "Nayansaaraa Nanmaiyin Neekkum Payansaaraap Panpilsol Pallaa Rakaththu",
+              translation: "Les paroles vides prononcées en société font perdre tout mérite et toute qualité.",
+              comment: "Les discours sans valeur peuvent annuler les effets positifs d’une conduite autrement bonne, en diminuant la perception de la personne.",
+            },
+            {
+              id: 195,
+              tamil: "சீர்மை சிறப்பொடு நீங்கும் பயனில நீர்மை யுடையார் சொலின்",
+              tamilfr: "Seermai Sirappotu Neengum Payanila Neermai Yutaiyaar Solin",
+              translation: "Même une personne vertueuse perd sa réputation si elle parle sans utilité.",
+              comment: "La dignité morale est fragile : des paroles inutiles peuvent ternir l’image même des personnes respectées.",
+            },
+            {
+              id: 196,
+              tamil: "பயனில்சொல் பராட்டுவானை மகன்எனல் மக்கட் பதடி யெனல்",
+              tamilfr: "Payanil Sol Paaraattu Vaanai Makanenal Makkat Padhati Yenal",
+              translation: "Celui qui aime les paroles inutiles ne doit pas être considéré comme un véritable homme.",
+              comment: "Le texte condamne fortement la parole vaine, la considérant comme indigne d’une conduite humaine responsable.",
+            },
+            {
+              id: 197,
+              tamil: "நயனில சொல்லினுஞ் சொல்லுக சான்றோர் பயனில சொல்லாமை நன்று",
+              tamilfr: "Nayanila Sollinunj Cholluka Saandror Payanila Sollaamai Nandru",
+              translation: "Même des paroles désagréables peuvent être dites, mais les sages évitent les paroles inutiles.",
+              comment: "La vérité peut parfois être difficile, mais elle reste préférable à des paroles vides qui n’apportent rien de constructif.",
+            },
+            {
+              id: 198,
+              tamil: "அரும்பயன் ஆயும் அறிவினார் சொல்லார் பெரும்பயன் இல்லாத சொல்",
+              tamilfr: "Arumpayan Aayum Arivinaar Sollaar Perumpayan Illaadha Sol",
+              translation: "Les sages qui évaluent la valeur des choses ne prononcent pas de paroles sans utilité.",
+              comment: "La sagesse se manifeste par la sélection rigoureuse des paroles, en ne gardant que celles qui ont une réelle valeur.",
+            },
+            {
+              id: 199,
+              tamil: "பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த மாசறு காட்சி யவர்",
+              tamilfr: "Poruldheerndha Pochchaandhunj Chollaar Maruldheerndha Maasaru Kaatchi Yavar",
+              translation: "Ceux qui ont une vision claire ne prononcent même pas par oubli des paroles dépourvues de sens.",
+              comment: "La pureté de perception est telle qu’elle empêche même les paroles inutiles involontaires, montrant un haut niveau de maîtrise intérieure.",
+            },
+            {
+              id: 200,
+              tamil: "சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க சொல்லிற் பயனிலாச் சொல்",
+              tamilfr: "Solluka Sollir Payanutaiya Sollarka Sollir Payanilaach Chol",
+              translation: "Parle uniquement de ce qui a une utilité, et évite les paroles sans valeur.",
+              comment: "Le texte conclut en posant une règle générale : la parole doit être utile, mesurée et porteuse de sens pour être véritablement juste.",
+            },
+              
+            ]//fin des kural du chapitre 20
+           }//fin du chapitre 20
+
+
+           { 
+            id: 21,
+            name: " 	Against Vain Speaking <br> La peur des mauvaises actions", 
+            // KURAL DU CHAPITRE 21 ICI 
+            kurals: [
+              {
+              id: 201,
+              tamil: "தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர் தீவினை என்னும் செருக்கு",
+              tamilfr: "Theevinaiyaar Anjaar Vizhumiyaar Anjuvar Theevinai Ennum Serukku",
+              translation: "Les méchants ne craignent pas le mal, mais les hommes vertueux craignent l’orgueil du mal.",
+              comment: "La vraie sagesse consiste à redouter l’orgueil et la dérive morale du mal, plutôt que de s’y habituer ou de l’ignorer.",
+            },
+            {
+              id: 202,
+              tamil: "தீயவை தீய பயத்தலால் தீயவை தீயினும் அஞ்சப் படும்",
+              tamilfr: "Theeyavai Theeya Payaththalaal Theeyavai Theeyinum Anjap Patum",
+              translation: "Le mal engendre le mal, c’est pourquoi il doit être redouté plus que le feu.",
+              comment: "Le texte insiste sur la nature auto-destructrice du mal : ses conséquences justifient une peur plus grande que celle du danger physique.",
+            },
+            {
+              id: 203,
+              tamil: "அறிவினுள் எல்லாந் தலையென்ப தீய செறுவார்க்கும் செய்யா விடல்",
+              tamilfr: "Arivinul Ellaan Thalaiyenpa Theeya Seruvaarkkum Seyyaa Vital",
+              translation: "La plus haute sagesse est de ne pas rendre le mal, même à ses ennemis.",
+              comment: "La maîtrise de soi et la non-violence sont présentées comme le sommet de l’intelligence morale.",
+            },
+            {
+              id: 204,
+              tamil: "மறந்தும் பிறன்கேடு சூழற்க சூழின் அறஞ்சூழம் சூழ்ந்தவன் கேடு",
+              tamilfr: "Marandhum Piranketu Soozharka Soozhin Aranjoozham Soozhndhavan Ketu",
+              translation: "Ne complote pas contre autrui, même par erreur, car la justice finira par se retourner contre toi.",
+              comment: "Toute intention de nuire engendre un retour moral inévitable : la justice agit comme une conséquence naturelle des actes.",
+            },
+            {
+              id: 205,
+              tamil: "இலன்என்று தீயவை செய்யற்க செய்யின் இலனாகும் மற்றும் பெயர்த்து",
+              tamilfr: "Ilan Endru Theeyavai Seyyarka Seyyin Ilanaakum Matrum Peyarththu",
+              translation: "Ne commets pas de mal sous prétexte de pauvreté, car cela mène à une perte encore plus grande.",
+              comment: "La justification du mal par la nécessité matérielle est rejetée : elle conduit à une dégradation encore plus profonde.",
+            },
+            {
+              id: 206,
+              tamil: "தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால தன்னை அடல்வேண்டா தான்",
+              tamilfr: "Theeppaala Thaanpirarkan Seyyarka Noippaala Thannai Atalventaa Thaan",
+              translation: "Celui qui veut éviter la souffrance ne doit pas en infliger aux autres.",
+              comment: "Le principe de réciprocité morale est mis en avant : éviter de nuire est la condition pour éviter soi-même la douleur.",
+            },
+            {
+              id: 207,
+              tamil: "எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை வீயாது பின்சென்று அடும்",
+              tamilfr: "Enaippakai Yutraarum Uyvar Vinaippakai Veeyaadhu Pinsendru Atum",
+              translation: "Les ennemis extérieurs peuvent être évités, mais les conséquences des mauvaises actions poursuivent toujours leur auteur.",
+              comment: "Les actes ont des conséquences inévitables et persistantes, plus puissantes que les conflits extérieurs.",
+            },
+            {
+              id: 208,
+              tamil: "தீயவை செய்தார் கெடுதல் நிழல்தன்னை வீயாது அஇஉறைந்தற்று",
+              tamilfr: "Theeyavai Seydhaar Ketudhal Nizhaldhannai Veeyaadhu Atiurain Thatru",
+              translation: "Les conséquences des mauvaises actions suivent leur auteur comme une ombre indissociable.",
+              comment: "Le mal produit des effets durables et inévitables qui accompagnent toujours celui qui agit mal.",
+            },
+            {
+              id: 209,
+              tamil: "தன்னைத்தான் காதலனாயின் எனைத்தொன்றும் துன்னற்க தீவினைப் பால்",
+              tamilfr: "Thannaiththaan Kaadhala Naayin Enaiththondrum Thunnarka Theevinaip Paal",
+              translation: "Si l’on s’aime soi-même, on doit s’abstenir de toute forme de mal.",
+              comment: "L’amour de soi implique une responsabilité morale : éviter le mal est une forme de respect de soi.",
+            },
+            {
+              id: 210,
+              tamil: "அருங்கேடன் என்பது அறிக மருங்கோடித் தீவினை செய்யான் எனின்",
+              tamilfr: "Arungetan Enpadhu Arika Marungotith Theevinai Seyyaan Enin",
+              translation: "Sache qu’aucun mal ne peut atteindre celui qui ne s’engage jamais dans le mal.",
+              comment: "L’intégrité morale agit comme une protection : éviter le mal empêche d’en subir les conséquences.",
+            },
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
