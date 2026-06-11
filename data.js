@@ -1348,6 +1348,94 @@ const thirukuralData = {
           },//fin du chapitre 15 
 
 
+
+           { 
+            id: 16,
+            name: " 	Poraiyudaimai <br> La patience et la tolérance ", 
+            // KURAL DU CHAPITRE 16 ICI 
+            kurals: [
+
+              {
+            id: 151,
+            tamil: "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை இகழ்வார்ப் பொறுத்தல் தலை",
+            tamilfr: "Akazhvaaraith Thaangum Nilampolath Thammai Ikazhvaarp Poruththal Thalai",
+            translation: "Supporter ceux qui nous insultent est la meilleure des conduites, comme la terre qui supporte ceux qui la creusent.",
+            comment: "La patience face aux offenses est présentée comme une grandeur morale. Comme la terre qui endure sans se plaindre, la personne vertueuse répond à l’injustice par la maîtrise de soi et la tolérance."
+             },
+
+            {
+              id: 152,
+              tamil: "பொறுத்தல் இறப்பினை என்றும் அதனை மறத்தல் அதனினும் நன்று",
+              tamilfr: "Poruththal Irappinai Endrum Adhanai Maraththal Adhaninum Nandru",
+              translation: "Pardonner les offenses en permanence, et mieux encore : les oublier.",
+              comment: "Le kural élève le pardon au niveau le plus haut de la maturité morale. Non seulement pardonner apaise les relations, mais oublier les torts évite aussi de raviver la souffrance intérieure et favorise une paix durable."
+            },
+
+            {
+              id: 153,
+              tamil: "இன்நம்யுள் இன்மை விருந்தொரால் வன்மையுள் வன்மை மடவார்ப் பொறை",
+              tamilfr: "Inmaiyul Inmai Virundhoraal Vanmaiyul Vanmai Matavaarp Porai",
+              translation: "La pire des pauvretés est de ne pas accueillir l’hôte, et la plus grande des forces est la patience envers les ignorants.",
+              comment: "Le vers oppose deux extrêmes moraux : l’absence d’hospitalité comme forme de misère intérieure, et la patience comme véritable marque de grandeur. La force morale ne réside pas dans la domination, mais dans la maîtrise de soi face aux comportements difficiles."
+            },
+
+              {
+              id: 154,
+              tamil: "நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை போற்றி யொழுகப் படும்",
+              tamilfr: "Niraiyutaimai Neengaamai Ventin Poraiyutaimai Potri Yozhukap Patum",
+              translation: "Si l’on souhaite que la grandeur ne quitte jamais une personne, il faut cultiver la patience et la tolérance.",
+              comment: "La stabilité de la dignité personnelle dépend de la maîtrise de soi. La patience et la capacité à supporter les difficultés sont présentées comme des fondations durables de l’excellence morale."
+              },
+
+              {
+                id: 155,
+                tamil: "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர் பொறுத்தாரைப் பொன்போற் பொதிந்து",
+                tamilfr: "Oruththaarai Ondraaka Vaiyaare Vaippar Poruththaaraip Ponpor Podhindhu",
+                translation: "Les vengeurs sont méprisés comme sans valeur, tandis que ceux qui savent pardonner sont estimés comme de l’or.",
+                comment: "Le kural oppose vengeance et patience : la première dégrade l’individu, tandis que la seconde lui confère une valeur morale élevée. La tolérance est ici associée à une noblesse comparable à l’or."
+              },
+
+              {
+              id: 156,
+              tamil: "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப் பொன்றுந் துணையும் புகழ்",
+              tamilfr: "Oruththaarkku Orunaalai Inpam Poruththaarkkup Pondrun Thunaiyum Pukazh",
+              translation: "La vengeance procure un plaisir d’un jour, mais la patience apporte une gloire durable.",
+              comment: "Le kural oppose l’éphémère et le durable : la satisfaction de la vengeance est passagère, tandis que la maîtrise de soi et la patience construisent une réputation de vertu qui perdure dans le temps."
+              },
+
+              {
+              id: 157,
+              tamil: "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து அறனல்ல செய்யாமை நன்று",
+              tamilfr: "Thiranalla Tharpirar Seyyinum Nonondhu Aranalla Seyyaamai Nandru",
+              translation: "Même si l’on subit une injustice de la part d’autrui, il est préférable de souffrir en silence et de ne pas répondre par une action injuste.",
+              comment: "Le kural insiste sur la maîtrise de soi face à l’injustice. La souffrance ne doit pas conduire à reproduire le mal ; la véritable force morale consiste à préserver la droiture même dans l’épreuve."
+              },
+
+              {
+                id: 158,
+                tamil: "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம் தகுதியான் வென்று விடல்",
+                tamilfr: "Mikudhiyaan Mikkavai Seydhaaraith Thaandham Thakudhiyaan Vendru Vital",
+                translation: "Que l’on triomphe par sa vertu et sa patience de ceux qui nous offensent avec arrogance.",
+                comment: "Le kural propose une forme de victoire morale : répondre à l’agressivité non par la réciprocité, mais par la maîtrise de soi. La vraie supériorité réside dans la retenue et la droiture."
+              },
+
+              {
+                id: 159,
+                tamil: "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய் இன்னாச்சொல் நோற்கிற்பவர்",
+                tamilfr: "Thurandhaarin Thooimai Utaiyar Irandhaarvaai Innaachchol Norkir Pavar",
+                translation: "Plus purs que les ascètes sont ceux qui supportent les paroles blessantes de leurs adversaires.",
+                comment: "La véritable pureté ne vient pas seulement de l’ascèse ou du retrait du monde, mais de la capacité à rester stable intérieurement face aux insultes et à l’injustice."
+              },
+
+              {
+                id: 160,
+                tamil: "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும் இன்னாச்சொல் நோற்பாரின் பின்",
+                tamilfr: "Unnaadhu Norpaar Periyar Pirarsollum Innaachchol Norpaarin Pin",
+                translation: "Les grands ascètes qui jeûnent et pratiquent l’austérité viennent après ceux qui supportent les paroles blessantes d’autrui.",
+                comment: "Le texte place la patience face aux insultes au-dessus même des pratiques ascétiques comme le jeûne. La maîtrise intérieure et la tolérance verbale sont considérées comme des formes supérieures de discipline morale."
+              }, 
+            ]// fin des kurals du chapitre 16
+           },// fin du chapitre 16
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
