@@ -2704,14 +2704,398 @@ const thirukuralData = {
     "translation": "Toutes les souffrances retombent sur ceux qui font le mal; ceux qui souhaitent ne pas souffrir ne causent pas de tort.",
     "comment": "Éviter de nuire aux autres est présenté comme la condition fondamentale pour se préserver soi-même de la souffrance."
   }
-
-              
+        
             ]
   },// fin du chapitre 32
 
+          {
+  id: 33,
+  name: "33. Kollaamai - <br> Ne pas tuer / Non-violence",
+  kurals: [
+    {
+      id: 321,
+      tamil: "அறவினை யாதெனின் கொல்லாமை கோறல் பிறவினை எல்லாந் தரும்.",
+      transliteration: "Aravinai Yaadhenin Kollaamai Koral Piravinai Ellaan Tharum",
+      translation: "Le principe de la vertu est de ne pas tuer, car l’acte de tuer entraîne toutes les autres formes de mal.",
+      comment: "La non-violence est posée comme fondement moral : toute destruction de vie ouvre la porte à des conséquences éthiques négatives."
+    },
+    {
+      id: 322,
+      tamil: "பகுத்துண்டு பல்லுயிர் ஓம்புதல் நூலோர் தொகுத்தவற்றுள் எல்லாந் தலை.",
+      transliteration: "Pakuththuntu Palluuyir Ompudhal Noolor Thokuththavatrul Ellaan Thalai",
+      translation: "Parmi toutes les doctrines, la plus élevée est celle qui consiste à partager sa nourriture et protéger toute forme de vie.",
+      comment: "La sagesse se manifeste dans le partage et le soin du vivant, considérés comme l’essence même de l’éthique."
+    },
+    {
+      id: 323,
+      tamil: "ஒன்றாக நல்லது கொல்லாமை மற்றதன் பின்சாரப் பொய்யாமை நன்று.",
+      transliteration: "Ondraaka Nalladhu Kollaamai Matradhan Pinsaarap Poiyaamai Nandru",
+      translation: "Le premier bien est de ne pas tuer ; le second est de ne pas mentir.",
+      comment: "La hiérarchie morale commence par le respect de la vie, puis par la sincérité dans les paroles."
+    },
+    {
+      id: 324,
+      tamil: "நல்லாறு எனப்படுவது யாதெனின் யாதொன்றும் கொல்லாமை சூழும் நெறி.",
+      transliteration: "Nallaaru Enappatuvadhu Yaadhenin Yaadhondrum Kollaamai Soozhum Neri",
+      translation: "Le chemin juste est celui qui évite toute forme de destruction du vivant.",
+      comment: "La droiture est définie comme une conduite qui protège l’ensemble des êtres sans exception."
+    },
+    {
+      id: 325,
+      tamil: "நிலைஅஞ்சி நீத்தாருள் எல்லாம் கொலைஅஞ்சிக் கொல்லாமை சூழ்வான் தலை.",
+      transliteration: "Nilaiyanji Neeththaarul Ellaam Kolaianjik Kollaamai Soozhvaan Thalai",
+      translation: "Parmi tous ceux qui renoncent aux attaches, le plus élevé est celui qui craint de tuer et choisit la non-violence.",
+      comment: "Le véritable renoncement inclut la peur morale de nuire à toute forme de vie."
+    },
+    {
+      id: 326,
+      tamil: "கொல்லாமை மேற்கொண் டொழுகுவான் வாழ்நாள்மேல் செல்லாது உயிருண்ணுங் கூற்று.",
+      transliteration: "Kollaamai Merkon Tozhukuvaan Vaazhnaalmel Sellaadhu Uyirunnung Kootru",
+      translation: "La mort elle-même n’approche pas celui qui vit sans tuer.",
+      comment: "La non-violence est présentée comme une protection spirituelle contre la destruction ultime."
+    },
+    {
+      id: 327,
+      tamil: "தன்னுயிர் நீப்பினும் செய்யற்க தான்பிறிது இன்னுயிர் நீக்கும் வினை.",
+      transliteration: "Thannuyir Neeppinum Seyyarka Thaanpiridhu Innuyir Neekkum Vinai",
+      translation: "Même au prix de sa propre vie, il ne faut jamais enlever la vie d’un autre être.",
+      comment: "La vie d’autrui est considérée comme inviolable, même face à un danger personnel."
+    },
+    {
+      id: 328,
+      tamil: "நன்றாகும் ஆக்கம் பெரிதெனினும் சான்றோர்க்குக் கொன்றாகும் ஆக்கங் கடை.",
+      transliteration: "Nandraakum Aakkam Peridheninum Saandrorkkuk Kondraakum Aakkang Katai",
+      translation: "Même une grande prospérité est rejetée par les sages si elle provient de la violence ou du meurtre.",
+      comment: "La fin ne justifie jamais les moyens lorsqu’elle implique la destruction d’une vie."
+    },
+    {
+      id: 329,
+      tamil: "கொலைவினைய ராகிய மாக்கள் புலைவினையர் புன்மை தெரிவா ரகத்து.",
+      transliteration: "Kolaivinaiya Raakiya Maakkal Pulaivinaiyar Punmai Therivaa Rakaththu",
+      translation: "Ceux qui vivent du meurtre sont considérés comme appartenant à une condition inférieure aux yeux des sages.",
+      comment: "La violence répétée façonne une identité morale dégradée selon la perspective éthique du texte."
+    },
+    {
+      id: 330,
+      tamil: "உயிர்உடம்பின் நீக்கியார் என்ப செயிர்உடம்பின் செல்லாத்தீ வாழ்க்கை யவர்.",
+      transliteration: "UyirUtampin Neekkiyaar Enpa SeyirUtampin Sellaaththee Vaazhkkai Yavar",
+      translation: "On dit que ceux qui ôtent la vie vivent eux-mêmes une existence marquée par la souffrance et la dégradation.",
+      comment: "Le texte relie la violence infligée aux autres à une détérioration intérieure de celui qui l’exerce."
+    }
+  ]
+},//fin du chapitre 33
+
+          {
+  id: 34,
+  name: "34. Nilaimai Inmai - <br> Impermanence / Instabilité du monde",
+  kurals: [
+    {
+      id: 331,
+      tamil: "நில்லாத வற்றை நிலையின என்றுணரும் புல்லறி வாண்மை கடை.",
+      transliteration: "Nillaadha Vatrai Nilaiyina Endrunarum Pullari Vaanmai Katai",
+      translation: "Croire que ce qui est éphémère est permanent est la plus grande des ignorances.",
+      comment: "L’erreur fondamentale consiste à prendre pour durable ce qui est par nature instable et transitoire."
+    },
+    {
+      id: 332,
+      tamil: "கூத்தாட்டு அவைக்குழாத் தற்றே பெருஞ்செல்வம் போக்கும் அதுவிளிந் தற்று.",
+      transliteration: "Kooththaattu Avaik Kuzhaath Thatre Perunjelvam Pokkum Adhuvilin Thatru",
+      translation: "La grande richesse ressemble à une foule de spectacle : elle s’assemble puis disparaît aussitôt.",
+      comment: "Les biens matériels sont instables, ils apparaissent et s’évanouissent comme une illusion."
+    },
+    {
+      id: 333,
+      tamil: "அற்கா இயல்பிற்றுச் செல்வம் அதுபெற்றால் அற்குப ஆங்கே செயல்.",
+      transliteration: "Arkaa Iyalpitruch Chelvam Adhupetraal Arkupa Aange Seyal",
+      translation: "La richesse est par nature périssable : lorsqu’on l’obtient, il faut l’utiliser immédiatement pour de bonnes actions.",
+      comment: "La valeur de la richesse dépend de son usage éthique avant sa disparition inévitable."
+    },
+    {
+      id: 334,
+      tamil: "நாளென ஒன்றுபோற் காட்டி உயிர்ஈரும் வாளது உணர்வார்ப் பெறின்.",
+      transliteration: "Naalena Ondrupor Kaatti Uyir Eerum Vaaladhu Unarvaarp Perin",
+      translation: "Le temps apparaît comme une journée, mais il tranche en réalité la vie comme une lame.",
+      comment: "Le temps est perçu comme neutre, mais il détruit silencieusement toute existence."
+    },
+    {
+      id: 335,
+      tamil: "நாச்செற்று விக்குள்மேல் வாராமுன் நல்வினை மேற்சென்று செய்யப் படும்.",
+      transliteration: "Naachchetru Vikkulmel Vaaraamun Nalvinai Mersendru Seyyap Patum",
+      translation: "Il faut accomplir le bien avant que la parole ne se bloque et que la mort n’arrive.",
+      comment: "L’urgence morale consiste à agir avant que les capacités humaines ne disparaissent."
+    },
+    {
+      id: 336,
+      tamil: "நெருநல் உளனொருவன் இன்றில்லை என்னும் பெருமை உடைத்துஇவ் வுலகு.",
+      transliteration: "Nerunal Ulanoruvan Indrillai Ennum Perumai Utaiththuiv Vulaku",
+      translation: "La grandeur de ce monde est que celui qui existait hier n’existe plus aujourd’hui.",
+      comment: "La disparition constante des êtres révèle la nature transitoire de toute existence."
+    },
+    {
+      id: 337,
+      tamil: "ஒருபொழுதும் வாழ்வது அறியார் கருதுப கோடியும் அல்ல பல.",
+      transliteration: "Orupozhudhum Vaazhvadhu Ariyaar Karudhupa Kotiyum Alla Pala",
+      translation: "Ceux qui ne savent pas s’ils vivront un instant encore font pourtant de nombreux projets.",
+      comment: "L’incertitude radicale de la vie rend illusoire la planification excessive."
+    },
+    {
+      id: 338,
+      tamil: "குடம்பை தனித்துஒழியப் புள்பறந் தற்றே உடம்பொடு உயிரிடை நட்பு.",
+      transliteration: "Kutampai Thaniththu Ozhiyap Pulparan Thatre Utampotu Uyiritai Natpu",
+      translation: "La relation entre le corps et l’âme est comme celle d’un oiseau quittant son nid.",
+      comment: "Le lien entre le corps et la vie est temporaire et destiné à se rompre."
+    },
+    {
+      id: 339,
+      tamil: "உறங்கு வதுபோலுஞ் சாக்காடு உறங்கி விழிப்பது போலும் பிறப்பு.",
+      transliteration: "Urangu Vadhupolunj Chaakkaatu Urangi Vizhippadhu Polum Pirappu",
+      translation: "La mort est semblable au sommeil, et la naissance à un réveil.",
+      comment: "La vie est présentée comme un cycle continu de transitions entre états."
+    },
+    {
+      id: 340,
+      tamil: "புக்கில் அமைந்தின்று கொல்லோ உடம்பினுள் துச்சில் இருந்த உயிர்க்கு.",
+      transliteration: "Pukkil Amaindhindru Kollo Utampinul Thuchchil Irundha Uyirkku",
+      translation: "L’âme n’a-t-elle donc aucun refuge permanent dans le corps ?",
+      comment: "Le corps est décrit comme un abri temporaire pour une existence plus profonde."
+    }
+  ]
+},// fin du chapitre 34
+
+          {
+  id: 35,
+  name: "35. Thuravu - <br> Renoncement / Détachement",
+  kurals: [
+    {
+      id: 341,
+      tamil: "யாதனின் யாதனின் நீங்கியான் நோதல் அதனின் அதனின் இலன்.",
+      transliteration: "Yaadhanin Yaadhanin Neengiyaan Nodhal Adhanin Adhanin Ilan",
+      translation: "De tout ce dont une personne se détache, elle est libérée de la souffrance qui y est liée.",
+      comment: "Le détachement est présenté comme une libération progressive de la souffrance attachée aux objets du désir."
+    },
+    {
+      id: 342,
+      tamil: "வேண்டின்உண் டாகத் துறக்க துறந்தபின் ஈண்டுஇயற் பால பல.",
+      transliteration: "Ventin Un Taakath Thurakka Thurandhapin Eentuiyar Paala Pala",
+      translation: "Si l’on désire le bonheur, il faut renoncer tôt, car de nombreuses joies apparaissent après le renoncement.",
+      comment: "Le renoncement n’est pas perte mais ouverture à une forme de joie plus profonde et stable."
+    },
+    {
+      id: 343,
+      tamil: "அடல்வேண்டும் ஐந்தன் புலத்தை விடல்வேண்டும் வேண்டிய வெல்லாம் ஒருங்கு.",
+      transliteration: "Atalventum Aindhan Pulaththai Vitalventum Ventiya Vellaam Orungu",
+      translation: "Il faut maîtriser les cinq sens et abandonner simultanément tous les désirs.",
+      comment: "La discipline intérieure repose sur le contrôle des sens et la rupture avec le désir global."
+    },
+    {
+      id: 344,
+      tamil: "இயல்பாகும் நோன்பிற்கொன்று இன்மை உடைமை மயலாகும் மற்றும் பெயர்த்து.",
+      transliteration: "Iyalpaakum Nonpirkondru Inmai Utaimai Mayalaakum Matrum Peyartthu",
+      translation: "La vraie ascèse consiste à ne rien posséder ; autrement, elle devient illusion et attachement.",
+      comment: "Le renoncement authentique exige une cohérence totale entre pratique et détachement matériel."
+    },
+    {
+      id: 345,
+      tamil: "மற்றும் தொடர்ப்பாடு எவன்கொல் பிறப்பறுக்கல் உற்றார்க்கு உடம்பும் மிகை.",
+      transliteration: "Matrum Thotarppaatu Evankol Pirapparukkal Utraarkku Utampum Mikai",
+      translation: "Pourquoi conserver des attachements supplémentaires quand même le corps est un fardeau pour la libération ?",
+      comment: "Le chemin spirituel implique de voir le corps lui-même comme un obstacle au détachement ultime."
+    },
+    {
+      id: 346,
+      tamil: "யானென தென்னுஞ் செருக்கறுப்பான் வானோர்க் குயர்ந்த உலகம் புகும்.",
+      transliteration: "YaanEnadhu Ennum SerukkuAruppaan Vaanorkku Uyarndha Ulakam Pukum",
+      translation: "Celui qui détruit l’orgueil du « moi » atteint un monde supérieur, au-delà même du ciel.",
+      comment: "La dissolution de l’ego est présentée comme la clé de l’élévation spirituelle."
+    },
+    {
+      id: 347,
+      tamil: "பற்றி விடாஅ இடும்பைகள் பற்றினைப் பற்றி விடாஅ தவர்க்கு.",
+      transliteration: "Patri Vitaaa Itumpaikal Patrinaip Patri Vitaaa Thavarkku",
+      translation: "Les souffrances ne quittent jamais ceux qui ne lâchent pas leurs attachements.",
+      comment: "Le lien entre désir et souffrance est direct et inévitable."
+    },
+    {
+      id: 348,
+      tamil: "தலைப்பட்டார் தீரத் துறந்தார் மயங்கி வலைப்பட்டார் மற்றை யவர்.",
+      transliteration: "Thalaippattaar Theerath Thurandhaar Mayangi Valaippattaar Matrai Yavar",
+      translation: "Ceux qui renoncent totalement sont libérés ; les autres restent piégés dans l’illusion.",
+      comment: "Deux états opposés sont décrits : libération par le détachement ou emprisonnement par l’illusion."
+    },
+    {
+      id: 349,
+      tamil: "பற்றற்ற கண்ணே பிறப்பறுக்கும் மற்று நிலையாமை காணப் படும்.",
+      transliteration: "Patratra Kanne Pirapparukkum Matru Nilaiyaamai Kaanap Patum",
+      translation: "Seul le détachement total coupe le cycle des renaissances et révèle l’impermanence.",
+      comment: "Le détachement est la condition directe de la libération du cycle de naissance et de mort."
+    },
+    {
+      id: 350,
+      tamil: "பற்றுக பற்றற்றான் பற்றினை அப்பற்றைப் பற்றுக பற்று விடற்கு.",
+      transliteration: "Patruka Patratraan Patrinai Appatraip Patruka Patru Vitarku",
+      translation: "Attache-toi à celui qui est sans attachement, afin d’apprendre à te détacher de tout.",
+      comment: "Le paradoxe final : s’appuyer sur le détachement pour dépasser tout attachement."
+    }
+  ]
+}, // fin du chapitre 35
+
+          {
+  id: 36,
+  name: "36. Meypporul Ariyudhal - Comprendre la réalité",
+  kurals: [
+    {
+      id: 351,
+      tamil: "பொருளல்ல வற்றைப் பொருளென்று உணரும் மருளானாம் மாணாப் பிறப்பு.",
+      transliteration: "Porulalla Vatraip Porulendru Unarum Marulaanaam Maanaap Pirappu",
+      translation: "La souffrance des naissances répétées naît de l’illusion qui prend l’irréel pour le réel.",
+      comment: "Quand on confond ce qui est temporaire avec ce qui est essentiel, on s’enchaîne soi-même à des erreurs de vie profondes."
+    },
+    {
+      id: 352,
+      tamil: "இருள்நீங்கி இன்பம் பயக்கும் மருள்நீங்கி மாசறு காட்சி யவர்க்கு.",
+      transliteration: "Irulneengi Inpam Payakkum Marulneengi Maasaru Kaatchi Yavarkku",
+      translation: "La joie apparaît et l’obscurité disparaît chez ceux dont la vision est claire et sans illusion.",
+      comment: "La clarté intérieure transforme la perception du monde et apporte une paix durable."
+    },
+    {
+      id: 353,
+      tamil: "ஐயத்தின் நீங்கித் தெளிந்தார்க்கு வையத்தின் வானம் நணிய துடைத்து.",
+      transliteration: "Aiyaththin Neengith Thelindhaarkku Vaiyaththin Vaanam Naniya Thutaiththu",
+      translation: "Pour ceux qui ont dissipé le doute, le ciel devient presque aussi proche que la terre.",
+      comment: "La certitude intérieure supprime la distance entre le monde matériel et la dimension spirituelle."
+    },
+    {
+      id: 354,
+      tamil: "ஐயுணர்வு எய்தியக் கண்ணும் பயமின்றே மெய்யுணர்வு இல்லா தவர்க்கு.",
+      transliteration: "Aiyunarvu Eydhiyak Kannum Payamindre Meyyunarvu Illaa Thavarkku",
+      translation: "Même les cinq sens ne servent à rien à ceux qui n’ont pas la perception du réel.",
+      comment: "Sans compréhension profonde, les perceptions sensorielles restent superficielles et trompeuses."
+    },
+    {
+      id: 355,
+      tamil: "எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள் மெய்ப்பொருள் காண்பது அறிவு.",
+      transliteration: "Epporul Eththanmaith Thaayinum Apporul Meypporul Kaanpadhu Arivu",
+      translation: "La sagesse consiste à percevoir la vérité réelle derrière toute chose, quelle que soit son apparence.",
+      comment: "La véritable intelligence consiste à voir au-delà des formes et des apparences."
+    },
+    {
+      id: 356,
+      tamil: "கற்றீண்டு மெய்ப்பொருள் கண்டார் தலைப்படுவர் மற்றீண்டு வாரா நெறி.",
+      transliteration: "Katreentu Meypporul Kantaar Thalaippatuvar Matreentu Vaaraa Neri",
+      translation: "Ceux qui ont compris la réalité ici-bas ne reviendront plus dans ce cycle d’existence.",
+      comment: "La compréhension profonde libère du retour aux mêmes schémas d’existence."
+    },
+    {
+      id: 357,
+      tamil: "ஓர்த்துள்ளம் உள்ளது உணரின் ஒருதலையாப் பேர்த்துள்ள வேண்டா பிறப்பு.",
+      transliteration: "Orththullam Ulladhu Unarin Orudhalaiyaap Perththulla Ventaa Pirappu",
+      translation: "Celui qui réalise la vérité en son cœur n’a plus besoin de penser à la renaissance.",
+      comment: "La réalisation intérieure met fin à toute inquiétude liée aux cycles de vie."
+    },
+    {
+      id: 358,
+      tamil: "பிறப்பென்னும் பேதைமை நீங்கச் சிறப்பென்னும் செம்பொருள் காண்பது அறிவு.",
+      transliteration: "Pirappennum Pedhaimai Neengach Chirappennum Sempotul Kaanpadhu Arivu",
+      translation: "La sagesse consiste à percevoir la réalité suprême et à se libérer de l’illusion de la naissance.",
+      comment: "Comprendre l’essence des choses permet de dépasser la vision limitée de l’existence."
+    },
+    {
+      id: 359,
+      tamil: "சார்புணர்ந்து சார்பு கெடஒழுகின் மற்றழித்துச் சார்தரா சார்தரு நோய்.",
+      transliteration: "Saarpunarndhu Saarpu Ketaozhukin Matrazhiththuch Chaardharaa Saardharu Noi",
+      translation: "Celui qui comprend ce à quoi s’attacher et agit sans attachement échappe aux souffrances de l’attachement.",
+      comment: "La lucidité sur les dépendances intérieures permet de s’en libérer progressivement."
+    },
+    {
+      id: 360,
+      tamil: "காமம் வெகுளி மயக்கம் இவ்முன்றன் நாமம் கெடக்கெடும் நோய்.",
+      transliteration: "Kaamam Vekuli Mayakkam Ivaimundran Naamam Ketakketum Noi",
+      translation: "Quand désir, colère et illusion disparaissent, toutes les souffrances disparaissent aussi.",
+      comment: "La maîtrise des trois perturbations fondamentales conduit à une stabilité intérieure complète."
+    }
+  ]
+}, // fin du chapitre 36
+
+          {
+  id: 37,
+  name: "37. Avaa Aruthal - L’éradication du désir",
+  kurals: [
+    {
+      id: 361,
+      tamil: "அவாஎன்ப எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பீனும் வித்து.",
+      transliteration: "Avaa enpa ellaa uyirkkum ennaandrum thavaaap pirappeenum viththu",
+      translation: "Le désir est la graine qui engendre sans fin les renaissances pour tous les êtres, en tout temps.",
+      comment: "Le désir est présenté comme la cause fondamentale du cycle de l’existence et de ses répétitions."
+    },
+    {
+      id: 362,
+      tamil: "வேண்டுங்கால் வேண்டும் பிறவாமை மற்றது வேண்டாமை வேண்ட வரும்.",
+      transliteration: "Ventungaal ventum piravaamai matrathu ventaamai venda varum",
+      translation: "Si l’on doit désirer quelque chose, que ce soit la libération de la naissance ; cette absence de désir vient elle-même du détachement.",
+      comment: "Le paradoxe du détachement : vouloir ne pas vouloir conduit à la libération intérieure."
+    },
+    {
+      id: 363,
+      tamil: "வேண்டாமை அன்ன விழுச்செல்வம் ஈண்டில்லை ஆண்டும் அஃதொப்பது இல்.",
+      transliteration: "Ventaamai anna vizhuchchelvam eentillai aandum aqdhoppathu il",
+      translation: "Il n’existe pas de richesse plus grande que le non-désir, ici comme ailleurs.",
+      comment: "Le renoncement intérieur est présenté comme la plus haute forme de richesse spirituelle."
+    },
+    {
+      id: 364,
+      tamil: "தூஉய்மை என்பது அவாவின்மை மற்றது வாஅய்மை வேண்ட வரும்.",
+      transliteration: "Thoouymai enbadhu avaavinmai matrathu vaaaimai venda varum",
+      translation: "La pureté consiste à être sans désir ; cette pureté découle de la recherche de la vérité.",
+      comment: "La pureté intérieure naît naturellement lorsque le désir cesse d’orienter l’esprit."
+    },
+    {
+      id: 365,
+      tamil: "அற்றவர் என்பார் அவாஅற்றார் மற்றையார் அற்றாக அற்றது இலர்.",
+      transliteration: "Atravar enpaar avaaattraar matraiyaar attraaka atrathu ilar",
+      translation: "Sont réellement libérés ceux qui sont sans désir ; les autres, malgré leurs renoncements apparents, ne le sont pas vraiment.",
+      comment: "La liberté véritable dépend de l’absence intérieure de désir, pas des apparences extérieures."
+    },
+    {
+      id: 366,
+      tamil: "அஞ்சுவ தோரும் அறனே ஒருவனை வஞ்சிப்ப தோரும் அவா.",
+      transliteration: "Anjuva thorum arane oruvanai vanjippa thorum avaa",
+      translation: "La vertu consiste à fuir le désir, car le désir trompe et détourne l’homme du bien.",
+      comment: "Le désir est vu comme une force trompeuse qui éloigne de la droiture."
+    },
+    {
+      id: 367,
+      tamil: "அவாவினை ஆற்ற அறுப்பின் தவாவினை தான்வேண்டு மாற்றான் வரும்.",
+      transliteration: "Avaavinai aatra aruppin thavaavinai thaan ventu maatran varum",
+      translation: "Lorsque le désir est totalement supprimé, la libération survient naturellement.",
+      comment: "La disparition du désir entraîne spontanément l’émergence de la liberté intérieure."
+    },
+    {
+      id: 368,
+      tamil: "அவாஇல்லார்க் கில்லாகுந் துன்பம் அஃதுண்டேல் தவாஅது மேன்மேல் வரும்.",
+      transliteration: "Availlaarkku illaakum thunpam aqdhundel thavaaathu menmel varum",
+      translation: "L’absence de désir supprime la souffrance ; sa présence l’accroît sans fin.",
+      comment: "Le désir est directement lié à l’intensification ou à l’extinction de la souffrance."
+    },
+    {
+      id: 369,
+      tamil: "இன்பம் இடையறா தீண்டும் அவாவென்னும் துன்பத்துள் துன்பங் கெடின்.",
+      transliteration: "Inpam itaiyaraa theendum avaavennum thunpaththul thunpam ketin",
+      translation: "Lorsque le désir, source de toutes les souffrances, disparaît, une joie durable apparaît.",
+      comment: "La disparition du désir révèle une joie stable et continue."
+    },
+    {
+      id: 370,
+      tamil: "ஆரா இயற்கை அவாநீப்பின் அந்நிலையே பேரா இயற்கை தரும்.",
+      transliteration: "Aaraa iyarkai avaa neepin annilaiye peraa iyarkai tharum",
+      translation: "Quand le désir insatiable est supprimé, on atteint un état de paix et de plénitude durable.",
+      comment: "La fin du désir mène à un état intérieur stable, profond et permanent."
+    }
+  ]
+}// fin du chapitre37 
+
               
-        ] // fermeture de tous les chapter de l iyal 2 
-      }, // fermeture de l iyal 2 
+        ] // fermeture de tous les chapter de l iyal 3 
+      }, // fermeture de l iyal 3 
 
       
     ] //fin des iyals du livre 1 
