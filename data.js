@@ -2316,7 +2316,7 @@ const thirukuralData = {
                 comment: "La voie de la discipline intérieure est exigeante et rarement suivie, ce qui explique sa rareté.",
               }
             ]// fin des kural du chapitre 27
-          }// fin du chapitre 27
+          },// fin du chapitre 27
 
  {  id: 28,
             name: " 28. Koodaavozhukkam - <br> L’hypocrisie ", 
