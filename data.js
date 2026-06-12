@@ -1993,7 +1993,7 @@ const thirukuralData = {
 
            { 
             id: 24,
-            name: " 	24.Eekai - <br> La générosité", 
+            name: " 	24. Pukazh- <br> La renommée", 
             // KURAL DU CHAPITRE 24 ICI 
             kurals: [
 
@@ -2069,10 +2069,651 @@ const thirukuralData = {
                 },
             ]//fin des kural du chapitre 24 
            },// fin du chapitre 24 
-
           
+        ] // FIN de tous les chapitres de l'Iyal 2 
+      }, // FIN de l'Iyal 2 
+
+      
+      {
+        id: 2, 
+        //===========================================
+        // DEBUT DE L IYAL 3 DU LIVRE 1 
+        //==============================================
+        name: " Uravaraviyal <br> Renoncement / vie ascétique ",
+        //====================================================
+        //DEBUT DES CHAPITRES DU L IYAL 2 DU LIVRE 1 
+        //=======================================================
+        chapters: [
+          { 
+            id: 25,
+            name: " 25. Aruludaimai - <br> La compassion", 
+            // chapitres de l'iyal 2 ici
+            kurals: [
+
+              {
+                id: 241,
+                tamil: "அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம் பூரியார் கண்ணும் உள",
+                tamilfr: "Arutchelvam Selvaththul Selvam Porutchelvam Pooriyaar Kannum Ula",
+                translation: "La richesse de la grâce est la plus grande des richesses ; la richesse matérielle existe même chez les plus vils.",
+                comment: "La véritable richesse n’est pas matérielle mais morale : la compassion et la bonté surpassent toute accumulation de biens.",
+              },
+              {
+                id: 242,
+                tamil: "நல்லாற்றாள் நாடி அருளாள்க பல்லாற்றால் தேரினும் அஃதே துணை",
+                tamilfr: "Nallaatraal Naati Arulaalka Pallaatraal Therinum Aqdhe Thunai",
+                translation: "Cherche la voie de la bonté et de la grâce ; elle seule est le véritable soutien, quelles que soient les autres voies.",
+                comment: "Parmi toutes les approches possibles de la vie, seule la conduite vertueuse et compatissante constitue un appui fiable.",
+              },
+              {
+                id: 243,
+                tamil: "அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த இன்னா உலகம் புகல்",
+                tamilfr: "Arulserndha Nenjinaark Killai Irulserndha Innaa Ulakam Pukal",
+                translation: "Ceux dont le cœur est rempli de compassion n’entrent pas dans un monde de souffrance et d’obscurité.",
+                comment: "La bonté intérieure protège moralement des états de souffrance et d’aliénation.",
+              },
+              {
+                id: 244,
+                tamil: "மன்னுயிர் ஓம்பி அருளாள்வார்க்கு இல்லென்ப தன்னுயிர் அஞ்சும் வினை",
+                tamilfr: "Mannuyir Ompi Arulaalvaarkku Illenpa Thannuyir Anjum Vinai",
+                translation: "Ceux qui protègent les êtres vivants avec compassion n’ont pas à craindre les conséquences de leurs actes.",
+                comment: "La bienveillance envers la vie crée une protection morale qui neutralise les effets négatifs du karma.",
+              },
+              {
+                id: 245,
+                tamil: "அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும் மல்லன்மா ஞாலங் கரி",
+                tamilfr: "Allal Arulaalvaarkku Illai Valivazhangum Mallanmaa Gnaalang Kari",
+                translation: "La souffrance n’existe pas pour les êtres compatissants, comme le proclame le monde entier.",
+                comment: "La compassion est présentée comme un état qui protège intérieurement des souffrances profondes.",
+              },
+              {
+                id: 246,
+                tamil: "பொருள்நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி அல்லவை செய்தொழுகு வார்",
+                tamilfr: "Porulneengip Pochchaandhaar Enpar Arulneengi Allavai Seydhozhuku Vaar",
+                translation: "Ceux qui agissent sans compassion sont considérés comme ayant perdu leur véritable richesse morale.",
+                comment: "La perte de la compassion équivaut à une pauvreté spirituelle, même si la richesse matérielle demeure.",
+              },
+              {
+                id: 247,
+                tamil: "அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு இவ்வுலகம் இல்லாகி யாங்கு",
+                tamilfr: "Arulillaarkku Avvulakam Illai Porulillaarkku Ivvulakam Illaaki Yaangu",
+                translation: "Sans compassion, il n’y a pas d’au-delà ; sans richesse, il n’y a pas de vie ici-bas.",
+                comment: "Le texte distingue les deux plans de l’existence, en liant la compassion au salut et la richesse à la survie matérielle.",
+              },
+              {
+                id: 248,
+                tamil: "பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார் அற்றார்மற் றாதல் அரிது",
+                tamilfr: "Porulatraar Pooppar Orukaal Arulatraar Atraarmar Raadhal Aridhu",
+                translation: "Les pauvres peuvent redevenir riches, mais ceux qui manquent de compassion le restent rarement vertueux.",
+                comment: "La pauvreté matérielle est réversible, contrairement à la perte de compassion qui corrompt durablement l’être.",
+              },
+              {
+                id: 249,
+                tamil: "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின் அருளாதான் செய்யும் அறம்",
+                tamilfr: "Therulaadhaan Meypporul Kantatraal Therin Arulaadhaan Seyyum Aram",
+                translation: "Les actes du sans-compassion, lorsqu’on les examine, sont comme une vision confuse de la vérité.",
+                comment: "Les actions sans bienveillance peuvent paraître justes mais manquent de véritable valeur morale.",
+              },
+              {
+                id: 250,
+                tamil: "வலியார்முன் தன்னை நினைக்கதான் தன்னின் மெலியார்மேல் செல்லு மிடத்து",
+                tamilfr: "Valiyaarmun Thannai Ninaikka Thaan Thannin Meliyaarmel Sellu Mitaththu",
+                translation: "Quand tu abuses des plus faibles, souviens-toi de toi face aux plus forts.",
+                comment: "Le kural invite à l’empathie et à la justice en rappelant la vulnérabilité universelle de chacun.",
+              },
+                            
+            ]//fin des kurals du chapitre 25
+          }, //fin du chapitre 25
+
+            {  id: 26,
+            name: " 26. Pulaanmaruththal - <br> L’abstention de viande ", 
+            kurals: [
+
+              {
+                id: 251,
+                tamil: "தன்னூன் பெருக்கற்குத் தான்பிறிது ஊனுண்பான் எங்ஙனம் ஆளும் அருள்",
+                tamilfr: "Thannoon Perukkarkuth Thaanpiridhu Oonunpaan Engnganam Aalum Arul",
+                translation: "Comment la compassion peut-elle gouverner celui qui mange la chair d’autrui pour nourrir la sienne ?",
+                comment: "La compassion est incompatible avec la consommation de chair animale, car elle implique de ne pas nuire à d’autres êtres vivants pour son propre avantage.",
+              },
+              {
+                id: 252,
+                tamil: "பொருளாட்சி போற்றாதார்க்கு இல்லை அருளாட்சி ஆங்கில்லை ஊன்தின் பவர்க்கு",
+                tamilfr: "Porulaatchi Potraadhaarkku Illai Arulaatchi Aangillai Oondhin Pavarkku",
+                translation: "Celui qui ne maîtrise pas ses biens ne peut gouverner, et celui qui mange de la chair ne peut pratiquer la compassion.",
+                comment: "La maîtrise de soi et la compassion sont liées : l’absence de discipline morale empêche une véritable gouvernance intérieure.",
+              },
+              {
+                id: 253,
+                tamil: "படைகொண்டார் நெஞ்சம்போல் நன்னூக்காது ஒன்றன் உடல்சுவை உண்டார் மனம்",
+                tamilfr: "Pataikontaar Nenjampol Nannookkaadhu Ondran Utalsuvai Untaar Manam",
+                translation: "Le cœur de ceux qui consomment la chair est comparable à celui des guerriers, insensible et dur.",
+                comment: "La consommation de viande est associée à un durcissement moral et à une perte de sensibilité envers la vie.",
+              },
+              {
+                id: 254,
+                tamil: "அருளல்ல தியாதெனிற் கொல்லாமை கோறல் பொருளல்ல தவ்வூன் தினல்",
+                tamilfr: "Arulalladhu Yaadhenin Kollaamai Koral Porulalladhu Avvoon Thinal",
+                translation: "La compassion est l’absence de violence ; tuer et manger la chair ne sont pas des actes justes.",
+                comment: "La non-violence est définie comme essence de la compassion, incompatible avec l’abattage d’êtres vivants pour se nourrir.",
+              },
+              {
+                id: 255,
+                tamil: "உண்ணாமை உள்ளது உயிர்நிலை ஊனுண்ண அண்ணாத்தல் செய்யாது அளறு",
+                tamilfr: "Unnaamai Ulladhu Uyirnilai Oonunna Annaaththal Seyyaadhu Alaru",
+                translation: "S’abstenir de viande est la protection de la vie ; ceux qui mangent de la chair affrontent la souffrance.",
+                comment: "Le respect de la vie passe par l’abstention de tuer des animaux pour se nourrir.",
+              },
+              {
+                id: 256,
+                tamil: "தினற்பொருட்டால் கொல்லாது உலகெனின் யாரும் விலைப்பொருட்டால் ஊன்றருவா ரில்",
+                tamilfr: "Thinarporuttaal Kollaadhu Ulakenin Yaarum Vilaipporuttaal Oondraruvaa Ril",
+                translation: "Si personne ne tuait pour manger, personne ne tuerait non plus pour vendre.",
+                comment: "Le texte souligne le lien entre consommation et industrie de la violence : la demande soutient le massacre.",
+              },
+              {
+                id: 257,
+                tamil: "உண்ணாமை வேண்டும் புலாஅல் பிறிதொன்றன் புண்ணது உணர்வார்ப் பெறின்",
+                tamilfr: "Unnaamai Ventum Pulaaal Piridhondran Punnadhu Unarvaarp Perin",
+                translation: "Celui qui comprend la souffrance d’un autre être ne peut consommer sa chair.",
+                comment: "La compassion authentique naît de la capacité à reconnaître la souffrance d’autrui.",
+              },
+              {
+                id: 258,
+                tamil: "செயிரின் தலைப்பிரிந்த காட்சியார் உண்ணார் உயிரின் தலைப்பிரிந்த ஊன்",
+                tamilfr: "Seyirin Thalaippirindha Kaatchiyaar Unnaar Uyirin Thalaippirindha Oon",
+                translation: "Ceux qui ont une vision pure ne mangent pas la chair d’un être privé de vie.",
+                comment: "La clarté morale conduit naturellement à rejeter la consommation de chair animale.",
+              },
+              {
+                id: 259,
+                tamil: "அவிசொரிந் தாயிரம் வேட்டலின் ஒன்றன் உயிர்செகுத் துண்ணாமை நன்று",
+                tamilfr: "Avisorin Thaayiram Vettalin Ondran Uyirsekuth Thunnaamai Nandru",
+                translation: "Mieux vaut ne pas tuer une seule vie que de faire mille sacrifices rituels.",
+                comment: "La non-violence envers les êtres vivants est supérieure à tout rituel religieux ou offrande matérielle.",
+              },
+              {
+                id: 260,
+                tamil: "கொல்லான் புலாலை மறுத்தானைக் கைகூப்பி எல்லா உயிருந் தொழும்",
+                tamilfr: "Kollaan Pulaalai Maruththaanaik Kaikooppi Ellaa Uyirun Thozhum",
+                translation: "Tous les êtres vivants honorent celui qui refuse de tuer et de consommer la chair.",
+                comment: "La compassion universelle élève moralement l’individu et inspire respect à tous les êtres vivants.",
+              },
+            ]// fin des kural du chapitre 26 
+          },// fin du chapitre 26
+
+           {  id: 27,
+            name: " 27. Thavam - <br> L’ascèse ", 
+            kurals: [
+
+              {
+                id: 261,
+                tamil: "உற்றநோய் நோன்றல் உயிர்க்குறுகண் செய்யாமை அற்றே தவத்திற் குரு",
+                tamilfr: "Utranoi Nondral Uyirkkurukan Seyyaamai Atre Thavaththir Kuru",
+                translation: "La vraie ascèse consiste à supporter les souffrances et à ne nuire à aucun être vivant.",
+                comment: "La discipline spirituelle repose sur deux piliers : la résistance à la douleur et le respect absolu de toute forme de vie.",
+              },
+              {
+                id: 262,
+                tamil: "தவமும் தவமுடையார்க்கு ஆகும் அதனை அஃதிலார் மேற்கொள் வது",
+                tamilfr: "Thavamum Thavamutaiyaarkku Aakum Adhanai Aqdhilaar Merkol Vadhu",
+                translation: "La véritable ascèse appartient à ceux qui en sont capables ; pour les autres, elle est inutile.",
+                comment: "Les pratiques spirituelles n’ont de sens que lorsqu’elles sont portées par une réelle maturité intérieure.",
+              },
+              {
+                id: 263,
+                tamil: "துறந்தார்க்குத் துப்புரவு வேண்டி மறந்தார்கொல் மற்றை யவர்கள் தவம்",
+                tamilfr: "Thurandhaarkkuth Thuppuravu Venti Marandhaarkol Matrai Yavarkal Thavam",
+                translation: "Les autres pratiquent-ils l’ascèse simplement pour soutenir ceux qui ont renoncé au monde ?",
+                comment: "Le vers interroge la finalité sociale de l’ascèse et son rôle indirect dans la société.",
+              },
+              {
+                id: 264,
+                tamil: "ஒன்னார்த் தெறலும் உவந்தாரை ஆக்கலும் எண்ணின் தவத்தான் வரும்",
+                tamilfr: "Onnaarth Theralum Uvandhaarai Aakkalum Ennin Thavaththaan Varum",
+                translation: "Par la force de l’ascèse, on peut protéger ses amis et neutraliser ses ennemis.",
+                comment: "La maîtrise de soi et la discipline intérieure sont vues comme des sources de puissance morale.",
+              },
+              {
+                id: 265,
+                tamil: "வேண்டிய வேண்டியாங் கெய்தலால் செய்தவம் ஈண்டு முயலப் படும்",
+                tamilfr: "Ventiya Ventiyaang Keydhalaal Seydhavam Eentu Muyalap Patum",
+                translation: "Les pratiques ascétiques sont entreprises ici-bas pour atteindre les désirs légitimes.",
+                comment: "L’ascèse est présentée comme un moyen de transformation intérieure menant à des accomplissements concrets.",
+              },
+              {
+                id: 266,
+                tamil: "தவஞ்செய்வார் தங்கருமஞ் செய்வார்மற்றல்லார் அவஞ்செய்வார் ஆசையுட் பட்டு",
+                tamilfr: "Thavanj Cheyvaar Thangarumanj Cheyvaarmar Rallaar Avanjeyvaar Aasaiyut Pattu",
+                translation: "Les ascètes accomplissent leur devoir, tandis que les autres sont prisonniers du désir et agissent en vain.",
+                comment: "Le texte oppose la discipline intérieure à la dispersion causée par les désirs non maîtrisés.",
+              },
+              {
+                id: 267,
+                tamil: "சுடச்சுடரும் பொன்போல் ஒளிவிடும் துன்பஞ் சுடச்சுட நோற்கிற் பவர்க்கு",
+                tamilfr: "Sutachchutarum Ponpol Olivitum Thunpanjjch Sutachchuta Norkir Pavarkku",
+                translation: "Comme l’or purifié par le feu, la souffrance éclaire ceux qui pratiquent l’ascèse.",
+                comment: "Les épreuves sont vues comme un processus de purification intérieure et de transformation morale.",
+              },
+              {
+                id: 268,
+                tamil: "தன்னுயிர் தான்அறப் பெற்றானை ஏனைய மன்னுயிர் எல்லாந் தொழும்",
+                tamilfr: "Thannuyir Thaanarap Petraanai Enaiya Mannuyir Rellaan Thozhum",
+                translation: "Tous les êtres vivants honorent celui qui a maîtrisé son propre ego.",
+                comment: "La maîtrise de soi confère un statut moral élevé et inspire respect universel.",
+              },
+              {
+                id: 269,
+                tamil: "கூற்றம் குதித்தலும் கைகூடும் நோற்றலின் ஆற்றல் தலைப்பட்டவர்க்கு",
+                tamilfr: "Kootram Kudhiththalum Kaikootum Notralin Aatral Thalaippat Tavarkkul",
+                translation: "Celui qui a atteint la force de l’ascèse peut même vaincre la mort.",
+                comment: "La discipline intérieure est décrite comme une puissance spirituelle ultime.",
+              },
+              {
+                id: 270,
+                tamil: "இலர்பலராகிய காரணம் நோற்பார் சிலர்பலர் நோலாதவர்",
+                tamilfr: "Ilarpala Raakiya Kaaranam Norpaar Silarpalar Nolaathavar",
+                translation: "Les pratiquants de l’ascèse sont peu nombreux, tandis que la majorité ne la pratique pas.",
+                comment: "La voie de la discipline intérieure est exigeante et rarement suivie, ce qui explique sa rareté.",
+              },
+   
+            ]// fin des kural du chapitre 27
+           },// fin du chapitre 27
+
+          {  id: 28,
+            name: " 28. Koodaavozhukkam - <br> L’hypocrisie ", 
+            kurals: [
+              {
+              id: 271,
+              tamil: "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள் ஐந்தும் அகத்தே நகும்.",
+              transliteration: "Vanja manaththaan patitrozhukkam poodhangal aindhum akaththe nagum",
+              translation: "Les cinq éléments eux-mêmes rient intérieurement de la conduite trompeuse d’un esprit hypocrite.",
+              comment: "L’hypocrisie est une incohérence intérieure que même la nature symbolise comme ridicule."
+            },
+            {
+              id: 272,
+              tamil: "வானுயர் தோற்றம் எவன்செய்யும் தன்னெஞ்சம் தான்அறி குற்றப் படின்.",
+              transliteration: "Vaanuyar thotram evan seyyum thannenjam thaanari kutrap patin",
+              translation: "À quoi sert une apparence élevée si le cœur sait lui-même qu’il est fautif ?",
+              comment: "La grandeur extérieure est inutile sans droiture intérieure."
+            },
+            {
+              id: 273,
+              tamil: "வலியில் நிலைமையான் வல்லுருவம் பெற்றம் புலியின்தோல் போர்த்துமேய்ந் தற்று.",
+              transliteration: "Valiyil nilai maiyan valluruvam petram puliyin thol porththu meynthatru",
+              translation: "Un faible qui prend l’apparence d’un fort est comme un bœuf paissant sous une peau de tigre.",
+              comment: "L’apparence de force ne remplace pas la véritable force intérieure."
+            },
+            {
+              id: 274,
+              tamil: "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து வேட்டுவன் புள்சிமிழ்த் தற்று.",
+              transliteration: "Thavam maraindhu allavai seydhal pudhal maraindhu vettuvan pul simizhth thatru",
+              translation: "Un ascète hypocrite qui commet le mal en secret est comme un chasseur caché dans les buissons pour piéger les oiseaux.",
+              comment: "La dissimulation du mal rend l’hypocrisie encore plus grave."
+            },
+            {
+              id: 275,
+              tamil: "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று ஏதம் பலவும் தரும்.",
+              transliteration: "Patratrem enpaar patitrozhukkam etretre endru edham palavum tharum",
+              translation: "Les actes trompeurs de ceux qui prétendent être détachés leur apporteront douleur et remords.",
+              comment: "La fausse renonciation finit par se retourner contre son auteur."
+            },
+            {
+              id: 276,
+              tamil: "நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்து வாழ்வாரின் வன்கணார் இல்.",
+              transliteration: "Nenjin thuravaar thurandhaar pol vanjiththu vaazhvaarin vankanar il",
+              translation: "Il n’y a personne de plus cruel que celui qui vit en trompant les autres comme un ascète sans l’être intérieurement.",
+              comment: "L’hypocrisie spirituelle est la forme la plus dure de tromperie."
+            },
+            {
+              id: 277,
+              tamil: "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி முக்கிற் கரியார் உடைத்து.",
+              transliteration: "Purangundri kandanaiya renum akangundri mukkir kariyaar utaitthu",
+              translation: "Comme une colline rouge à l’extérieur mais noire à l’intérieur, beaucoup paraissent purs mais sont impurs en secret.",
+              comment: "L’apparence peut cacher une réalité totalement opposée."
+            },
+            {
+              id: 278,
+              tamil: "மனத்தது மாசாக மாண்டார் நீராடி மறைந்தொழுகு மாந்தர் பலர்.",
+              transliteration: "Manaththadhu maasaaga maantaar neeraati maraindhozhugu maandhar palar",
+              translation: "Beaucoup se baignent dans les eaux sacrées tout en gardant un esprit impur et en menant une double vie.",
+              comment: "Les rites extérieurs ne valent rien sans pureté intérieure."
+            },
+            {
+              id: 279,
+              tamil: "கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன வினைபடு பாலால் கொளல்.",
+              transliteration: "Kanaikodidhu yaazh kodu sevvidhu aang kanna vinaipadu paalaal kolal",
+              translation: "Ne jugez pas les hommes par leur apparence : la flèche est droite, la lyre est courbe.",
+              comment: "La valeur d’un être se juge à ses actes, non à son apparence."
+            },
+            {
+              id: 280,
+              tamil: "மழித்தலும் நீட்டலும் வேண்டா உலகம் பழித்தது ஒழித்து விடின்.",
+              transliteration: "Mazhitthalum neettalum venda ulakam pazhiththadhu ozhiththu vitin",
+              translation: "Il n’est pas nécessaire de se raser ou de laisser pousser ses cheveux si l’on évite ce que le monde condamne.",
+              comment: "La vraie vertu est dans la conduite, pas dans les apparences."
+            }
+
+            ]//fin des kural du chapitre 28
+          },//fin du chapitre 28
+
+            {  id: 29,
+            name: " 29. Kallaamai - <br> L’absence de fraude ", 
+            kurals: [
+
+              {
+                id: 281,
+                tamil: "எள்ளாமை வேண்டுவான் என்பான் எனைத்தொன்றும் கள்ளாமை காக்கதன் நெஞ்சு.",
+                transliteration: "Ellaamai ventuvaan enbaan enaiththondrum kallaamai kaakkadhan nenju",
+                translation: "Celui qui souhaite ne jamais être méprisé doit préserver son esprit de toute fraude.",
+                comment: "La réputation dépend de l’honnêteté intérieure et de l’absence de tromperie."
+              },
+              {
+                id: 282,
+                tamil: "உள்ளத்தால் உள்ளலும் தீதே பிறன்பொருளைக் கள்ளத்தால் கள்வேம் எனல்.",
+                transliteration: "Ullaththaal ullalum theedhe piranporulaik kallaththaal kalvem enal",
+                translation: "Même penser à s’approprier le bien d’autrui par la tromperie est un mal.",
+                comment: "Le simple désir de fraude est déjà une faute morale."
+              },
+              {
+                id: 283,
+                tamil: "களவினால் ஆகிய ஆக்கம் அளவிறந்து ஆவது போலக் கெடும்.",
+                transliteration: "Kalavinaal aakiya aakkam alavirandhu aavadhu polak ketum",
+                translation: "La richesse acquise par le vol peut croître, mais elle finit par disparaître brutalement.",
+                comment: "Les gains injustes sont instables et destructeurs."
+              },
+              {
+                id: 284,
+                tamil: "களவின்கண் கன்றிய காதல் விளைவின்கண் வீயா விழுமம் தரும்.",
+                transliteration: "Kalavinkan kandriya kaadhal vilaivinkan veeyaa vizhumam tharum",
+                translation: "L’amour excessif du gain mal acquis conduit à une souffrance durable.",
+                comment: "La cupidité entraîne des conséquences inévitables."
+              },
+              {
+                id: 285,
+                tamil: "அருள்கருதி அன்புடைய ராதல் பொருள்கருதிப் பொச்சாப்புப் பார்ப்பார்கண் இல்.",
+                transliteration: "Arulkarudhi anputaiya raadhal porulkarudhip pochchaappup paarppaar kan il",
+                translation: "La compassion et l’amour n’existent pas chez ceux qui cherchent à s’emparer des biens des autres.",
+                comment: "L’avidité détruit la bienveillance."
+              },
+              {
+                id: 286,
+                tamil: "அளவின்கண் நின்றொழுகல் ஆற்றார் களவின்கண் கன்றிய காத லவர்.",
+                transliteration: "Alavinkan nindrozhukal aatraar kalavinkan kandriya kaadha lavar",
+                translation: "Ceux qui aiment le vol ne savent pas vivre avec modération.",
+                comment: "L’injustice mène à l’incapacité de se contenter."
+              },
+              {
+                id: 287,
+                tamil: "களவென்னும் காரறிவாண்மை அளவென்னும் ஆற்றல் புரிந்தார்கண்ட இல்.",
+                transliteration: "Kalavennum kaarari vaanmai alavennum aatral purindhaarkanda il",
+                translation: "La maîtrise de la modération n’existe pas chez ceux qui maîtrisent l’art du vol.",
+                comment: "Fraude et tempérance sont incompatibles."
+              },
+              {
+                id: 288,
+                tamil: "அளவறிந்தார் நெஞ்சத்தறம்போல நிற்கும் களவறிந்தார் நெஞ்சில் கரவு.",
+                transliteration: "Alavarindhaar nenjath arampola nirkum kalavarindhaar nenjil karavu",
+                translation: "La vertu réside dans le cœur des modérés, la tromperie dans celui des voleurs.",
+                comment: "Chaque mentalité façonne son propre caractère moral."
+              },
+              {
+                id: 289,
+                tamil: "அளவல்ல செய்தாங்கே வீவர் களவல்ல மற்றைய தேற்றாதவர்.",
+                transliteration: "Alavalla seythaange veevar kalavalla matraiya thetraa thavar",
+                translation: "Ceux qui agissent sans mesure et sans honnêteté finissent par se détruire eux-mêmes.",
+                comment: "L’absence de droiture mène à la ruine."
+              },
+              {
+                id: 290,
+                tamil: "கள்வார்க்குத் தள்ளும் உயிர்நிலை கள்வார்க்குத் தள்ளாது புத்தேளுலகு.",
+                transliteration: "Kalvaarkkuth thallum uyirnilai kalvaarkkuth thallaadhu puththel ulaku",
+                translation: "Même la vie rejette les voleurs, mais le monde des vertueux ne les abandonne jamais.",
+                comment: "L’honnêteté est protégée moralement, tandis que la fraude s’autodétruit."
+              }
+                            
+            ]//fin des kural du chapitre 29
+          },//fin du chapitre 29
+
+           {  id: 30,
+            name: " 30. Vaaimai - <br> La véracité ", 
+            kurals: [
+
+              {
+                "id": 291,
+                "tamil": "வாய்மை எனப்படுவது யாதெனின் யாதொன்றும் தீமை இலாத சொலல்.",
+                "transliteration": "Vaaimai enappatuvadhu yaadhenin yaadhondrum theemai ilaadha solal",
+                "translation": "Par véracité, on entend une parole totalement exempte de mal.",
+                "comment": "La parole juste ne doit jamais causer de tort."
+              },
+              {
+                "id": 292,
+                "tamil": "பொய்மையும் வாய்மை யிடத்த புரைதீர்ந்த நன்மை பயக்கும் எனின்.",
+                "transliteration": "Poimaiyum vaaimai yidaththa puraidheerndha nanmai payakkum enin",
+                "translation": "Même un mensonge peut être considéré comme juste s’il produit un bien irréprochable.",
+                "comment": "L’intention et le résultat peuvent influencer la valeur morale d’une parole."
+              },
+              {
+                "id": 293,
+                "tamil": "தன்நெஞ்சு அறிவது பொய்யற்க பொய்த்தபின் தன்நெஞ்சே தன்னைச் சுடும்.",
+                "transliteration": "Thannenju arivadhu poiyarka poiththapin thannenje thannaich chudum",
+                "translation": "Ne trahis pas ta propre conscience, car le mensonge finit par te tourmenter intérieurement.",
+                "comment": "La culpabilité est une conséquence directe du mensonge."
+              },
+              {
+                "id": 294,
+                "tamil": "உள்ளத்தாற் பொய்யாதொழுகின் உலகத்தார் உள்ளத்துள் எல்லாம் உளன்.",
+                "transliteration": "Ullaththaar poiyaathozhugin ulakaththaar ullaththul ellaam ulan",
+                "translation": "Celui qui reste sincère dans son cœur devient présent dans le cœur de tous.",
+                "comment": "L’honnêteté inspire naturellement la confiance."
+              },
+              {
+                "id": 295,
+                "tamil": "மனத்தொடு வாய்மை மொழியின் தவத்தொடு தானஞ்செய் வாரின் தலை.",
+                "transliteration": "Manaththodu vaaimai mozhiyin thavaththodu thaananchey vaarin thalai",
+                "translation": "Exprimer la vérité en accord avec l’esprit dépasse même la pénitence et la charité.",
+                "comment": "La cohérence entre pensée et parole est la forme la plus élevée de vertu."
+              },
+              {
+                "id": 296,
+                "tamil": "பொய்யாமை அன்ன புகழில்லை எய்யாமை எல்லா அறமும் தரும்.",
+                "transliteration": "Poiyaamai anna pukazhillai eyyaamai ellaa aramum tharum",
+                "translation": "Aucune gloire n’égale celle de la sincérité, car elle engendre toutes les vertus.",
+                "comment": "La véracité est la racine de toute moralité."
+              },
+              {
+                "id": 297,
+                "tamil": "பொய்யாமை பொய்யாமை ஆற்றின் அறம்பிற செய்யாமை செய்யாமை நன்று.",
+                "transliteration": "Poiyaamai poiyaamai aatrin arampira seyyaamai seyyaamai nandu",
+                "translation": "Celui qui maîtrise parfaitement la sincérité n’a plus besoin d’autres pratiques vertueuses.",
+                "comment": "La vérité parfaite englobe toutes les autres vertus."
+              },
+              {
+                "id": 298,
+                "tamil": "புறந்தூய்மை நீரால் அமையும் அகந்தூய்மை வாய்மையால் காணப்படும்.",
+                "transliteration": "Purandhuuymai neeraal amaiyum agandhuuymai vaaimaiyaal kaanappadum",
+                "translation": "La pureté du corps vient de l’eau, celle de l’esprit se révèle par la sincérité.",
+                "comment": "La vérité révèle la pureté intérieure."
+              },
+              {
+                "id": 299,
+                "tamil": "எல்லா விளக்கும் விளக்கல்ல சான்றோர்க்குப் பொய்யா விளக்கே விளக்கு.",
+                "transliteration": "Ellaa vilakkum vilakkalla saandrorkkup poiyaa vilakke vilakku",
+                "translation": "Toutes les lumières ne sont pas vraies lumières ; pour les sages, seule la lumière de la vérité éclaire réellement.",
+                "comment": "La vérité est la seule lumière fiable pour les sages."
+              },
+              {
+                "id": 300,
+                "tamil": "யாமெய்யாக் கண்டவற்றுள் இல்லை எனைத்தொன்றும் வாய்மையின் நல்ல பிற.",
+                "transliteration": "Yaameyyaak kandavatrul illai enaiththondrum vaaimaiyin nalla pira",
+                "translation": "Parmi tout ce que l’on considère comme réel, rien n’est supérieur à la vérité.",
+                "comment": "La vérité est la valeur la plus élevée de toutes les expériences."
+              }
+            ]//fin des kural du chapitre 30
+          },// fin du chapitre 30
+
+  {  id: 31,
+            name: " 31. Vekulaamai - <br> Le contrôle de la colère ", 
+            kurals: [
+
+              
+  {
+    "id": 301,
+    "tamil": "செல்லிடத்துக் காப்பான் சினங்காப்பான் அல்லிடத்துக் காக்கின்என் காவாக்கா லென்.",
+    "transliteration": "Sellitaththuk kaappaan sinangaappaan allitaththuk kaakkinen kaavaakkaal en?",
+    "translation": "Maîtriser sa colère lorsqu’il le faut est essentiel ; ailleurs, qu’importe de la retenir ou non ?",
+    "comment": "La maîtrise de la colère doit être adaptée au contexte, non aveugle."
+  },
+  {
+    "id": 302,
+    "tamil": "செல்லா இடத்துச் சினந்தீது செல்லிடத்தும் இல்அதனின் தீய பிற.",
+    "transliteration": "Sellaa idaththuch chinandheedhu sellitaththum il adhanin theeya pira.",
+    "translation": "Même lorsqu’elle est inutile, la colère reste néfaste ; lorsqu’elle est pertinente, rien n’est pire qu’elle.",
+    "comment": "La colère est toujours dangereuse, mais surtout lorsqu’elle devient efficace."
+  },
+  {
+    "id": 303,
+    "tamil": "மறத்தல் வெகுளியை யார்மாட்டும் தீய பிறத்தல் அதனான் வரும்.",
+    "transliteration": "Maraththal vekuliyai yaarmaattum theeya piraththal adhanaan varum.",
+    "translation": "Il faut oublier la colère envers quiconque, car elle engendre uniquement du mal.",
+    "comment": "L’oubli de la colère est une protection morale universelle."
+  },
+  {
+    "id": 304,
+    "tamil": "நகையும் உவகையும் கொல்லும் சினத்தின் பகையும் உளவோ பிற.",
+    "transliteration": "Nakaiyum uvagaiyum kollum sinaththin pakaiyum ulavo pira?",
+    "translation": "Existe-t-il un ennemi plus redoutable que la colère, qui détruit joie et sourire ?",
+    "comment": "La colère est présentée comme l’ennemi principal du bonheur."
+  },
+  {
+    "id": 305,
+    "tamil": "தன்னைத்தான் காக்கின் சினங்காக்க காவாக்கால் தன்னையே கொல்லுஞ் சினம்.",
+    "transliteration": "Thannaiththaan kaakkin sinangaakka kaavaakkaal thannaiye kollum sinam.",
+    "translation": "Pour se protéger soi-même, il faut maîtriser la colère, sinon elle finit par nous détruire.",
+    "comment": "La colère non contrôlée est autodestructrice."
+  },
+  {
+    "id": 306,
+    "tamil": "சினமென்னும் சேர்ந்தாரைக் கொல்லி இனமென்னும் ஏமப் புணையைச் சுடும்.",
+    "transliteration": "Sinam ennum serndhaaraik kolli inam ennum emap punaiyaich chudum.",
+    "translation": "La colère est un feu qui détruit les proches et brûle les liens familiaux.",
+    "comment": "La colère détruit les relations humaines les plus proches."
+  },
+  {
+    "id": 307,
+    "tamil": "சினத்தைப் பொருளென்று கொண்டவன் கேடு நிலத்தறைந்தான் கைபிழையா தற்று.",
+    "transliteration": "Sinaththaip porulendru kontavan ketu nilaththaraindhaan kaipizhaiya thatru.",
+    "translation": "Celui qui considère la colère comme utile se détruit lui-même, comme quelqu’un qui frappe la terre inutilement.",
+    "comment": "La colère est une fausse richesse qui mène à la perte."
+  },
+  {
+    "id": 308,
+    "tamil": "இணர்எரி தோய்வன்ன இன்னா செயினும் புணரின் வெகுளாமை நன்று.",
+    "transliteration": "Inar eri thoivanna innaa seyinum punarin vekulaamai nandu.",
+    "translation": "Même face à une grande souffrance, il vaut mieux rester sans colère.",
+    "comment": "La patience est supérieure à la réaction émotionnelle."
+  },
+  {
+    "id": 309,
+    "tamil": "உள்ளிய தெல்லாம் உடனெய்தும் உள்ளத்தால் உள்ளான் வெகுளி எனின்.",
+    "transliteration": "Ulliya thellaam utan eidhum ullaththaal ullaan vekuli enin.",
+    "translation": "Celui qui évite la colère accomplit facilement tous ses objectifs.",
+    "comment": "La maîtrise de soi facilite la réussite."
+  },
+  {
+    "id": 310,
+    "tamil": "இறந்தார் இறந்தார் அனையர் சினத்தைத் துறந்தார் துறந்தார் துணை.",
+    "transliteration": "Irandhaar irandhaar anaiyar sinaththai thurandhaar thurandhaar thunai.",
+    "translation": "Les personnes dominées par la colère sont comme mortes, tandis que celles qui l’abandonnent deviennent des guides.",
+    "comment": "Abandonner la colère élève spirituellement."
+  }
+],// fin du chapitre 31
+
+
+   
+  {  id: 32,
+            name: " 32. Innaaseyyaamai - <br> Ne pas faire le mal", 
+            kurals: [
+              
+  {
+    "id": 311,
+    "tamil": "சிறப்பீனும் செல்வம் பெறினும் பிறர்க்குஇன்னா செய்யாமை மாசற்றார் கோள்.",
+    "transliteration": "Sirappeenum Selvam Perinum Pirarkku Innaa Seyyaamai Maasatraar Kol",
+    "translation": "Même en obtenant richesse ou prestige, les personnes vertueuses considèrent comme règle absolue de ne causer aucun tort à autrui.",
+    "comment": "La vertu est définie comme une règle non négociable : aucune réussite matérielle ou sociale ne justifie de faire du mal à quelqu’un."
+  },
+  {
+    "id": 312,
+    "tamil": "கறுத்துஇன்னா செய்தவக் கண்ணும் மறுத்தின்னா செய்யாமை மாசற்றார் கோள்.",
+    "transliteration": "Karuththu Innaa Seydhavak Kannum Maruththu Innaa Seyyaamai Maasatraar Kol",
+    "translation": "Même face à une offense grave ou intentionnelle, les sages s’interdisent de répondre par un mal équivalent.",
+    "comment": "La maîtrise de soi consiste à rompre totalement le cycle de la réciprocité violente, même quand la douleur est volontaire."
+  },
+  {
+    "id": 313,
+    "tamil": "செய்யாமல் செற்றார்க்கும் இன்னாத செய்தபின் உய்யா விழுமந் தரும்.",
+    "transliteration": "Seyyaamal Setraarkkum Innaadha Seydhapin Uyyaa Vizhuman Tharum",
+    "translation": "Répondre par la vengeance, même sans avoir agi en premier, entraîne inévitablement des conséquences douloureuses.",
+    "comment": "La vengeance crée un enchaînement de souffrances qui finit toujours par dépasser le tort initial."
+  },
+  {
+    "id": 314,
+    "tamil": "இன்னாசெய்தாரை ஒறுத்தல் அவர்நாண நன்னயஞ் செய்து விடல்.",
+    "transliteration": "Innaasey Thaarai Oruththal Avarnaana Nannayam Seydhu Vital",
+    "translation": "Corriger ceux qui font du mal consiste à les amener à la honte par des actes de bienveillance.",
+    "comment": "La correction morale passe par l’exemple et la dignité plutôt que par la punition ou la colère."
+  },
+  {
+    "id": 315,
+    "tamil": "அறிவினான் ஆகுவ துண்டோ பிறிதின்நோய் தந்நோய்போல் போற்றாக் கடை.",
+    "transliteration": "Arivinaan Aakuva Thundo Piridhin Noi Thannoipol Potraak Kadai",
+    "translation": "À quoi sert l’intelligence si l’on ne ressent pas la douleur d’autrui comme la sienne propre ?",
+    "comment": "La véritable intelligence morale consiste à développer une empathie active et constante envers la souffrance des autres."
+  },
+  {
+    "id": 316,
+    "tamil": "இன்னா எனத்தான் உணர்ந்தவை துன்னாமை வேண்டும் பிறன்கண் செயல்.",
+    "transliteration": "Innaa Enaththaan Unarndhavai Thunnaamai Ventum Pirankan Seyal",
+    "translation": "Ce que l’on a soi-même perçu comme souffrance ne doit jamais être infligé à autrui.",
+    "comment": "L’expérience personnelle de la douleur doit devenir une règle éthique universelle dans nos actions."
+  },
+  {
+    "id": 317,
+    "tamil": "எனைத்தானும் எஞ்ஞான்றும் யார்க்கும் மனத்தானாம் மாணாசெய்யாமை தலை.",
+    "transliteration": "Enaiththaanum Egngnaandrum Yaarkkum Manaththaanam Maanaaseyyaamai Thalai",
+    "translation": "En toute circonstance et envers tous, il est essentiel de ne jamais concevoir de nuire même en pensée.",
+    "comment": "La pureté morale commence dans l’intention : même la pensée de nuire est déjà une faute."
+  },
+  {
+    "id": 318,
+    "tamil": "தன்னுயிர்க்கு ஏன்னாமை தானறிவான் என்கொலோ மன்னுயிர்க்கு இன்னா செயல்.",
+    "transliteration": "Thannuyirkku Ennaamai Thaanarivaan Enkolo Mannuyirkku Innaa Seyal",
+    "translation": "Celui qui comprend sa propre souffrance, comment peut-il infliger de la douleur à d’autres êtres ?",
+    "comment": "La conscience de sa propre vulnérabilité devrait empêcher toute forme de cruauté envers les autres vivants."
+  },
+  {
+    "id": 319,
+    "tamil": "பிறர்க்கின்னா முற்பகல் செய்யின் தமக்குஇன்னா பிற்பகல் தாமே வரும்.",
+    "transliteration": "Pirarkkinnaa Murpakal Seyyin Thamakku Innaa Pirpakal Thaame Varum",
+    "translation": "Le mal infligé aux autres revient inévitablement à celui qui l’a causé.",
+    "comment": "Les actes nuisibles produisent un retour naturel de conséquences négatives sur leur auteur."
+  },
+  {
+    "id": 320,
+    "tamil": "நோயெல்லாம் நோய்செய்தார் மேலவாம் நோய்செய்யார் நோயின்மை வேண்டுபவர்.",
+    "transliteration": "Noyellaam Noiseydhaar Melavaam Noiseyyaar Noyinmai Ventu Pavar",
+    "translation": "Toutes les souffrances retombent sur ceux qui font le mal; ceux qui souhaitent ne pas souffrir ne causent pas de tort.",
+    "comment": "Éviter de nuire aux autres est présenté comme la condition fondamentale pour se préserver soi-même de la souffrance."
+  }
+
+              
+            ]
+  }// fin du chapitre 32
+
+              
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
+
+      
     ] //fin des iyals du livre 1 
   }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
   2: {
