@@ -2075,13 +2075,13 @@ const thirukuralData = {
 
       
       {
-        id: 2, 
+        id: 3, 
         //===========================================
         // DEBUT DE L IYAL 3 DU LIVRE 1 
         //==============================================
         name: " Uravaraviyal <br> Renoncement / vie ascétique ",
         //====================================================
-        //DEBUT DES CHAPITRES DU L IYAL 2 DU LIVRE 1 
+        //DEBUT DES CHAPITRES DU L IYAL 3 DU LIVRE 1 
         //=======================================================
         chapters: [
           { 
