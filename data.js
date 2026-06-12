@@ -18,7 +18,7 @@ const thirukuralData = {
             //1ER CHAPITRE DE LA 1ERE SECTION PAYIRAVIYAL DU 1ER LIVRE
             //===========================================================================================
             id: 1,
-            name: "Kadavul Vaazhthu <br> Louange à Dieu",
+            name: " 1. Kadavul Vaazhthu - <br> Louange à Dieu",
             // ===========================================================================================
             // TOUS LES KURAL DU 1ER CHAPITRE
             //=============================================================================================
@@ -100,7 +100,7 @@ const thirukuralData = {
             //2EME CHAPITRE DE LA 1ERE SECTION PAYIRAVIYAL 
             //==================================================================================================================
             id: 2,
-            name: "Vaan Sirappu <br> Grandeur de la pluie",
+            name: " 2. Vaan Sirappu  - <br> Grandeur de la pluie",
             //===================================================================================================================
             // TOUS LES KURAL DU 2EME CHAPITRE DU 1ER LIVRE ET DE LA 1ERE SECTION 
             //===================================================================================================================
@@ -182,7 +182,7 @@ const thirukuralData = {
             //3EME CHAPITRE DE LA 1ERE SECTION DU 1ERE LIVRE 
             //===================================================================================================================
             id: 3,
-            name: "Neethaar Perumai <br> Grandeur des ascètes",
+            name: " 3. Neethaar Perumai - <br> Grandeur des ascètes",
             //====================================================================================================================
             //TOUS LES KURAL DU 3EME CHAPITRE DU 1ER LIVRE / 1ER SECTION 
             //=====================================================================================================================
@@ -264,7 +264,7 @@ const thirukuralData = {
             //4EME CHAPITRE DU 1ERE SECTION / 1ER LIVRE 
             //==============================================================================================
             id: 4,
-            name: "Aran Valiyuruththal <br> Importance de la vertu",
+            name: "4. Aran Valiyuruththal - <br> Importance de la vertu",
             //===============================================================================================
             //ICI TOUS LES KURAL DU CHAPITRE 4 DE LA SECTION 1 ET DU LIVRE 1 
             //===============================================================================================
@@ -355,7 +355,7 @@ const thirukuralData = {
         chapters: [
           { 
             id: 5,
-            name: " Ilvaazhkkai <br> La vie domestique", 
+            name: " 5. Ilvaazhkkai - <br> La vie domestique", 
             // chapitres de l'iyal 2 ici
             kurals: [
               {
@@ -442,7 +442,7 @@ const thirukuralData = {
 
           { 
             id: 6,
-            name: " Vaazhkkaith Thunainalam <br> La vertu de l’épouse", 
+            name: " 6. Vaazhkkaith Thunainalam - <br> La vertu de l’épouse", 
             // KURAL DU CHAPITRE 6 ICI 
             kurals: [
               {
@@ -532,7 +532,7 @@ const thirukuralData = {
 
            { 
             id: 7,
-            name: " Makkatpēru <br> Bénédiction des enfants", 
+            name: "7. Makkatpēru - <br> Bénédiction des enfants", 
             // KURAL DU CHAPITRE 7 ICI 
             kurals: [
 
@@ -625,7 +625,7 @@ const thirukuralData = {
 
            { 
             id: 8,
-            name: " Anpudaimai <br> L’amour et la bienveillance", 
+            name: " 8. Anpudaimai - <br> L’amour et la bienveillance", 
             // KURAL DU CHAPITRE 8 ICI 
             kurals: [
               {
@@ -719,7 +719,7 @@ const thirukuralData = {
           
            { 
             id: 9,
-            name: " Virundhompal <br> Hospitalité ", 
+            name: " 9. Virundhompal - <br> Hospitalité ", 
             // KURAL DU CHAPITRE 9 ICI 
             kurals: [
               {
@@ -808,7 +808,7 @@ const thirukuralData = {
           
            { 
             id: 10,
-            name: " Iniyavaikooral <br> Les paroles agréables ", 
+            name: " 10. Iniyavaikooral - <br> Les paroles agréables ", 
             // KURAL DU CHAPITRE 10 ICI 
             kurals: [
 
@@ -898,7 +898,7 @@ const thirukuralData = {
 
            { 
             id: 11,
-            name: " Seynnandri Aridhal <br> La gratitude ", 
+            name: " 11. Seynnandri Aridhal - <br> La gratitude ", 
             // KURAL DU CHAPITRE 11 ICI 
             kurals: [
 
@@ -988,7 +988,7 @@ const thirukuralData = {
 
            { 
             id: 12,
-            name: " Natuvu Nilaimai <br> L’impartialité ", 
+            name: " 12. Natuvu Nilaimai - <br> L’impartialité ", 
             // KURAL DU CHAPITRE 12 ICI 
             kurals: [
 
@@ -1078,7 +1078,7 @@ const thirukuralData = {
 
            { 
             id: 13,
-            name: " Adakkamudaimai <br> La maîtrise de soi ", 
+            name: " 13. Adakkamudaimai - <br> La maîtrise de soi ", 
             // KURAL DU CHAPITRE 13 ICI 
             kurals: [ 
 
@@ -1168,7 +1168,7 @@ const thirukuralData = {
 
            { 
             id: 14,
-            name: " Ozhukkamudaimai <br> La maîtrise de soi ", 
+            name: " 14. Ozhukkamudaimai - <br> La maîtrise de soi ", 
             // KURAL DU CHAPITRE 14 ICI 
             kurals: [
               {
@@ -1258,7 +1258,7 @@ const thirukuralData = {
 
             { 
             id: 15,
-            name: " 	Piranil Vizhaiyaamai <br> Ne pas convoiter la femme d’autrui ", 
+            name: " 15. 	Piranil Vizhaiyaamai - <br> Ne pas convoiter la femme d’autrui ", 
             // KURAL DU CHAPITRE 15 ICI 
             kurals: [
 
@@ -1351,7 +1351,7 @@ const thirukuralData = {
 
            { 
             id: 16,
-            name: " 	Poraiyudaimai <br> La patience et la tolérance ", 
+            name: " 16.	Poraiyudaimai - <br> La patience et la tolérance ", 
             // KURAL DU CHAPITRE 16 ICI 
             kurals: [
 
@@ -1432,7 +1432,7 @@ const thirukuralData = {
 
            { 
             id: 17,
-            name: " 	Azhukkaaraamai <br> L’absence d’envie ", 
+            name: " 17.	Azhukkaaraamai - <br> L’absence d’envie ", 
             // KURAL DU CHAPITRE 17 ICI 
             kurals: [
 
@@ -1512,7 +1512,7 @@ const thirukuralData = {
 
             { 
             id: 18,
-            name: " 	Veqkaamai <br> Ne pas convoiter ", 
+            name: " 18.	Veqkaamai - <br> Ne pas convoiter ", 
             // KURAL DU CHAPITRE 18 ICI 
             kurals: [
              {
@@ -1593,7 +1593,7 @@ const thirukuralData = {
 
            { 
             id: 19,
-            name: " 	Purangooraamai <br> Ne pas médire ", 
+            name: " 	19. Purangooraamai - <br> Ne pas médire ", 
             // KURAL DU CHAPITRE 19 ICI 
             kurals: [
 
@@ -1673,7 +1673,7 @@ const thirukuralData = {
 
            { 
             id: 20,
-            name: " 	Payanila Sollaamai <br> Ne pas parler inutilement ", 
+            name: " 	20. Payanila Sollaamai - <br> Ne pas parler inutilement ", 
             // KURAL DU CHAPITRE 20 ICI 
             kurals: [
               {
@@ -1753,7 +1753,7 @@ const thirukuralData = {
 
            { 
             id: 21,
-            name: " 	Against Vain Speaking <br> La peur des mauvaises actions", 
+            name: " 	21. Theevinaiyachcham - <br> La peur des mauvaises actions", 
             // KURAL DU CHAPITRE 21 ICI 
             kurals: [
               {
@@ -1829,6 +1829,247 @@ const thirukuralData = {
 
               ]
            },// fin du chapitre 21
+
+          { 
+            id: 22,
+            name: " 	22. Oppuravaridhal - <br> Le devoir envers la société", 
+            // KURAL DU CHAPITRE 22 ICI 
+            kurals: [
+
+                {
+                  id: 211,
+                  tamil: "கைம்மாறு வேண்டா கடப்பாடு மாரிமாட்டு என்ஆற்றுங் கொல்லோ உலகு",
+                  tamilfr: "Kaimmaaru Ventaa Katappaatu Maarimaattu EnAatrung Kollo Ulaku",
+                  translation: "Le devoir doit être accompli sans attendre de récompense, comme la pluie qui donne sans retour.",
+                  comment: "Le devoir désintéressé est comparé à la pluie : une action juste doit être accomplie sans attendre de contrepartie.",
+                },
+                {
+                  id: 212,
+                  tamil: "தாளாற்றித் தந்த பொருளெல்லாம் தக்கார்க்கு வேளாண்மை செய்தற் பொருட்டு",
+                  tamilfr: "Thaalaatrith Thandha Porulellaam Thakkaarkku Velaanmai Seydhar Poruttu",
+                  translation: "Toutes les richesses acquises par l’effort doivent servir à aider ceux qui en sont dignes.",
+                  comment: "Les biens matériels sont présentés comme une responsabilité : ils doivent être utilisés pour soutenir les personnes méritantes.",
+                },
+                {
+                  id: 213,
+                  tamil: "புத்தே ளுலகத்தும் ஈண்டும் பெறலரிதே ஒப்புரவின் நல்ல பிற",
+                  tamilfr: "Puththe Lulakaththum Eentum Peralaridhe Oppuravin Nalla Pira",
+                  translation: "Il est rare de trouver une vertu comparable à la bienveillance, ici et même dans l’au-delà.",
+                  comment: "La bienveillance est présentée comme une qualité exceptionnelle et difficile à égaler dans tous les mondes.",
+                },
+                {
+                  id: 214,
+                  tamil: "ஒத்த தறவோன் உயிர்வாழ்வான் மற்றையான் செத்தாருள் வைக்கப் படும்",
+                  tamilfr: "Oththa Tharavon Uyirvaazhvaan Matraiyaan Seththaarul Vaikkap Patum",
+                  translation: "Celui qui comprend l’unité des êtres vit véritablement, les autres sont comme morts.",
+                  comment: "La conscience de l’unité et de la solidarité humaine est présentée comme une forme de vie véritable.",
+                },
+                {
+                  id: 215,
+                  tamil: "ஊருணி நீர்நிறைந்தற்றே உலகவாம் பேரறிவாளன் திரு",
+                  tamilfr: "Ooruni Neernirain Thatre Ulakavaam Perari Vaalan Thiru",
+                  translation: "La richesse du sage est comme un bassin public toujours plein.",
+                  comment: "La richesse des personnes sages est bénéfique pour tous, comme une source d’eau accessible à la communauté.",
+                },
+                {
+                  id: 216,
+                  tamil: "பயன்மரம் உள்ளூர்ப் பழுத்தற்றால் செல்வம் நயனுடையான்கண் படின்",
+                  tamilfr: "Payanmaram Ulloorp Pazhuththatraal Selvam Nayanutai Yaankan Patin",
+                  translation: "La richesse d’une personne généreuse est comme un arbre fruitier au cœur du village.",
+                  comment: "La richesse devient utile et vivante lorsqu’elle est partagée avec générosité.",
+                },
+                {
+                  id: 217,
+                  tamil: "மருந்தாகித் தப்பா மரத்தற்றால் செல்வம் பெருந்தகையான்கண் படின்",
+                  tamilfr: "Marundhaakith Thappaa Maraththatraal Selvam Perundhakai Yaankan Patin",
+                  translation: "La richesse d’un homme noble est comme un arbre médicinal qui ne faillit jamais.",
+                  comment: "La richesse est bénéfique lorsqu’elle est entre les mains de personnes généreuses et vertueuses.",
+                },
+                {
+                  id: 218,
+                  tamil: "இடனில் பருவத்தும் ஒப்புரவிற் கொல்கார் கடனறிகாட்சி யவர்",
+                  tamilfr: "Itanil Paruvaththum Oppuravirku Olkaar Katanari Kaatchi Yavar",
+                  translation: "Les personnes conscientes de leur devoir n’abandonnent jamais la bienveillance, même en temps difficile.",
+                  comment: "La vraie compréhension du devoir implique une constance dans l’aide aux autres, quelles que soient les circonstances.",
+                },
+                {
+                  id: 219,
+                  tamil: "நயனுடையான் நல்கூர்ந்தா னாதல் செயும்நீர செய்யாது அமைகலா வாறு",
+                  tamilfr: "Nayanutaiyaan Nalkoorndhaa Naadhal Seyumneera Seyyaadhu Amaikalaa Vaaru",
+                  translation: "La pauvreté d’un homme généreux est simplement son incapacité à exercer sa générosité.",
+                  comment: "La valeur d’une personne ne dépend pas de ses richesses, mais de sa capacité à faire le bien.",
+                },
+                {
+                  id: 220,
+                  tamil: "ஒப்புரவி னால்வரும் கேடெனின் அஃதொருவன் விற்றுக்கோள் தக்க துடைத்து",
+                  tamilfr: "Oppuravi Naalvarum Ketenin Aqdhoruvan Vitrukkol Thakka Thutaiththu",
+                  translation: "Si la pauvreté vient du bienfait, il vaut encore mieux tout sacrifier pour continuer à faire le bien.",
+                  comment: "Le service désintéressé est placé au-dessus de la richesse matérielle : le bien doit être poursuivi même au prix du sacrifice.",
+                },
+
+            ]// fin des kural du chapitre 22 
+          },//fin du chapitre 22
+
+           { 
+            id: 23,
+            name: " 23.	Eekai -<br> La générosité", 
+            // KURAL DU CHAPITRE 23 ICI 
+            kurals: [
+
+                {
+                  id: 221,
+                  tamil: "வறியார்க்கொன்று ஈவதே ஈகைமற்றெல்லாம் குறியெதிர்ப்பை நீர துடைத்து",
+                  tamilfr: "Variyaarkkondru Eevadhe Eekai mar Rellaam Kuriyedhirppai Neera Thutaiththu",
+                  translation: "Donner aux pauvres est la véritable charité ; tout le reste n’est qu’attente d’un retour.",
+                  comment: "La vraie générosité est désintéressée et dirigée vers les nécessiteux, tandis que les autres formes de don peuvent cacher une attente de récompense.",
+                },
+                {
+                  id: 222,
+                  tamil: "நல்லாறு எனினும் கொளல்தீது மேலுலகம் இல்லெனினும் ஈதலே நன்று",
+                  tamilfr: "Nallaaru Eninum Kolaldheedhu Melulakam Illeninum Eedhale Nandru",
+                  translation: "Recevoir est mauvais même pour une bonne cause, mais donner reste bon même sans récompense céleste.",
+                  comment: "La valeur morale du don ne dépend ni du profit ni des récompenses spirituelles, mais de l’acte lui-même.",
+                },
+                {
+                  id: 223,
+                  tamil: "இலனென்னும் எவ்வம் உரையாமை ஈதல் குலனுடையான் கண்ணே யுள",
+                  tamilfr: "Ilanennum Evvam Uraiyaamai Eedhal Kulanutaiyaan Kanne Yula",
+                  translation: "Le noble ne dit jamais « je n’ai rien » lorsqu’il s’agit de donner.",
+                  comment: "La noblesse de caractère se manifeste par la générosité sans excuses ni prétextes de manque.",
+                },
+                {
+                  id: 224,
+                  tamil: "இன்னாது இரக்கப் படுதல் இரந்தவர் இன்முகங் காணும் அளவு",
+                  tamilfr: "Innaadhu Irakkap Patudhal Irandhavar Inmukang Kaanum Alavu",
+                  translation: "Il est douloureux d’être dans la position de celui qui demande, jusqu’à voir le sourire de celui qui donne.",
+                  comment: "Le texte souligne la dignité du don et la souffrance de la dépendance, apaisée par la générosité reçue.",
+                },
+                {
+                  id: 225,
+                  tamil: "ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை மாற்றுவார் ஆற்றலின் பின்",
+                  tamilfr: "Aatruvaar Aatral Pasiaatral Appasiyai Maatruvaar Aatralin Pin",
+                  translation: "La force de supporter la faim est grande, mais plus grande encore est celle de la soulager.",
+                  comment: "Soulager la souffrance d’autrui est considéré comme une force morale supérieure à la simple endurance personnelle.",
+                },
+                {
+                  id: 226,
+                  tamil: "அற்றார் அழிபசி தீர்த்தல் அஃதொருவன் பெற்றான் பொருள்வைப் புழி",
+                  tamilfr: "Atraar Azhipasi Theerththal Aqdhoruvan Petraan Porulvaip Puzhi",
+                  translation: "Soulager la faim des pauvres est la véritable destination de la richesse.",
+                  comment: "La richesse trouve son sens dans le partage et l’aide aux plus démunis.",
+                },
+                {
+                  id: 227,
+                  tamil: "பாத்தூண் மரீஇ யவனைப் பசியென்னும் தீப்பிணி தீண்டல் அரிது",
+                  tamilfr: "Paaththoon Mareei Yavanaip Pasiyennum Theeppini Theental Aridhu",
+                  translation: "La faim ne touche pas celui qui partage habituellement sa nourriture.",
+                  comment: "La générosité régulière protège symboliquement contre la misère et la souffrance.",
+                },
+                {
+                  id: 228,
+                  tamil: "ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை வைத்திழக்கும் வன்க ணவர்",
+                  tamilfr: "Eeththuvakkum Inpam Ariyaarkol Thaamutaimai Vaiththizhakkum Vanka Navar",
+                  translation: "Ceux qui accumulent sans donner ignorent le bonheur du partage.",
+                  comment: "L’attachement excessif à la richesse empêche de connaître la joie du don.",
+                },
+                {
+                  id: 229,
+                  tamil: "இரத்தலின் இன்னாது மன்ற நிரப்பிய தாமே தமியர் உணல்",
+                  tamilfr: "Iraththalin Innaadhu Mandra Nirappiya Thaame Thamiyar Unal",
+                  translation: "Manger seul ses richesses est pire que de mendier.",
+                  comment: "L’égoïsme est présenté comme moralement plus grave que la pauvreté ou la demande d’aide.",
+                },
+                {
+                  id: 230,
+                  tamil: "சாதலின் இன்னாத தில்லை இனிததூஉம் ஈதல் இயையாக் கடை",
+                  tamilfr: "Saadhalin Innaadha Thillai Inidhadhooum Eedhal Iyaiyaak Katai",
+                  translation: "Rien n’est pire que la mort, mais même la mort est douce si l’on ne peut pas donner.",
+                  comment: "La capacité à donner est considérée comme essentielle au sens de la vie ; sans elle, même vivre perd sa valeur.",
+                },
+                              
+            ]// fin des kural du chapitre 23 
+           },// fin du chapitre 23
+
+
+           { 
+            id: 24,
+            name: " 	24.Eekai - <br> La générosité", 
+            // KURAL DU CHAPITRE 24 ICI 
+            kurals: [
+
+                        {
+                  id: 231,
+                  tamil: "ஈதல் இசைபட வாழ்தல் அதுவல்லது ஊதியம் இல்லை உயிர்க்கு",
+                  tamilfr: "Eedhal Isaipata Vaazhdhal Adhuvalladhu Oodhiyam Illai Uyirkku",
+                  translation: "Il n’y a pas de plus grand gain dans la vie que de vivre dans une réputation acquise par la générosité.",
+                  comment: "La vraie richesse d’une vie est la reconnaissance morale qui découle des actes de générosité et du service aux autres.",
+                },
+                {
+                  id: 232,
+                  tamil: "உரைப்பார் உரைப்பவை எல்லாம் இரப்பார்க்கொன்று ஈவார்மேல் நிற்கும் புகழ்",
+                  tamilfr: "Uraippaar Uraippavai Ellaam Irappaarkkondru Eevaarmel Nirkum Pukazh",
+                  translation: "La réputation de ceux qui donnent aux nécessiteux demeure dans toutes les paroles des gens.",
+                  comment: "La générosité construit une mémoire collective durable : les bienfaiteurs restent vivants dans le souvenir des autres.",
+                },
+                {
+                  id: 233,
+                  tamil: "ஒன்றா உலகத்து உயர்ந்த புகழல்லால் பொன்றாது நிற்பதொன்று இல்",
+                  tamilfr: "Ondraa Ulakaththu Uyarndha Pukazhallaal Pondraadhu Nirpadhon Ril",
+                  translation: "Rien ne demeure éternellement dans ce monde sauf la gloire noble et incomparable.",
+                  comment: "Seule la réputation vertueuse possède une véritable permanence dans un monde changeant.",
+                },
+                {
+                  id: 234,
+                  tamil: "நிலவரை நீள்புகழ் ஆற்றின் புலவரைப் போற்றாது புத்தேள் உலகு",
+                  tamilfr: "Nilavarai Neelpukazh Aatrin Pulavaraip Potraadhu Puththel Ulaku",
+                  translation: "Même les êtres célestes honorent ceux dont la gloire s’étend sur la terre entière.",
+                  comment: "La vertu et la grandeur morale dépassent les mondes humains et sont reconnues même dans les sphères supérieures.",
+                },
+                {
+                  id: 235,
+                  tamil: "நத்தம்போல் கேடும் உளதாகும் சாக்காடும் வித்தகர்க் கல்லால் அரிது",
+                  tamilfr: "Naththampol Ketum Uladhaakum Saakkaatum Viththakark Kallaal Aridhu",
+                  translation: "Seuls les sages savent transformer même la perte et la mort en quelque chose de significatif.",
+                  comment: "La sagesse permet de donner du sens aux épreuves, là où d’autres ne voient que la destruction.",
+                },
+                {
+                  id: 236,
+                  tamil: "தோன்றின் புகழொடு தோன்றுக அஃதிலார் தோன்றலின் தோன்றாமை நன்று",
+                  tamilfr: "Thondrin Pukazhotu Thondruka Aqdhilaar Thondralin Thondraamai Nandru",
+                  translation: "Mieux vaut naître pour la gloire, sinon il vaudrait mieux ne pas naître du tout.",
+                  comment: "La valeur d’une existence est mesurée par son impact moral et sa réputation positive.",
+                },
+                {
+                  id: 237,
+                  tamil: "புகழ்பட வாழாதார் தந்நோவார் தம்மை இகழ்வாரை நோவது எவன்",
+                  tamilfr: "Pukazhpata Vaazhaadhaar Thannovaar Thammai Ikazhvaarai Novadhu Evan",
+                  translation: "Pourquoi blâmer les autres quand on n’a pas soi-même vécu de manière honorable ?",
+                  comment: "Le texte invite à la responsabilité personnelle plutôt qu’à accuser autrui de son propre manque de vertu.",
+                },
+                {
+                  id: 238,
+                  tamil: "வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும் எச்சம் பெறாஅ விடின்",
+                  tamilfr: "Vasaiyenpa Vaiyaththaark Kellaam Isaiyennum Echcham Peraaa Vitin",
+                  translation: "Le monde entier condamne ceux qui n’acquièrent pas de réputation honorable.",
+                  comment: "L’absence de vertu et de contribution positive entraîne naturellement la désapprobation sociale.",
+                },
+                {
+                  id: 239,
+                  tamil: "வசையிலா வண்பயன் குன்றும் இசையிலா யாக்கை பொறுத்த நிலம்",
+                  tamilfr: "Vasaiyilaa Vanpayan Kundrum Isaiyilaa Yaakkai Poruththa Nilam",
+                  translation: "Une vie sans réputation honorable perd toute sa valeur productive.",
+                  comment: "La valeur d’une existence dépend de son impact moral et social, non seulement de sa survie physique.",
+                },
+                {
+                  id: 240,
+                  tamil: "வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய வாழ்வாரே வாழாதவர்",
+                  tamilfr: "Vasaiyozhiya Vaazhvaare Vaazhvaar Isaiyozhiya Vaazhvaare Vaazhaa Thavar",
+                  translation: "Seuls vivent vraiment ceux dont la vie est sans blâme et pleine de réputation.",
+                  comment: "La véritable vie est définie par la droiture et la bonne réputation, non par la simple existence biologique.",
+                },
+            ]//fin des kural du chapitre 24 
+           },// fin du chapitre 24 
+
           
         ] // fermeture de tous les chapter de l iyal 2 
       }, // fermeture de l iyal 2 
