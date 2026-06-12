@@ -2069,12 +2069,6 @@ const thirukuralData = {
                 }
             ]//fin des kural du chapitre 24 
            }// fin du chapitre 24 
-          
-        ] // FIN de tous les chapitres de l'Iyal 2 
-      }, // FIN de l'Iyal 2 
-
-      
-3 
 
       
     ] //fin des iyals du livre 1 
