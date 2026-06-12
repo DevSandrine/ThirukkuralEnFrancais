@@ -2707,7 +2707,7 @@ const thirukuralData = {
 
               
             ]
-  }// fin du chapitre 32
+  },// fin du chapitre 32
 
               
         ] // fermeture de tous les chapter de l iyal 2 
