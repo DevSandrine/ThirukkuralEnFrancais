@@ -2074,9 +2074,6 @@ const thirukuralData = {
       }, // FIN de l'Iyal 2 (Payiraviyal)
 
 
-            ] // FIN de tous les chapitres de l'Iyal 2 
-      }, // FIN de l'Iyal 2 
-
 {
         id: 3, 
         //===========================================
