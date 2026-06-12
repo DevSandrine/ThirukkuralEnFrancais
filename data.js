@@ -2066,9 +2066,9 @@ const thirukuralData = {
                   tamilfr: "Vasaiyozhiya Vaazhvaare Vaazhvaar Isaiyozhiya Vaazhvaare Vaazhaa Thavar",
                   translation: "Seuls vivent vraiment ceux dont la vie est sans blâme et pleine de réputation.",
                   comment: "La véritable vie est définie par la droiture et la bonne réputation, non par la simple existence biologique.",
-                },
+                }
             ]//fin des kural du chapitre 24 
-           },// fin du chapitre 24 
+           }// fin du chapitre 24 
           
         ] // FIN de tous les chapitres de l'Iyal 2 
       }, // FIN de l'Iyal 2 
