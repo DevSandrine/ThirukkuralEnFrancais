@@ -2068,7 +2068,7 @@ const thirukuralData = {
                   comment: "La véritable vie est définie par la droiture et la bonne réputation, non par la simple existence biologique.",
                 }
             ]//fin des kural du chapitre 24 
-           }// fin du chapitre 24 
+           },// fin du chapitre 24 
 
       
     ] //fin des iyals du livre 1 
