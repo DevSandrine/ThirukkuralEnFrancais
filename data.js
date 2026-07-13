@@ -3093,8 +3093,6 @@ const thirukuralData = {
   ]
 }// fin du chapitre37 
     
-        ]
-},
 
       {
   id: 38,
