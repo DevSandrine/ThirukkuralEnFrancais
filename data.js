@@ -3172,7 +3172,8 @@ const thirukuralData = {
 },
 // fin du chapitre 38
 
-      
+          }
+      ]
     ] //fin des iyals du livre 1 
   }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
 
@@ -3191,7 +3192,7 @@ const thirukuralData = {
       // 1ère section : Arasiyal
       //===========================================================================================
       {
-        id: 4,
+        id: 5,
         name: "Arasiyal <br> L'art de gouverner",
 
         chapters: [
