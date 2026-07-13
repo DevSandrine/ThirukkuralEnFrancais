@@ -3091,7 +3091,7 @@ const thirukuralData = {
       comment: "La fin du désir mène à un état intérieur stable, profond et permanent."
     }
   ]
-}// fin du chapitre37 
+},// fin du chapitre37 
     
 
       {
