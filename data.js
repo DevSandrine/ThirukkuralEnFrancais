@@ -3096,15 +3096,184 @@ const thirukuralData = {
         ]
 },
 
+      {
+  id: 38,
+  name: "38. Oozh - Le destin",
+  kurals: [
+    {
+      id: 371,
+      tamil: "ஆகூழால் தோன்றும் அசைவின்மை கைப்பொருள் போகூழால் தோன்றும் மடி.",
+      transliteration: "Aakoozhaal thondrum asaivinmai kaipporul pokoozhaal thondrum madi",
+      translation: "Le destin favorable inspire l’effort qui mène à la prospérité ; le destin défavorable engendre la paresse qui conduit à la perte.",
+      comment: "Le destin influence les dispositions humaines, favorisant soit l’action et la réussite, soit l’inertie et le déclin."
+    },
+    {
+      id: 372,
+      tamil: "பேதைப் படுக்கும் இழவூழ் அறிவகற்றும் ஆகலூழ் உற்றக் கடை.",
+      transliteration: "Pedhaip patukkum izhavoozh arivakatrum aakaloozh utrak kadai",
+      translation: "Le destin contraire obscurcit l’intelligence, tandis que le destin favorable développe la sagesse.",
+      comment: "Selon les circonstances du destin, les capacités de jugement peuvent s’épanouir ou s’affaiblir."
+    },
+    {
+      id: 373,
+      tamil: "நுண்ணிய நூல்பல கற்பினும் மற்றுந்தன் உண்மை யறிவே மிகும்.",
+      transliteration: "Nunniya noolpala karpinum matrundhan unmai yarive migum",
+      translation: "Même après l’étude de nombreux ouvrages subtils, c’est la sagesse innée qui prévaut.",
+      comment: "L’apprentissage est précieux, mais la compréhension profonde dépend aussi des dispositions naturelles."
+    },
+    {
+      id: 374,
+      tamil: "இருவேறு உலகத்து இயற்கை திருவேறு தெள்ளிய ராதலும் வேறு.",
+      transliteration: "Iruveru ulakaththu iyarkai thiruveru thelliya raadhalum veru",
+      translation: "Dans ce monde, l’acquisition de la richesse et celle de la sagesse suivent souvent des voies distinctes.",
+      comment: "La fortune matérielle et la clarté de l’esprit ne sont pas nécessairement liées."
+    },
+    {
+      id: 375,
+      tamil: "நல்லவை எல்லாஅந் தீயவாம் தீயவும் நல்லவாம் செல்வம் செயற்கு.",
+      transliteration: "Nallavai ellaaan theeyavaam theeyavum nallavaam selvam seyarku",
+      translation: "Le destin peut transformer les bonnes circonstances en mauvaises, et les mauvaises en favorables.",
+      comment: "Le succès dépend parfois de facteurs qui échappent totalement à la volonté humaine."
+    },
+    {
+      id: 376,
+      tamil: "பரியினும் ஆகாவாம் பாலல்ல உய்த்துச் சொரியினும் போகா தம.",
+      transliteration: "Pariyinum aakaavaam paalalla uyththuch choriyinum pokaa thama",
+      translation: "Ce qui ne nous est pas destiné ne peut être obtenu ; ce qui nous appartient vraiment ne peut être perdu.",
+      comment: "Le Kural souligne la puissance du destin dans l’obtention ou la conservation des biens."
+    },
+    {
+      id: 377,
+      tamil: "வகுத்தான் வகுத்த வகையல்லால் கோடி தொகுத்தார்க்கு துய்த்தல் அரிது.",
+      transliteration: "Vakuththaan vakuththa vakaiyallaal koti thokuththaarkku thuyththal aridhu",
+      translation: "Même celui qui amasse des millions ne peut en jouir que selon ce qui lui est destiné.",
+      comment: "Accumuler des richesses ne garantit pas la possibilité d’en profiter."
+    },
+    {
+      id: 378,
+      tamil: "துறப்பார்மன் துப்புர வில்லார் உறற்பால ஊட்டா கழியு மெனின்.",
+      transliteration: "Thurappaarman thuppura villaar urarpaala oottaa kazhiyu menin",
+      translation: "Si les plus démunis ne renoncent pas au monde, c’est que leur destin ne les y conduit pas encore.",
+      comment: "Le renoncement lui-même est présenté comme dépendant du cours du destin."
+    },
+    {
+      id: 379,
+      tamil: "நன்றாங்கால் நல்லவாக் காண்பவர் அன்றாங்கால் அல்லற் படுவ தெவன்.",
+      transliteration: "Nandraangaal nallavaak kaanpavar andraangaal allar paduva thevan",
+      translation: "Celui qui accueille sereinement la bonne fortune ne devrait pas se laisser abattre lorsque survient l’adversité.",
+      comment: "Accepter le destin implique d’accueillir avec la même sérénité les périodes favorables et défavorables."
+    },
+    {
+      id: 380,
+      tamil: "ஊழிற் பெருவலி யாவுள மற்றொன்று சூழினுந் தான்முந் துறும்.",
+      transliteration: "Oozhir peruvali yaavula matrondru soozhinun thaanmun thurum",
+      translation: "Rien n’est plus puissant que le destin ; quels que soient nos efforts pour l’éviter, il nous devance toujours.",
+      comment: "Le chapitre s’achève en affirmant la force irrésistible du destin face aux projets humains."
+    }
+  ]
+},
+// fin du chapitre 38
+
       
     ] //fin des iyals du livre 1 
   }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
+
+  
   
   2: {
     name: "Porutpāl",
     fr: "Livre de la Société",
-    iyals: []
-  },
+    iyals: [
+
+      //
+      ============================================================================================
+     // 1ère section du 2e livre : Porutpāl
+        //============================================================================================
+        id: 1,
+        name: "Arasiyal <br> L'art de gouverner",
+        chapters: [
+          { 
+  id: 39,
+  name: "39. Iraimatchi - Les qualités du souverain ",
+  kurals: [
+    {
+      id: 381,
+      tamil: "படைகுடி கூழ்அமைச்சு நட்பரண் ஆறும் உடையான் அரசருள் ஏறு.",
+      transliteration: "Pataikuti koozh amaichchu natpu aran aarum utaiyaan arasarul eru",
+      translation: "Parmi les souverains, le plus grand est celui qui possède ces six atouts : une armée, un peuple, des richesses, de bons ministres, des alliés et des fortifications.",
+      comment: "La force d’un royaume repose sur un équilibre entre puissance militaire, stabilité politique et soutien du peuple."
+    },
+    {
+      id: 382,
+      tamil: "அஞ்சாமை ஈகை அறிவூக்கம் இந்நான்கும் எஞ்சாமை வேந்தர்க் கியல்பு.",
+      transliteration: "Anjaamai eekai arivookkam innaankum enjaamai vendharkkiyalpu",
+      translation: "Le courage, la générosité, la sagesse et l'énergie sont les quatre qualités indispensables d'un souverain.",
+      comment: "Le roi idéal unit la force morale, l'intelligence et la bienveillance dans son gouvernement."
+    },
+    {
+      id: 383,
+      tamil: "தூங்காமை கல்வி துணிவுடைமை இம்மூன்றும் நீங்கா நிலனான் பவர்க்கு.",
+      transliteration: "Thoongaamai kalvi thunivudaimai immoondrum neengaa nilanaan pavarkku",
+      translation: "La vigilance, le savoir et la détermination ne doivent jamais quitter celui qui gouverne un royaume.",
+      comment: "Un dirigeant efficace demeure attentif, cultivé et résolu face aux responsabilités."
+    },
+    {
+      id: 384,
+      tamil: "அறனிழுக்கா தல்லவை நீக்கி மறனிழுக்கா மானம் உடைய தரசு.",
+      transliteration: "Aranizhukkaa thallavai neekki maranizhukkaa maanam utaiya tharasu",
+      translation: "Est un véritable roi celui qui reste fidèle à la vertu, écarte l'injustice et agit avec un courage irréprochable.",
+      comment: "La légitimité du pouvoir repose sur la justice autant que sur la bravoure."
+    },
+    {
+      id: 385,
+      tamil: "இயற்றலும் ஈட்டலுங் காத்தலும் காத்த வகுத்தலும் வல்ல தரசு.",
+      transliteration: "Iyatralum eettalum kaaththalum kaaththa vakuththalum valla tharasu",
+      translation: "Le bon souverain sait produire les richesses, les acquérir, les préserver et les répartir avec discernement.",
+      comment: "La prospérité d'un État dépend d'une gestion équilibrée de ses ressources."
+    },
+    {
+      id: 386,
+      tamil: "காட்சிக் கெளியன் கடுஞ்சொல்லன் அல்லனேல் மீக்கூறும் மன்னன் நிலம்.",
+      transliteration: "Kaatchik keliyan katunjollan allanEl meekkoorum mannan nilam",
+      translation: "Le royaume prospère sous un roi accessible et dont les paroles sont empreintes de douceur.",
+      comment: "La proximité avec le peuple et la courtoisie renforcent naturellement l'autorité du souverain."
+    },
+    {
+      id: 387,
+      tamil: "இன்சொலால் ஈத்தளிக்க வல்லார்க்குத் தன்சொலால் தான்கண் டனைத்திவ் வுலகு.",
+      transliteration: "Insolaal eeththalikka vallarkkuth thansolaal thaankan tanaiththiv vulaku",
+      translation: "Le monde se conforme volontiers aux décisions du souverain qui allie des paroles bienveillantes à la générosité.",
+      comment: "L'autorité est mieux acceptée lorsqu'elle s'exerce avec bonté et libéralité."
+    },
+    {
+      id: 388,
+      tamil: "முறைசெய்து காப்பாற்றும் மன்னவன் மக்கட்கு இறையென்று வைக்கப் படும்.",
+      transliteration: "Muraiseydhu kaappaatrum mannavan makkatku iraiyendru vaikkappadum",
+      translation: "Le roi qui gouverne avec justice et protège son peuple est considéré par celui-ci comme un être presque divin.",
+      comment: "La protection et l'équité inspirent une profonde confiance envers le dirigeant."
+    },
+    {
+      id: 389,
+      tamil: "செவிகைப்பச் சொற்பொறுக்கும் பண்புடை வேந்தன் கவிகைக்கீழ்த் தங்கும் உலகு.",
+      transliteration: "Sevikaippach chorporukkum panputai vendhan kavikaikkeezhth thangum ulaku",
+      translation: "Le monde demeure en sécurité sous le règne du roi capable d'écouter et d'accepter les conseils, même lorsqu'ils sont difficiles à entendre.",
+      comment: "L'humilité d'écouter les critiques est une qualité essentielle du bon gouvernement."
+    },
+    {
+      id: 390,
+      tamil: "கொடையளி செங்கோல் குடியோம்பல் நான்கும் உடையானாம் வேந்தர்க் கொளி.",
+      transliteration: "Kotaiyali sengol kutiyompal naankum utaiyaanaam vendhark koli",
+      translation: "Le souverain qui réunit la générosité, la compassion, la justice et le souci de son peuple est une lumière parmi les rois.",
+      comment: "La grandeur d'un dirigeant se mesure à sa capacité à servir son peuple avec équité et bienveillance."
+    }
+  ]
+},
+// fin du chapitre 39
+      
+    ] // fin des iyals du livre 2 
+  }, // fin du livre 2 
+
+  
   3: {
     name: "Inbattupāl",
     fr: "Livre de l'Amour",
