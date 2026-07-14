@@ -5028,7 +5028,7 @@ kurals: [
 
           {
   id: 61,
-  name: "61. Madiyinmai - L’absence de paresse / La persévérance",
+  name: "61. Madiyinmai - L’absence de paresse ",
 
   kurals: [
 
@@ -5111,7 +5111,7 @@ kurals: [
 
           {
   id: 62,
-  name: "62. Aalvinai Udaimai - L’effort viril / La persévérance dans l’action",
+  name: "62. Aalvinai Udaimai - La persévérance dans l’action",
 
   kurals: [
 
@@ -5387,13 +5387,852 @@ kurals: [
       ] // fin des kurals du chapitre 64
 
     }, // fin du chapitre 64
-    
+
+
+{
+  id: 65,
+  name: "65. Solvanmai - La maîtrise du langage",
+
+  kurals: [
+
+    {
+      id: 641,
+      tamil: "நாநலம் என்னும் நலனுடைமை அந்நலம் யாநலத்து உள்ளதூஉம் அன்று.",
+      transliteration: "Naanalam Ennum Nalanutaimai Annalam Yaanalaththu Ulladhooum Andru",
+      translation: "La véritable richesse est le talent de bien parler ; aucun autre avantage ne lui est comparable.",
+      comment: "La maîtrise de la parole est un bien précieux qui distingue l’être humain par son influence et sa valeur."
+    },
+    {
+      id: 642,
+      tamil: "ஆக்கமுங் கேடும் அதனால் வருதலால் காத்தோம்பல் சொல்லின்கட் சோர்வு.",
+      transliteration: "Aakkamung Ketum Adhanaal Varudhalaal Kaaththompal Sollinkat Sorvu",
+      translation: "Le succès comme la ruine peuvent venir des paroles ; il faut donc protéger son langage de toute négligence.",
+      comment: "Les mots peuvent construire ou détruire : ils doivent être choisis avec vigilance."
+    },
+    {
+      id: 643,
+      tamil: "கேட்டார்ப் பிணிக்கும் தகையவாய்க் கேளாரும் வேட்ப மொழிவதாம் சொல்.",
+      transliteration: "Kettaarp Pinikkum Thakaiyavaai Kelaarum Vetpa Mozhivadhaam Sol",
+      translation: "Une parole doit captiver ceux qui l’entendent et donner envie de l’écouter même à ceux qui n’y étaient pas disposés.",
+      comment: "Une bonne expression touche les esprits et crée l’adhésion par sa clarté et son charme."
+    },
+    {
+      id: 644,
+      tamil: "திறனறிந்து சொல்லுக சொல்லை அறனும் பொருளும் அதனினூஉங்கு இல்.",
+      transliteration: "Thiranarindhu Solluka Sollai Aranum Porulum Adhaninooungu Il",
+      translation: "Il faut parler en connaissant la capacité de ceux qui écoutent ; rien n’est plus juste et plus utile.",
+      comment: "Adapter son discours à son interlocuteur est une forme de sagesse et de respect."
+    },
+    {
+      id: 645,
+      tamil: "சொல்லுக சொல்லைப் பிறிதோர்சொல் அச்சொல்லை வெல்லுஞ்சொல் இன்மை அறிந்து.",
+      transliteration: "Solluka Sollaip Piridhorsol Achchollai Vellunjol Inmai Arindhu",
+      translation: "Ne prononce une parole qu’après avoir vérifié qu’aucune autre parole ne pourrait mieux la remplacer.",
+      comment: "La précision et la pertinence du langage donnent davantage de force aux idées exprimées."
+    },
+    {
+      id: 646,
+      tamil: "வேட்பத்தாஞ் சொல்லிப் பிறர்சொல் பயன்கோடல் மாட்சியின் மாசற்றார் கோள்.",
+      transliteration: "Vetpaththaanj Chollip Pirarsol Payankodal Maatchiyin Maasatraar Kol",
+      translation: "Parler de manière agréable et tirer profit des paroles des autres est la conduite des hommes accomplis.",
+      comment: "La grandeur réside autant dans l’écoute que dans la capacité à bien s’exprimer."
+    },
+    {
+      id: 647,
+      tamil: "சொலல்வல்லன் சோர்விலன் அஞ்சான் அவனை இகல்வெல்லல் யார்க்கும் அரிது.",
+      transliteration: "Solalvallan Sorvilan Anjaan Avanai Ikalvellal Yaarkkum Aridhu",
+      translation: "Celui qui sait parler, qui ne se lasse pas et qui ne craint rien est difficile à vaincre dans un débat.",
+      comment: "L’éloquence, la persévérance et le courage rendent une personne très difficile à surpasser."
+    },
+    {
+      id: 648,
+      tamil: "விரைந்து தொழில்கேட்கும் ஞாலம் நிரந்தினிது சொல்லுதல் வல்லார்ப் பெறின்.",
+      transliteration: "Viraindhu Thozhilketkum Gnaalam Nirandhinidhu Solludhal Vallaarp Perin",
+      translation: "Le monde se mettra rapidement au service de ceux qui savent parler avec ordre et harmonie.",
+      comment: "Une parole claire et convaincante attire naturellement l’attention et la coopération."
+    },
+    {
+      id: 649,
+      tamil: "பலசொல்லக் காமுறுவர் மன்றமா சற்ற சிலசொல்லல் தேற்றா தவர்.",
+      transliteration: "Palasollak Kaamuruvar Mandramaa Satra Silasollal Thetraa Thavar",
+      translation: "Ceux qui ne savent pas exprimer une idée en peu de mots cherchent souvent à en dire beaucoup.",
+      comment: "La véritable maîtrise du langage se manifeste par la concision et la précision."
+    },
+    {
+      id: 650,
+      tamil: "இண்ருழ்த்தும் நாறா மலரனையர் கற்றது உணர விரித்துரையா தார்.",
+      transliteration: "Inaruzhththum Naaraa Malaranaiyar Katradhu Unara Viriththuraiyaa Thaar",
+      translation: "Ceux qui ne savent pas expliquer ce qu’ils ont appris ressemblent à des fleurs sans parfum.",
+      comment: "Le savoir prend toute sa valeur lorsqu’il peut être partagé clairement avec les autres."
+    }
+
+  ]
+
+}, // fin du chapitre 65
+
+
+    {
+  id: 66,
+  name: "66. Vinaitthooimai - La pureté de l’action ",
+
+  kurals: [
+
+    {
+      id: 651,
+      tamil: "துணைநலம் ஆக்கம் த்ருஉம் வினைநலம் வேண்டிய எல்லாந் தரும்.",
+      transliteration: "Thunainalam Aakkam Tharuum Vinainalam Ventiya Ellaan Tharum",
+      translation: "De bons alliés apportent le succès, mais des actions justes apportent tout ce qui est nécessaire.",
+      comment: "Les relations peuvent aider à réussir, mais la qualité morale des actions est la véritable source de prospérité."
+    },
+    {
+      id: 652,
+      tamil: "என்றும் ஒருவுதல் வேண்டும் புகழொடு நன்றி பயவா வினை.",
+      transliteration: "Endrum Oruvudhal Ventum Pukazhotu Nandri Payavaa Vinai",
+      translation: "Il faut toujours éviter les actions qui n’apportent ni reconnaissance durable ni bonne réputation.",
+      comment: "Une action doit être évaluée par ses fruits durables et son impact positif."
+    },
+    {
+      id: 653,
+      tamil: "ஓஒதல் வேண்டும் ஒளிமாழ்கும் செய்வினை ஆஅதும் என்னு மவர்.",
+      transliteration: "Oodhal Ventum Olimaazhkum Seyvinai Aaadhum Ennumavar",
+      translation: "Ceux qui recherchent la grandeur doivent éviter les actes qui ternissent leur honneur.",
+      comment: "La préservation de la dignité est plus importante que les gains obtenus par des moyens indignes."
+    },
+    {
+      id: 654,
+      tamil: "இடுக்கண் படினும் இளிவந்த செய்யார் நடுக்கற்ற காட்சி யவர்.",
+      transliteration: "Itukkan Patinum Ilivandha Seyyaar Natukkatra Kaatchi Yavar",
+      translation: "Même dans l’adversité, les hommes de sagesse ne commettent pas d’actes honteux.",
+      comment: "La véritable force morale se révèle lorsque les circonstances deviennent difficiles."
+    },
+    {
+      id: 655,
+      tamil: "எற்றென்று இரங்குவ செய்யற்க செய்வானேல் மற்றன்ன செய்யாமை நன்று.",
+      transliteration: "Etrendru Iranguva Seyyarka Seyvaanel Matranna Seyyaamai Nandru",
+      translation: "Ne faites pas ce qui vous fera regretter vos actes ; si cela arrive, ne le répétez pas.",
+      comment: "La sagesse consiste à apprendre de ses erreurs et à éviter de reproduire les fautes."
+    },
+    {
+      id: 656,
+      tamil: "ஈன்றாள் பசிகாண்பான் ஆயினுஞ் செய்யற்க சான்றோர் பழிக்கும் வினை.",
+      transliteration: "Eendraal Pasikaanpaan Aayinunj Cheyyarka Saandror Pazhikkum Vinai",
+      translation: "Même pour nourrir sa propre mère affamée, il ne faut pas accomplir une action condamnée par les sages.",
+      comment: "La droiture morale doit rester supérieure aux pressions des circonstances."
+    },
+    {
+      id: 657,
+      tamil: "பழிமலைந்து எய்திய ஆக்கத்தின் சான்றோர் கழிநல் குரவே தலை.",
+      transliteration: "Pazhimalaindhu Eydhiya Aakkaththin Saandror Kazhinal Kurave Thalai",
+      translation: "La pauvreté honorable des sages est préférable à une richesse accumulée par la faute.",
+      comment: "Une vie modeste mais digne vaut mieux qu’une prospérité obtenue au prix de la honte."
+    },
+    {
+      id: 658,
+      tamil: "கடிந்த கடிந்தொரார் செய்தார்க்கு அவைதாம் முடிந்தாலும் பீழை தரும்.",
+      transliteration: "Katindha Katindhoraar Seydhaarkku Avaidhaam Mutindhaalum Peezhai Tharum",
+      translation: "Les actes accomplis sans tenir compte des moyens employés causent de la souffrance, même lorsqu’ils réussissent.",
+      comment: "Un résultat obtenu par des moyens injustes porte toujours en lui des conséquences douloureuses."
+    },
+    {
+      id: 659,
+      tamil: "அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும் பிற்பயக்கும் நற்பா லவை.",
+      transliteration: "Azhak Konta Ellaam Azhappom Izhappinum Pirpayakkum Narpaa Lavai",
+      translation: "Les biens obtenus par les larmes des autres disparaîtront dans les larmes ; les biens justes, même perdus, reviendront un jour.",
+      comment: "La richesse injustement acquise est fragile, tandis que le bien accompli porte des fruits durables."
+    },
+    {
+      id: 660,
+      tamil: "சலத்தால் பொருள்செய்தே மார்த்தல் பசுமண் கலத்துள்நீர் பெய்திரீஇ யற்று.",
+      transliteration: "Salaththaal Porulseydhe Maarththal Pasuman Kalaththulneer Peydhireei Yatru",
+      translation: "Accumuler des richesses par des moyens corrompus revient à conserver de l’eau dans un pot d’argile non cuite.",
+      comment: "Les biens mal acquis ne peuvent durer car ils manquent de solidité et de fondement moral."
+    }
+
+  ]
+
+}, // fin du chapitre 66
+
+
+    {
+  id: 67,
+  name: "67. Vinaiththitpam - La détermination dans l’accomplissement",
+
+  kurals: [
+
+    {
+      id: 661,
+      tamil: "வினைத்திட்பம் என்பது ஒருவன் மனத்திட்பம் மற்றைய எல்லாம் பிற.",
+      transliteration: "Vinaiththitpam Enbadhu Oruvan Manaththitpam Matraiya Ellaam Pira",
+      translation: "La force dans l’action vient de la fermeté de l’esprit ; tout le reste est secondaire.",
+      comment: "La réussite d’une entreprise dépend avant tout de la détermination intérieure de celui qui agit."
+    },
+    {
+      id: 662,
+      tamil: "ஊறொரால் உற்றபின் ஒல்காமை இவ்விரண்டின் ஆறென்பர் ஆய்ந்தவர் கோள்.",
+      transliteration: "Oororaal Utrapin Olkaamai Ivvirantin Aarenbar Aaindhavar Kol",
+      translation: "Éviter les erreurs et ne pas abandonner après les épreuves sont, selon les sages, les deux grandes règles de l’action.",
+      comment: "La prudence avant d’agir et la persévérance après un échec conduisent à la réussite."
+    },
+    {
+      id: 663,
+      tamil: "கடைக்கொட்கச் செய்தக்க தாண்மை இடைக்கொட்கின் எற்றா விழுமந் தரும்.",
+      transliteration: "Kataikkotkach Seydhakka Thaanmai Itaikkotkin Etraa Vizhuman Tharum",
+      translation: "Il faut révéler ses projets seulement à leur accomplissement ; les dévoiler trop tôt peut causer un tort irréparable.",
+      comment: "La discrétion protège les entreprises importantes jusqu’à leur réalisation."
+    },
+    {
+      id: 664,
+      tamil: "சொல்லுதல் யார்க்கும் எளிய அரியவாம் சொல்லிய வண்ணம் செயல்.",
+      transliteration: "Solludhal Yaarkkum Eliya Ariyavaam Solliya Vannam Seyal",
+      translation: "Parler est facile pour tous, mais agir conformément à ses paroles est difficile.",
+      comment: "La valeur d’une personne se mesure davantage à ses actes qu’à ses promesses."
+    },
+    {
+      id: 665,
+      tamil: "வீறெய்தி மாண்டார் வினைத்திட்பம் வேந்தன்கண் ஊறெய்தி உள்ளப் படும்.",
+      transliteration: "Veereydhi Maandaar Vinaiththitpam Vendhankan Ooreydhi Ullap Patum",
+      translation: "La force d’action des hommes accomplis finit par être reconnue même par les dirigeants.",
+      comment: "Une capacité exceptionnelle à agir attire naturellement le respect et la reconnaissance."
+    },
+    {
+      id: 666,
+      tamil: "எண்ணிய எண்ணியாங்கு எய்து எண்ணியார் திண்ணியர் ஆகப் பெறின்.",
+      transliteration: "Enniya Enniyaangu Eydhu Enniyaar Thinniyar Aakap Perin",
+      translation: "Les objectifs imaginés seront atteints comme prévu si ceux qui les poursuivent restent fermes.",
+      comment: "La pensée claire accompagnée d’une volonté constante transforme les projets en réalisations."
+    },
+    {
+      id: 667,
+      tamil: "உருவுகண்டு எள்ளாமை வேண்டும் உருள்பெருந்தேர்க்கு அச்சாணி அன்னார் உடைத்து.",
+      transliteration: "Uruvukandu Ellaamai Vendum Urulperundherkku Achchaani Annaar Utaiththu",
+      translation: "Il ne faut pas mépriser quelqu’un pour son apparence ; même la petite cheville d’un grand char en maintient les roues.",
+      comment: "Chaque personne peut avoir une importance essentielle, même si son rôle semble modeste."
+    },
+    {
+      id: 668,
+      tamil: "கலங்காது கண்ட வினைக்கண் துளங்காது தூக்கங் கடிந்து செயல்.",
+      transliteration: "Kalangaadhu Kanda Vinaikkan Thulangaadhu Thookkang Katindhu Seyal",
+      translation: "Une fois une action clairement décidée, il faut l’accomplir sans hésitation ni retard.",
+      comment: "La détermination et la rapidité d’exécution sont essentielles pour réussir."
+    },
+    {
+      id: 669,
+      tamil: "துன்பம் உறவரினும் செய்க துணிவாற்றி இன்பம் பயக்கும் வினை.",
+      transliteration: "Thunpam Uravarinum Seyka Thunivaatri Inpam Payakkum Vinai",
+      translation: "Même si elle apporte des difficultés, accomplissez avec courage l’action qui produira un bien futur.",
+      comment: "Les grandes réussites exigent souvent de supporter des efforts et des épreuves temporaires."
+    },
+    {
+      id: 670,
+      tamil: "எனைத்திட்பம் எய்தியக் கண்ணும் வினைத்திட்பம் வேண்டாரை வேண்டாது உலகு.",
+      transliteration: "Enaiththitpam Eydhiyak Kannum Vinaiththitpam Vendaarai Vendaadhu Ulaku",
+      translation: "Même avec de nombreux talents, le monde n’apprécie pas ceux qui manquent de détermination dans l’action.",
+      comment: "La volonté d’agir avec constance est une qualité indispensable pour être reconnu."
+    }
+
+  ]
+
+} // fin du chapitre 67
+
+
+
+    {
+  id: 68,
+  name: "68. Vinaiseyalvagai - La manière d’accomplir une action ",
+
+  kurals: [
+
+    {
+      id: 671,
+      tamil: "சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு தாழ்ச்சியுள் தங்குதல் தீது.",
+      transliteration: "Soozhchchi Mutivu Thuniveydhal Aththunivu Thaazhchchiyul Thangudhal Theedhu",
+      translation: "La réflexion doit mener à la décision ; mais prendre une décision et ensuite tarder à agir est mauvais.",
+      comment: "Après une analyse soigneuse, il faut avoir le courage d’agir sans hésitation inutile."
+    },
+    {
+      id: 672,
+      tamil: "தூங்குக தூங்கிச் செயற்பால தூங்கற்க தூங்காது செய்யும் வினை.",
+      transliteration: "Thoonguka Thoongich Cheyarpaala Thoongarka Thoongaadhu Seyyum Vinai",
+      translation: "Il faut attendre lorsqu’un délai est nécessaire, mais ne jamais retarder une action qui exige d’être accomplie immédiatement.",
+      comment: "La sagesse consiste à savoir quand patienter et quand agir rapidement."
+    },
+    {
+      id: 673,
+      tamil: "ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால் செல்லும்வாய் நோக்கிச் செயல்.",
+      transliteration: "Ollumvaa Yellaam Vinainandre Ollaakkaal Sellumvaai Nokkich Cheyal",
+      translation: "Il est préférable d’agir partout où cela est possible ; sinon, il faut rechercher une voie praticable.",
+      comment: "Une personne efficace cherche toujours les moyens réalisables plutôt que de rester bloquée."
+    },
+    {
+      id: 674,
+      tamil: "வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால் தீயெச்சம் போலத் தெறும்.",
+      transliteration: "Vinaipakai Endrirantin Echcham Ninaiyungaal Theeyechcham Polath Therum",
+      translation: "Une tâche inachevée ou un ennemi laissé sans solution peut devenir dangereux comme un feu mal éteint.",
+      comment: "Les problèmes négligés peuvent grandir et causer de graves conséquences."
+    },
+    {
+      id: 675,
+      tamil: "பொருள்கருவி காலம் வினையிடனொடு ஐந்தும் இருள்தீர எண்ணிச் செயல்.",
+      transliteration: "Porulkaruvi Kaalam Vinaiyidanodu Aindhum Irultheera Ennich Cheyal",
+      translation: "Avant d’agir, il faut examiner clairement cinq éléments : les ressources, les moyens, le temps, le lieu et l’action elle-même.",
+      comment: "Une préparation complète est essentielle pour réussir une entreprise."
+    },
+    {
+      id: 676,
+      tamil: "முடிவும் இடையூறும் முற்றியாங்கு எய்தும் படுபயனும் பார்த்துச் செயல்.",
+      transliteration: "Mutivum Itaiyoorum Mutriyaangu Eydhum Patupayanum Paarththuch Cheyal",
+      translation: "Avant d’entreprendre une action, il faut considérer son résultat, les obstacles possibles et le bénéfice final.",
+      comment: "La décision doit être fondée sur une évaluation globale des conséquences."
+    },
+    {
+      id: 677,
+      tamil: "செய்வினை செய்வான் செயன்முறை அவ்வினை உள்ளறிவான் உள்ளம் கொளல்.",
+      transliteration: "Seyvinai Seyvaan Seyanmurai Avvinai Ullarivaan Ullam Kolal",
+      translation: "Pour accomplir une tâche, il faut comprendre la méthode de celui qui la maîtrise.",
+      comment: "L’expérience des experts est une source précieuse pour apprendre à agir efficacement."
+    },
+    {
+      id: 678,
+      tamil: "வினையான் வினையாக்கிக் கோடல் நனைகவுள் யானையால் யானையாத் தற்று.",
+      transliteration: "Vinaiyaan Vinaiyaakkik Kotal Nanaikavul Yaanaiyaal Yaanaiyaath Thatru",
+      translation: "Il faut utiliser une action pour en accomplir une autre, comme on capture un éléphant avec l’aide d’un autre éléphant.",
+      comment: "Les moyens disponibles peuvent être intelligemment utilisés pour atteindre plusieurs objectifs."
+    },
+    {
+      id: 679,
+      tamil: "நட்டார்க்கு நல்ல செயலின் விரைந்ததே ஒட்டாரை ஒட்டிக் கொளல்.",
+      transliteration: "Nattaarkku Nalla Seyalin Viraindhadhe Ottaarai Ottik Kolal",
+      translation: "Plus urgent que de faire du bien à ses amis est de gagner l’amitié de ceux qui ne nous sont pas favorables.",
+      comment: "Transformer les oppositions en alliances est une stratégie plus précieuse que de renforcer uniquement les liens existants."
+    },
+    {
+      id: 680,
+      tamil: "உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின் கொள்வர் பெரியார்ப் பணிந்து.",
+      transliteration: "Uraisiriyaar Ulnatungal Anjik Kuraiperin Kolvar Periyaarp Panindhu",
+      translation: "Les faibles, craignant les troubles internes, recherchent la protection des puissants en acceptant la conciliation.",
+      comment: "Dans certaines situations, l’humilité et la diplomatie permettent de préserver la sécurité."
+    }
+
+  ]
+
+}, // fin du chapitre 68
+
+
+    {
+  id: 69,
+  name: "69. Thoodhu - L’ambassade / Le rôle du messager",
+
+  kurals: [
+
+    {
+      id: 681,
+      tamil: "அன்புடைமை ஆன்ற குடிப்பிறத்தல் வேந்தவாம் பண்புடைமை தூதுரைப்பான் பண்பு.",
+      transliteration: "Anputaimai Aandra Kutippiraththal Vendhavaam Panputaimai Thoodhuraippaan Panpu",
+      translation: "L’affection, une noble origine et une nature appréciée des dirigeants sont les qualités d’un ambassadeur.",
+      comment: "Un messager digne de confiance doit posséder à la fois une bonne réputation, une conduite honorable et une attitude respectueuse."
+    },
+    {
+      id: 682,
+      tamil: "அன்பறிவு ஆராய்ந்த சொல்வன்மை தூதுரைப்பார்க்கு இன்றி யமையாத மூன்று.",
+      transliteration: "Anparivu Aaraaindha Solvanmai Thoodhuraippaarkku Indri Yamaiyaadha Moondru",
+      translation: "La loyauté, l’intelligence et la maîtrise de la parole sont les trois qualités indispensables d’un ambassadeur.",
+      comment: "Un représentant efficace doit être dévoué, réfléchi et capable de communiquer avec sagesse."
+    },
+    {
+      id: 683,
+      tamil: "நூலாருள் நூல்வல்லன் ஆகுதல் வேலாருள் வென்றி வினையுரைப்பான் பண்பு.",
+      transliteration: "Noolaarul Noolvallan Aakudhal Velaarul Vendri Vinaiyuraippaan Panpu",
+      translation: "Pour réussir parmi les puissants, l’ambassadeur doit être savant parmi les savants.",
+      comment: "La connaissance et la compétence intellectuelle donnent au messager l’autorité nécessaire pour défendre sa mission."
+    },
+    {
+      id: 684,
+      tamil: "அறிவுரு வாராய்ந்த கல்விஇம் மூன்றன் செறிவுடையான் செல்க வினைக்கு.",
+      transliteration: "Arivuru Vaaraaindha Kalviim Moondran Serivutaiyaan Selka Vinaikku",
+      translation: "Celui qui possède la sagesse, une présence convenable et l’instruction nécessaire est apte à accomplir une mission.",
+      comment: "Un bon représentant doit réunir intelligence, comportement approprié et savoir."
+    },
+    {
+      id: 685,
+      tamil: "தொகச்சொல்லித் தூவாத நீக்கி நகச்சொல்லி நன்றி பயப்பதாந் தூது.",
+      transliteration: "Thokach Chollith Thoovaadha Neekki Nakachcholli Nandri Payappadhaan Thoodhu",
+      translation: "Le message d’un ambassadeur doit être concis, sans offense, agréable et utile.",
+      comment: "La valeur d’une communication dépend de sa précision, de sa douceur et de son efficacité."
+    },
+    {
+      id: 686,
+      tamil: "கற்றுக்கண் அஞ்சான் செலச்சொல்லிக் காலத்தால் தக்கது அறிவதாம் தூது.",
+      transliteration: "Katrukkan Anjaan Selachchollik Kaalaththaal Thakkadhu Arivadhaam Thoodhu",
+      translation: "Un ambassadeur doit être instruit, sans crainte, persuasif et savoir ce qui convient au moment opportun.",
+      comment: "La réussite d’une mission dépend autant du courage que du sens du moment."
+    },
+    {
+      id: 687,
+      tamil: "கடனறிந்து காலங் கருதி இடனறிந்து எண்ணி உரைப்பான் தலை.",
+      transliteration: "Katanarindhu Kaalang Karudhi Itanarindhu Enni Uraippaan Thalai",
+      translation: "Le meilleur messager connaît son devoir, choisit le bon moment, le bon lieu et réfléchit avant de parler.",
+      comment: "La prudence stratégique et la préparation rendent la parole plus efficace."
+    },
+    {
+      id: 688,
+      tamil: "தூய்மை துணைமை துணிவுடைமை இம்மூன்றின் வாய்மை வழியுரைப்பான் பண்பு.",
+      transliteration: "Thooimai Thunaimai Thunivutaimai Immoondrin Vaaimai Vazhiyuraippaan Panpu",
+      translation: "La pureté, la loyauté et le courage sont les trois qualités d’un messager qui transmet fidèlement la vérité.",
+      comment: "Un représentant doit être intègre, fiable et assez courageux pour transmettre le message sans le déformer."
+    },
+    {
+      id: 689,
+      tamil: "விடுமாற்றம் வேந்தர்க்கு உரைப்பான் வடுமாற்றம் வாய்சேரா வன்க ணவன்.",
+      transliteration: "Vitumaatram Vendharkku Uraippaan Vatumaatram Vaaiseraa Vanka Navan",
+      translation: "Celui qui transmet les paroles du roi ne doit jamais, même par négligence, prononcer des mots qui causent du tort.",
+      comment: "La responsabilité d’un messager exige une parfaite maîtrise de ses paroles."
+    },
+    {
+      id: 690,
+      tamil: "இறுதி பயப்பினும் எஞ்சாது இறைவற்கு உறுதி பயப்பதாம் தூது.",
+      transliteration: "Irudhi Payappinum Enjaadhu Iraivarku Urudhi Payappadhaam Thoodhu",
+      translation: "Même au risque de sa vie, le véritable ambassadeur accomplit entièrement la mission confiée par son dirigeant.",
+      comment: "La fidélité à la mission et le sens du devoir caractérisent le messager exemplaire."
+    }
+
+  ]
+
+}, // fin du chapitre 69
+
+
+    {
+  id: 70,
+  name: "70. Mannaraich Serndhozhugal - Se conduire auprès des dirigeants ",
+
+  kurals: [
+
+    {
+      id: 691,
+      tamil: "அகலாது அணுகாது தீக்காய்வார் போல்க இகல்வேந்தர்ச் சேர்ந்தொழுகு வார்.",
+      transliteration: "Akalaadhu Anukaadhu Theekkaaivaar Polka Ikalvendharch Cherndhozhuku Vaar",
+      translation: "Ceux qui servent auprès d’un roi doivent se comporter comme ceux qui se chauffent près du feu : ni trop loin ni trop près.",
+      comment: "La proximité avec le pouvoir exige un équilibre entre respect et retenue."
+    },
+    {
+      id: 692,
+      tamil: "மன்னர் விழைப விழையாமை மன்னரால் மன்னிய ஆக்கந் தரும்.",
+      transliteration: "Mannar Vizhaipa Vizhaiyaamai Mannaraal Manniya Aakkan Tharum",
+      translation: "Ne pas convoiter ce que le roi désire apporte la faveur durable du roi.",
+      comment: "La discrétion et l’absence de rivalité permettent de gagner la confiance des dirigeants."
+    },
+    {
+      id: 693,
+      tamil: "போற்றின் அரியவை போற்றல் கடுத்தபின் தேற்றுதல் யார்க்கும் அரிது.",
+      transliteration: "Potrin Ariyavai Potral Katuththapin Thetrudhal Yaarkkum Aridhu",
+      translation: "Il faut soigneusement éviter les fautes, car une suspicion éveillée est difficile à effacer.",
+      comment: "La confiance, une fois perdue, est très difficile à restaurer."
+    },
+    {
+      id: 694,
+      tamil: "செவிச்சொல்லும் சேர்ந்த நகையும் அவித்தொழுகல் ஆன்ற பெரியா ரகத்து.",
+      transliteration: "Sevichchollum Serndha Nakaiyum Aviththozhukal Aandra Periyaa Rakaththu",
+      translation: "En présence de grands personnages, il faut éviter les chuchotements et les sourires complices.",
+      comment: "La dignité et la prudence dans l’attitude sont essentielles auprès des personnes importantes."
+    },
+    {
+      id: 695,
+      tamil: "எப்பொருளும் ஓரார் தொடரார்மற் றப்பொருளை விட்டக்கால் கேட்க மறை.",
+      transliteration: "Epporulum Oraar Thotaraarmar Rapporulai Vittakkaal Ketka Marai",
+      translation: "Il ne faut pas chercher à connaître ou poursuivre les secrets d’un roi ; il faut seulement écouter lorsqu’ils sont révélés.",
+      comment: "Respecter la confidentialité est une marque de loyauté et de sagesse."
+    },
+    {
+      id: 696,
+      tamil: "குறிப்பறிந்து காலங் கருதி வெறுப்பில வேண்டுப வேட்பச் சொலல்.",
+      transliteration: "Kuripparindhu Kaalang Karudhi Veruppila Ventupa Vetpach Cholal",
+      translation: "Il faut comprendre son humeur, choisir le bon moment et exprimer les choses nécessaires d’une manière agréable.",
+      comment: "Une parole efficace dépend autant du contenu que du moment où elle est prononcée."
+    },
+    {
+      id: 697,
+      tamil: "வேட்பன சொல்லி வினையில எஞ்ஞான்றும் கேட்பினும் சொல்லா விடல்.",
+      transliteration: "Vetpana Solli Vinaiyila Engnaanrum Ketpinum Sollaa Vidal",
+      translation: "Il faut dire ce qui est utile et ne jamais parler de ce qui ne sert à rien, même si l’on est interrogé.",
+      comment: "La maîtrise de la parole consiste aussi à savoir garder le silence."
+    },
+    {
+      id: 698,
+      tamil: "இளையர் இனமுறையர் என்றிகழார் நின்ற ஒளியோடு ஒழுகப் படும்.",
+      transliteration: "Ilaiyar Inamuraiyar Endrikazhaar Nindra Oliyodu Ozhugap Patum",
+      translation: "Il ne faut pas mépriser un dirigeant parce qu’il est jeune ou proche de nous ; il faut agir selon sa dignité.",
+      comment: "La fonction et la responsabilité doivent être respectées indépendamment de l’âge ou de la relation personnelle."
+    },
+    {
+      id: 699,
+      tamil: "கொளப்பட்டேம் என்றெண்ணிக் கொள்ளாத செய்யார் துளக்கற்ற காட்சி யவர்.",
+      transliteration: "Kolappattem Endrennik Kollaadha Seyyaar Thulakkatra Kaatchi Yavar",
+      translation: "Ceux qui possèdent une vision claire ne commettent pas d’actes indignes en pensant être protégés par la faveur obtenue.",
+      comment: "La confiance accordée par un supérieur ne doit jamais être utilisée pour justifier des abus."
+    },
+    {
+      id: 700,
+      tamil: "பழையம் எனக்கருதிப் பண்பல்ல செய்யும் கெழுதகைமை கேடு தரும்.",
+      transliteration: "Pazhaiyam Enakkarudhip Panpalla Seyyum Kezhudhakaimai Ketu Tharum",
+      translation: "Agir de manière indigne en raison d’une ancienne familiarité mène à la ruine.",
+      comment: "Une relation ancienne ne donne jamais le droit d’abandonner le respect et les bonnes manières."
+    }
+
+  ]
+
+}, // fin du chapitre 70
+
+
+{
+  id: 71,
+  name: "71. Kuripparithal - Comprendre les signes / Lire l’esprit d’autrui",
+
+  kurals: [
+
+    {
+      id: 701,
+      tamil: "கூறாமை நோக்கக் குறிப்பறிவான் எஞ்ஞான்றும் மாறாநீர் வையக் கணி.",
+      transliteration: "Kooraamai Nokka Kuripparivaan Egngnaandrum Maaraaneer Vaiyak Kani",
+      translation: "Celui qui comprend les pensées sans qu’elles soient exprimées est un joyau rare sur cette terre entourée par les mers.",
+      comment: "La capacité à percevoir les intentions cachées d’autrui est une forme élevée de compréhension humaine."
+    },
+    {
+      id: 702,
+      tamil: "ஐயப் படாஅது அகத்தது உணர்வானைத் தெய்வத்தோ டொப்பக் கொளல்.",
+      transliteration: "Aiyap Pataaadhu Akaththadhu Unarvaanaith Theyvaththo Toppak Kolal",
+      translation: "Celui qui comprend avec certitude ce qui se trouve dans le cœur d’autrui peut être considéré comme semblable aux dieux.",
+      comment: "La perception profonde de l’esprit humain est une qualité exceptionnelle proche de la sagesse divine."
+    },
+    {
+      id: 703,
+      tamil: "குறிப்பிற் குறிப்புணர் வாரை உறுப்பினுள் யாது கொடுத்தும் கொளல்.",
+      transliteration: "Kurippir Kurippunar Vaarai Uruppinul Yaadhu Kotuththum Kolal",
+      translation: "Celui qui sait deviner les pensées d’autrui par de simples signes mérite d’être acquis à tout prix.",
+      comment: "Une personne capable de comprendre les intentions sans paroles possède une grande valeur."
+    },
+    {
+      id: 704,
+      tamil: "குறித்தது கூறாமைக் கொள்வாரோ டேனை உறுப்போ ரனையரால் வேறு.",
+      transliteration: "Kuriththadhu Kooraamaik Kolvaaro Tenai Uruppo Ranaiyaraal Veru",
+      translation: "Ceux qui comprennent ce qui est pensé sans qu’on le dise ressemblent aux autres hommes par leur apparence, mais en diffèrent profondément.",
+      comment: "La véritable intelligence dépasse les apparences et réside dans la compréhension intérieure."
+    },
+    {
+      id: 705,
+      tamil: "குறிப்பிற் குறிப்புணரா வாயின் உறுப்பினுள் என்ன பயத்தவோ கண்.",
+      transliteration: "Kurippir Kurippunaraa Vaayin Uruppinul Enna Payaththavo Kan",
+      translation: "Si les yeux ne savent pas lire les signes du visage, à quoi servent-ils parmi les autres sens ?",
+      comment: "Les yeux ne servent pas seulement à voir, mais aussi à comprendre les émotions et les intentions."
+    },
+    {
+      id: 706,
+      tamil: "அடுத்தது காட்டும் பளிங்குபோல் நெஞ்சம் கடுத்தது காட்டும் முகம்.",
+      transliteration: "Atuththadhu Kaattum Palingupol Nenjam Katuththadhu Kaattum Mukam",
+      translation: "Comme un cristal révèle ce qui est devant lui, le visage révèle ce qui se trouve dans le cœur.",
+      comment: "Les expressions du visage reflètent souvent les sentiments intérieurs d’une personne."
+    },
+    {
+      id: 707,
+      tamil: "முகத்தின் முதுக்குறைந்தது உண்டோ உவப்பினும் காயினும் தான்முந் துறும்.",
+      transliteration: "Mukaththin Mudhukkuraindhadhu Unto Uvappinum Kaayinum Thaanmun Thurum",
+      translation: "Existe-t-il quelque chose qui exprime mieux que le visage les joies et les peines de l’esprit ?",
+      comment: "Le visage est un langage silencieux qui révèle naturellement les émotions."
+    },
+    {
+      id: 708,
+      tamil: "முகம்நோக்கி நிற்க அமையும் அகம்நோக்கி உற்ற துணர்வார்ப் பெறின்.",
+      transliteration: "Mukamnokki Nirka Amaiyum Akamnokki Utra Thunarvaarp Perin",
+      translation: "Il suffit de se tenir devant quelqu’un lorsque l’on possède la capacité de comprendre son esprit à travers son visage.",
+      comment: "Une personne perspicace peut percevoir beaucoup sans avoir besoin de longues explications."
+    },
+    {
+      id: 709,
+      tamil: "பகைமையும் கேண்மையும் கண்ணுரைக்கும் கண்ணின் வகைமை உணர்வார்ப் பெறின்.",
+      transliteration: "Pakaimaiyum Kenmaiyum Kannuraikkum Kannin Vakaimai Unarvaarp Perin",
+      translation: "Celui qui comprend le langage des yeux peut y lire l’amitié comme l’hostilité.",
+      comment: "Le regard révèle souvent les sentiments véritables que les paroles peuvent cacher."
+    },
+    {
+      id: 710,
+      tamil: "நுண்ணியம் என்பார் அளக்குங்கோல் காணுங்கால் கண்ணல்லது இல்லை பிற.",
+      transliteration: "Nunniyam Enpaar Alakkungol Kaanungaal Kannalladhu Illai Pira",
+      translation: "Pour ceux qui sont véritablement perspicaces, il n’existe pas de meilleur instrument de mesure que les yeux.",
+      comment: "L’observation attentive est l’un des outils essentiels de l’intelligence pratique."
+    }
+
+  ]
+
+}, // fin du chapitre 71
+
+
+    {
+  id: 72,
+  name: "72. Avai Arithal - Connaître l’assemblée ",
+
+  kurals: [
+
+    {
+      id: 711,
+      tamil: "அவையறிநது ஆராய்ந்து சொல்லுக சொல்லின் தொகையறிந்த தூய்மை யவர்.",
+      transliteration: "Avaiyarindhu Aaraaindhu Solluka Sollin Thokaiyarindha Thooimai Yavar",
+      translation: "Ceux qui maîtrisent parfaitement la parole doivent connaître l’assemblée et réfléchir avant de parler.",
+      comment: "Un discours efficace commence par la compréhension du public auquel il s’adresse."
+    },
+    {
+      id: 712,
+      tamil: "இடைதெரிந்து நன்குணர்ந்து சொல்லுக சொல்லின் நடைதெரிந்த நன்மை யவர்.",
+      transliteration: "Idaitherindhu Nankunarndhu Solluka Sollin Nataitherindha Nanmai Yavar",
+      translation: "Ceux qui connaissent l’art de parler doivent choisir le moment approprié et s’exprimer avec discernement.",
+      comment: "La qualité d’une parole dépend du contexte, du moment et de la manière dont elle est exprimée."
+    },
+    {
+      id: 713,
+      tamil: "அவையறியார் சொல்லல்மேற் கொள்பவர் சொல்லின் வகையறியார் வல்லதூஉம் இல்.",
+      transliteration: "Avaiyariyaar Sollalmer Kolpavar Sollin Vakaiyariyaar Valladhooum Il",
+      translation: "Celui qui parle sans connaître son auditoire ne comprend pas la nature du langage et ne possède aucune véritable maîtrise.",
+      comment: "Ignorer son public révèle un manque de sagesse dans l’usage de la parole."
+    },
+    {
+      id: 714,
+      tamil: "ஒளியார்முன் ஒள்ளிய ராதல் வெளியார்முன் வான்சுதை வண்ணம் கொளல்.",
+      transliteration: "Oliyaarmun Olliyar Aathal Veliyaarmun Vaansudhai Vannam Kolal",
+      translation: "Devant les sages, il faut briller comme une lumière ; devant les ignorants, il faut rester simple comme le blanc du plâtre.",
+      comment: "La sagesse consiste à adapter son expression au niveau de compréhension de ceux qui écoutent."
+    },
+    {
+      id: 715,
+      tamil: "நன்றென்ற வற்றுள்ளும் நன்றே முதுவருள் முந்து கிளவாச் செறிவு.",
+      transliteration: "Nandrendra Vatrullum Nandre Mudhuvarul Mundhu Kilaavaach Cherivu",
+      translation: "Parmi toutes les bonnes qualités, la meilleure est la retenue qui empêche de parler avant les anciens.",
+      comment: "Le respect et l’humilité dans les échanges sont des signes de véritable maturité."
+    },
+    {
+      id: 716,
+      tamil: "ஆற்றின் நிலைதளர்ந் தற்றே வியன்புலம் ஏற்றுணர்வார் முன்னர் இழுக்கு.",
+      transliteration: "Aatrin Nilaithalarn Thatre Viyanpulam Yetrunarvaar Munnar Izhukku",
+      translation: "Commettre une erreur devant ceux qui possèdent un vaste savoir revient à perdre pied sur le chemin de la vertu.",
+      comment: "Face aux personnes compétentes, il faut être particulièrement préparé et prudent dans ses paroles."
+    },
+    {
+      id: 717,
+      tamil: "கற்றறிந்தார் கல்வி விளங்கும் கசடறச் சொல்தெரிதல் வல்லார் அகத்து.",
+      transliteration: "Katrarindhaar Kalvi Vilangum Kasadarach Soltheridhal Vallaar Agaththu",
+      translation: "Le savoir des érudits brille pleinement devant ceux qui savent apprécier la parole juste.",
+      comment: "La connaissance trouve toute sa valeur lorsqu’elle est partagée avec un public capable de la comprendre."
+    },
+    {
+      id: 718,
+      tamil: "உணர்வ துடையார்முன் சொல்லல் வளர்வதன் பாத்தியுள் நீர்சொரிந் தற்று.",
+      transliteration: "Unarvadhutaiyaarmun Sollal Valarvadhan Paaththiyul Neersorin Thatru",
+      translation: "Parler devant des personnes réceptives est comme arroser une plante en croissance.",
+      comment: "Les idées se développent lorsqu’elles sont transmises à ceux qui savent les accueillir."
+    },
+    {
+      id: 719,
+      tamil: "புல்லவையுள் பொச்சாந்தும் சொல்லற்க நல்லவையுள் நன்குசலச் சொல்லு வார்.",
+      transliteration: "Pullavaiyul Pochchaandhum Sollarka Nallavaiyul Nankusalach Chollu Vaar",
+      translation: "Ceux qui savent bien parler dans les bonnes assemblées ne doivent même pas par oubli exposer leurs idées devant les assemblées ignorantes.",
+      comment: "Un savoir précieux doit être communiqué dans un environnement capable de le recevoir."
+    },
+    {
+      id: 720,
+      tamil: "அங்கணத்துள் உக்க அமிழ்தற்றால் தங்கணத்தார் அல்லார்முன் கோட்டி கொளல்.",
+      transliteration: "Anganaththul Ukka Amizhthatraal Thanganaththaar Allaarmun Kotti Kolal",
+      translation: "Discuter avec ceux qui ne partagent pas les mêmes dispositions revient à verser du nectar dans un égout.",
+      comment: "Une parole de valeur perd son utilité lorsqu’elle est adressée à ceux qui ne peuvent ou ne veulent pas la comprendre."
+    }
+
+  ]
+
+}, // fin du chapitre 72
+
+
+    {
+  id: 73,
+  name: "73. Avai Anjaamai - Ne pas craindre l’assemblée",
+
+  kurals: [
+
+    {
+      id: 721,
+      tamil: "வகையறிந்து வல்லவை வாய்சோரார் சொல்லின் தொகையறிந்த தூய்மை யவர்.",
+      transliteration: "Vakaiyarindhu Vallavai Vaaisoraar Sollin Thokaiyarindha Thooimai Yavar",
+      translation: "Ceux qui maîtrisent la parole et connaissent la nature d’une assemblée ne perdent jamais leur assurance en parlant.",
+      comment: "La préparation et la connaissance de son auditoire donnent confiance à celui qui s’exprime."
+    },
+    {
+      id: 722,
+      tamil: "கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன் கற்ற செலச்சொல்லு வார்.",
+      transliteration: "Katraarul Katraar Enappatuvar Katraarmun Katra Selachchollu Vaar",
+      translation: "Parmi les savants, est considéré comme le plus savant celui qui sait exposer son savoir devant les savants.",
+      comment: "La véritable connaissance se révèle par la capacité à la communiquer clairement aux personnes compétentes."
+    },
+    {
+      id: 723,
+      tamil: "பகையகத்துச் சாவார் எளியர் அரியர் அவையகத்து அஞ்சா தவர்.",
+      transliteration: "Pakaiyakaththuch Chaavaar Eliyar Ariyar Avaiyakaththu Anjaa Thavar",
+      translation: "Nombreux sont ceux qui peuvent mourir au combat, mais rares sont ceux qui savent rester sans crainte devant une assemblée.",
+      comment: "Affronter un public exige parfois plus de courage que d’affronter un ennemi."
+    },
+    {
+      id: 724,
+      tamil: "கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற மிக்காருள் மிக்க கொளல்.",
+      transliteration: "Katraarmun Katra Selachchollith Thaamkatra Mikkaarul Mikka Kolal",
+      translation: "Il faut présenter son savoir devant les savants et apprendre davantage auprès de ceux qui possèdent encore plus de connaissances.",
+      comment: "La sagesse consiste à partager avec humilité et à continuer d’apprendre."
+    },
+    {
+      id: 725,
+      tamil: "ஆற்றின் அளவறிந்து கற்க அவையஞ்சா மாற்றங் கொடுத்தற் பொருட்டு.",
+      transliteration: "Aatrin Alavarindhu Karka Avaiyanjaa Maatrang Kotuththar Poruttu",
+      translation: "Il faut apprendre avec méthode afin de pouvoir répondre sans peur dans une assemblée.",
+      comment: "La maîtrise des connaissances et du raisonnement permet de défendre ses idées avec assurance."
+    },
+    {
+      id: 726,
+      tamil: "வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென் நுண்ணவை அஞ்சு பவர்க்கு.",
+      transliteration: "Vaaloten Vankannar Allaarkku Nooloten Nunnavai Anju Pavarkku",
+      translation: "À quoi sert une épée à un lâche, et à quoi servent les livres à celui qui craint les assemblées subtiles ?",
+      comment: "Un outil ou un savoir n’ont de valeur que s’ils sont accompagnés du courage de les utiliser."
+    },
+    {
+      id: 727,
+      tamil: "பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து அஞ்சு மவன்கற்ற நூல்.",
+      transliteration: "Pakaiyakaththup Petikai Olvaal Avaiyakaththu Anju Mavankatra Nool",
+      translation: "Le savoir d’un homme qui craint une assemblée est comme une épée brillante entre les mains d’un lâche face à l’ennemi.",
+      comment: "La connaissance inutilisée perd sa puissance lorsqu’elle n’est pas soutenue par l’assurance."
+    },
+    {
+      id: 728,
+      tamil: "பல்லவை கற்றும் பயமிலரே நல்லவையுள் நன்கு செலச்சொல்லா தார்.",
+      transliteration: "Pallavai Katrum Payamilare Nallavaiyul Nanku Selachchollaa Thaar",
+      translation: "Même après avoir appris beaucoup de choses, ceux qui ne savent pas s’exprimer devant une bonne assemblée restent sans valeur.",
+      comment: "Le savoir doit être accompagné de la capacité à le transmettre efficacement."
+    },
+    {
+      id: 729,
+      tamil: "கல்லா தவரின் கடையென்ப கற்றறிந்தும் நல்லா ரவையஞ்சு வார்.",
+      transliteration: "Kallaa Thavarin Kataiyenpa Katrarindhum Nallaar Avaiyanju Vaar",
+      translation: "Ceux qui, malgré leur savoir, craignent de parler devant des gens instruits sont considérés comme inférieurs aux ignorants.",
+      comment: "La peur excessive empêche la connaissance de produire ses effets."
+    },
+    {
+      id: 730,
+      tamil: "உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக் கற்ற செலச்சொல்லா தார்.",
+      transliteration: "Ulareninun Illaarodu Oppar Kalananjik Katra Selachchollaa Thaar",
+      translation: "Bien qu’ils soient vivants, ceux qui gardent leur savoir par peur de l’assemblée sont semblables aux morts.",
+      comment: "Le savoir prend vie lorsqu’il est partagé avec courage et utilité."
+    }
+
+  ]
+
+}, // fin du chapitre 73
 
   ] // fin de tous les chapitres de l'Iyal 6
 
-} // fin de l'Iyal 6 : Amaichiyal
+}, // fin de l'Iyal 6 : Amaichiyal
 
-      
+
+
+
+       {
+  id: 7,
+
+  //===========================================
+  // DEBUT DE L IYAL 7 DU LIVRE 2
+  //==============================================
+  name: "Aran Iyal, Koozh Iyal, Padai Iyal <br> Politique : défense, ressources et forces militaires ",
+
+  //====================================================
+  // DEBUT DES CHAPITRES DE L IYAL 7 DU LIVRE 2
+  //=======================================================
+  chapters: [
+   {
+  id: 74,
+  name: "74. Naatu - Le pays",
+
+  kurals: [
+
+    {
+      id: 731,
+      tamil: "தள்ளா விளையுளும் தக்காரும் தாழ்விலாச் செல்வரும் சேர்வது நாடு.",
+      transliteration: "Thallaa Vilaiyulum Thakkaarum Thaazhvilaach Chelvarum Servadhu Naatu",
+      translation: "Un pays véritable est celui où abondent les récoltes, les personnes vertueuses et les commerçants prospères.",
+      comment: "La richesse d’un pays repose sur sa fertilité, ses citoyens compétents et son économie florissante."
+    },
+    {
+      id: 732,
+      tamil: "பெரும்பொருளால் பெட்டக்க தாகி அருங்கேட்டால் ஆற்ற விளைவது நாடு.",
+      transliteration: "Perumporulaal Pettakka Thaaki Arungettaal Aatra Vilaivadhu Naatu",
+      translation: "Un pays est reconnu par ses grandes richesses, son abondance durable et sa capacité à résister aux difficultés.",
+      comment: "Une nation prospère doit posséder des ressources abondantes et une économie stable."
+    },
+    {
+      id: 733,
+      tamil: "பொறையொருங்கு மேல்வருங்கால் தாங்கி இறைவற்கு இறையொருங்கு நேர்வது நாடு.",
+      transliteration: "Poraiyorungu Melvarungaal Thaangi Iraivarku Iraiyorungu Nervadhu Naatu",
+      translation: "Un bon pays supporte les charges qui surviennent et verse équitablement ce qui est dû au dirigeant.",
+      comment: "La force d’un pays se mesure à sa capacité à supporter les épreuves tout en respectant ses devoirs."
+    },
+    {
+      id: 734,
+      tamil: "உறுபசியும் ஓவாப் பிணியும் செறுபகையும் சேரா தியல்வது நாடு.",
+      transliteration: "Urupasiyum Ovaap Piniyum Serupakaiyum Seraa Thiyalvadhu Naatu",
+      translation: "Un pays idéal est celui où ne règnent ni la grande faim, ni les maladies persistantes, ni les ennemis destructeurs.",
+      comment: "La sécurité et le bien-être de la population sont les signes d’une nation prospère."
+    },
+    {
+      id: 735,
+      tamil: "பல்குழுவும் பாழ்செய்யும் உட்பகையும் வேந்தலைக்கும் கொல்குறும்பும் இல்லத நாடு.",
+      transliteration: "Palkuzhuvum Paazhseyyum Utpakaiyum Vendhalaikkum Kolkurumpum Illadhu Naatu",
+      translation: "Un pays est fort lorsqu’il est libre des divisions, des trahisons internes et des troubles qui menacent le pouvoir.",
+      comment: "L’unité intérieure est essentielle à la stabilité d’un royaume."
+    },
+    {
+      id: 736,
+      tamil: "கேடறியாக் கெட்ட இடத்தும் வளங்குன்றா நாடென்ப நாட்டின் தலை.",
+      transliteration: "Ketariyaak Ketta Itaththum Valangundraa Naatenpa Naattin Thalai",
+      translation: "Le meilleur des pays est celui qui ignore le déclin et conserve sa prospérité même dans les périodes difficiles.",
+      comment: "Une grande nation possède une résilience qui lui permet de préserver ses richesses."
+    },
+    {
+      id: 737,
+      tamil: "இருபுனலும் வாய்ந்த மலையும் வருபுனலும் வல்லரணும் நாட்டிற்கு உறுப்பு.",
+      transliteration: "Irupunalum Vaaindha Malaiyum Varupunalum Vallaranum Naattirku Uruppu",
+      translation: "Les éléments d’un pays sont ses eaux abondantes, ses montagnes, ses sources et ses fortifications solides.",
+      comment: "Les ressources naturelles et la défense constituent les fondements matériels d’une nation."
+    },
+    {
+      id: 738,
+      tamil: "பிணியின்மை செல்வம் விளைவின்பம் ஏமம் அணியென்ப நாட்டிவ் வைந்து.",
+      transliteration: "Piniyinmai Selvam Vilaivinpam Emam Aniyenpa Naattiv Vaindhu",
+      translation: "Les cinq ornements d’un pays sont : l’absence de maladies, la richesse, la fertilité, la joie et la sécurité.",
+      comment: "Un pays accompli assure à ses habitants santé, prospérité et protection."
+    },
+    {
+      id: 739,
+      tamil: "நாடென்ப நாடா வளத்தன நாடல்ல நாட வளந்தரு நாடு.",
+      transliteration: "Naatenpa Naataa Valaththana Naatalla Naata Valandharu Naatu",
+      translation: "On appelle pays celui qui produit naturellement ses richesses ; celui qui dépend d’efforts excessifs n’est pas un véritable pays prospère.",
+      comment: "La prospérité durable vient d’une organisation efficace des ressources."
+    },
+    {
+      id: 740,
+      tamil: "ஆங்கமை வெய்தியக் கண்ணும் பயமின்றே வேந்தமை வில்லாத நாடு.",
+      transliteration: "Aangamai Veydhiyak Kannum Payamindre Vendhamai Villaadha Naatu",
+      translation: "Même doté de toutes les richesses, un pays reste sans valeur s’il n’a pas un dirigeant capable.",
+      comment: "Une bonne gouvernance est indispensable à la grandeur d’une nation."
+    }
+
+  ]
+
+}, // fin du chapitre 74
+
+ 
+
+  ] // fin de tous les chapitres de l'Iyal 7
+
+} // fin de l'Iyal 7 : Amaichiyal
+
 
 
       ] // fin de tous les iyals du Livre 2
