@@ -9771,9 +9771,1477 @@ kurals: [
 }, // fin du chapitre 116
 
 
-    
+    {
+  id: 117,
+  name: "117. Patarmelindhirangal - <br> Les plaintes de l'amour souffrant",
+
+  kurals: [
+
+    {
+      id: 1161,
+      tamil: "மறைப்பேன்மன் யானிஃதோ நோயை இறைப்பவர்க்கு ஊற்றுநீர் போல மிகும்.",
+      tamilfr: "Maraippenman Yaaniqdho Noyai Iraippavarkku Ootruneer Pola Mikum",
+      translation: "Je voudrais cacher cette maladie d'amour, mais elle jaillit comme l'eau d'une source que l'on puise.",
+      comment: "La souffrance intérieure devient impossible à dissimuler tant elle grandit avec le temps."
+    },
+    {
+      id: 1162,
+      tamil: "கரத்தலும் ஆற்றேன்இந் நோயைநோய் செய்தார்க்கு உரைத்தலும் நாணுத் தரும்.",
+      tamilfr: "Karaththalum Aatrenin Noyainoi Seydhaarkku Uraiththalum Naanuth Tharum",
+      translation: "Je ne peux cacher cette souffrance, mais j'ai honte de la révéler à celui qui l'a causée.",
+      comment: "L'amoureuse est déchirée entre le désir d'avouer son mal et la pudeur qui la retient."
+    },
+    {
+      id: 1163,
+      tamil: "காமமும் நாணும் உயிர்காவாத் தூங்கும்என் நோனா உடம்பின் அகத்து.",
+      tamilfr: "Kaamamum Naanum Uyirkaavaath Thoongumen Nonaa Utampin Akaththu",
+      translation: "L'amour et la pudeur pèsent sur ma vie, suspendus dans mon corps incapable de les supporter.",
+      comment: "La passion et la retenue opposent leurs forces dans un cœur tourmenté."
+    },
+    {
+      id: 1164,
+      tamil: "காமக் கடல்மன்னும் உண்டே அதுநீந்தும் ஏமப் புணைமன்னும் இல்.",
+      tamilfr: "Kaamak Katalmannum Unte Adhuneendhum Emap Punaimannum Il",
+      translation: "Il existe bien une mer d'amour à traverser, mais aucune barque sûre pour la franchir.",
+      comment: "La force de la passion est comparée à un océan immense sans moyen de secours."
+    },
+    {
+      id: 1165,
+      tamil: "துப்பின் எவனாவர் மன்கொல் துயர்வரவு நட்பினுள் ஆற்று பவர்.",
+      tamilfr: "Thuppin Evanaavar Mankol Thuyarvaravu Natpinul Aatru Pavar",
+      translation: "Si son amour m'apporte tant de souffrance, que serait donc son inimitié ?",
+      comment: "La douleur causée par l'être aimé semble plus grande encore parce qu'elle vient d'un proche."
+    },
+    {
+      id: 1166,
+      tamil: "இன்பம் கடல்மற்றுக் காமம் அஃதடுங்கால் துன்பம் அதனிற் பெரிது.",
+      tamilfr: "Inpam Katalmatruk Kaamam Aqdhatungaal Thunpam Adhanir Peridhu",
+      translation: "La joie de l'amour est vaste comme la mer, mais lorsqu'elle disparaît, la douleur est encore plus grande.",
+      comment: "La grandeur du bonheur amoureux explique l'intensité de la peine lorsqu'il est perdu."
+    },
+    {
+      id: 1167,
+      tamil: "காமக் கடும்புனல் நீந்திக் கரைகாணேன் யாமத்தும் யானே உளேன்.",
+      tamilfr: "Kaamak Katumpunal Neendhik Karaikaanen Yaamaththum Yaane Ulen",
+      translation: "Je nage dans les flots violents de l'amour sans trouver de rivage ; même au milieu de la nuit, je reste seul.",
+      comment: "L'amoureux se sent perdu dans une passion qui ne lui laisse aucun refuge."
+    },
+    {
+      id: 1168,
+      tamil: "மன்னுயிர் எல்லாம் துயிற்றி அளித்திரா என்னல்லது இல்லை துணை.",
+      tamilfr: "Mannuyir Ellaam Thuyitri Aliththiraa Ennalladhu Illai Thunai",
+      translation: "Ô nuit cruelle, qui endors tous les êtres vivants, tu n'as pour compagne que moi.",
+      comment: "La solitude de l'amoureux contraste avec le repos du monde entier."
+    },
+    {
+      id: 1169,
+      tamil: "கொடியார் கொடுமையின் தாம்கொடிய விந்நாள் நெடிய கழியும் இரா.",
+      tamilfr: "Kotiyaar Kotumaiyin Thaamkotiya Innaal Netiya Kazhiyum Iraa",
+      translation: "Ces longues nuits qui s'étirent sont plus cruelles encore que la cruauté de celui qui m'a abandonnée.",
+      comment: "L'attente et l'absence rendent le temps interminable."
+    },
+    {
+      id: 1170,
+      tamil: "உள்ளம்போன்று உள்வழிச் செல்கிற்பின் வெள்ளநீர் நீந்தல மன்னோஎன் கண்.",
+      tamilfr: "Ullampolndru Ulvazhich Chelkirpin Vellaneer Neendhala Mannoen Kan",
+      translation: "Si mes yeux pouvaient aller vers lui comme mon cœur le fait, ils ne seraient pas noyés dans un torrent de larmes.",
+      comment: "Le cœur rejoint l'être aimé par la pensée, tandis que les yeux restent prisonniers de la séparation."
+    }
+
+  ]
+
+}, // fin du chapitre 117
 
 
+    {
+  id: 118,
+  name: "118. Kanvidhuppazhidhal - <br> Les yeux consumés par le chagrin",
+
+  kurals: [
+
+    {
+      id: 1171,
+      tamil: "கண்தாம் கலுழ்வ தெவன்கொலோ தண்டாநோய் தாம்காட்ட யாம்கண் டது.",
+      tamilfr: "Kandhaam Kaluzhva Thevankolo Thantaanoi Thaamkaatta Yaamkan Tadhu",
+      translation: "Pourquoi ces mêmes yeux qui me l'ont montré et m'ont donné cette maladie d'amour pleurent-ils maintenant de douleur ?",
+      comment: "Les yeux, responsables de la naissance de l'amour, souffrent eux-mêmes des tourments qu'ils ont provoqués."
+    },
+    {
+      id: 1172,
+      tamil: "தெரிந்துணரா நோக்கிய உண்கண் பரிந்துணராப் பைதல் உழப்பது எவன்.",
+      tamilfr: "Therindhunaraa Nokkiya Unkan Parindhunaraap Paidhal Uzhappadhu Evan",
+      translation: "Pourquoi ces yeux qui l'ont regardé sans réfléchir souffrent-ils maintenant sans comprendre leur erreur ?",
+      comment: "Le désir irréfléchi du regard devient ensuite une source de peine."
+    },
+    {
+      id: 1173,
+      tamil: "கதுமெனத் தாநோக்கித் தாமே கலுழும் இதுநகத் தக்க துடைத்து.",
+      tamilfr: "Kadhumenath Thaanokkith Thaame Kaluzhum Ithunakath Thakka Thutaiththu",
+      translation: "Il est bien étrange de voir ces yeux qui le regardaient autrefois avec empressement verser aujourd'hui des larmes.",
+      comment: "Les yeux sont présentés comme responsables de leur propre souffrance amoureuse."
+    },
+    {
+      id: 1174,
+      tamil: "பெயலாற்றா நீருலந்த உண்கண் உயலாற்றா உய்வில்நோய் என்கண் நிறுத்து.",
+      tamilfr: "Peyalaatraa Neerulandha Unkan Uyalaatraa Uyvilnoi Enkan Niruththu",
+      translation: "Après m'avoir infligé cette maladie incurable, mes yeux se sont desséchés, épuisés de leurs larmes.",
+      comment: "Les larmes ont coulé jusqu'à épuiser les yeux qui portent désormais seuls la souffrance."
+    },
+    {
+      id: 1175,
+      tamil: "படலாற்றா பைதல் உழக்கும் கடலாற்றாக் காமநோய் செய்தஎன் கண்.",
+      tamilfr: "Patalaatraa Paidhal Uzhakkum Katalaatraak Kaamanoi Seydhaen Kan",
+      translation: "Mes yeux m'ont plongé dans l'océan de l'amour et souffrent maintenant d'une douleur qui les empêche de dormir.",
+      comment: "Le regard amoureux est comparé à une mer immense dont on ne peut sortir."
+    },
+    {
+      id: 1176,
+      tamil: "ஓஒ இனிதே எமக்கிந்நோய் செய்தகண் தாஅம் இதற்பட் டது.",
+      tamilfr: "Oo Inidhe Emakkinnoi Seydhakan Thaam Itharpat Tadhu",
+      translation: "Quelle douce justice ! Les yeux qui m'ont causé cette souffrance en sont eux-mêmes victimes.",
+      comment: "Le poète trouve une étrange consolation dans le fait que la cause de sa peine souffre aussi."
+    },
+    {
+      id: 1177,
+      tamil: "உழந்துழந் துள்நீர் அறுக விழைந்திழைந்து வேண்டி அவர்க்கண்ட கண்.",
+      tamilfr: "Uzhandhuzhan Thulneer Aruka Vizhaindhizhaindhu Venti Avarkkanta Kan",
+      translation: "Que les yeux qui l'ont contemplé avec tant de désir se dessèchent après avoir pleuré sans fin.",
+      comment: "Le désir intense du regard mène à l'épuisement et au chagrin."
+    },
+    {
+      id: 1178,
+      tamil: "பேணாது பெட்டார் உளர்மன்னோ மற்றவர்க் காணாது அமைவில கண்.",
+      tamilfr: "Penaadhu Pettaar Ularmanno Matravark Kaanaadhu Amaivila Kan",
+      translation: "Même s'il m'a aimée sans véritable attachement, mes yeux ne trouvent aucun repos sans le voir.",
+      comment: "Le cœur peut comprendre l'indifférence de l'autre, mais les yeux restent attachés."
+    },
+    {
+      id: 1179,
+      tamil: "வாராக்கால் துஞ்சா வரின்துஞ்சா ஆயிடை ஆரஞர் உற்றன கண்.",
+      tamilfr: "Vaaraakkaal Thunjaa Varindhunjaa Aayitai Aaragnar Utrana Kan",
+      translation: "Mes yeux ne dorment ni lorsqu'il est absent, ni lorsqu'il est présent : ils sont toujours tourmentés.",
+      comment: "L'amour prive les yeux de repos dans toutes les situations."
+    },
+    {
+      id: 1180,
+      tamil: "மறைபெறல் ஊரார்க்கு அரிதன்றால் எம்போல் அறைபறை கண்ணார் அகத்து.",
+      tamilfr: "Maraiperal Ooraarkku Aridhandraal Empol Araiparai Kannaar Akaththu",
+      translation: "Comment cacher mon secret aux autres, quand mes yeux comme des tambours annoncent eux-mêmes ma peine ?",
+      comment: "Les yeux révèlent involontairement les sentiments que le cœur voudrait cacher."
+    }
+
+  ]
+
+}, // fin du chapitre 118
+
+
+    {
+  id: 119,
+  name: "119. Pasapparuparuval - <br> La pâleur du chagrin",
+
+  kurals: [
+
+    {
+      id: 1181,
+      tamil: "நயந்தவர்க்கு நல்காமை நேர்ந்தேன் பசந்தவென் பண்பியார்க்கு உரைக்கோ பிற.",
+      tamilfr: "Nayandhavarkku Nalkaamai Nerndhen Pasandhaven Panpiyaarkku Uraikko Pira",
+      translation: "J'ai accepté de me séparer de celui que j'aime ; comment pourrais-je alors parler aux autres de ma pâleur ?",
+      comment: "Celle qui a consenti à la séparation ne peut accuser son bien-aimé de la souffrance qu'elle endure."
+    },
+    {
+      id: 1182,
+      tamil: "அவர்தந்தார் என்னும் தகையால் இவர்தந்தென் மேனிமேல் ஊரும் பசப்பு.",
+      tamilfr: "Avardhandhaar Ennum Thakaiyaal Ivardhandhen Menimel Oorum Pasappu",
+      translation: "La pâleur qui envahit mon corps avance fièrement en disant : « c'est lui qui m'a donnée ». ",
+      comment: "La souffrance de l'amour séparé est personnifiée comme un don venant de l'être aimé."
+    },
+    {
+      id: 1183,
+      tamil: "சாயலும் நாணும் அவர்கொண்டார் கைம்மாறா நோயும் பசலையும் தந்து.",
+      tamilfr: "Saayalum Naanum Avarkontaar Kaimmaaraa Noyum Pasalaiyum Thandhu",
+      translation: "Il m'a pris ma beauté et ma pudeur, et en échange m'a laissé la maladie et la pâleur.",
+      comment: "L'amour a remplacé les qualités de la jeunesse par les marques visibles de la souffrance."
+    },
+    {
+      id: 1184,
+      tamil: "உள்ளுவன் மன்யான் உரைப்பது அவர்திறமால் கள்ளம் பிறவோ பசப்பு.",
+      tamilfr: "Ulluvan Manyaan Uraippadhu Avardhiramaal Kallam Piravo Pasappu",
+      translation: "Je pense à ses paroles et je ne fais que parler de ses qualités ; comment alors la pâleur a-t-elle pu apparaître ?",
+      comment: "Même les souvenirs heureux ne peuvent empêcher les signes physiques du manque."
+    },
+    {
+      id: 1185,
+      tamil: "உவக்காண்எம் காதலர் செல்வார் இவக்காண்என் மேனி பசப்பூர் வது.",
+      tamilfr: "Uvakkaanem Kaadhalar Selvaar Ivakkaanen Meni Pasappoor Vadhu",
+      translation: "Là-bas s'en va mon bien-aimé ; ici, je vois ma pâleur venir couvrir mon corps.",
+      comment: "La séparation de l'être aimé entraîne immédiatement l'apparition du chagrin."
+    },
+    {
+      id: 1186,
+      tamil: "விளக்கற்றம் பார்க்கும் இருளேபோல் கொண்கன் முயக்கற்றம் பார்க்கும் பசப்பு.",
+      tamilfr: "Vilakkatram Paarkkum Irulepol Konkan Muyakkatram Paarkkum Pasappu",
+      translation: "Comme l'obscurité attend que la lampe s'éteigne, la pâleur attend la fin de l'étreinte.",
+      comment: "La pâleur est comparée à l'obscurité qui apparaît dès que disparaît la lumière de l'amour."
+    },
+    {
+      id: 1187,
+      tamil: "புல்லிக் கிடந்தேன் புடைபெயர்ந்தேன் அவ்வளவில் அள்ளிக்கொள் வற்றே பசப்பு.",
+      tamilfr: "Pullik Kitandhen Putaipeyarndhen Avvalavil Allikkol Vatre Pasappu",
+      translation: "J'étais encore dans ses bras ; je me suis légèrement détournée, et aussitôt la pâleur m'a saisie.",
+      comment: "La séparation, même momentanée, suffit à faire naître le sentiment de perte."
+    },
+    {
+      id: 1188,
+      tamil: "பசந்தாள் இவள்என்பது அல்லால் இவளைத் துறந்தார் அவர்என்பார் இல்.",
+      tamilfr: "Pasandhaal Ivalenpadhu Allaal Ivalaith Thurandhaar Avarenpaar Il",
+      translation: "Tous disent : « elle est devenue pâle », mais personne ne dit : « c'est lui qui l'a abandonnée ».",
+      comment: "Le monde remarque la souffrance de la femme mais ignore la cause qui l'a provoquée."
+    },
+    {
+      id: 1189,
+      tamil: "பசக்கமன் பட்டாங்கென் மேனி நயப்பித்தார் நன்னிலையர் ஆவர் எனின்.",
+      tamilfr: "Pasakkaman Pattaangen Meni Nayappiththaar Nannilaiyar Aavar Enin",
+      translation: "Que mon corps devienne pâle autant qu'il le veut, si seulement celui qui m'a charmée reste sans faute.",
+      comment: "L'amoureuse préfère supporter sa propre douleur plutôt que blâmer celui qu'elle aime."
+    },
+    {
+      id: 1190,
+      tamil: "பசப்பெனப் பேர்பெறுதல் நன்றே நயப்பித்தார் நல்காமை தூற்றார் எனின்.",
+      tamilfr: "Pasappenap Perperudhal Nandre Nayappiththaar Nalkaamai Thootraar Enin",
+      translation: "Je préfère être appelée pâle, si personne ne reproche à celui qui m'a séduite son absence d'amour.",
+      comment: "L'amour fidèle protège encore la réputation de l'être aimé malgré la souffrance."
+    }
+
+  ]
+
+}, // fin du chapitre 119
+
+    {
+  id: 120,
+  name: "120. Thanippadarmikudhi - <br> La souffrance solitaire",
+
+  kurals: [
+
+    {
+      id: 1191,
+      tamil: "தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே காமத்துக் காழில் கனி.",
+      tamilfr: "Thaamveezhvaar Thamveezhap Petravar Petraare Kaamaththuk Kaazhil Kani",
+      translation: "Ceux qui sont aimés par celui qu'ils aiment possèdent le fruit parfait de l'amour, sans noyau.",
+      comment: "L'amour accompli naît lorsque l'affection est réciproque et partagée."
+    },
+    {
+      id: 1192,
+      tamil: "வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு வீழ்வார் அளிக்கும் அளி.",
+      tamilfr: "Vaazhvaarkku Vaanam Payandhatraal Veezhvaar Veezhvaar Alikkum Ali",
+      translation: "Comme la pluie du ciel pour les êtres vivants, est la tendresse offerte par celui que l'on aime.",
+      comment: "L'amour reçu est présenté comme une nécessité vitale semblable à la pluie."
+    },
+    {
+      id: 1193,
+      tamil: "வீழுநர் வீழப் படுவார்க்கு அமையுமே வாழுநம் என்னும் செருக்கு.",
+      tamilfr: "Veezhunar Veezhap Patuvaarkku Amaiyume Vaazhunam Ennum Serukku",
+      translation: "Seuls ceux qui sont aimés par ceux qu'ils aiment peuvent avoir la fierté de dire : nous vivons pleinement.",
+      comment: "La joie de vivre ensemble dépend de l'amour partagé."
+    },
+    {
+      id: 1194,
+      tamil: "வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார் வீழப் படாஅர் எனின்.",
+      tamilfr: "Veezhap Paduvaar Kezheeiyilar Thaamveezhvaar Veezhap Pataar Enin",
+      translation: "Même celui qui est aimé n'est pas heureux si celui qu'il aime ne l'aime pas en retour.",
+      comment: "L'affection reçue d'autres personnes ne compense pas l'absence d'amour de l'être désiré."
+    },
+    {
+      id: 1195,
+      tamil: "நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ தாம்காதல் கொள்ளாக் கடை.",
+      tamilfr: "Naamkaadhal Kontaar Namakkevan Seypavo Thaamkaadhal Kollaak Katai",
+      translation: "Que peut faire pour moi celui que j'aime, s'il ne m'aime pas lui-même ?",
+      comment: "L'amour à sens unique laisse l'amant impuissant face à son désir."
+    },
+    {
+      id: 1196,
+      tamil: "ஒருதலையான் இன்னாது காமம்காப் போல இருதலையானும் இனிது.",
+      tamilfr: "Orudhalaiyaan Innaadhu Kaamamkaap Pola Irudhalai Yaanum Inidhu",
+      translation: "L'amour à sens unique est douloureux comme un fardeau déséquilibré ; il n'est doux que lorsqu'il est partagé.",
+      comment: "L'image du kavadi porté sur une seule épaule illustre le poids de l'amour non réciproque."
+    },
+    {
+      id: 1197,
+      tamil: "பருவரலும் பைதலும் காணான்கொல் காமன் ஒருவர்கண் நின்றொழுகு வான்.",
+      tamilfr: "Paruvaralum Paidhalum Kaanaankol Kaaman Oruvarkan Nindrozhugu Vaan",
+      translation: "Le dieu de l'amour, qui demeure en moi seul, ne voit-il donc pas ma souffrance et ma pâleur ?",
+      comment: "L'amoureuse reproche à l'amour lui-même de favoriser une seule personne et de causer sa peine."
+    },
+    {
+      id: 1198,
+      tamil: "வீழ்வாரின் இன்சொல் பெறாஅது உலகத்து வாழ்வாரின் வன்கணார் இல்.",
+      tamilfr: "Veezhvaarin Insol Peraadhu Ulakaththu Vaazhvarin Vankanar Il",
+      translation: "Il n'existe pas de cœur plus dur que celui qui vit sans recevoir une douce parole de celui qu'il aime.",
+      comment: "L'absence même d'un simple mot tendre devient une grande souffrance."
+    },
+    {
+      id: 1199,
+      tamil: "நசைஇயார் நல்கார் எனினும் அவர்மாட்டு இசையும் இனிய செவிக்கு.",
+      tamilfr: "Nasaiiyaar Nalkaar Eninum Avarmaattu Isaiyum Iniya Sevikku",
+      translation: "Même si celui que j'aime ne m'accorde rien, toute nouvelle venant de lui reste douce à mes oreilles.",
+      comment: "L'amour transforme même les rares signes de l'être aimé en sources de bonheur."
+    },
+    {
+      id: 1200,
+      tamil: "உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச் செறாஅஅய் வாழிய நெஞ்சு.",
+      tamilfr: "Uraaarkku Urunoi Uraippaai Katalaich Cheraaai Vaazhiya Nenju",
+      translation: "Ô mon cœur, pourquoi révéler ta grande douleur à celui qui ne partage pas tes sentiments ? Autant la confier à la mer.",
+      comment: "Se plaindre auprès d'une personne indifférente est aussi inutile que de parler au vaste océan."
+    }
+
+  ]
+
+}, // fin du chapitre 120
+
+
+    {
+  id: 120,
+  name: "120. Thanippadarmikudhi - <br> La souffrance solitaire",
+
+  kurals: [
+
+    {
+      id: 1191,
+      tamil: "தாம்வீழ்வார் தம்வீழப் பெற்றவர் பெற்றாரே காமத்துக் காழில் கனி.",
+      tamilfr: "Thaamveezhvaar Thamveezhap Petravar Petraare Kaamaththuk Kaazhil Kani",
+      translation: "Ceux qui sont aimés par celui qu'ils aiment possèdent le fruit parfait de l'amour, sans noyau.",
+      comment: "L'amour accompli naît lorsque l'affection est réciproque et partagée."
+    },
+    {
+      id: 1192,
+      tamil: "வாழ்வார்க்கு வானம் பயந்தற்றால் வீழ்வார்க்கு வீழ்வார் அளிக்கும் அளி.",
+      tamilfr: "Vaazhvaarkku Vaanam Payandhatraal Veezhvaar Veezhvaar Alikkum Ali",
+      translation: "Comme la pluie du ciel pour les êtres vivants, est la tendresse offerte par celui que l'on aime.",
+      comment: "L'amour reçu est présenté comme une nécessité vitale semblable à la pluie."
+    },
+    {
+      id: 1193,
+      tamil: "வீழுநர் வீழப் படுவார்க்கு அமையுமே வாழுநம் என்னும் செருக்கு.",
+      tamilfr: "Veezhunar Veezhap Patuvaarkku Amaiyume Vaazhunam Ennum Serukku",
+      translation: "Seuls ceux qui sont aimés par ceux qu'ils aiment peuvent avoir la fierté de dire : nous vivons pleinement.",
+      comment: "La joie de vivre ensemble dépend de l'amour partagé."
+    },
+    {
+      id: 1194,
+      tamil: "வீழப் படுவார் கெழீஇயிலர் தாம்வீழ்வார் வீழப் படாஅர் எனின்.",
+      tamilfr: "Veezhap Paduvaar Kezheeiyilar Thaamveezhvaar Veezhap Pataar Enin",
+      translation: "Même celui qui est aimé n'est pas heureux si celui qu'il aime ne l'aime pas en retour.",
+      comment: "L'affection reçue d'autres personnes ne compense pas l'absence d'amour de l'être désiré."
+    },
+    {
+      id: 1195,
+      tamil: "நாம்காதல் கொண்டார் நமக்கெவன் செய்பவோ தாம்காதல் கொள்ளாக் கடை.",
+      tamilfr: "Naamkaadhal Kontaar Namakkevan Seypavo Thaamkaadhal Kollaak Katai",
+      translation: "Que peut faire pour moi celui que j'aime, s'il ne m'aime pas lui-même ?",
+      comment: "L'amour à sens unique laisse l'amant impuissant face à son désir."
+    },
+    {
+      id: 1196,
+      tamil: "ஒருதலையான் இன்னாது காமம்காப் போல இருதலையானும் இனிது.",
+      tamilfr: "Orudhalaiyaan Innaadhu Kaamamkaap Pola Irudhalai Yaanum Inidhu",
+      translation: "L'amour à sens unique est douloureux comme un fardeau déséquilibré ; il n'est doux que lorsqu'il est partagé.",
+      comment: "L'image du kavadi porté sur une seule épaule illustre le poids de l'amour non réciproque."
+    },
+    {
+      id: 1197,
+      tamil: "பருவரலும் பைதலும் காணான்கொல் காமன் ஒருவர்கண் நின்றொழுகு வான்.",
+      tamilfr: "Paruvaralum Paidhalum Kaanaankol Kaaman Oruvarkan Nindrozhugu Vaan",
+      translation: "Le dieu de l'amour, qui demeure en moi seul, ne voit-il donc pas ma souffrance et ma pâleur ?",
+      comment: "L'amoureuse reproche à l'amour lui-même de favoriser une seule personne et de causer sa peine."
+    },
+    {
+      id: 1198,
+      tamil: "வீழ்வாரின் இன்சொல் பெறாஅது உலகத்து வாழ்வாரின் வன்கணார் இல்.",
+      tamilfr: "Veezhvaarin Insol Peraadhu Ulakaththu Vaazhvarin Vankanar Il",
+      translation: "Il n'existe pas de cœur plus dur que celui qui vit sans recevoir une douce parole de celui qu'il aime.",
+      comment: "L'absence même d'un simple mot tendre devient une grande souffrance."
+    },
+    {
+      id: 1199,
+      tamil: "நசைஇயார் நல்கார் எனினும் அவர்மாட்டு இசையும் இனிய செவிக்கு.",
+      tamilfr: "Nasaiiyaar Nalkaar Eninum Avarmaattu Isaiyum Iniya Sevikku",
+      translation: "Même si celui que j'aime ne m'accorde rien, toute nouvelle venant de lui reste douce à mes oreilles.",
+      comment: "L'amour transforme même les rares signes de l'être aimé en sources de bonheur."
+    },
+    {
+      id: 1200,
+      tamil: "உறாஅர்க்கு உறுநோய் உரைப்பாய் கடலைச் செறாஅஅய் வாழிய நெஞ்சு.",
+      tamilfr: "Uraaarkku Urunoi Uraippaai Katalaich Cheraaai Vaazhiya Nenju",
+      translation: "Ô mon cœur, pourquoi révéler ta grande douleur à celui qui ne partage pas tes sentiments ? Autant la confier à la mer.",
+      comment: "Se plaindre auprès d'une personne indifférente est aussi inutile que de parler au vaste océan."
+    }
+
+  ]
+
+}, // fin du chapitre 120
+
+
+    {
+  id: 121,
+  name: "121. Ninaindhavarpulampal - <br> Les souvenirs douloureux",
+
+  kurals: [
+
+    {
+      id: 1201,
+      tamil: "உள்ளினும் தீராப் பெருமகிழ் செய்தலால் கள்ளினும் காமம் இனிது.",
+      tamilfr: "Ullinum Theeraap Perumakizh Seydhalaal Kallinum Kaamam Inidhu",
+      translation: "L'amour est plus doux que le vin, car sa simple pensée procure une joie immense et durable.",
+      comment: "Le souvenir de l'être aimé suffit à provoquer une ivresse plus forte que celle du vin."
+    },
+    {
+      id: 1202,
+      tamil: "எனைத்தொனறு ஏனிதேகாண் காமம்தாம் வீழ்வார் நினைப்ப வருவதொன்று ஏல்.",
+      tamilfr: "Enaiththonaru Inidhekaan Kaamamdhaam Veezhvaar Ninaippa Varuvadhondru El",
+      translation: "Qu'y a-t-il de plus doux que de penser à l'amour pour celui qui souffre de solitude ?",
+      comment: "Le souvenir amoureux devient un réconfort contre la douleur de l'absence."
+    },
+    {
+      id: 1203,
+      tamil: "நினைப்பவர் போன்று நினையார்கொல் தும்மல் சினைப்பது போன்று கெடும்.",
+      tamilfr: "Ninaippavar Pondru Ninaiyaarkol Thummal Sinaippadhu Pondru Ketum",
+      translation: "Mon éternuement s'arrête aussitôt ; est-ce parce que mon bien-aimé pense à moi sans aller jusqu'au bout ?",
+      comment: "Une croyance ancienne associait l'éternuement aux pensées de l'être aimé."
+    },
+    {
+      id: 1204,
+      tamil: "யாமும் உளேங்கொல் அவர்நெஞ்சத்து எந்நெஞ்சத்து ஓஒ உளரே அவர்.",
+      tamilfr: "Yaamum Ulengol Avarnenjaththu Ennenjaththu Oo Ulare Avar",
+      translation: "Il demeure certainement dans mon cœur ; mais est-ce que moi aussi je demeure dans le sien ?",
+      comment: "L'amante doute de la réciprocité de l'amour malgré la force de son propre attachement."
+    },
+    {
+      id: 1205,
+      tamil: "தம்நெஞ்சத்து எம்மைக் கடிகொண்டார் நாணார்கொல் எம்நெஞ்சத்து ஓவா வரல்.",
+      tamilfr: "Thamnenjaththu Emmaik Katikontaar Naanaarkol Emnenjaththu Ovaa Varal",
+      translation: "Après m'avoir gardée hors de son cœur, n'a-t-il pas honte de venir sans cesse dans le mien ?",
+      comment: "La douleur naît du contraste entre son absence d'attachement et la présence constante qu'il garde dans le cœur de l'amante."
+    },
+    {
+      id: 1206,
+      tamil: "மற்றியான் என்னுளேன் மன்னோ அவரொடியான் உற்றநாள் உள்ள உளேன்.",
+      tamilfr: "Matriyaan Ennulen Manno Avarotiyan Utranaal Ulla Ulen",
+      translation: "Pourquoi suis-je encore en vie ? Je vis seulement en gardant le souvenir des jours où j'étais unie à lui.",
+      comment: "Les souvenirs du bonheur passé deviennent la seule force qui maintient l'existence."
+    },
+    {
+      id: 1207,
+      tamil: "மறப்பின் எவனாவன் மற்கொல் மறப்பறியேன் உள்ளினும் உள்ளம் சுடும்.",
+      tamilfr: "Marappin Evanaavan Markol Marappariyen Ullinum Ullam Sutum",
+      translation: "Que deviendrais-je si je l'oubliais, alors que même son souvenir brûle mon cœur ?",
+      comment: "L'oubli est impossible, mais la mémoire elle-même devient une source de souffrance."
+    },
+    {
+      id: 1208,
+      tamil: "எனைத்து நினைப்பினும் காயார் அனைத்தன்றோ காதலர் செய்யும் சிறப்பு.",
+      tamilfr: "Enaiththu Ninaippinum Kaayaar Anaiththandro Kaadhalar Seyyum Sirappu",
+      translation: "Il ne se fâche jamais, quelle que soit la fréquence de mes pensées pour lui ; n'est-ce pas là une bonté de sa part ?",
+      comment: "L'absence de colère de l'être aimé est considérée comme une marque de bienveillance."
+    },
+    {
+      id: 1209,
+      tamil: "விளியுமென் இன்னுயிர் வேறல்லம் என்பார் அளியின்மை ஆற்ற நினைந்து.",
+      tamilfr: "Viliyumen Innuyir Verallam Enpaar Aliyinmai Aatra Ninaindhu",
+      translation: "Ma chère vie dépérit en pensant à sa cruauté, lui qui disait autrefois que nous étions inséparables.",
+      comment: "Le souvenir des anciennes paroles rend l'abandon encore plus douloureux."
+    },
+    {
+      id: 1210,
+      tamil: "விடாஅது சென்றாரைக் கண்ணினால் காணப் படாஅதி வாழி மதி.",
+      tamilfr: "Vitaaadhu Sendraaraik Kanninaal Kaanap Pataadhi Vaazhi Madhi",
+      translation: "Ô lune, ne disparais pas avant que mes yeux ne voient celui qui est parti sans jamais quitter mon cœur.",
+      comment: "La lune devient le témoin de l'attente et du désir du retour de l'être aimé."
+    }
+
+  ]
+
+}, // fin du chapitre 121
+
+
+    {
+  id: 122,
+  name: "122. Kanavunilaiyuraiththal - <br> Les visions de la nuit",
+
+  kurals: [
+
+    {
+      id: 1211,
+      tamil: "காதலர் தூதொடு வந்த கனவினுக்கு யாதுசெய் வேன்கொல் விருந்து.",
+      tamilfr: "Kaadhalar Thoodhotu Vandha Kanavinukku Yaadhusey Venkol Virundhu",
+      translation: "Quel hommage pourrais-je offrir à ce rêve venu avec un message de mon bien-aimé ?",
+      comment: "Le rêve est accueilli comme un précieux messager qui apporte une présence de l'être aimé malgré la séparation."
+    },
+    {
+      id: 1212,
+      tamil: "கயலுண்கண் யானிரப்பத் துஞ்சிற் கலந்தார்க்கு உயலுண்மை சாற்றுவேன் மன்.",
+      tamilfr: "Kayalunkan Yaanirappath Thunjir Kalandhaarkku Uyalunmai Saatruven Man",
+      translation: "Si seulement mes yeux semblables aux poissons acceptaient de dormir, je pourrais lui révéler en rêve toute ma souffrance.",
+      comment: "Le sommeil devient un espoir de retrouver l'aimé et de lui confier la douleur de l'absence."
+    },
+    {
+      id: 1213,
+      tamil: "நனவினால் நல்கா தவரைக் கனவினால் காண்டலின் உண்டென் உயிர்.",
+      tamilfr: "Nanavinaal Nalkaa Thavaraik Kanavinaal Kaantalin Unten Uyir",
+      translation: "Celui qui ne m'accorde pas sa présence dans la réalité me permet de vivre encore grâce aux rêves où je le vois.",
+      comment: "Le rêve offre une consolation lorsque la réalité prive l'amante de son bien-aimé."
+    },
+    {
+      id: 1214,
+      tamil: "கனவினான் உண்டாகும் காமம் நனவினான் நல்காரை நாடித் தரற்கு.",
+      tamilfr: "Kanavinaan Untaakum Kaamam Nanavinaan Nalkaarai Naatith Thararku",
+      translation: "L'amour qui naît dans les rêves me permet de retrouver celui qui ne vient pas à moi dans l'éveil.",
+      comment: "Même imaginaire, la rencontre rêvée entretient et nourrit l'amour absent."
+    },
+    {
+      id: 1215,
+      tamil: "நனவினால் கண்டதூஉம் ஆங்கே கனவுந்தான் கண்ட பொழுதே இனிது.",
+      tamilfr: "Nanavinaal Kantadhooum Aange Kanavundhaan Kanta Pozhudhe Inidhu",
+      translation: "Le voir dans la réalité est doux, mais le voir en rêve est également merveilleux au moment où cela arrive.",
+      comment: "Pour l'amante, la joie de retrouver l'être aimé ne dépend pas du fait que la rencontre soit réelle ou rêvée."
+    },
+    {
+      id: 1216,
+      tamil: "நனவென ஒன்றில்லை ஆயின் கனவினால் காதலர் நீங்கலர் மன்.",
+      tamilfr: "Nanavena Ondrillai Aayin Kanavinaal Kaadhalar Neengalar Man",
+      translation: "S'il n'existait pas cette chose appelée éveil, mon bien-aimé ne me quitterait jamais dans mes rêves.",
+      comment: "L'éveil est perçu comme la cause de la séparation, tandis que le rêve conserve l'union."
+    },
+    {
+      id: 1217,
+      tamil: "நனவினால் நல்காக் கொடியார் கனவனால் என்எம்மைப் பீழிப் பது.",
+      tamilfr: "Nanavinaal Nalkaak Kotiyaar Kanavanaal Enemmaip Peezhip Padhu",
+      translation: "Pourquoi celui qui m'abandonne cruellement dans la réalité vient-il encore me tourmenter dans mes rêves ?",
+      comment: "L'amante souffre du contraste entre l'absence dans la vie éveillée et la présence dans les songes."
+    },
+    {
+      id: 1218,
+      tamil: "துஞ்சுங்கால் தோள்மேலர் ஆகி விழிக்குங்கால் நெஞ்சத்தர் ஆவர் விரைந்து.",
+      tamilfr: "Thunjungaal Tholmelar Aaki Vizhikkungaal Nenjaththar Aavar Viraindhu",
+      translation: "Quand je dors, il repose sur mes épaules ; quand je m'éveille, il retourne rapidement dans mon cœur.",
+      comment: "Même absent physiquement, l'être aimé reste présent dans l'imagination et le cœur."
+    },
+    {
+      id: 1219,
+      tamil: "நனவினால் நல்காரை நோவர் கனவினால் காதலர்க் காணா தவர்.",
+      tamilfr: "Nanavinaal Nalkaarai Novar Kanavinaal Kaadhalark Kaanaa Thavar",
+      translation: "Seuls ceux qui ne voient pas leur bien-aimé en rêve se plaignent de son absence dans la réalité.",
+      comment: "Le rêve apporte une consolation que ceux qui ne l'expérimentent pas ne peuvent comprendre."
+    },
+    {
+      id: 1220,
+      tamil: "நனவினால் நம்நீத்தார் என்பர் கனவினால் காணார்கொல் இவ்வூ ரவர்.",
+      tamilfr: "Nanavinaal Namneeththaar Enpar Kanavinaal Kaanaarkol Ivvoo Ravar",
+      translation: "Les gens disent qu'il m'a abandonnée dans la réalité ; mais voient-ils donc ses visites dans mes rêves ?",
+      comment: "Le jugement du monde ignore la vie intérieure de l'amante, où l'amour continue d'exister."
+    }
+
+  ]
+
+}, // fin du chapitre 122
+
+
+    {
+  id: 123,
+  name: "123. Pozhudhukantirangal - <br> Les lamentations du soir",
+
+  kurals: [
+
+    {
+      id: 1221,
+      tamil: "மாலையோ அல்லை மணந்தார் உயிருண்ணும் வேலைநீ வாழி பொழுது.",
+      tamilfr: "Maalaiyo Allai Manandhaar Uyirunnum Velainee Vaazhi Pozhudhu",
+      translation: "Adieu, ô soir ! Tu n'es plus un simple moment de la journée, car tu dévoreras l'âme de celles qui ont aimé.",
+      comment: "Le soir devient pour l'amante séparée un temps de souffrance qui ravive le manque de l'être aimé."
+    },
+    {
+      id: 1222,
+      tamil: "புன்கண்ணை வாழி மருள்மாலை எம்கேள்போல் வன்கண்ண தோநின் துணை.",
+      tamilfr: "Punkannai Vaazhi Marulmaalai Emkelpol Vankanna Thonin Thunai",
+      translation: "Pauvre soir mélancolique aux yeux ternes, sois béni ; ton compagnon est-il aussi insensible que le mien ?",
+      comment: "L'amante personnifie le crépuscule et partage avec lui la douleur d'un amour sans réponse."
+    },
+    {
+      id: 1223,
+      tamil: "பனிஅரும்பிப் பைதல்கொள் மாலை துனிஅரும்பித் துன்பம் வளர வரும்.",
+      tamilfr: "Paniarumpip Paidhalkol Maalai Thuniarumpith Thunpam Valara Varum",
+      translation: "Le soir qui autrefois apportait seulement la tristesse vient maintenant avec la souffrance et la détresse grandissantes.",
+      comment: "Chaque arrivée du soir fait naître davantage la douleur de la séparation."
+    },
+    {
+      id: 1224,
+      tamil: "காதலர் இல்வழி மாலை கொலைக்களத்து ஏதிலர் போல வரும்.",
+      tamilfr: "Kaadhalar Ilvazhi Maalai Kolaikkalaththu Edhilar Pola Varum",
+      translation: "Quand mon bien-aimé n'est pas là, le soir arrive comme un ennemi venant sur un champ d'exécution.",
+      comment: "En l'absence de l'amour, le crépuscule est ressenti comme une menace cruelle."
+    },
+    {
+      id: 1225,
+      tamil: "காலைக்குச் செய்தநன்று என்கொல் எவன்கொல்யான் மாலைக்குச் செய்த பகை.",
+      tamilfr: "Kaalaikkuch Cheydhanandru Enkol Evankolyaan Maalaikkuch Cheydha Pakai",
+      translation: "Quel bien ai-je fait au matin, et quel mal ai-je donc fait au soir pour mériter cette différence ?",
+      comment: "L'amante oppose la douceur du matin à la cruauté du soir qui lui rappelle la séparation."
+    },
+    {
+      id: 1226,
+      tamil: "மாலைநோய் செய்தல் மணந்தார் அகலாத காலை அறிந்த திலேன்.",
+      tamilfr: "Maalainoi Seydhal Manandhaar Akalaadha Kaalai Arindha Thilen",
+      translation: "Quand mon bien-aimé était auprès de moi, je ne savais pas combien le soir pouvait être douloureux.",
+      comment: "La présence de l'être aimé cachait autrefois les souffrances que le soir révèle aujourd'hui."
+    },
+    {
+      id: 1227,
+      tamil: "காலை அரும்பிப் பகலெல்லாம் போதாகி மாலை மலரும்இந் நோய்.",
+      tamilfr: "Kaalai Arumpip Pakalellaam Podhaaki Maalai Malarumin Noi",
+      translation: "Cette douleur bourgeonne au matin, grandit durant le jour et fleurit pleinement au soir.",
+      comment: "La peine de l'amour absent augmente progressivement jusqu'à devenir insupportable au crépuscule."
+    },
+    {
+      id: 1228,
+      tamil: "அழல்போலும் மாலைக்குத் தூதாகி ஆயன் குழல்போலும் கொல்லும் படை.",
+      tamilfr: "Azhalpolum Maalaikkuth Thoodhaaki Aayan Kuzhalpolum Kollum Patai",
+      translation: "La flûte du berger, qui annonce le soir brûlant comme une flamme, devient une arme qui me tue.",
+      comment: "Un son autrefois agréable devient douloureux car il annonce l'heure de la solitude."
+    },
+    {
+      id: 1229,
+      tamil: "பதிமருண்டு பைதல் உழக்கும் மதிமருண்டு மாலை படர்தரும் போழ்து.",
+      tamilfr: "Padhimaruntu Paidhal Uzhakkum Madhimaruntu Maalai Patardharum Pozhdhu",
+      translation: "Quand le soir s'étend et obscurcit tout, le monde entier semble troublé et souffrant avec moi.",
+      comment: "La tristesse de l'amante transforme même le paysage autour d'elle en reflet de sa peine."
+    },
+    {
+      id: 1230,
+      tamil: "பொருள்மாலை யாளரை உள்ளி மருள்மாலை மாயும்என் மாயா உயிர்.",
+      tamilfr: "Porulmaalai Yaalarai Ulli Marulmaalai Maayumen Maayaa Uyir",
+      translation: "Pensant à celui qui est parti chercher des richesses, mon âme qui semblait immortelle disparaît dans le soir de douleur.",
+      comment: "L'absence de l'être aimé, parti pour ses devoirs ou ses biens matériels, consume même l'esprit le plus résistant."
+    }
+
+  ]
+
+}, // fin du chapitre 123
+
+
+
+    {
+  id: 124,
+  name: "124. Uruppunalanazhidhal - <br> L’affaiblissement de la beauté du corps",
+
+  kurals: [
+
+    {
+      id: 1231,
+      tamil: "சிறுமை நமக்கொழியச் சேட்சென்றார் உள்ளி நறுமலர் நாணின கண்.",
+      tamilfr: "Sirumai Namakkozhiyach Chetchendraar Ulli Narumalar Naanina Kan",
+      translation: "Parti au loin pour nous délivrer de la pauvreté, il occupe mes pensées ; mes yeux, honteux devant les fleurs parfumées, ont perdu leur éclat.",
+      comment: "La séparation et le chagrin ont affaibli les yeux autrefois lumineux de l'amante."
+    },
+    {
+      id: 1232,
+      tamil: "நயந்தவர் நல்காமை சொல்லுவ போலும் பசந்து பனிவாரும் கண்.",
+      tamilfr: "Nayandhavar Nalkaamai Solluva Polum Pasandhu Panivaarum Kan",
+      translation: "Mes yeux pâles et remplis de larmes semblent annoncer que celui que j'aime m'a abandonnée.",
+      comment: "Le corps exprime malgré lui la douleur causée par l'absence de l'être aimé."
+    },
+    {
+      id: 1233,
+      tamil: "தணந்தமை சால அறிவிப்ப போலும் மணந்தநாள் வீங்கிய தோள்.",
+      tamilfr: "Thanandhamai Saala Arivippa Polum Manandhanaal Veengiya Thol",
+      translation: "Mes épaules, autrefois pleines le jour de notre union, semblent révéler clairement notre séparation.",
+      comment: "La transformation physique devient le signe visible de la perte de l'amour."
+    },
+    {
+      id: 1234,
+      tamil: "பணைநீங்கிப் பைந்தொடி சோரும் துணைநீங்கித் தொல்கவின் வாடிய தோள்.",
+      tamilfr: "Panaineengip Paindhoti Sorum Thunaineengith Tholkavin Vaatiya Thol",
+      translation: "Privées de leur force et de leur beauté ancienne, mes épaules dépérissent depuis que mon compagnon m'a quittée.",
+      comment: "La séparation fait disparaître la beauté et la vigueur qui existaient dans l'union."
+    },
+    {
+      id: 1235,
+      tamil: "கொடியார் கொடுமை உரைக்கும் தொடியொடு தொல்கவின் வாடிய தோள்.",
+      tamilfr: "Kotiyaar Kotumai Uraikkum Thotiyotu Tholkavin Vaadiya Thol",
+      translation: "Mes épaules amaigries et mes bracelets qui tombent racontent la cruauté de celui qui m'a quittée.",
+      comment: "Les changements du corps deviennent un témoignage silencieux de la souffrance amoureuse."
+    },
+    {
+      id: 1236,
+      tamil: "தொடியொடு தோள்நெகிழ நோவல் அவரைக் கொடியர் எனக்கூறல் நொந்து.",
+      tamilfr: "Thotiyotu Tholnekizha Noval Avaraik Kotiyar Enakkooral Nondhu",
+      translation: "Je souffre de voir mes bracelets glisser et mes épaules dépérir ; mais je souffre encore plus qu'on le traite de cruel.",
+      comment: "Malgré son abandon, l'amante refuse de condamner celui qu'elle aime."
+    },
+    {
+      id: 1237,
+      tamil: "பாடு பெறுதியோ நெஞ்சே கொடியார்க்கென் வாடுதோட் பூசல் உரைத்து.",
+      tamilfr: "Paatu Perudhiyo Nenje Kotiyaarkken Vaatudhot Poosal Uraiththu",
+      translation: "Ô mon cœur, gagnerais-tu quelque chose à raconter à cet homme cruel les plaintes de mes épaules flétries ?",
+      comment: "L'amante hésite à exposer sa souffrance, même dans l'espoir d'émouvoir son bien-aimé."
+    },
+    {
+      id: 1238,
+      tamil: "முயங்கிய கைகளை ஊக்கப் பசந்தது பைந்தொடிப் பேதை நுதல்.",
+      tamilfr: "Muyangiya Kaikalai Ookkap Pasandhadhu Paindhotip Pedhai Nudhal",
+      translation: "Lorsque j'ai desserré mes bras qui l'enlaçaient, le front de cette jeune fille aux bracelets délicats est devenu pâle.",
+      comment: "Même une courte interruption de l'étreinte suffit à faire apparaître la souffrance de la séparation."
+    },
+    {
+      id: 1239,
+      tamil: "முயக்கிடைத் தண்வளி போழப் பசப்புற்ற பேதை பெருமழைக் கண்.",
+      tamilfr: "Muyakkitaith Thanvali Pozhap Pasapputra Pedhai Perumazhaik Kan",
+      translation: "Quand un souffle frais s'est glissé entre nos corps enlacés, les grands yeux de cette jeune fille sont devenus pâles.",
+      comment: "Le moindre signe de distance pendant l'union est ressenti comme une menace de séparation."
+    },
+    {
+      id: 1240,
+      tamil: "கண்ணின் பசப்போ பருவரல் எய்தின்றே ஒண்ணுதல் செய்தது கண்டு.",
+      tamilfr: "Kannin Pasappo Paruvaral Eydhindre Onnudhal Seydhadhu Kandu",
+      translation: "Voyant le front autrefois éclatant devenir pâle, même les yeux ont partagé cette tristesse et ont perdu leur couleur.",
+      comment: "La douleur se répand dans tout le corps, chaque partie reflétant le chagrin amoureux."
+    }
+
+  ]
+
+}, // fin du chapitre 124
+
+    {
+  id: 125,
+  name: "125. Nenjotukilaththal - <br> Les dialogues avec le cœur",
+
+  kurals: [
+
+    {
+      id: 1241,
+      tamil: "நினைத்தொன்று சொல்லாயோ நெஞ்சே எனைத்தொன்றும் எவ்வநோய் தீர்க்கும் மருந்து.",
+      tamilfr: "Ninaiththondru Sollaayo Nenje Enaiththondrum Evvanoi Theerkkum Marundhu",
+      translation: "Ô mon cœur, ne peux-tu trouver un seul remède capable de guérir cette maladie incurable ?",
+      comment: "L'amante interroge son propre cœur, cherchant une solution à la souffrance née de l'amour."
+    },
+    {
+      id: 1242,
+      tamil: "காதல் அவரிலர் ஆகநீ நோவது பேதைமை வாழியென் நெஞ்சு.",
+      tamilfr: "Kaadhal Avarilar Aakanee Novadhu Pedhaimai Vaazhiyen Nenju",
+      translation: "Ô mon cœur, quelle folie de souffrir pour celui qui n'éprouve plus d'amour pour moi.",
+      comment: "Le cœur est blâmé pour son attachement envers quelqu'un qui ne partage pas les mêmes sentiments."
+    },
+    {
+      id: 1243,
+      tamil: "இருந்துள்ளி என்பரிதல் நெஞ்சே பரிந்துள்ளல் பைதல்நோய் செய்தார்கண் இல்.",
+      tamilfr: "Irundhulli Enparidhal Nenje Parindhullal Paidhalnoi Seydhaarkan Il",
+      translation: "Pourquoi rester ici à souffrir, mon cœur, puisque celui qui a causé cette douleur ne ressent aucune compassion ?",
+      comment: "La souffrance est amplifiée par l'indifférence de celui qui en est la cause."
+    },
+    {
+      id: 1244,
+      tamil: "கண்ணும் கொளச்சேறி நெஞ்சே இவையென்னைத் தின்னும் அவர்க்காணல் உற்று.",
+      tamilfr: "Kannum Kolachcheri Nenje Ivaiyennaith Thinnum Avarkkaanal Utru",
+      translation: "Emporte aussi mes yeux, mon cœur, car leur désir de le voir consume ma vie.",
+      comment: "Les yeux deviennent le symbole du désir amoureux qui épuise l'amante."
+    },
+    {
+      id: 1245,
+      tamil: "செற்றார் எனக்கை விடல்உண்டோ நெஞ்சேயாம் உற்றால் உறாஅ தவர்.",
+      tamilfr: "Setraar Enakkai Vitalunto Nenjeyaam Utraal Uraaa Thavar",
+      translation: "Puis-je vraiment le considérer comme un ennemi et l'abandonner, lui qui ne m'aime pas alors que je l'aime ?",
+      comment: "L'amour empêche de transformer l'être aimé en adversaire, même lorsqu'il cause de la peine."
+    },
+    {
+      id: 1246,
+      tamil: "கலந்துணர்த்தும் காதலர்க் கண்டாற் புலந்துணராய் பொய்க்காய்வு காய்திஎன் நெஞ்சு.",
+      tamilfr: "Kalandhunarththum Kaadhalark Kantaal Pulandhunaraai Poikkaaivu Kaaidhien Nenju",
+      translation: "Mon cœur qui feint la colère fondra aussitôt lorsqu'il reverra celui qu'il aime.",
+      comment: "La colère amoureuse n'est qu'un jeu : la présence de l'être aimé suffit à l'effacer."
+    },
+    {
+      id: 1247,
+      tamil: "காமம் விடுஒன்றோ நாண்விடு நன்னெஞ்சே யானோ பொறேன்இவ் விரண்டு.",
+      tamilfr: "Kaamam Vituondro Naanvitu Nannenje Yaano Poreniv Virantu",
+      translation: "Ô mon noble cœur, abandonne soit l'amour, soit la pudeur, car je ne peux supporter les deux.",
+      comment: "L'amante est déchirée entre le désir amoureux et la retenue imposée par la honte."
+    },
+    {
+      id: 1248,
+      tamil: "பரிந்தவர் நல்காரென்று ஏங்கிப் பிரிந்தவர் பின்செல்வாய் பேதைஎன் நெஞ்சு.",
+      tamilfr: "Parindhavar Nalkaarendru Engip Pirindhavar Pinselvaai Pedhaien Nenju",
+      translation: "Mon pauvre cœur, tu poursuis encore celui qui est parti, en espérant qu'il reviendra te témoigner son affection.",
+      comment: "Le cœur reste attaché malgré l'absence et l'abandon apparent de l'être aimé."
+    },
+    {
+      id: 1249,
+      tamil: "உள்ளத்தார் காத லவரால் உள்ளிநீ யாருழைச் சேறியென் நெஞ்சு.",
+      tamilfr: "Ullaththaar Kaadha Lavaraal Ullinee Yaaruzhaich Cheriyen Nenju",
+      translation: "Mon cœur, pourquoi chercher ailleurs celui qui demeure déjà en toi par amour ?",
+      comment: "L'être aimé reste présent intérieurement, même lorsqu'il est absent physiquement."
+    },
+    {
+      id: 1250,
+      tamil: "துன்னாத் துறந்தாரை நெஞ்சத்து உடையேமா இன்னும் இழத்தும் கவின்.",
+      tamilfr: "Thunnaath Thurandhaarai Nenjaththu Utaiyemaa Innum Izhaththum Kavin",
+      translation: "Garder dans mon cœur celui qui m'a abandonnée sans revenir, c'est perdre encore davantage ma beauté.",
+      comment: "L'attachement persistant à celui qui est parti prolonge la souffrance et affaiblit l'éclat de l'amante."
+    }
+
+  ]
+
+}, // fin du chapitre 125
+
+
+    {
+  id: 126,
+  name: "126. Niraiyazhidhal - <br> La pudeur vaincue",
+
+  kurals: [
+
+    {
+      id: 1251,
+      tamil: "காமக் கணிச்சி உடைக்கும் நிறையென்னும் நாணுத்தாழ் வீழ்த்த கதவு.",
+      tamilfr: "Kaamak Kanichchi Utaikkum Niraiyennum Naanuththaazh Veezhththa Kadhavu",
+      translation: "La hache de l'amour brise la porte de la retenue, pourtant fermée par le verrou de la pudeur.",
+      comment: "Même la plus grande réserve morale peut céder devant la puissance du désir amoureux."
+    },
+    {
+      id: 1252,
+      tamil: "காமம் எனவொன்றோ கண்ணின்றென் நெஞ்சத்தை யாமத்தும் ஆளும் தொழில்.",
+      tamilfr: "Kaamam Enavondro Kannindren Nenjaththai Yaamaththum Aalum Thozhil",
+      translation: "Cette chose appelée amour, sans aucune compassion, gouverne mon cœur même au milieu de la nuit.",
+      comment: "L'amour est présenté comme une force irrésistible qui domine l'esprit sans relâche."
+    },
+    {
+      id: 1253,
+      tamil: "மறைப்பேன்மன் காமத்தை யானோ குறிப்பின்றித் தும்மல்போல் தோன்றி விடும்.",
+      tamilfr: "Maraippenman Kaamaththai Yaano Kurippindrith Thummalpol Thondri Vitum",
+      translation: "Je voudrais cacher mon amour, mais il apparaît soudainement comme un éternuement impossible à retenir.",
+      comment: "Les sentiments amoureux finissent toujours par se révéler malgré les efforts pour les dissimuler."
+    },
+    {
+      id: 1254,
+      tamil: "நிறையுடையேன் என்பேன்மன் யானோஎன் காமம் மறையிறந்து மன்று படும்.",
+      tamilfr: "Niraiyutaiyen Enpenman Yaanoen Kaamam Maraiyirandhu Mandru Patum",
+      translation: "Je me croyais maître de ma pudeur, mais mon amour a dépassé toute limite et s'est exposé au grand jour.",
+      comment: "L'amante constate que son amour a vaincu la discrétion dont elle était autrefois fière."
+    },
+    {
+      id: 1255,
+      tamil: "செற்றார்பின் செல்லாப் பெருந்தகைமை காமநோய் உற்றார் அறிவதொன்று அன்று.",
+      tamilfr: "Setraarpin Sellaap Perundhakaimai Kaamanoi Utraar Arivadhondru Andru",
+      translation: "La noble dignité de ne pas courir après celui qui nous ignore est inconnue de ceux que la maladie d'amour atteint.",
+      comment: "La passion fait perdre la fierté et empêche de suivre les règles ordinaires de la dignité."
+    },
+    {
+      id: 1256,
+      tamil: "செற்றவர் பின்சேறல் வேண்டி அளித்தரோ எற்றென்னை உற்ற துயர்.",
+      tamilfr: "Setravar Pinseral Venti Aliththaro Etrennai Utra Thuyar",
+      translation: "Quelle est donc cette passion qui me pousse à rechercher celui même qui m'a abandonnée ?",
+      comment: "L'amante s'étonne de sa propre faiblesse face à un amour qui la ramène vers celui qui l'a blessée."
+    },
+    {
+      id: 1257,
+      tamil: "நாணென ஒன்றோ அறியலம் காமத்தால் பேணியார் பெட்ப செயின்.",
+      tamilfr: "Naanena Ondro Ariyalam Kaamaththaal Peniyaar Petpa Seyin",
+      translation: "Je ne connais plus ce qu'est la pudeur lorsque celui que j'aime accomplit ce que mon désir souhaite.",
+      comment: "La présence et l'attention de l'être aimé font disparaître toute retenue."
+    },
+    {
+      id: 1258,
+      tamil: "பன்மாயக் கள்வன் பணிமொழி அன்றோநம் பெண்மை உடைக்கும் படை.",
+      tamilfr: "Panmaayak Kalvan Panimozhi Andronam Penmai Utaikkum Patai",
+      translation: "Les paroles douces de ce voleur habile ne sont-elles pas l'arme qui détruit ma réserve féminine ?",
+      comment: "Les mots séduisants de l'amant sont comparés à une arme capable de vaincre la pudeur."
+    },
+    {
+      id: 1259,
+      tamil: "புலப்பல் எனச்சென்றேன் புல்லினேன் நெஞ்சம் கலத்தல் உறுவது கண்டு.",
+      tamilfr: "Pulappal Enachchendren Pullinen Nenjam Kalaththal Uruvadhu Kandu",
+      translation: "Je suis partie avec l'intention de bouder, mais voyant mon cœur s'unir au sien, je l'ai moi-même enlacé.",
+      comment: "La résolution de rester distante disparaît dès que l'amour reprend ses droits."
+    },
+    {
+      id: 1260,
+      tamil: "நிணந்தீயில் இட்டன்ன நெஞ்சினார்க்கு உண்டோ புணர்ந்தூடி நிற்பேம் எனல்.",
+      tamilfr: "Ninandheeyil Ittanna Nenjinaarkku Unto Punarndhooti Nirpem Enal",
+      translation: "Ceux dont le cœur fond comme de la graisse dans le feu peuvent-ils vraiment penser rester séparés après une réconciliation ?",
+      comment: "Un cœur consumé par l'amour ne peut maintenir longtemps la distance ou la colère."
+    }
+
+  ]
+
+}, // fin du chapitre 126
+
+
+    {
+  id: 127,
+  name: "127. Avarvayinvidhumpal - <br> L'impatience du retour de l'être aimé",
+
+  kurals: [
+
+    {
+      id: 1261,
+      tamil: "வாளற்றுப் புற்கென்ற கண்ணும் அவர்சென்ற நாளொற்றித் தேய்ந்த விரல்.",
+      tamilfr: "Vaalatrup Purkendra Kannum Avarsendra Naalotrith Theyndha Viral",
+      translation: "Mes yeux ont perdu leur éclat et mes doigts se sont usés à compter les jours depuis son départ.",
+      comment: "L'attente prolongée marque le corps de l'amante, dont les yeux et les gestes témoignent de son chagrin."
+    },
+    {
+      id: 1262,
+      tamil: "இலங்கிழாய் இன்று மறப்பின்என் தோள்மேல் கலங்கழியும் காரிகை நீத்து.",
+      tamilfr: "Ilangizhaai Indru Marappinen Tholmel Kalangazhiyum Kaarikai Neethu",
+      translation: "Ô toi qui portes de brillants bijoux, si je l'oubliais aujourd'hui, je perdrais la beauté de mes épaules et mes bracelets tomberaient.",
+      comment: "L'oubli de l'être aimé aurait pour conséquence la perte de l'éclat physique et de la grâce."
+    },
+    {
+      id: 1263,
+      tamil: "உரன்நசைஇ உள்ளம் துணையாகச் சென்றார் வரல்நசைஇ இன்னும் உளேன்.",
+      tamilfr: "Urannasaii Ullam Thunaiyaakach Chendraar Varalnasaii Innum Ulen",
+      translation: "Il est parti avec son cœur tourné vers ses objectifs ; si je vis encore, c'est dans l'espoir de son retour.",
+      comment: "L'attente du retour de l'être aimé devient la seule raison de continuer à vivre."
+    },
+    {
+      id: 1264,
+      tamil: "கூடிய காமம் பிரிந்தார் வரவுள்ளிக் கோடுகொ டேறுமென் நெஞ்சு.",
+      tamilfr: "Kootiya Kaamam Pirindhaar Varavullik Kotuko Terumen Nenju",
+      translation: "À la pensée de son retour, mon cœur, qui connut autrefois notre union, s'élève de plus en plus.",
+      comment: "L'espoir des retrouvailles fait renaître la joie et l'enthousiasme amoureux."
+    },
+    {
+      id: 1265,
+      tamil: "காண்கமன் கொண்கனைக் கண்ணாரக் கண்டபின் நீங்கும்என் மென்தோள் பசப்பு.",
+      tamilfr: "Kaankaman Konkanaik Kannaarak Kantapin Neengumen Mendhol Pasappu",
+      translation: "Lorsque mes yeux contempleront pleinement mon bien-aimé, la pâleur quittera mes épaules délicates.",
+      comment: "La présence de l'être aimé est considérée comme le remède naturel à la souffrance et à l'affaiblissement."
+    },
+    {
+      id: 1266,
+      tamil: "வருகமன் கொண்கன் ஒருநாள் பருகுவன் பைதல்நோய் எல்லாம் கெட.",
+      tamilfr: "Varukaman Konkan Orunaal Parukuvan Paidhalnoi Ellaam Keta",
+      translation: "Qu'il revienne seulement un jour : je me rassasierai de sa présence et toutes mes souffrances disparaîtront.",
+      comment: "Un bref moment auprès de l'être aimé suffit à effacer une longue période de douleur."
+    },
+    {
+      id: 1267,
+      tamil: "புலப்பேன்கொல் புல்லுவேன் கொல்லோ கலப்பேன்கொல் கண்அன்ன கேளிர் விரன்.",
+      tamilfr: "Pulappenkol Pulluven Kollo Kalappenkol Kananna Kelir Viran",
+      translation: "Lorsqu'il reviendra, lui qui m'est aussi précieux que mes yeux, devrai-je bouder, l'étreindre ou simplement me fondre en lui ?",
+      comment: "L'amante hésite entre montrer sa peine et céder immédiatement à la joie des retrouvailles."
+    },
+    {
+      id: 1268,
+      tamil: "வினைகலந்து வென்றீக வேந்தன் மனைகலந்து மாலை அயர்கம் விருந்து.",
+      tamilfr: "Vinaikalandhu Vendreeka Vendhan Manaikalandhu Maalai Ayarkam Virundhu",
+      translation: "Que le roi réussisse dans ses entreprises ; alors je pourrai retrouver mon foyer et partager les soirées de fête.",
+      comment: "La séparation est liée aux devoirs extérieurs ; le retour permet de retrouver la douceur de la vie commune."
+    },
+    {
+      id: 1269,
+      tamil: "ஒருநாள் எழுநாள்போல் செல்லும்சேண் சென்றார் வருநாள்வைத்து ஏங்கு பவர்க்கு.",
+      tamilfr: "Orunaal Ezhunaalpol Sellumsen Sendraar Varunaalvaiththu Engu Pavarkku",
+      translation: "Pour celui qui attend le retour d'un être cher parti au loin, un seul jour semble durer sept jours.",
+      comment: "L'impatience de l'attente transforme le temps et rend chaque instant plus long."
+    },
+    {
+      id: 1270,
+      tamil: "பெறின்என்னாம் பெற்றக்கால் என்னாம் உறினென்னாம் உள்ளம் உடைந்துக்கக் கால்.",
+      tamilfr: "Perinennaam Petrakkaal Ennaam Urinennaam Ullam Utaindhukkak Kaal",
+      translation: "Que servirait son retour, son union ou son étreinte, si mon cœur était déjà brisé ?",
+      comment: "La douleur extrême peut dépasser même la joie espérée des retrouvailles."
+    }
+
+  ]
+
+}, // fin du chapitre 127
+
+
+    {
+  id: 128,
+  name: "128. Kuripparivuruththal - <br> La lecture des signes",
+
+  kurals: [
+
+    {
+      id: 1271,
+      tamil: "கரப்பினுங் கையிகந் தொல்லாநின் உண்கண் உரைக்கல் உறுவதொன் றுண்டு.",
+      tamilfr: "Karappinung Kaiyikan Thollaanin Unkan Uraikkal Uruvadhon Runtu",
+      translation: "Même si tu caches tes pensées, tes yeux révèlent ce que ton cœur cherche à dire.",
+      comment: "Les yeux trahissent les sentiments que les paroles tentent de dissimuler."
+    },
+    {
+      id: 1272,
+      tamil: "கண்ணிறைந்த காரிகைக் காம்பேர்தோட் பேதைக்குப் பெண்நிறைந்த நீர்மை பெரிது.",
+      tamilfr: "Kanniraindha Kaarikaik Kaamperdhot Pedhaikkup Penniraindha Neermai Peridhu",
+      translation: "Chez cette jeune femme aux yeux captivants et aux épaules semblables au bambou, la grâce féminine est immense.",
+      comment: "La beauté extérieure s'accompagne d'une retenue et d'une douceur propres à la féminité."
+    },
+    {
+      id: 1273,
+      tamil: "மணியில் திகழ்தரு நூல்போல் மடந்தை அணியில் திகழ்வதொன்று உண்டு.",
+      tamilfr: "Maniyil Thikazhdharu Noolpol Matandhai Aniyil Thikazhvadhondru Untu",
+      translation: "Comme le fil qui brille dans une perle, quelque chose de précieux éclaire la parure de cette jeune femme.",
+      comment: "Un détail discret révèle une beauté cachée, comme un fil visible dans un joyau."
+    },
+    {
+      id: 1274,
+      tamil: "முகைமொக்குள் உள்ளது நாற்றம்போல் பேதை நகைமொக்குள் உள்ளதொன் றுண்டு.",
+      tamilfr: "Mukaimokkul Ulladhu Naatrampol Pedhai Nakaimokkul Ulladhon Runtu",
+      translation: "Comme le parfum contenu dans un bouton de fleur, un secret demeure caché derrière son sourire naissant.",
+      comment: "Le sourire laisse deviner des sentiments profonds qui ne sont pas encore exprimés."
+    },
+    {
+      id: 1275,
+      tamil: "செறிதொடி செய்திறந்த கள்ளம் உறுதுயர் தீர்க்கும் மருந்தொன்று உடைத்து.",
+      tamilfr: "Seridhoti Seydhirandha Kallam Urudhuyar Theerkkum Marundhondru Utaiththu",
+      translation: "La douce ruse de celle aux bracelets serrés contient aussi le remède capable d'apaiser ma grande souffrance.",
+      comment: "Les gestes amoureux, même discrets ou trompeurs, peuvent apporter le soulagement attendu."
+    },
+    {
+      id: 1276,
+      tamil: "பெரிதாற்றிப் பெட்பக் கலத்தல் அரிதாற்றி அன்பின்மை சூழ்வ துடைத்து.",
+      tamilfr: "Peridhaatrip Petpak Kalaththal Aridhaatri Anpinmai Soozhva Thutaiththu",
+      translation: "Une étreinte autrefois passionnée, devenue froide, annonce peut-être une absence d'amour.",
+      comment: "Le changement dans les marques d'affection révèle parfois un éloignement du cœur."
+    },
+    {
+      id: 1277,
+      tamil: "தண்ணந் துறைவன் தணந்தமை நம்மினும் முன்னம் உணர்ந்த வளை.",
+      tamilfr: "Thannan Thuraivan Thanandhamai Namminum Munnam Unarndha Valai",
+      translation: "Avant même que je le comprenne, mes bracelets ont senti l'éloignement de mon bien-aimé.",
+      comment: "La perte de beauté et les signes du corps annoncent la séparation avant l'esprit."
+    },
+    {
+      id: 1278,
+      tamil: "நெருநற்றுச் சென்றார்எம் காதலர் யாமும் எழுநாளேம் மேனி பசந்து.",
+      tamilfr: "Nerunatruch Chendraarem Kaadhalar Yaamum Ezhunaalem Meni Pasandhu",
+      translation: "Mon bien-aimé est parti hier seulement, mais mon corps semble déjà porter sept jours de souffrance.",
+      comment: "La douleur de l'absence accélère le temps et marque profondément le corps."
+    },
+    {
+      id: 1279,
+      tamil: "தொடிநோக்கி மென்தோளும் நோக்கி அடிநோக்கி அஃதாண் டவள்செய் தது.",
+      tamilfr: "Thotinokki Mendholum Nokki Atinokki Aqdhaan Tavalsey Thadhu",
+      translation: "Elle ne fit que montrer ses bracelets détendus, ses épaules fines et ses pieds affaiblis.",
+      comment: "Sans parler, elle révèle par ses gestes et son apparence la douleur causée par l'amour."
+    },
+    {
+      id: 1280,
+      tamil: "பெண்ணினால் பெண்மை உடைத்தென்ப கண்ணினால் காமநோய் சொல்லி இரவு.",
+      tamilfr: "Penninaal Penmai Utaiththenpa Kanninaal Kaamanoi Solli Iravu",
+      translation: "On dit qu'une femme atteint toute sa féminité lorsqu'elle exprime par ses yeux la souffrance et le désir de l'amour.",
+      comment: "Le regard devient un langage silencieux capable d'exprimer la passion et la supplication."
+    }
+
+  ]
+
+}, // fin du chapitre 128
+
+
+    {
+  id: 129,
+  name: "129. Punarchchividhumpal - <br> Le désir de retrouvailles",
+
+  kurals: [
+
+    {
+      id: 1281,
+      tamil: "உள்ளக் களித்தலும் காண மகிழ்தலும் கள்ளுக்கில் காமத்திற் குண்டு.",
+      tamilfr: "Ullak Kaliththalum Kaana Makizhdhalum Kallukkil Kaamaththir Kuntu",
+      translation: "La joie de penser à l'être aimé et le bonheur de le voir appartiennent à l'amour, non au vin.",
+      comment: "L'amour procure une ivresse plus profonde que celle d'une boisson, car il réjouit l'esprit et les yeux."
+    },
+    {
+      id: 1282,
+      tamil: "தினைத்துணையும் ஊடாமை வேண்டும் பனைத்துணையும் காமம் நிறைய வரின்.",
+      tamilfr: "Thinaiththunaiyum Ootaamai Ventum Panai Thunaiyum Kaamam Niraiya Varin",
+      translation: "Quand l'amour est aussi grand qu'un palmier, même une petite querelle comme un grain de millet devient indésirable.",
+      comment: "Un amour intense ne laisse aucune place aux longues disputes ou aux petits ressentiments."
+    },
+    {
+      id: 1283,
+      tamil: "பேணாது பெட்பவே செய்யினும் கொண்கனைக் காணா தமையல கண்.",
+      tamilfr: "Penaadhu Petpave Seyyinun Konkanai Kaanaa Thamaiyala Kan",
+      translation: "Même s'il me néglige et agit comme il veut, mes yeux ne trouveront pas de repos sans le revoir.",
+      comment: "Le désir de retrouver l'être aimé dépasse la douleur causée par son indifférence."
+    },
+    {
+      id: 1284,
+      tamil: "ஊடற்கண் சென்றேன்மன் தோழி அதுமறந்து கூடற்கண் சென்றது என் நெஞ்சு.",
+      tamilfr: "Ootarkan Sendrenman Thozhi Adhumarandhu Kootarkan Sendradhu En Nenju",
+      translation: "Mon amie, je suis partie avec l'intention de lui faire des reproches, mais mon cœur a oublié cela et s'est dirigé vers l'union.",
+      comment: "La colère amoureuse disparaît face au désir profond des retrouvailles."
+    },
+    {
+      id: 1285,
+      tamil: "எழுதுங்கால் கோல்காணாக் கண்ணேபோல் கொண்கன் பழிகாணேன் கண்ட இடத்து.",
+      tamilfr: "Ezhudhungaal Kolkaanaak Kannepol Konkan Pazhikaanen Kanda Idaththu",
+      translation: "Comme l'œil ne voit pas le pinceau lorsqu'il écrit, je ne vois pas les défauts de mon bien-aimé lorsque je le rencontre.",
+      comment: "La présence de l'être aimé efface toute critique et ne laisse place qu'à l'affection."
+    },
+    {
+      id: 1286,
+      tamil: "காணுங்கால் காணேன் தவறாய காணாக்கால் காணேன் தவறல்லவை.",
+      tamilfr: "Kaanungaal Kaanen Thavaraaya Kaanaakkaal Kaanen Thavarallavai",
+      translation: "Quand je le vois, je ne remarque aucun défaut ; quand je ne le vois pas, je ne remarque que ses défauts.",
+      comment: "La proximité nourrit l'amour, tandis que l'absence laisse place aux reproches."
+    },
+    {
+      id: 1287,
+      tamil: "உய்த்தல் அறிந்து புனல்பாய் பவரேபோல் பொய்த்தல் அறிந்தென் புலந்து.",
+      tamilfr: "Uyththal Arindhu Punalpaai Pavarepol Poiththal Arindhen Pulandhu",
+      translation: "Comme celui qui plonge dans une rivière en sachant qu'elle est dangereuse, pourquoi me quereller en sachant que ma colère est vaine ?",
+      comment: "L'amante sait que sa dispute ne durera pas et qu'elle finira par rechercher l'union."
+    },
+    {
+      id: 1288,
+      tamil: "இளித்தக்க இன்னா செயினும் களித்தார்க்குக் கள்ளற்றே கள்வநின் மார்பு.",
+      tamilfr: "Iliththakka Innaa Seyinum Kaliththaarkkuk Kallatre Kalvanin Maarbu",
+      translation: "Même s'il me fait souffrir ou me blesse, ton étreinte, ô séducteur, reste pour moi comme le vin pour celui qui en est ivre.",
+      comment: "L'amour rend irrésistible même ce qui pourrait normalement causer de la peine."
+    },
+    {
+      id: 1289,
+      tamil: "மலரினும் மெல்லிது காமம் சிலர்அதன் செவ்வி தலைப்படு வார்.",
+      tamilfr: "Malarinum Mellidhu Kaamam Silaradhan Sevvi Thalaippadu Vaar",
+      translation: "L'amour est plus délicat qu'une fleur ; rares sont ceux qui savent en préserver la beauté.",
+      comment: "Les sentiments amoureux exigent une grande attention et une grande sensibilité."
+    },
+    {
+      id: 1290,
+      tamil: "கண்ணின் துனித்தே கலங்கினாள் புல்லுதல் என்னினும் தான்விதுப் புற்று.",
+      tamilfr: "Kannin Thuniththe Kalanginaal Pulludhal Enninum Thaanvidhup Putru",
+      translation: "Son regard semblait encore hostile, mais elle fut plus prompte que moi à abandonner sa colère et à m'étreindre.",
+      comment: "Même lorsque le ressentiment apparaît, le désir d'union finit par l'emporter."
+    }
+
+  ]
+
+}, // fin du chapitre 129
+
+
+    {
+  id: 130,
+  name: "130. Nenjotupulaththal - <br> Se plaindre auprès de son cœur",
+
+  kurals: [
+
+    {
+      id: 1291,
+      tamil: "அவர்நெஞ்சு அவர்க்காதல் கண்டும் எவன்நெஞ்சே நீஎமக்கு ஆகா தது.",
+      tamilfr: "Avarnenju Avarkkaadhal Kantum Evannenje Neeemakku Aakaa Thadhu",
+      translation: "Ô mon cœur, tu vois bien que son cœur est attaché à lui-même ; pourquoi ne te tiens-tu pas à mes côtés ?",
+      comment: "L'amante reproche à son propre cœur de soutenir encore celui qui ne lui accorde pas le même amour."
+    },
+    {
+      id: 1292,
+      tamil: "உறாஅ தவர்க்கண்ட கண்ணும் அவரைச் செறாஅரெனச் சேறியென் நெஞ்சு.",
+      tamilfr: "Uraaa Thavarkkanta Kannum Avaraich Cheraarenach Cheriyen Nenju",
+      translation: "Mon cœur, tu as vu son indifférence, pourtant tu vas encore vers lui en espérant qu'il ne me rejettera pas.",
+      comment: "Le cœur continue d'espérer malgré les preuves d'un amour non partagé."
+    },
+    {
+      id: 1293,
+      tamil: "கெட்டார்க்கு நட்டார்இல் என்பதோ நெஞ்சேநீ பெட்டாங்கு அவர்பின் செலல்.",
+      tamilfr: "Kettaarkku Nattaaril Enpadho Nenjenee Pettaangu Avarpin Selal",
+      translation: "Ô mon cœur, cours-tu ainsi derrière lui parce que les malheureux n'ont plus d'amis ?",
+      comment: "L'amante se demande pourquoi son cœur s'attache à celui qui la fait souffrir."
+    },
+    {
+      id: 1294,
+      tamil: "இனிஅன்ன நின்னொடு சூழ்வார்யார் நெஞ்சே துனிசெய்து துவ்வாய்காண் மற்று.",
+      tamilfr: "Inianna Ninnotu Soozhvaaryaar Nenje Thuniseydhu Thuvvaaikaan Matru",
+      translation: "Qui voudra désormais discuter avec toi, mon cœur, puisque tu refuses la colère et cèdes aussitôt ?",
+      comment: "Le cœur est critiqué pour son incapacité à maintenir une querelle amoureuse."
+    },
+    {
+      id: 1295,
+      tamil: "பெறாஅமை அஞ்சும் பெறின்பிரிவு அஞ்சும் அறாஅ இடும்பைத்தென் நெஞ்சு.",
+      tamilfr: "Peraaamai Anjum Perinpirivu Anjum Araaa Itumpaiththen Nenju",
+      translation: "Mon cœur souffre sans fin : il craint de ne pas obtenir son amour, et il craint aussi de le perdre après l'avoir obtenu.",
+      comment: "Le désir amoureux apporte une inquiétude constante, dans l'absence comme dans la possession."
+    },
+    {
+      id: 1296,
+      tamil: "தனியே இருந்து நினைத்தக்கால் என்னைத் தினிய இருந்ததென் நெஞ்சு.",
+      tamilfr: "Thaniye Irundhu Ninaiththakkaal Ennaith Thiniya Irundhadhen Nenju",
+      translation: "Lorsque je reste seule à penser à lui, mon propre cœur semble rester là pour me dévorer.",
+      comment: "Les souvenirs amoureux deviennent une souffrance intérieure lorsqu'ils sont vécus dans la solitude."
+    },
+    {
+      id: 1297,
+      tamil: "நாணும் மறந்தேன் அவர்மறக் கல்லாஎன் மாணா மடநெஞ்சிற் பட்டு.",
+      tamilfr: "Naanum Marandhen Avarmarak Kallaen Maanaa Matanenjir Pattu",
+      translation: "J'ai même oublié ma pudeur, prisonnière de ce cœur faible et naïf qui ne sait pas l'oublier.",
+      comment: "L'attachement est si fort qu'il fait disparaître toute retenue."
+    },
+    {
+      id: 1298,
+      tamil: "எள்ளின் இளிவாம்என்று எண்ணி அவர்திறம் உள்ளும் உயிர்க்காதல் நெஞ்சு.",
+      tamilfr: "Ellin Ilivaamendru Enni Avardhiram Ullum Uyirkkaadhal Nenju",
+      translation: "Mon cœur, rempli d'amour pour lui, pense qu'il serait honteux de le mépriser et ne se souvient que de ses qualités.",
+      comment: "Même blessé, le cœur amoureux refuse de diminuer la valeur de l'être aimé."
+    },
+    {
+      id: 1299,
+      tamil: "துன்பத்திற்கு யாரே துணையாவார் தாமுடைய நெஞ்சந் துணையல் வழி.",
+      tamilfr: "Thunpaththirku Yaare Thunaiyaavaar Thaamutaiya Nenjan Thunaiyal Vazhi",
+      translation: "Qui pourra aider celui qui souffre lorsque son propre cœur refuse de lui venir en aide ?",
+      comment: "Le soutien intérieur est essentiel lorsque l'on traverse une douleur affective."
+    },
+    {
+      id: 1300,
+      tamil: "தஞ்சம் தமரல்லர் ஏதிலார் தாமுடைய நெஞ்சம் தமரல் வழி.",
+      tamilfr: "Thanjam Thamarallar Edhilaar Thaamutaiya Nenjam Thamaral Vazhi",
+      translation: "Quand son propre cœur devient un étranger, comment les étrangers pourraient-ils devenir un refuge ?",
+      comment: "La solitude est la plus grande lorsque l'on ne trouve même plus de soutien en soi-même."
+    }
+
+  ]
+
+}, // fin du chapitre 130
+
+
+    {
+  id: 131,
+  name: "131. Pulavi - <br> La bouderie amoureuse",
+
+  kurals: [
+
+    {
+      id: 1301,
+      tamil: "புல்லா திராஅப் புலத்தை அவருறும் அல்லல்நோய் காண்கம் சிறிது.",
+      tamilfr: "Pullaa Thiraaap Pulaththai Avar UrumAllalnoi Kaankam Siridhu",
+      translation: "Je feindrai la colère et resterai distante un moment, afin de voir la souffrance que mon bien-aimé éprouve.",
+      comment: "La bouderie devient un jeu amoureux permettant de mesurer l'attachement de l'autre."
+    },
+    {
+      id: 1302,
+      tamil: "உப்பமைந் தற்றால் புலவி அதுசிறிது மிக்கற்றால் நீள விடல்.",
+      tamilfr: "Uppamain Thatraal Pulavi Adhusiridhu Mikkatraal Neela Vital",
+      translation: "La bouderie est comme le sel dans l'amour : un peu relève le goût, mais trop le gâche.",
+      comment: "Une légère dispute peut renforcer l'amour, mais une séparation prolongée le blesse."
+    },
+    {
+      id: 1303,
+      tamil: "அலந்தாரை அல்லல்நோய் செய்தற்றால் தம்மைப் புலந்தாரைப் புல்லா விடல்.",
+      tamilfr: "Alandhaarai Allalnoi Seydhatraal Thammaip Pulandhaaraip Pullaa Vital",
+      translation: "Abandonner une femme déjà blessée par la tristesse de la colère, c'est lui infliger une douleur encore plus grande.",
+      comment: "L'indifférence face à la bouderie de l'être aimé aggrave la souffrance."
+    },
+    {
+      id: 1304,
+      tamil: "ஊடி யவரை உணராமை வாடிய வள்ளி முதலரிந் தற்று.",
+      tamilfr: "Ooti Yavarai Unaraamai Vaatiya Valli Mudhalarin Thatru",
+      translation: "Ne pas comprendre une femme qui boude, c'est comme arracher la racine d'une plante déjà flétrie.",
+      comment: "La tendresse et l'attention sont nécessaires pour apaiser la peine amoureuse."
+    },
+    {
+      id: 1305,
+      tamil: "நலத்தகை நல்லவர்க் கேஎர் புலத்தகை பூவன்ன கண்ணார் அகத்து.",
+      tamilfr: "Nalaththakai Nallavarkku Eer Pulaththakai Pooanna Kannaar Akaththu",
+      translation: "Même les hommes les plus vertueux trouvent du charme dans la douce colère des femmes aux yeux semblables aux fleurs.",
+      comment: "La bouderie amoureuse possède une beauté particulière lorsqu'elle vient d'un sentiment sincère."
+    },
+    {
+      id: 1306,
+      tamil: "துனியும் புலவியும் இல்லாயின் காமம் கனியும் கருக்காயும் அற்று.",
+      tamilfr: "Thuniyum Pulaviyum Illaayin Kaamam Kaniyum Karukkaayum Atru",
+      translation: "Sans querelles ni bouderies, l'amour serait comme un fruit qui n'est ni mûr ni savoureux.",
+      comment: "Les petits conflits peuvent donner plus de profondeur et de saveur à la relation amoureuse."
+    },
+    {
+      id: 1307,
+      tamil: "ஊடலின் உண்டாங்கோர் துன்பம் புணர்வது நீடுவ தன்றுகொல் என்று.",
+      tamilfr: "Ootalin Untaangor Thunpam Punarvadhu Neetuva ThandruKol Endru",
+      translation: "La seule peine de la bouderie est la crainte que la réconciliation ne tarde à venir.",
+      comment: "Même une dispute légère apporte l'inquiétude de voir l'union retardée."
+    },
+    {
+      id: 1308,
+      tamil: "நோதல் எவன்மற்று நொந்தாரென் றஃதறியும் காதலர் இல்லா வழி.",
+      tamilfr: "Nodhal Evanmatru Nondhaarendru Aqdhariyum Kaadhalar Illaa Vazhi",
+      translation: "Pourquoi souffrir lorsque celui que l'on aime n'est pas là pour savoir que l'on souffre ?",
+      comment: "La douleur n'a de sens dans l'amour que lorsqu'elle peut être partagée et comprise."
+    },
+    {
+      id: 1309,
+      tamil: "நீரும் நிழல தினிதே புலவியும் வீழுநர் கண்ணே இனிது.",
+      tamilfr: "Neerum Nizhaladhu Inidhe Pulaviyum Veezhunar Kanne Inidhu",
+      translation: "Comme l'eau fraîche à l'ombre, la bouderie n'est agréable qu'entre deux êtres qui s'aiment.",
+      comment: "Une dispute amoureuse n'a de douceur que lorsqu'elle existe entre des personnes attachées l'une à l'autre."
+    },
+    {
+      id: 1310,
+      tamil: "ஊடல் உணங்க விடுவாரோ டென்னெஞ்சம் கூடுவேம் என்ப தவா.",
+      tamilfr: "Ootal Unanga Vituvaarotu Ennenjam Kootuvem Enpadhu Avaa",
+      translation: "Mon cœur désire encore s'unir à celui qui laisse durer la bouderie et ne cherche pas rapidement la réconciliation.",
+      comment: "Malgré la peine causée par la dispute, le désir d'union demeure plus fort."
+    }
+
+  ]
+
+}, // fin du chapitre 131
+
+    {
+  id: 132,
+  name: "132. Pulavi Nunukkam - <br> Les subtilités de la jalousie amoureuse",
+
+  kurals: [
+
+    {
+      id: 1311,
+      tamil: "பெண்ணியலார் எல்லாரும் கண்ணின் பொதுஉண்பர் நண்ணேன் பரத்தநின் மார்பு.",
+      tamilfr: "Penniyalaar Ellaarum Kannin Podhuunpar Nannen Paraththanin Maarpu",
+      translation: "Je ne toucherai pas ta poitrine généreuse, devenue un festin commun pour les yeux de toutes les femmes.",
+      comment: "La femme exprime une jalousie affectueuse envers un homme dont la beauté attire les regards."
+    },
+    {
+      id: 1312,
+      tamil: "ஊடி இருந்தேமாத் தும்மினார் யாம்தம்மை நீடுவாழ் கென்பாக் கறிந்து.",
+      tamilfr: "Ooti Irundhemaath Thumminaar Yaamdhammai Neetuvaazh Kenpaak Karindhu",
+      translation: "Alors que je boudais, il a éternué, sachant que je lui souhaiterais longue vie et que ma colère disparaîtrait.",
+      comment: "L'être aimé utilise un petit geste pour provoquer la réconciliation avec douceur."
+    },
+    {
+      id: 1313,
+      tamil: "கோட்டுப்பூச் சூடினும் காயும் ஒருத்தியைக் காட்டிய சூடினீர் என்று.",
+      tamilfr: "Kottup Pooch Chootinum Kaayum Oruththiyaik Kaattiya Sootineer Endru",
+      translation: "Même si je porte une simple guirlande de fleurs, elle se fâche en demandant : « Pour quelle autre femme l'as-tu portée ? »",
+      comment: "La jalousie transforme même les gestes innocents en signes possibles d'infidélité."
+    },
+    {
+      id: 1314,
+      tamil: "யாரினும் காதலம் என்றேனா ஊடினாள் யாரினும் யாரினும் என்று.",
+      tamilfr: "Yaarinum Kaadhalam Endrenaa Ootinaal Yaarinum Yaarinum Endru",
+      translation: "Quand je lui dis que je l'aime plus que toutes les autres, elle se vexe et demande : « Plus que qui ? Plus que qui ? »",
+      comment: "La jalousie cherche une comparaison même lorsqu'elle reçoit une déclaration d'amour."
+    },
+    {
+      id: 1315,
+      tamil: "இம்மைப் பிறப்பில் பிரியலம் என்றேனாக் கண்நிறை நீர்கொண் டனள்.",
+      tamilfr: "Immaip Pirappil Piriyalam Endrenaak Kannirai Neerkon Tanal",
+      translation: "Lorsque je lui ai dit que nous ne nous séparerions pas dans cette vie, ses yeux se sont remplis de larmes.",
+      comment: "Elle craint que cette promesse implique une séparation dans une autre existence."
+    },
+    {
+      id: 1316,
+      tamil: "உள்ளினேன் என்றேன்மற் றென்மறந்தீர் என்றென்னைப் புல்லாள் புலத்தக் கனள்.",
+      tamilfr: "Ullinen Endrenmar Renmarandheer Endrennaip Pullaal Pulaththak Kanal",
+      translation: "Je lui ai dit : « Je pensais à toi », et elle répondit : « Alors tu m'avais oubliée auparavant ? » puis refusa mon étreinte.",
+      comment: "La finesse de la jalousie transforme même une parole d'amour en reproche."
+    },
+    {
+      id: 1317,
+      tamil: "வழுத்தினாள் தும்மினேன் ஆக அழித்தழுதாள் யாருள்ளித் தும்மினீர் என்று.",
+      tamilfr: "Vazhuththinaal Thumminen Aaka Azhiththazhudhaal Yaarullith Thummineer Endru",
+      translation: "Elle me souhaita longue vie lorsque j'éternuai, puis se mit à pleurer en demandant : « En pensant à qui as-tu éternué ? »",
+      comment: "Une croyance populaire associait l'éternuement au fait d'être pensé par quelqu'un."
+    },
+    {
+      id: 1318,
+      tamil: "தும்முச் செறுப்ப அழுதாள் நுமர்உள்ளல் எம்மை மறைத்திரோ என்று.",
+      tamilfr: "Thummuch Cheruppa Azhudhaal Numarullal Emmai Maraiththiro Endru",
+      translation: "Lorsque je retins mon éternuement, elle pleura en disant : « Caches-tu quelqu'un qui pense à toi ? »",
+      comment: "La jalousie cherche une raison de s'exprimer même dans les silences."
+    },
+    {
+      id: 1319,
+      tamil: "தன்னை உணர்த்தினும் காயும் பிறர்க்கும்நீர் இந்நீரர் ஆகுதிர் என்று.",
+      tamilfr: "Thannai Unarththinum Kaayum Pirarkkumneer Inneerar Aakudhir Endru",
+      translation: "Même lorsque je tente de l'apaiser, elle se fâche en disant : « Est-ce ainsi que tu consoles aussi les autres ? »",
+      comment: "Elle doute de l'exclusivité de l'affection qu'elle reçoit."
+    },
+    {
+      id: 1320,
+      tamil: "நினைத்திருந்து நோக்கினும் காயும் அனைத்துநீர் யாருள்ளி நோக்கினீர் என்று.",
+      tamilfr: "Ninaiththirundhu Nokkinum Kaayum Anaiththuneer Yaarulli Nokkineer Endru",
+      translation: "Même si je la regarde en silence avec amour, elle se fâche et demande : « En pensant à qui me regardes-tu ainsi ? »",
+      comment: "La jalousie amoureuse interprète chaque regard comme un signe possible d'un autre attachement."
+    }
+
+  ]
+
+}, // fin du chapitre 132
+
+    {
+  id: 133,
+  name: "133. Oodaluvakai - <br> Les plaisirs de la brouille amoureuse",
+
+  kurals: [
+
+    {
+      id: 1321,
+      tamil: "இல்லை தவறவர்க்கு ஆயினும் ஊடுதல் வல்லது அவர்அளிக்கு மாறு.",
+      tamilfr: "Illai Thavaravarkku Aayinum Ootudhal Valladhu Avaralikku Maaru",
+      translation: "Même lorsqu'il n'a commis aucune faute, je feins la colère afin de faire naître davantage d'attention et d'amour chez lui.",
+      comment: "La bouderie amoureuse n'est pas toujours un reproche réel ; elle devient parfois un moyen de raviver la tendresse."
+    },
+    {
+      id: 1322,
+      tamil: "ஊடலின் தோன்றும் சிறுதுனி நல்லளி வாடினும் பாடு பெறும்.",
+      tamilfr: "Ootalin Thondrum Sirudhuni Nallali Vaatinum Paatu Perum",
+      translation: "La petite peine née d'une querelle amoureuse, même si elle fait souffrir un instant, apporte finalement une plus grande joie.",
+      comment: "Une légère contrariété peut renforcer l'affection lorsqu'elle mène à une réconciliation."
+    },
+    {
+      id: 1323,
+      tamil: "புலத்தலின் புத்தேள்நாடு உண்டோ நிலத்தொடு நீரியைந் தன்னார் அகத்து.",
+      tamilfr: "Pulaththalin Puththelnaatu Unto Nilaththotu Neeriyain Thannaar Akaththu",
+      translation: "Existe-t-il un paradis plus merveilleux que la querelle tendre entre deux êtres unis comme la terre et l'eau ?",
+      comment: "Lorsque deux amoureux sont profondément liés, même leur séparation momentanée devient une source de plaisir."
+    },
+    {
+      id: 1324,
+      tamil: "புல்லி விடாஅப் புலவியுள் தோன்றுமென் உள்ளம் உடைக்கும் படை.",
+      tamilfr: "Pulli Vitaaap Pulaviyul Thondrumen Ullam Utaikkum Patai",
+      translation: "Dans cette bouderie qui refuse encore l'étreinte apparaît l'arme capable de briser la défense de mon cœur.",
+      comment: "La résistance de l'être aimé finit par vaincre la volonté de rester distant."
+    },
+    {
+      id: 1325,
+      tamil: "தவறிலர் ஆயினும் தாம்வீழ்வார் மென்றோள் அகறலின் ஆங்கொன் றுடைத்து.",
+      tamilfr: "Thavarilar Aayinum Thaamveezhvaar Mendrol Akaralin Aangon Rutaiththu",
+      translation: "Même sans faute de sa part, il existe une douceur particulière à se séparer un instant des épaules que l'on aime.",
+      comment: "La distance momentanée rend les retrouvailles plus précieuses."
+    },
+    {
+      id: 1326,
+      tamil: "உணலினும் உண்டது அறல்இனிது காமம் புணர்தலின் ஊடல் இனிது.",
+      tamilfr: "Unalinum Untadhu Aralinidhu Kaamam Punardhalin Ootal Inidhu",
+      translation: "Comme la digestion est plus agréable que le repas lui-même, la brouille amoureuse peut être plus douce que l'union.",
+      comment: "La joie de l'amour réside aussi dans les émotions qui précèdent les retrouvailles."
+    },
+    {
+      id: 1327,
+      tamil: "ஊடலில் தோற்றவர் வென்றார் அதுமன்னும் கூடலிற் காணப் படும்.",
+      tamilfr: "Ootalil Thotravar Vendraar Adhumannum Kootalir Kaanap Patum",
+      translation: "Dans une querelle d'amour, celui qui cède est en réalité celui qui gagne ; la réconciliation le prouve.",
+      comment: "Abandonner sa fierté permet d'obtenir une joie plus grande dans l'union retrouvée."
+    },
+    {
+      id: 1328,
+      tamil: "ஊடிப் பெறுகுவம் கொல்லோ நுதல்வெயர்ப்பக் கூடலில் தோன்றிய உப்பு.",
+      tamilfr: "Ootip Perukuvam Kollo Nudhalveyarppak Kootalil Thondriya Uppu",
+      translation: "Pourrons-nous retrouver encore cette saveur née de nos retrouvailles, lorsque nos fronts se couvrent de sueur après l'étreinte ?",
+      comment: "Le souvenir de la passion après la réconciliation donne envie de revivre la douce querelle."
+    },
+    {
+      id: 1329,
+      tamil: "ஊடுக மன்னோ ஒளியிழை யாமிரப்ப நீடுக மன்னோ இரா.",
+      tamilfr: "Ootuka Manno Oliyizhai Yaamirappa Neetuka Manno Iraa",
+      translation: "Puisse la belle aux bijoux continuer à bouder, et puisse la nuit durer longtemps afin que je puisse implorer son pardon.",
+      comment: "L'amant souhaite prolonger cet instant où il peut montrer son amour en cherchant la réconciliation."
+    },
+    {
+      id: 1330,
+      tamil: "ஊடுதல் காமத்திற்கு இன்பம் அதற்கின்பம் கூடி முயங்கப் பெறின்.",
+      tamilfr: "Ootudhal Kaamaththirku Inpam Adharkinpam Kooti Muyangap Perin",
+      translation: "La brouille est un plaisir dans l'amour, et son plus grand plaisir vient lorsque les amants se retrouvent dans l'étreinte.",
+      comment: "La querelle amoureuse atteint son véritable bonheur lorsqu'elle conduit à une union renouvelée."
+    }
+
+  ]
+
+} // fin du chapitre 133
     
 
  ] // fin de tous les chapitres de l'Iyal 13
