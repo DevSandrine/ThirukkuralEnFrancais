@@ -92,8 +92,6 @@ header {
 
     width: 100%;
     max-width: 1200px;
-
-   flex: 1;
 }
 
 /* =========================
@@ -242,7 +240,6 @@ header {
         flex-direction: column;
         gap: 25px;
        align-items: center; 
-       flex: 0;
     }
 
     .polaroid {
