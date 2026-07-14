@@ -8104,16 +8104,988 @@ kurals: [
 }, // fin du chapitre 96
 
 
-    
-    
+    {
+  "id": 97,
+  "name": "97. Maanam - <br> L'honneur",
+  "kurals": [
+    {
+      "id": 961,
+      "tamil": "இன்றி அமையாச் சிறப்பின ஆயினும் குன்ற வருப விடல்.",
+      "tamilfr": "Indri Amaiyaach Chirappina Aayinum Kundra Varupa Vital",
+      "translation": "Même si une chose semble indispensable à la vie, il faut la rejeter lorsqu'elle entraîne une perte d'honneur.",
+      "comment": "L'honneur est plus précieux que les avantages matériels ou même que la survie."
+    },
+    {
+      "id": 962,
+      "tamil": "சீரினும் சீரல்ல செய்யாரே சீரொடு பேராண்மை வேண்டு பவர்.",
+      "tamilfr": "Seerinum Seeralla Seyyaare Seerotu Peraanmai Ventu Pavar",
+      "translation": "Ceux qui recherchent la gloire véritable ne commettent jamais d'actes indignes, même pour obtenir la renommée.",
+      "comment": "La vraie grandeur ne peut être séparée de l'honneur."
+    },
+    {
+      "id": 963,
+      "tamil": "பெருக்கத்து வேண்டும் பணிதல் சிறிய சுருக்கத்து வேண்டும் உயர்வு.",
+      "tamilfr": "Perukkaththu Ventum Panidhal Siriya Surukkaththu Ventum Uyarvu",
+      "translation": "Dans la prospérité, il faut être humble ; dans l'adversité, il faut conserver sa dignité.",
+      "comment": "L'équilibre moral consiste à rester modeste dans le succès et ferme dans l'épreuve."
+    },
+    {
+      "id": 964,
+      "tamil": "தலையின் இழிந்த மயிரனையர் மாந்தர் நிலையின் இழிந்தக் கடை.",
+      "tamilfr": "Thalaiyin Izhindha Mayiranaiyar Maandhar Nilaiyin Izhindhak Katai",
+      "translation": "Les hommes qui tombent de leur haute condition sont semblables aux cheveux tombés de la tête.",
+      "comment": "Perdre sa dignité après avoir occupé une position élevée entraîne une grande déchéance."
+    },
+    {
+      "id": 965,
+      "tamil": "குன்றின் அனையாரும் குன்றுவர் குன்றுவ குன்றி அனைய செயின்.",
+      "tamilfr": "Kundrin Anaiyaarum Kundruvar Kundruva Kundri Anaiya Seyin",
+      "translation": "Même ceux qui sont grands comme une montagne peuvent tomber par des actes aussi petits qu'une graine.",
+      "comment": "Une faute minime peut détruire une grande réputation."
+    },
+    {
+      "id": 966,
+      "tamil": "புகழ்இன்றால் புத்தேள்நாட்டு உய்யாதால் என்மற்று இகழ்வார்பின் சென்று நிலை.",
+      "tamilfr": "Pukazhindraal Puththelnaattu Uyyaadhaal Enmatru Ikazhvaarpin Sendru Nilai",
+      "translation": "Puisqu'il n'y a ni gloire ni salut à suivre ceux qui méprisent, pourquoi rester auprès d'eux ?",
+      "comment": "Il ne faut pas rechercher l'approbation de ceux qui nous dégradent."
+    },
+    {
+      "id": 967,
+      "tamil": "ஒட்டார்பின் சென்றொருவன் வாழ்தலின் அந்நிலையே கெட்டான் எனப்படுதல் நன்று.",
+      "tamilfr": "Ottaarpin Sendroruvan Vaazhdhalin Annilaiye Kettaan Enappatudhal Nandru",
+      "translation": "Il vaut mieux être considéré comme perdu que de vivre en suivant ceux qui nous méprisent.",
+      "comment": "La dignité personnelle est supérieure à une vie menée dans la soumission."
+    },
+    {
+      "id": 968,
+      "tamil": "மருந்தோமற்று ஊன்ஓம்பும் வாழ்க்கை பெருந்தகைமை பீடழிய வந்த இடத்து.",
+      "tamilfr": "Marundhomatru Oonompum Vaazhkkai Perundhakaimai Peetazhiya Vandha Itaththu",
+      "translation": "Lorsque la grandeur de l'honneur est détruite, à quoi sert de préserver ce corps comme un remède précieux ?",
+      "comment": "Une vie sans honneur perd son sens, même si le corps est conservé."
+    },
+    {
+      "id": 969,
+      "tamil": "மயிர்நீப்பின் வாழாக் கவரிமா அன்னார் உயிர்நீப்பர் மானம் வரின்.",
+      "tamilfr": "Mayirneeppin Vaazhaak Kavarimaa Annaar Uyirneeppar Maanam Varin",
+      "translation": "Comme le yak qui ne survit pas lorsqu'il perd sa fourrure, les nobles préfèrent perdre la vie plutôt que leur honneur.",
+      "comment": "L'honneur est considéré comme plus précieux que l'existence elle-même."
+    },
+    {
+      "id": 970,
+      "tamil": "இளிவரின் வாழாத மானம் உடையார் ஒளிதொழுது ஏத்தும் உலகு.",
+      "tamilfr": "Ilivarin Vaazhaadha Maanam Utaiyaar Olidhozhudhu Eththum Ulaku",
+      "translation": "Le monde honore et célèbre ceux qui possèdent un honneur si grand qu'ils refusent de vivre dans le déshonneur.",
+      "comment": "La mémoire des personnes dignes demeure admirée par le monde."
+    }
+  ]
+}, // fin du chapitre 97
+
+    {
+  id: 98,
+  name: "98. Perumai - <br> La grandeur",
+
+  kurals: [
+
+    {
+      id: 971,
+      tamil: "ஒளிஒருவற்கு உள்ள வெறுக்கை இளிஒருவற்கு அஃதிறந்து வாழ்தும் எனல்.",
+      tamilfr: "Olioruvarku Ulla Verukkai Ilioruvarku Aqdhirandhu Vaazhdhum Enal",
+      translation: "La grandeur vient du désir d'excellence ; la honte vient de celui qui accepte de vivre sans cette aspiration.",
+      comment: "La vraie noblesse réside dans la recherche constante de l'élévation morale."
+    },
+    {
+      id: 972,
+      tamil: "பிறப்பொக்கும் எல்லா உயிர்க்கும் சிறப்பொவ்வா செய்தொழில் வேற்றுமை யான்.",
+      tamilfr: "Pirappokkum Ellaa Uyirkkum Sirappovvaa Seydhozhil Vetrumai Yaan",
+      translation: "Tous les êtres naissent égaux ; leurs actions et leurs œuvres créent leurs différences.",
+      comment: "La valeur d'une personne dépend de ses actes, non de sa naissance."
+    },
+    {
+      id: 973,
+      tamil: "மேலிருந்தும் மேலல்லார் மேலல்லர் கீழிருந்தும் கீழல்லார் கீழல் லவர்.",
+      tamilfr: "Melirundhum Melallaar Melallar Keezhirundhum Keezhallaar Keezhal Lavar",
+      translation: "Celui qui agit indignement n'est pas élevé même s'il occupe une haute place ; celui qui agit noblement ne devient pas inférieur par sa position.",
+      comment: "La grandeur vient du comportement, pas du rang social."
+    },
+    {
+      id: 974,
+      tamil: "ஒருமை மகளிரே போலப் பெருமையும் தன்னைத்தான் கொண்டொழுகின் உண்டு.",
+      tamilfr: "Orumai Makalire Polap Perumaiyum Thannaiththaan Kontozhukin Untu",
+      translation: "Comme la chasteté d'une femme, la grandeur appartient à celui qui sait se maîtriser.",
+      comment: "La maîtrise de soi est la base de toute véritable grandeur."
+    },
+    {
+      id: 975,
+      tamil: "பெருமை யுடையவர் ஆற்றுவார் ஆற்றின் அருமை உடைய செயல்.",
+      tamilfr: "Perumai Yutaiyavar Aatruvaar Aatrin Arumai Utaiya Seyal",
+      translation: "Les personnes grandes accomplissent des actions difficiles et rares.",
+      comment: "La grandeur se manifeste par la capacité à réaliser l'impossible."
+    },
+    {
+      id: 976,
+      tamil: "சிறியார் உணர்ச்சியுள் இல்லை பெரியாரைப் பேணிக்கொள் வேமென்னும் நோக்கு.",
+      tamilfr: "Siriyaar Unarchchiyul Illai Periyaaraip Penikkol Vemennum Nokku",
+      translation: "Les esprits étroits n'ont pas le désir d'apprendre des grands et de les suivre.",
+      comment: "L'humilité d'apprendre auprès des meilleurs est une marque de grandeur."
+    },
+    {
+      id: 977,
+      tamil: "இறப்பே புரிந்த தொழிற்றாம் சிறப்புந்தான் சீரல் லவர்கண் படின்.",
+      tamilfr: "Irappe Purindha Thozhitraam Sirappundhaan Seeral Lavarkan Patin",
+      translation: "Si un grand pouvoir tombe entre les mains d'esprits inférieurs, il devient une source d'excès.",
+      comment: "La puissance sans sagesse mène à l'arrogance."
+    },
+    {
+      id: 978,
+      tamil: "பணியுமாம் என்றும் பெருமை சிறுமை அணியுமாம் தன்னை வியந்து.",
+      tamilfr: "Paniyumaam Endrum Perumai Sirumai Aniyumaam Thannai Viyandhu",
+      translation: "La grandeur demeure toujours humble ; la petitesse se pare d'admiration pour elle-même.",
+      comment: "L'humilité distingue les personnes véritablement élevées."
+    },
+    {
+      id: 979,
+      tamil: "பெருமை பெருமிதம் இன்மை சிறுமை பெருமிதம் ஊர்ந்து விடல்.",
+      tamilfr: "Perumai Perumidham Inmai Sirumai Perumidham Oorndhu Vital",
+      translation: "La grandeur est l'absence d'orgueil ; la petitesse consiste à être rempli de vanité.",
+      comment: "La modestie est le signe d'une grandeur authentique."
+    },
+    {
+      id: 980,
+      tamil: "அற்றம் மறைக்கும் பெருமை சிறுமைதான் குற்றமே கூறி விடும்.",
+      tamilfr: "Atram Maraikkum Perumai Sirumaidhaan Kutrame Koori Vitum",
+      translation: "Les grands cachent les défauts des autres ; les petits ne parlent que de leurs fautes.",
+      comment: "La grandeur se révèle par la bienveillance et la discrétion."
+    }
+
+  ]
+
+}, // fin du chapitre 98 
+
+    {
+  id: 99,
+  name: "99. Saandraanmai - <br> La perfection morale",
+
+  kurals: [
+
+    {
+      id: 981,
+      tamil: "கடன்என்ப நல்லவை எல்லாம் கடன்அறிந்து சான்றாண்மை மேற்கொள் பவர்க்கு.",
+      tamilfr: "Katanenpa Nallavai Ellaam Katanarindhu Saandraanmai Merkol Pavarkku",
+      translation: "Toutes les vertus sont considérées comme un devoir naturel pour ceux qui adoptent la perfection morale.",
+      comment: "La personne accomplie considère les bonnes actions comme une obligation intérieure."
+    },
+    {
+      id: 982,
+      tamil: "குணநலம் சான்றோர் நலனே பிறநலம் எந்நலத்து உள்ளதூஉம் அன்று.",
+      tamilfr: "Kunanalam Saandror Nalane Piranalam Ennalaththu Ulladhooum Andru",
+      translation: "Pour les sages, la bonté du caractère est la seule véritable qualité ; les autres ne sont pas des vertus réelles.",
+      comment: "La valeur d'une personne repose avant tout sur son caractère."
+    },
+    {
+      id: 983,
+      tamil: "அன்புநாண் ஒப்புரவு கண்ணோட்டம் வாய்மையொடு ஐந்துசால் ஊன்றிய தூண்.",
+      tamilfr: "Anpunaan Oppuravu Kannottam Vaaimaiyotu Aindhusaal Oondriya Thoon",
+      translation: "L'amour, la pudeur, la bienveillance, la compassion et la vérité sont les cinq piliers de la perfection.",
+      comment: "Ces qualités soutiennent l'excellence morale de l'être humain."
+    },
+    {
+      id: 984,
+      tamil: "கொல்லா நலத்தது நோன்மை பிறர்தீமை சொல்லா நலத்தது சால்பு.",
+      tamilfr: "Kollaa Nalaththadhu Nonmai Pirardheemai Sollaa Nalaththadhu Saalpu",
+      translation: "La marque de l'ascèse est de ne pas tuer ; la marque de la perfection est de ne pas parler du mal des autres.",
+      comment: "La vraie grandeur évite aussi bien la violence que la médisance."
+    },
+    {
+      id: 985,
+      tamil: "ஆற்றுவார் ஆற்றல் பணிதல் அதுசான்றோர் மாற்றாரை மாற்றும் படை.",
+      tamilfr: "Aatruvaar Aatral Panidhal Adhusaandror Maatraarai Maatrum Patai",
+      translation: "L'humilité est la force des puissants et l'arme par laquelle les sages vainquent leurs adversaires.",
+      comment: "La modestie possède une puissance supérieure à la domination."
+    },
+    {
+      id: 986,
+      tamil: "சால்பிற்குக் கட்டளை யாதெனின் தோல்வி துலையல்லார் கண்ணும் கொளல்.",
+      tamilfr: "Saalpirkuk Kattalai Yaadhenin Tholvi Thulaiyallaar Kannum Kolal",
+      translation: "La preuve de la perfection est d'accepter sa défaite même face à ceux qui nous sont inférieurs.",
+      comment: "Reconnaître humblement ses erreurs est une marque de noblesse."
+    },
+    {
+      id: 987,
+      tamil: "இன்னாசெய் தார்க்கும் இனியவே செய்யாக்கால் என்ன பயத்ததோ சால்பு.",
+      tamilfr: "Innaasey Thaarkkum Iniyave Seyyaakkaal Enna Payaththadho Saalpu",
+      translation: "À quoi sert la perfection morale si elle ne répond pas par le bien même envers ceux qui nous ont fait du mal ?",
+      comment: "La véritable bonté se manifeste par le pardon et la générosité."
+    },
+    {
+      id: 988,
+      tamil: "இன்மை ஒருவற்கு இனிவன்று சால்பென்னும் திண்மைஉண் டாகப் பெறின்.",
+      tamilfr: "Inmai Oruvarku Ilivandru Saalpennum ThinmaiUn Taakap Perin",
+      translation: "La pauvreté n'est pas une honte pour celui qui possède la force du caractère.",
+      comment: "La richesse intérieure vaut plus que les possessions matérielles."
+    },
+    {
+      id: 989,
+      tamil: "ஊழி பெயரினும் தாம்பெயரார் சான்றாண்மைக்கு ஆழி எனப்படு வார்.",
+      tamilfr: "Oozhi Peyarinum Thaampeyaraar Saandraanmaikku Aazhi Enappatu Vaar",
+      translation: "Ceux qui demeurent constants malgré les changements du destin sont considérés comme la profondeur même de la perfection.",
+      comment: "La stabilité morale dans l'adversité révèle la grandeur véritable."
+    },
+    {
+      id: 990,
+      tamil: "சான்றவர் சான்றாண்மை குன்றின் இருநிலந்தான் தாங்காது மன்னோ பொறை.",
+      tamilfr: "Saandravar Saandraanmai Kundrin Irunilandhaan Thaangaadhu Manno Porai",
+      translation: "Si les hommes parfaits perdaient leur perfection, la terre elle-même ne pourrait plus supporter son fardeau.",
+      comment: "Les personnes vertueuses sont considérées comme les piliers du monde."
+    }
+
+  ]
+
+},
+
+// fin du chapitre 99
+
+
+    {
+  id: 100,
+  name: "100. Panpudaimai - <br> La courtoisie",
+
+  kurals: [
+
+    {
+      id: 991,
+      tamil: "எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும் பண்புடைமை என்னும் வழக்கு.",
+      tamilfr: "Enpadhaththaal Eydhal Elidhenpa Yaaraattum Panputaimai Ennum Vazhakku",
+      translation: "La courtoisie, dit-on, est facilement acquise par ceux qui sont accessibles et bienveillants envers tous.",
+      comment: "La véritable courtoisie naît d'une attitude ouverte et respectueuse envers chaque personne."
+    },
+    {
+      id: 992,
+      tamil: "அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும் பண்புடைமை என்னும் வழக்கு.",
+      tamilfr: "Anputaimai Aandra Kutippiraththal Ivvirantum Panputaimai Ennum Vazhakku",
+      translation: "La bonté et une noble éducation sont les deux fondements de la courtoisie.",
+      comment: "La noblesse du caractère repose sur l'amour des autres et une bonne conduite."
+    },
+    {
+      id: 993,
+      tamil: "உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க பண்பொத்தல் ஒப்பதாம் ஒப்பு.",
+      tamilfr: "Uruppoththal Makkaloppu Andraal Veruththakka Panpoththal Oppadhaam Oppu",
+      translation: "Ce n'est pas la ressemblance physique qui unit les hommes, mais la ressemblance dans les qualités humaines.",
+      comment: "La véritable union entre les êtres repose sur les valeurs et non sur l'apparence."
+    },
+    {
+      id: 994,
+      tamil: "நயனொடு நன்றி புரிந்த பயனுடையார் பண்புபா ராட்டும் உலகு.",
+      tamilfr: "Nayanotu Nandri Purindha Payanutaiyaar Panpupaa Raattum Ulaku",
+      translation: "Le monde célèbre la conduite de ceux qui accomplissent des actions utiles avec justice et reconnaissance.",
+      comment: "La générosité et l'équité attirent naturellement le respect des autres."
+    },
+    {
+      id: 995,
+      tamil: "நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும் பண்புள பாடறிவார் மாட்டு.",
+      tamilfr: "Nakaiyullum Innaa Thikazhchchi Pakaiyullum Panpula Paatarivaar Maattu",
+      translation: "Même dans la plaisanterie, la moquerie blesse ; ceux qui connaissent la vertu restent courtois même envers leurs ennemis.",
+      comment: "La maîtrise des paroles est une marque essentielle de la véritable politesse."
+    },
+    {
+      id: 996,
+      tamil: "பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல் மண்புக்கு மாய்வது மன்.",
+      tamilfr: "Panputaiyaarp Pattuntu Ulakam Adhuindrel Manpukku Maaivadhu Man",
+      translation: "Le monde subsiste grâce aux personnes vertueuses ; sans elles, il retournerait à la poussière.",
+      comment: "Les personnes de caractère sont les fondations de la civilisation."
+    },
+    {
+      id: 997,
+      tamil: "அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர் மக்கட்பண்பு இல்லா தவர்.",
+      tamilfr: "Arampolum Koormaiya Renum Marampolvar Makkatpanpu Illaa Thavar",
+      translation: "Même s'ils possèdent une intelligence aussi aiguisée qu'une lame, ceux qui manquent d'humanité ressemblent à du bois.",
+      comment: "L'intelligence sans qualités humaines perd toute sa valeur."
+    },
+    {
+      id: 998,
+      tamil: "நண்பாற்றார் ஆகி நயமில செய்வார்க்கும் பண்பாற்றார் ஆதல் கடை.",
+      tamilfr: "Nanpaatraar Aaki Nayamila Seyvaarkkum Panpaatraar Aathal Katai",
+      translation: "Même envers ceux qui ne sont pas nos amis et qui agissent injustement, il est indigne d'abandonner la courtoisie.",
+      comment: "La vraie noblesse consiste à rester digne même face à l'hostilité."
+    },
+    {
+      id: 999,
+      tamil: "நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம் பகலும்பாற் பட்டன்று இருள்.",
+      tamilfr: "Nakalvallar Allaarkku Maayiru Gnaalam Pakalumpaar Pattandru Irul",
+      translation: "Pour ceux qui ne savent pas sourire, ce vaste monde reste obscur même en plein jour.",
+      comment: "La joie et l'ouverture aux autres rendent l'existence plus lumineuse."
+    },
+    {
+      id: 1000,
+      tamil: "பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால் கலந்தீமை யால்திரிந் தற்று.",
+      tamilfr: "Panpilaan Petra Perunjelvam Nanpaal Kalandheemai Yaalthirin Thatru",
+      translation: "La grande richesse d'un homme sans caractère est comme du lait pur devenu mauvais dans un récipient impur.",
+      comment: "La richesse sans vertu perd sa valeur et peut devenir nuisible."
+    }
+
+  ]
+
+}, // fin du chapitre 100
+
+
+    {
+  id: 101,
+  name: "101. Nandriyilselvam - <br> La richesse sans bienfait",
+
+  kurals: [
+
+    {
+      id: 1001,
+      tamil: "வைத்தான்வாய் சான்ற பெரும்பொருள் அஃதுண்ணான் செத்தான் செயக்கிடந்தது இல்",
+      tamilfr: "Vaiththaanvaai Saandra Perumporul Aqdhunnaan Seththaan Seyakkitandhadhu Il",
+      translation: "La grande richesse accumulée par l'avare qui n'en profite pas est aussi inutile qu'un bien appartenant à un mort.",
+      comment: "Une richesse qui n'est ni utilisée ni partagée perd tout son sens."
+    },
+    {
+      id: 1002,
+      tamil: "பொருளானாம் எல்லாமென்று ஈயாது இவறும் மருளானாம் மாணாப் பிறப்பு",
+      tamilfr: "Porulaanaam Ellaamendru Eeyaadhu Ivarum Marulaanaam Maanaap Pirappu",
+      translation: "Celui qui croit que la richesse est tout et qui ne donne rien vit dans l'illusion d'une existence indigne.",
+      comment: "Considérer l'argent comme le seul but de la vie mène à une vie pauvre en humanité."
+    },
+    {
+      id: 1003,
+      tamil: "ஈட்டம் இவறி இசைவேண்டா ஆடவர் தோற்றம் நிலக்குப் பொறை",
+      tamilfr: "Eettam Ivari Isaiventaa Aatavar Thotram Nilakkup Porai",
+      translation: "Les hommes qui amassent des richesses sans rechercher la renommée sont un fardeau pour la terre.",
+      comment: "La richesse sans générosité ni bonne réputation n'apporte aucune valeur."
+    },
+    {
+      id: 1004,
+      tamil: "எச்சமென்று என்எண்ணுங் கொல்லோ ஒருவரால் நச்சப் படாஅ தவன்",
+      tamilfr: "Echchamendru Enennung Kollo Oruvaraal Nachchap Pataaa Thavan",
+      translation: "Que peut espérer laisser derrière lui celui qui n'est aimé de personne ?",
+      comment: "Une personne qui ne crée aucun lien humain ne laisse pas d'héritage véritable."
+    },
+    {
+      id: 1005,
+      tamil: "கொடுப்பதூஉம் துய்ப்பதூஉம் இல்லார்க்கு அடுக்கிய கோடியுண் டாயினும் இல்",
+      tamilfr: "Kotuppadhooum Thuyppadhooum Illaarkku Atukkiya Kotiyun Taayinum Il",
+      translation: "Pour celui qui ne donne rien et ne profite pas de sa richesse, même des millions ne représentent rien.",
+      comment: "La richesse n'a de valeur que lorsqu'elle sert au bien-être et au partage."
+    },
+    {
+      id: 1006,
+      tamil: "ஏதம் பெருஞ்செல்வம் தான்துவ்வான் தக்கார்க்கொன்று ஈதல் இயல்பிலா தான்",
+      tamilfr: "Edham Perunjelvam Thaandhuvvaan Thakkaarkkondru Eedhal Iyalpilaa Thaan",
+      translation: "Une grande richesse devient un malheur lorsqu'elle n'est ni utilisée ni donnée aux personnes qui le méritent.",
+      comment: "Posséder sans profiter ni aider transforme la richesse en fardeau."
+    },
+    {
+      id: 1007,
+      tamil: "அற்றார்க்கொன்று ஆற்றாதான் செல்வம் மிகநலம் பெற்றாள் தமியள்மூத் தற்று",
+      tamilfr: "Atraarkkondru Aatraadhaan Selvam Mikanalam Petraaal Thamiyalmoot Thatru",
+      translation: "La richesse de celui qui n'aide pas les nécessiteux est comme la beauté d'une femme qui vieillit seule sans être aimée.",
+      comment: "La richesse prend son sens lorsqu'elle apporte du bien aux autres."
+    },
+    {
+      id: 1008,
+      tamil: "நச்சப் படாதவன் செல்வம் நடுவூருள் நச்சு மரம்பழுத் தற்று",
+      tamilfr: "Nachchap Pataadhavan Selvam Natuvoorul Nachchu Marampazhuth Thatru",
+      translation: "La richesse d'un homme qui n'est aimé de personne est comme un arbre empoisonné portant des fruits au milieu d'un village.",
+      comment: "Une richesse sans affection ni utilité peut devenir dangereuse pour la société."
+    },
+    {
+      id: 1009,
+      tamil: "அன்பொரீஇத் தற்செற்று அறநோக்காது ஈட்டிய ஒண்பொருள் கொள்வார் பிறர்",
+      tamilfr: "Anporeeith Tharsetru Aranokkaadhu Eettiya Onporul Kolvaar Pirar",
+      translation: "Les richesses acquises sans amour, sans considération morale et au détriment de soi seront finalement possédées par d'autres.",
+      comment: "Les biens obtenus sans vertu ne restent jamais durablement entre les mains de celui qui les accumule."
+    },
+    {
+      id: 1010,
+      tamil: "சீருடைச் செல்வர் சிறுதுனி மாரி வறங்கூர்ந் தனையது உடைத்து",
+      tamilfr: "Seerutaich Chelvar Sirudhuni Maari Varangoorn Thanaiyadhu Utaiththu",
+      translation: "La courte période de pauvreté d'une personne généreuse ressemble aux nuages de pluie qui se vident bientôt pour apporter l'abondance.",
+      comment: "La richesse des personnes vertueuses peut diminuer temporairement, mais leur générosité demeure une source de bien."
+    }
+
+  ]
+
+}, // fin du chapitre 101
+
+
+    {
+  id: 102,
+  name: "102. Naanudaimai - <br> La pudeur",
+
+  kurals: [
+
+    {
+      id: 1011,
+      tamil: "கருமத்தால் நாணுதல் நாணுந் திருநுதல் நல்லவர் நாணுப் பிற.",
+      tamilfr: "Karumaththaal Naanudhal Naanun Thirunudhal Nallavar Naanup Pira",
+      translation: "La véritable pudeur consiste à avoir honte des actes indignes ; les autres formes de pudeur ne sont que des apparences.",
+      comment: "La vraie honte morale vient du refus de commettre des actions répréhensibles."
+    },
+    {
+      id: 1012,
+      tamil: "ஊணுடை எச்சம் உயிர்க்கெல்லாம் வேறல்ல நாணுடைமை மாந்தர் சிறப்பு.",
+      tamilfr: "Oonutai Echcham Uyirkkellaam Veralla Naanutaimai Maandhar Sirappu",
+      translation: "La nourriture, les vêtements et les besoins du corps sont communs à tous les êtres ; la pudeur est ce qui distingue l'être humain.",
+      comment: "La dignité humaine repose sur la conscience morale et le sens de l'honneur."
+    },
+    {
+      id: 1013,
+      tamil: "ஊனைக் குறித்த உயிரெல்லாம் நாண்என்னும் நன்மை குறித்தது சால்பு.",
+      tamilfr: "Oonaik Kuriththa Uyirellaam Naanennum Nanmai Kuriththadhu Saalpu",
+      translation: "Tous les êtres vivants habitent un corps ; la perfection morale demeure dans la vertu appelée pudeur.",
+      comment: "La pudeur élève l'être humain au-delà de sa simple existence physique."
+    },
+    {
+      id: 1014,
+      tamil: "அணிஅன்றோ நாணுடைமை சான்றோர்க்கு அஃதின்றேல் பிணிஅன்றோ பீடு நடை.",
+      tamilfr: "Aniandro Naanutaimai Saandrorkku Aqdhindrel Piniandro Peetu Natai",
+      translation: "La pudeur n'est-elle pas le plus bel ornement des sages ? Sans elle, leur grandeur devient un fardeau.",
+      comment: "La noblesse perd sa valeur lorsque l'humilité et la pudeur disparaissent."
+    },
+    {
+      id: 1015,
+      tamil: "பிறர்பழியும் தம்பழியும் நாணுவார் நாணுக்கு உறைபதி என்னும் உலகு.",
+      tamilfr: "Pirarpazhiyum Thampazhiyum Naanuvaar Naanukku Uraipadhi Ennum Ulaku",
+      translation: "Le monde considère ceux qui ont honte de leurs propres fautes et de celles des autres comme les demeures de la pudeur.",
+      comment: "La véritable pudeur implique une sensibilité envers soi-même et envers autrui."
+    },
+    {
+      id: 1016,
+      tamil: "நாண்வேலி கொள்ளாது மன்னோ வியன்ஞாலம் பேணலர் மேலா யவர்.",
+      tamilfr: "Naanveli Kollaadhu Manno Viyangnaalam Penalaar Melaa Yavar",
+      translation: "Les grands préfèrent se protéger par la barrière de la pudeur plutôt que d'obtenir le monde entier en l'abandonnant.",
+      comment: "L'honneur a plus de valeur que tous les avantages matériels."
+    },
+    {
+      id: 1017,
+      tamil: "நாணால் உயிரைத் துறப்பர் உயிர்ப்பொருட்டால் நாண்துறவார் நாணாள் பவர்.",
+      tamilfr: "Naanaal Uyiraith Thurappar Uyirpporuttaal Naandhuravaar Naanaal Pavar",
+      translation: "Les hommes d'honneur peuvent sacrifier leur vie pour préserver leur pudeur, mais ils ne l'abandonnent jamais pour sauver leur vie.",
+      comment: "La dignité morale est placée au-dessus de l'existence elle-même."
+    },
+    {
+      id: 1018,
+      tamil: "பிறர்நாணத் தக்கது தான்நாணா னாயின் அறம்நாணத் தக்கது உடைத்து.",
+      tamilfr: "Pirarnaanath Thakkadhu Thaannaanaa Naayin Aramnaanath Thakkadhu Utaiththu",
+      translation: "Si quelqu'un n'a pas honte de ce qui fait honte aux autres, même la vertu aura honte de lui.",
+      comment: "L'absence de conscience morale éloigne l'être humain de la droiture."
+    },
+    {
+      id: 1019,
+      tamil: "குலஞ்சுடும் கொள்கை பிழைப்பின் நலஞ்சுடும் நாணின்மை நின்றக் கடை.",
+      tamilfr: "Kulanjutum Kolkai Pizhaippin Nalanjutum Naaninmai Nindrak Katai",
+      translation: "Une faute de conduite déshonore la famille ; mais l'absence de pudeur détruit toutes les qualités.",
+      comment: "La pudeur est une protection essentielle de la réputation et de la vertu."
+    },
+    {
+      id: 1020,
+      tamil: "நாண்அகத் தில்லார் இயக்கம் மரப்பாவை நாணால் உயிர்மருட்டி அற்று.",
+      tamilfr: "Naanakath Thillaar Iyakkam Marappaavai Naanaal Uyirmarutti Atru",
+      translation: "Les actions de ceux qui n'ont aucune pudeur ressemblent aux mouvements d'une marionnette animée par une ficelle.",
+      comment: "Sans conscience morale, l'être humain agit mécaniquement sans véritable dignité intérieure."
+    }
+
+  ]
+
+}, // fin du chapitre 102
+
+    {
+  id: 103,
+  name: "103. Kutiseyalvakai - <br> Le maintien de la famille",
+
+  kurals: [
+
+    {
+      id: 1021,
+      tamil: "கருமம் செயஒருவன் கைதூவேன் என்னும் பெருமையின் பீடுடையது இல்.",
+      tamilfr: "Karumam Seyaoruvan Kaidhooven Ennum Perumaiyin Peetutaiyadhu Il",
+      translation: "Il n'existe pas de plus grande noblesse que la détermination de celui qui refuse d'abandonner l'œuvre de sa communauté.",
+      comment: "La persévérance dans le service de sa famille et de sa société est une véritable grandeur."
+    },
+    {
+      id: 1022,
+      tamil: "ஆள்வினையும் ஆன்ற அறிவும் எனஇரண்டின் நீள்வினையால் நீளும் குடி.",
+      tamilfr: "Aalvinaiyum Aandra Arivum Enairantin Neelvinaiyaal Neelum Kuti",
+      translation: "Une famille ou une communauté prospère grâce à deux qualités : l'effort constant et la sagesse éclairée.",
+      comment: "Le progrès repose sur l'action courageuse et l'intelligence."
+    },
+    {
+      id: 1023,
+      tamil: "குடிசெய்வல் என்னும் ஒருவற்குத் தெய்வம் மடிதற்றுத் தான்முந் துறும்.",
+      tamilfr: "Kutiseyval Ennum Oruvarkuth Theyvam Matidhatruth Thaanmun Thurum",
+      translation: "Pour celui qui se consacre au bien de sa communauté, même le divin semble se lever pour l'aider.",
+      comment: "L'engagement sincère attire naturellement le soutien et les opportunités."
+    },
+    {
+      id: 1024,
+      tamil: "சூழாமல் தானே முடிவெய்தும் தம்குடியைத் தாழாது உஞற்று பவர்க்கு.",
+      tamilfr: "Soozhaamal Thaane Mutiveydhum Thamkutiyaith Thaazhaadhu Ugnatru Pavarkku",
+      translation: "Le succès vient de lui-même à celui qui travaille sans relâche pour élever sa communauté.",
+      comment: "La persévérance finit par produire ses fruits."
+    },
+    {
+      id: 1025,
+      tamil: "குற்றம் இலனாய்க் குடிசெய்து வாழ்வானைச் சுற்றமாச் சுற்றும் உலகு.",
+      tamilfr: "Kutram Ilanaaik Kutiseydhu Vaazhvaanaich Chutramaach Chutrum Ulaku",
+      translation: "Le monde se rapproche de celui qui mène une vie irréprochable et œuvre pour sa famille.",
+      comment: "La vertu et le dévouement attirent naturellement le respect."
+    },
+    {
+      id: 1026,
+      tamil: "நல்லாண்மை என்பது ஒருவற்குத் தான்பிறந்த இல்லாண்மை ஆக்கிக் கொளல்.",
+      tamilfr: "Nallaanmai Enpadhu Oruvarkuth Thaanpirandha Illaanmai Aakkik Kolal",
+      translation: "Le véritable courage consiste à rendre prospère la communauté dans laquelle on est né.",
+      comment: "La grandeur se mesure à la capacité d'améliorer son héritage."
+    },
+    {
+      id: 1027,
+      tamil: "அமரகத்து வன்கண்ணர் போலத் தமரகத்து ஆற்றுவார் மேற்றே பொறை.",
+      tamilfr: "Amarakaththu Vankannar Polath Thamarakaththum Aatruvaar Metre Porai",
+      translation: "Comme sur un champ de bataille, le poids des responsabilités repose sur les plus capables.",
+      comment: "Les tâches importantes reviennent à ceux qui ont la force de les accomplir."
+    },
+    {
+      id: 1028,
+      tamil: "குடிசெய்வார்க் கில்லை பருவம் மடிசெய்து மானங் கருதக் கெடும்.",
+      tamilfr: "Kutiseyvaark Killai Paruvam Matiseydhu Maanang Karudhak Ketum",
+      translation: "Celui qui travaille pour sa communauté ne doit pas attendre un moment favorable ; l'hésitation détruit la réputation.",
+      comment: "Le devoir exige une action constante et immédiate."
+    },
+    {
+      id: 1029,
+      tamil: "இடும்பைக்கே கொள்கலம் கொல்லோ குடும்பத்தைக் குற்ற மறைப்பான் உடம்பு.",
+      tamilfr: "Itumpaikke Kolkalam Kollo Kutumpaththaik Kutra Maraippaan Utampu",
+      translation: "Le corps de celui qui protège sa famille contre les difficultés n'est-il qu'un réceptacle destiné aux épreuves ?",
+      comment: "Le dévouement familial implique souvent des sacrifices personnels."
+    },
+    {
+      id: 1030,
+      tamil: "இடுக்கண்கால் கொன்றிட வீழும் அடுத்தூன்றும் நல்லாள் இலாத குடி.",
+      tamilfr: "Itukkankaal Kondrita Veezhum Atuththoondrum Nallaal Ilaadha Kuti",
+      translation: "Une famille ou une communauté dépourvue de personnes capables de la soutenir s'effondre sous le poids des difficultés.",
+      comment: "Les personnes vertueuses et responsables sont les piliers d'une société durable."
+    }
+
+  ]
+
+}, // fin du chapitre 103
+
+
+    {
+  id: 104,
+  name: "104. Uzhavu - <br> L'agriculture",
+
+  kurals: [
+
+    {
+      id: 1031,
+      tamil: "சுழன்றும்ஏர்ப் பின்னது உலகம் அதனால் உழந்தும் உழவே தலை.",
+      tamilfr: "Suzhandrumerp Pinnadhu Ulakam Adhanaal Uzhandhum Uzhave Thalai",
+      translation: "Même si le monde tourne sans cesse, il dépend toujours du travail du cultivateur ; malgré les difficultés, l'agriculture demeure la plus noble des activités.",
+      comment: "L'agriculture est la base de la vie humaine et soutient toutes les autres activités."
+    },
+    {
+      id: 1032,
+      tamil: "உழுவார் உலகத்தார்க்கு ஆணிஅஃ தாற்றாது எழுவாரை எல்லாம் பொறுத்து.",
+      tamilfr: "Uzhuvaar Ulakaththaarkku Aaniaq Thaatraadhu Ezhuvaarai Ellaam Poruththu",
+      translation: "Les cultivateurs sont le pivot du monde, car ils nourrissent tous ceux qui ne cultivent pas la terre.",
+      comment: "La société entière repose sur le travail des agriculteurs."
+    },
+    {
+      id: 1033,
+      tamil: "உழுதுண்டு வாழ்வாரே வாழ்வார்மற் றெல்லாம் தொழுதுண்டு பின்செல் பவர்.",
+      tamilfr: "Uzhudhuntu Vaazhvaare Vaazhvaarmar Rellaam Thozhudhuntu Pinsel Pavar",
+      translation: "Seuls ceux qui vivent du travail de la terre vivent véritablement ; les autres dépendent des premiers.",
+      comment: "L'indépendance acquise par le travail agricole est une forme de liberté."
+    },
+    {
+      id: 1034,
+      tamil: "பலகுடை நீழலும் தங்குடைக்கீழ்க் காண்பர் அலகுடை நீழ லவர்.",
+      tamilfr: "Palakutai Neezhalum Thangutaikkeezhk Kaanpar Alakutai Neezha Lavar",
+      translation: "Ceux qui possèdent d'abondantes récoltes voient même les royaumes de nombreux souverains se placer sous leur influence.",
+      comment: "La richesse agricole donne une grande puissance et une grande stabilité."
+    },
+    {
+      id: 1035,
+      tamil: "இரவார் இரப்பார்க்கொன்று ஈவர் கரவாது கைசெய்தூண் மாலை யவர்.",
+      tamilfr: "Iravaar Irappaarkkondru Eevar Karavaadhu Kaiseydhoon Maalai Yavar",
+      translation: "Ceux qui se nourrissent du fruit de leur propre travail ne mendient jamais et donnent sans cacher leurs ressources aux nécessiteux.",
+      comment: "L'agriculture nourrit à la fois l'autonomie et la générosité."
+    },
+    {
+      id: 1036,
+      tamil: "உழவினார் கைம்மடங்கின் இல்லை விழைவதூஉம் விட்டேம்என் பார்க்கும் நிலை.",
+      tamilfr: "Uzhavinaar Kaimmatangin Illai Vizhaivadhooum Vittemen Paarkkum Nilai",
+      translation: "Si les cultivateurs cessent leur travail, même ceux qui ont renoncé aux désirs matériels ne pourront subsister.",
+      comment: "Toute vie dépend finalement de la production agricole."
+    },
+    {
+      id: 1037,
+      tamil: "தொடிப்புழுதி கஃசா உணக்கின் பிடித்தெருவும் வேண்டாது சாலப் படும்.",
+      tamilfr: "Thotippuzhudhi Kaqsaa Unakkin Pitiththeruvum Ventaadhu Saalap Patum",
+      translation: "Si la terre est bien labourée et suffisamment séchée, elle produira abondamment même sans beaucoup d'engrais.",
+      comment: "Une bonne préparation du sol est essentielle à une récolte prospère."
+    },
+    {
+      id: 1038,
+      tamil: "ஏரினும் நன்றால் எருவிடுதல் கட்டபின் நீரினும் நன்றதன் காப்பு.",
+      tamilfr: "Erinum Nandraal Eruvitudhal Kattapin Neerinum Nandradhan Kaappu",
+      translation: "L'engrais est plus important que le labour ; après le désherbage, la protection de la culture est plus importante que l'irrigation.",
+      comment: "Chaque étape du soin agricole contribue à la réussite de la récolte."
+    },
+    {
+      id: 1039,
+      tamil: "செல்லான் கிழவன் இருப்பின் நிலம்புலந்து இல்லாளின் ஊடி விடும்.",
+      tamilfr: "Sellaan Kizhavan Iruppin Nilampulandhu Illaalin Ooti Vitum",
+      translation: "Si le propriétaire néglige de visiter sa terre, celle-ci se fâche comme une épouse délaissée.",
+      comment: "La terre récompense ceux qui prennent soin d'elle avec attention."
+    },
+    {
+      id: 1040,
+      tamil: "இலமென்று அசைஇ இருப்பாரைக் காணின் நிலமென்னும் நல்லாள் நகும்.",
+      tamilfr: "Ilamendru Asaii Iruppaaraik Kaanin Nilamennum Nallaal Nakum",
+      translation: "La Terre elle-même rit en voyant ceux qui restent inactifs en prétendant manquer de ressources.",
+      comment: "Le travail est la véritable source de prospérité ; l'oisiveté ne produit rien."
+    }
+
+  ]
+
+}, // fin du chapitre 104
+
+
+    {
+  id: 105,
+  name: "105. Nalkuravu - <br> La pauvreté",
+
+  kurals: [
+
+    {
+      id: 1041,
+      tamil: "இன்மையின் இன்னாதது யாதெனின் இன்மையின் இன்மையே இன்னா தது.",
+      tamilfr: "Inmaiyin Innaadhadhu Yaadhenin Inmaiyin Inmaiye Innaa Thadhu",
+      translation: "Quel est le plus grand malheur de la pauvreté ? C'est la pauvreté elle-même qui est la plus douloureuse.",
+      comment: "La privation est une souffrance profonde qui touche tous les aspects de l'existence."
+    },
+    {
+      id: 1042,
+      tamil: "இன்மை எனவொரு பாவி மறுமையும் இம்மையும் இன்றி வரும்.",
+      tamilfr: "Inmai Enavoru Paavi Marumaiyum Immaiyum Indri Varum",
+      translation: "La pauvreté, ce malheureux fléau, prive l'homme des joies de cette vie et de celles de l'au-delà.",
+      comment: "La misère affecte à la fois le présent et l'avenir spirituel."
+    },
+    {
+      id: 1043,
+      tamil: "தொல்வரவும் தோலும் கெடுக்கும் தொகையாக நல்குரவு என்னும் நசை.",
+      tamilfr: "Tholvaravum Tholum Ketukkum Thokaiyaaka Nalkuravu Ennum Nasai",
+      translation: "La pauvreté, telle une maladie destructrice, ruine à la fois l'ancien héritage et la réputation.",
+      comment: "La misère peut atteindre le prestige accumulé par une famille au fil du temps."
+    },
+    {
+      id: 1044,
+      tamil: "இற்பிறந்தார் கண்ணேயும் இன்மை இளிவந்த சொற்பிறக்கும் சோர்வு தரும்.",
+      tamilfr: "Irpirandhaar Kanneyum Inmai Ilivandha Sorpirakkum Sorvu Tharum",
+      translation: "Même chez ceux qui sont de noble naissance, la pauvreté peut provoquer des paroles indignes et humiliantes.",
+      comment: "Les difficultés matérielles peuvent affaiblir même les personnes les plus respectées."
+    },
+    {
+      id: 1045,
+      tamil: "நல்குரவு என்னும் இடும்பையுள் பல்குரைத் துன்பங்கள் சென்று படும்.",
+      tamilfr: "Nalkuravu Ennum Itumpaiyul Palkuraith Thunpangal Sendru Patum",
+      translation: "Dans la souffrance appelée pauvreté viennent s'accumuler de nombreux autres malheurs.",
+      comment: "La pauvreté entraîne souvent une chaîne de difficultés supplémentaires."
+    },
+    {
+      id: 1046,
+      tamil: "நற்பொருள் நன்குணர்ந்து சொல்லினும் நல்கூர்ந்தார் சொற்பொருள் சோர்வு படும்.",
+      tamilfr: "Narporul Nankunarndhu Sollinum Nalkoorndhaar Sorpurul Sorvu Patum",
+      translation: "Même lorsqu'un pauvre exprime des idées justes et profondes, ses paroles sont souvent ignorées.",
+      comment: "La valeur d'une parole peut être injustement jugée selon la condition sociale de celui qui parle."
+    },
+    {
+      id: 1047,
+      tamil: "அறஞ்சாரா நல்குரவு ஈன்றதா யானும் பிறன்போல நோக்கப் படும்.",
+      tamilfr: "Aranjaaraa Nalkuravu Eendradhaa Yaanum Piranpola Nokkap Patum",
+      translation: "La pauvreté dépourvue de vertu éloigne l'homme même de la mère qui lui a donné naissance.",
+      comment: "La misère extrême peut isoler une personne de son entourage."
+    },
+    {
+      id: 1048,
+      tamil: "இன்றும் வருவது கொல்லோ நெருநலும் கொன்றது போலும் நிரப்பு.",
+      tamilfr: "Indrum Varuvadhu Kollo Nerunalum Kondradhu Polum Nirappu",
+      translation: "La faim qui m'a presque tué hier reviendra-t-elle encore aujourd'hui ?",
+      comment: "La pauvreté répétée crée une angoisse permanente face au manque."
+    },
+    {
+      id: 1049,
+      tamil: "நெருப்பினுள் துஞ்சலும் ஆகும் நிரப்பினுள் யாதொன்றும் கண்பாடு அரிது.",
+      tamilfr: "Neruppinul Thunjalum Aakum Nirappinul Yaadhondrum Kanpaadu Aridhu",
+      translation: "On pourrait même dormir au milieu du feu, mais il est impossible de trouver le repos au milieu de la pauvreté.",
+      comment: "La misère provoque une inquiétude plus grande encore que la douleur physique."
+    },
+    {
+      id: 1050,
+      tamil: "துப்புர வில்லார் துவரத் துறவாமை உப்பிற்கும் காடிக்கும் கூற்று.",
+      tamilfr: "Thuppura Villaar Thuvarath Thuravaamai Uppirkum Kaatikkum Kootru",
+      translation: "Celui qui ne possède rien devrait savoir renoncer, sinon même le sel et la simple bouillie deviennent des fardeaux.",
+      comment: "Lorsque les ressources manquent totalement, le détachement peut être une voie de libération."
+    }
+
+  ]
+
+}, // fin du chapitre 105
+
+
+    {
+  id: 106,
+  name: "106. Iravu - <br> La mendicité",
+
+  kurals: [
+
+    {
+      id: 1051,
+      tamil: "இரக்க இரத்தக்கார்க் காணின் கரப்பின் அவர்பழி தம்பழி அன்று.",
+      tamilfr: "Irakka Iraththakkaark Kaanin Karappin Avarpazhi Thampazhi Andru",
+      translation: "Demande à ceux qui ont les moyens de donner. S'ils refusent, la faute leur appartient et non à toi.",
+      comment: "La mendicité n'est pas blâmable lorsqu'elle s'adresse à des personnes capables et généreuses."
+    },
+    {
+      id: 1052,
+      tamil: "இன்பம் ஒருவற்கு இரத்தல் இரந்தவை துன்பம் உறாஅ வரின்.",
+      tamilfr: "Inpam Oruvarku Iraththal Irandhavai Thunpam Uraaa Varin",
+      translation: "Mendier peut être un plaisir lorsque ce qui est demandé est accordé sans faire souffrir.",
+      comment: "Recevoir avec dignité n'est pas honteux lorsque l'aide est donnée avec bienveillance."
+    },
+    {
+      id: 1053,
+      tamil: "கரப்பிலா நெஞ்சின் கடனறிவார் முன்நின்று இரப்புமோ ரேஎர் உடைத்து.",
+      tamilfr: "Karappilaa Nenjin Katanarivaar Munnindru Irappumo Reer Utaiththu",
+      translation: "Il y a même une noblesse à demander devant ceux qui ont un cœur ouvert et connaissent leur devoir.",
+      comment: "La générosité du donateur rend acceptable l'acte de demander."
+    },
+    {
+      id: 1054,
+      tamil: "இரத்தலும் ஈதலே போலும் கரத்தல் கனவிலும் தேற்றாதார் மாட்டு.",
+      tamilfr: "Iraththalum Eedhale Polum Karaththal Kanavilum Thetraadhaar Maattu",
+      translation: "Recevoir d'une personne qui ne sait même pas refuser en rêve est presque comme donner soi-même.",
+      comment: "La générosité sincère élève aussi bien celui qui donne que celui qui reçoit."
+    },
+    {
+      id: 1055,
+      tamil: "கரப்பிலார் வையகத்து உண்மையால் கண்ணின்று இரப்பவர் மேற்கொள் வது.",
+      tamilfr: "Karappilaar Vaiyakaththu Unmaiyaal Kannindru Irappavar Merkol Vadhu",
+      translation: "Les mendiants peuvent encore espérer parce qu'il existe dans ce monde des personnes qui ne refusent pas.",
+      comment: "L'existence de la générosité maintient l'espoir des plus démunis."
+    },
+    {
+      id: 1056,
+      tamil: "கரப்பிடும்பை யில்லாரைக் காணின் நிரப்பிடும்பை எல்லாம் ஒருங்கு கெடும்.",
+      tamilfr: "Karappitumpai Yillaaraik Kaanin Nirappitumpai Ellaam Orungu Ketum",
+      translation: "À la vue de ceux qui ne connaissent pas le mal du refus, toutes les souffrances liées à la mendicité disparaissent.",
+      comment: "Un donateur compatissant enlève la honte et la douleur de celui qui demande."
+    },
+    {
+      id: 1057,
+      tamil: "இகழ்ந்தெள்ளாது ஈவாரைக் காணின் மகிழ்ந்துள்ளம் உள்ளுள் உவப்பது உடைத்து.",
+      tamilfr: "Ikazhndhellaadhu Eevaaraik Kaanin Makizhndhullam Ullul Uvappadhu Utaiththu",
+      translation: "Le cœur se réjouit intérieurement lorsqu'il rencontre quelqu'un qui donne sans mépris.",
+      comment: "La manière de donner compte autant que le don lui-même."
+    },
+    {
+      id: 1058,
+      tamil: "இரப்பாரை இல்லாயின் ஈர்ங்கண்மா ஞாலம் மரப்பாவை சென்றுவந் தற்று.",
+      tamilfr: "Irappaarai Illaayin Eernganmaa Gnaalam Marappaavai Sendruvan Thatru",
+      translation: "Sans ceux qui demandent, ce vaste monde ressemblerait à un théâtre de marionnettes allant et venant sans but.",
+      comment: "Les relations entre ceux qui donnent et ceux qui reçoivent font vivre la société."
+    },
+    {
+      id: 1059,
+      tamil: "ஈவார்கண் என்னுண்டாம் தோற்றம் இரந்துகோள் மேவார் இலாஅக் கடை.",
+      tamilfr: "Eevaarkan Ennuntaam Thotram Irandhukol Mevaar Ilaak Katai",
+      translation: "Quelle gloire les donateurs pourraient-ils obtenir s'il n'existait personne pour recevoir leurs dons ?",
+      comment: "La générosité trouve son sens dans la présence de ceux qui ont besoin d'aide."
+    },
+    {
+      id: 1060,
+      tamil: "இரப்பான் வெகுளாமை வேண்டும் நிரப்பிடும்பை தானேயும் சாலும் கரி.",
+      tamilfr: "Irappaan Vekulaamai Ventum Nirappitumpai Thaaneyum Saalum Kari",
+      translation: "Celui qui mendie ne doit pas se mettre en colère lorsqu'on lui refuse ; sa propre pauvreté est déjà une preuve suffisante.",
+      comment: "La patience et l'humilité sont essentielles pour celui qui dépend de l'aide d'autrui."
+    }
+
+  ]
+
+}, // fin du chapitre 106
+
+
+    {
+  id: 107,
+  name: "107. Iravachcham - <br> La crainte de mendier",
+
+  kurals: [
+
+    {
+      id: 1061,
+      tamil: "கரவாது உவந்தீயும் கண்ணன்னார் கண்ணும் இரவாமை கோடி உறும்.",
+      tamilfr: "Karavaadhu Uvandheeyum Kannannaar Kannum Iravaamai Koti Urum",
+      translation: "Ne pas mendier, même auprès de ceux qui donnent avec joie et générosité, vaut des millions.",
+      comment: "La dignité de l'indépendance est plus précieuse que l'aide reçue, même des meilleures personnes."
+    },
+    {
+      id: 1062,
+      tamil: "இரந்தும் உயிர்வாழ்தல் வேண்டின் பரந்து கெடுக உலகியற்றி யான்.",
+      tamilfr: "Irandhum Uyirvaazhdhal Ventin Parandhu Ketuka Ulakiyatri Yaan",
+      translation: "Si l'on devait vivre en mendiant, que le créateur du monde lui-même erre et disparaisse.",
+      comment: "Le poète exprime combien une vie dépendante de la mendicité est contraire à la dignité humaine."
+    },
+    {
+      id: 1063,
+      tamil: "இன்மை இடும்பை இரந்துதீர் வாமென்னும் வன்மையின் வன்பாட்ட தில்.",
+      tamilfr: "Inmai Itumpai Irandhudheer Vaamennum Vanmaiyin Vanpaatta Thil",
+      translation: "Il n'existe pas de plus grande folie que de croire que la mendicité puisse mettre fin aux souffrances de la pauvreté.",
+      comment: "La mendicité ne doit pas être considérée comme une véritable solution à la misère."
+    },
+    {
+      id: 1064,
+      tamil: "இடமெல்லாம் கொள்ளாத் தகைத்தே இடமில்லாக் காலும் இரவொல்லாச் சால்பு.",
+      tamilfr: "Itamellaam Kollaath Thakaiththe Itamillaak Kaalum Iravollaach Chaalpu",
+      translation: "La grandeur de ceux qui refusent de mendier même dans les moments difficiles ne peut être contenue par aucun lieu.",
+      comment: "La force morale de l'indépendance dépasse toutes les circonstances."
+    },
+    {
+      id: 1065,
+      tamil: "தெண்ணீர் அடுபுற்கை ஆயினும் தாள்தந்தது உண்ணலின் ஊங்கினிய தில்.",
+      tamilfr: "Thenneer Atupurkai Aayinum Thaaldhandhadhu Unnalin Oonginiya Thil",
+      translation: "Il n'existe rien de plus doux que de manger, même une simple bouillie claire, obtenue par son propre travail.",
+      comment: "Le fruit de l'effort personnel apporte une satisfaction supérieure à toute aide reçue."
+    },
+    {
+      id: 1066,
+      tamil: "ஆவிற்கு நீரென்று இரப்பினும் நாவிற்கு இரவின் இளிவந்த தில்.",
+      tamilfr: "Aavirku Neerendru Irappinum Naavirku Iravin Ilivandha Thil",
+      translation: "Même demander de l'eau pour une vache apporte à la langue une honte plus grande que toute autre.",
+      comment: "La mendicité est présentée comme une atteinte profonde à la dignité."
+    },
+    {
+      id: 1067,
+      tamil: "இரப்பன் இரப்பாரை எல்லாம் இரப்பின் கரப்பார் இரவன்மின் என்று.",
+      tamilfr: "Irappan Irappaarai Ellaam Irappin Karappaar Iravanmin Endru",
+      translation: "Je demanderais à tous les mendiants ceci : s'il vous faut mendier, ne mendiez jamais auprès des avares.",
+      comment: "Demander à ceux qui refusent est une expérience particulièrement humiliante."
+    },
+    {
+      id: 1068,
+      tamil: "இரவென்னும் ஏமாப்பில் தோணி கரவென்னும் பார்தாக்கப் பக்கு விடும்.",
+      tamilfr: "Iravennum Emaappil Thoni Karavennum Paardhaakkap Pakku Vitum",
+      translation: "La barque fragile de la mendicité se brise dès qu'elle heurte le rocher du refus.",
+      comment: "Celui qui dépend de la mendicité reste exposé à la douleur du rejet."
+    },
+    {
+      id: 1069,
+      tamil: "இரவுள்ள உள்ளம் உருகும் கரவுள்ள உள்ளதூஉம் இன்றிக் கெடும்.",
+      tamilfr: "Iravulla Ullam Urukum Karavulla Ulladhooum Indrik Ketum",
+      translation: "Le cœur souffre à la pensée de mendier et se détruit complètement lorsqu'il rencontre le refus.",
+      comment: "La mendicité blesse à la fois l'esprit de celui qui demande et son estime de soi."
+    },
+    {
+      id: 1070,
+      tamil: "கரப்பவர்க்கு யாங்கொளிக்கும் கொல்லோ இரப்பவர் சொல்லாடப் போஒம் உயிர்.",
+      tamilfr: "Karappavarkku Yaangolikkum Kollo Irappavar Sollaatap Poom Uyir",
+      translation: "Où la vie de celui qui refuse trouvera-t-elle refuge lorsque le refus aura fait mourir l'âme de celui qui demande ?",
+      comment: "Le refus cruel du secours porte aussi une responsabilité morale."
+    }
+
+  ]
+
+}, // fin du chapitre 107
+
+    {
+  id: 108,
+  name: "108. Kayamai - <br> La bassesse",
+
+  kurals: [
+
+    {
+      id: 1071,
+      tamil: "மக்களே போல்வர் கயவர் அவரன்ன ஒப்பாரி யாங்கண்ட தில்.",
+      tamilfr: "Makkale Polvar Kayavar Avaranna Oppaari Yaanganta Thil",
+      translation: "Les êtres vils ressemblent totalement aux hommes ; nous n'avons jamais vu d'imitation plus parfaite.",
+      comment: "La bassesse morale peut parfois être cachée derrière une apparence humaine ordinaire."
+    },
+    {
+      id: 1072,
+      tamil: "நன்றறி வாரிற் கயவர் திருவுடையர் நெஞ்சத்து அவலம் இலர்.",
+      tamilfr: "Nandrari Vaarir Kayavar Thiruvutaiyar Nenjaththu Avalam Ilar",
+      translation: "Les êtres vils semblent plus heureux que les hommes vertueux, car ils ne connaissent aucun tourment intérieur.",
+      comment: "L'absence de conscience peut donner une apparente tranquillité, mais elle ne constitue pas une véritable richesse."
+    },
+    {
+      id: 1073,
+      tamil: "தேவர் அனையர் கயவர் அவருந்தாம் மேவன செய்தொழுக லான்.",
+      tamilfr: "Thevar Anaiyar Kayavar Avarundhaam Mevana Seydhozhuka Laan",
+      translation: "Les êtres vils ressemblent aux dieux, car eux aussi font tout ce qu'ils désirent.",
+      comment: "Cette comparaison est ironique : agir selon ses désirs sans morale n'est pas une véritable liberté."
+    },
+    {
+      id: 1074,
+      tamil: "அகப்பட்டி ஆவாரைக் காணின் அவரின் மிகப்பட்டுச் செம்மாக்கும் கீழ்.",
+      tamilfr: "Akappatti Aavaaraik Kaanin Avarin Mikappattuch Chemmaakkum Keezh",
+      translation: "Lorsqu'ils rencontrent quelqu'un de plus faible qu'eux, les êtres vils deviennent fiers et arrogants.",
+      comment: "La bassesse cherche souvent à dominer ceux qui ne peuvent pas se défendre."
+    },
+    {
+      id: 1075,
+      tamil: "அச்சமே கீழ்களது ஆசாரம் எச்சம் அவாவுண்டேல் உண்டாம் சிறிது.",
+      tamilfr: "Achchame Keezhkaladhu Aasaaram Echcham Avaavuntel Untaam Siridhu",
+      translation: "La peur est la seule règle des êtres inférieurs ; parfois, seule l'avidité les guide aussi.",
+      comment: "Sans vertu intérieure, leur comportement dépend seulement de la crainte ou de l'intérêt personnel."
+    },
+    {
+      id: 1076,
+      tamil: "அறைபறை அன்னர் கயவர்தாம் கேட்ட மறைபிறர்க்கு உய்த்துரைக்க லான்.",
+      tamilfr: "Araiparai Annar Kayavardhaam Ketta Maraipirarkku Uyththuraikka Laan",
+      translation: "Les êtres vils sont comme des tambours, car ils révèlent à tous les secrets qu'ils entendent.",
+      comment: "L'absence de discrétion est une marque de manque de caractère."
+    },
+    {
+      id: 1077,
+      tamil: "ஈர்ங்கை விதிரார் கயவர் கொடிறுடைக்கும் கூன்கையர் அல்லா தவர்க்கு.",
+      tamilfr: "Eerngai Vidhiraar Kayavar Kotirutaikkum Koonkaiyar Allaa Thavarkku",
+      translation: "Les êtres vils ne secouent même pas l'eau de leurs mains pour donner quelque chose, sauf s'ils y sont forcés.",
+      comment: "L'avarice extrême empêche toute générosité spontanée."
+    },
+    {
+      id: 1078,
+      tamil: "சொல்லப் பயன்படுவர் சான்றோர் கரும்புபோல் கொல்லப் பயன்படும் கீழ்.",
+      tamilfr: "Sollap Payanpatuvar Saandror Karumbupol Kollap Payanpatum Keezh",
+      translation: "Les sages sont touchés par la parole, tandis que les êtres vils ressemblent à la canne à sucre qu'il faut écraser pour en tirer le jus.",
+      comment: "Les personnes nobles répondent à la raison, alors que les êtres vils ne changent que sous la contrainte."
+    },
+    {
+      id: 1079,
+      tamil: "உடுப்பதூஉம் உண்பதூஉம் காணின் பிறர்மேல் வடுக்காண வற்றாகும் கீழ்.",
+      tamilfr: "Utuppadhooum Unpadhooum Kaanin Pirarmel Vatukkaana Vatraakum Keezh",
+      translation: "Les êtres vils cherchent des défauts chez ceux qu'ils voient bien habillés et bien nourris.",
+      comment: "L'envie pousse les personnes basses à critiquer la réussite des autres."
+    },
+    {
+      id: 1080,
+      tamil: "எற்றிற் குரியர் கயவரொன்று உற்றக்கால் விற்றற்கு உரியர் விரைந்து.",
+      tamilfr: "Etrir Kuriyar Kayavarondru Utrakkaal Vitrarku Uriyar Viraindhu",
+      translation: "À quoi servent les êtres vils dans les moments difficiles, sinon à se vendre rapidement pour se sauver ?",
+      comment: "La bassesse se révèle surtout lorsque survient l'épreuve."
+    }
+
+  ]
+
+} // fin du chapitre 108
+
 
  ] // fin de tous les chapitres de l'Iyal 11
 
-}, // fin de l'Iyal 11
+} // fin de l'Iyal 11
 
-
-
-      
 
       ] // fin de tous les iyals du Livre 2
 
@@ -8123,6 +9095,103 @@ kurals: [
   3: {
     name: "Inbattupāl",
     fr: "Livre de l'Amour",
-    iyals: []
-  }
+    iyals: [
+
+       {
+        id: 12,
+        name: "Kalaviyal <br> Amour avant le mariage",
+
+        chapters: [
+
+          {
+  id: 109,
+  name: "109. Thakaiyananguruththal - <br> La beauté qui trouble",
+
+  kurals: [
+
+    {
+      id: 1081,
+      tamil: "அணங்குகொல் ஆய்மயில் கொல்லோ கனங்குழை மாதர்கொல் மாலும்என் நெஞ்சு.",
+      tamilfr: "Anangukol Aaimayil Kollo Kananguzhai Maadharkol MaalumEn Nenju",
+      translation: "Est-ce une déesse, un paon rare ou une femme ornée de bijoux ? Mon cœur est troublé par son apparition.",
+      comment: "La beauté exceptionnelle peut dépasser toute comparaison et émerveiller l'esprit."
+    },
+    {
+      id: 1082,
+      tamil: "நோக்கினாள் நோக்கெதிர் நோக்குதல் தாக்கணங்கு தானைக்கொண் டன்ன துடைத்து.",
+      tamilfr: "Nokkinaal Nokkedhir Nokkudhal Thaakkanangu ThaanaiKon Tanna Thutaiththu",
+      translation: "Elle répond à mon regard par un regard qui me frappe comme une flèche lancée par une divinité guerrière.",
+      comment: "Un simple échange de regards peut avoir la puissance d'une attaque irrésistible."
+    },
+    {
+      id: 1083,
+      tamil: "பண்டறியேன் கூற்றென் பதனை இனியறிந்தேன் பெண்டகையால் பேரமர்க் கட்டு.",
+      tamilfr: "Pantariyen Kootren Padhanai Iniyarindhen Pentakaiyaal Peramark Kattu",
+      translation: "Je ne connaissais pas le dieu de la mort autrefois ; maintenant je sais qu'il possède les yeux d'une femme.",
+      comment: "Le regard amoureux est comparé à une force capable de vaincre l'être humain."
+    },
+    {
+      id: 1084,
+      tamil: "கண்டார் உயிருண்ணும் தோற்றத்தால் பெண்டகைப் பேதைக்கு அமர்த்தன கண்.",
+      tamilfr: "Kantaar Uyirunnum Thotraththaal Pentakaip Pedhaikku Amarththana Kan",
+      translation: "Ses yeux ont l'apparence d'une femme douce, mais ils dévorent la vie de ceux qui les contemplent.",
+      comment: "La douceur apparente peut cacher une puissance émotionnelle immense."
+    },
+    {
+      id: 1085,
+      tamil: "கூற்றமோ கண்ணோ பிணையோ மடவரல் நோக்கமிம் மூன்றும் உடைத்து.",
+      tamilfr: "Kootramo Kanno Pinaiyo Matavaral Nokkamim Moondrum Utaiththu",
+      translation: "Son regard possède à la fois la flèche de la mort, l'éclat des yeux et la douceur du regard d'une biche.",
+      comment: "La beauté du regard réunit charme, innocence et pouvoir de séduction."
+    },
+    {
+      id: 1086,
+      tamil: "கொடும்புருவம் கோடா மறைப்பின் நடுங்கஞர் செய்யல மன்இவள் கண்.",
+      tamilfr: "Kotumpuruvam Koda Maraippin Natungagnar Seyyala Manival Kan",
+      translation: "Si ses sourcils sévères ne cachaient pas ses yeux, mon cœur ne pourrait supporter leur puissance.",
+      comment: "Même un obstacle à la beauté peut devenir une protection contre son intensité."
+    },
+    {
+      id: 1087,
+      tamil: "கடாஅக் களிற்றின்மேற் கட்படாம் மாதர் படாஅ முலைமேல் துகில்.",
+      tamilfr: "Kataaak Kalitrinmer Katpataam Maadhar Pataaa Mulaimel Thukil",
+      translation: "Le vêtement qui couvre sa poitrine ressemble au voile placé sur les yeux d'un éléphant en furie.",
+      comment: "L'image souligne la force et la majesté cachées derrière la pudeur."
+    },
+    {
+      id: 1088,
+      tamil: "ஒண்ணுதற் கோஒ உடைந்ததே ஞாட்பினுள் நண்ணாரும் உட்குமென் பீடு.",
+      tamilfr: "Onnudhar Koo Utaindhadhe Gnaatpinul Nannaarum Utkumen Peetu",
+      translation: "Ma force qui faisait trembler mes ennemis au combat disparaît devant son front lumineux.",
+      comment: "L'amour peut vaincre même la bravoure du guerrier."
+    },
+    {
+      id: 1089,
+      tamil: "பிணையேர் மடநோக்கும் நாணும் உடையாட்கு அணியெவனோ ஏதில தந்து.",
+      tamilfr: "Pinaiyer Matanokkum Naanum Utaiyaatku Aniyevano Edhila Thandhu",
+      translation: "À quoi servent les bijoux pour celle qui possède déjà le regard doux d'une biche et la pudeur ?",
+      comment: "La véritable beauté vient du caractère plus que des ornements extérieurs."
+    },
+    {
+      id: 1090,
+      tamil: "உண்டார்கண் அல்லது அடுநறாக் காமம்போல் கண்டார் மகிழ்செய்தல் இன்று.",
+      tamilfr: "Untaarkan Alladhu Atunaraak Kaamampol Kantaar Makizhseydhal Indru",
+      translation: "Comme le vin qui réjouit seulement celui qui le boit, l'amour ne donne sa joie qu'à celui qui l'éprouve.",
+      comment: "L'amour est une expérience intérieure qui ne peut être comprise par un simple regard extérieur."
+    }
+
+  ]
+
+}, // fin du chapitre 109
+          
+
+          
+
+          ] // fin de tous les chapitres de l iyal 12
+       }, //fin de l'iyal 12
+
+
+      
+    ] // fin de tous les iyal du livre 3
+  } // fin du livre 3 
 }; // Fin complète de l'objet thirukuralData
