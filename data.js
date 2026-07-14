@@ -6689,11 +6689,1328 @@ kurals: [
 }, // fin du chapitre 79
 
 
+    {
+  id: 80,
+  name: "80. Natpu Aaraaythal - <br> Choisir ses amis",
+
+  kurals: [
+
+    {
+      id: 791,
+      tamil: "நாடாது நட்டலிற் கேடில்லை நட்டபின் வீடில்லை நட்பாள் பவர்க்கு.",
+      tamilfr: "Naataadhu Nattalir Ketillai Nattapin Veetillai Natpaal Pavarkku",
+      translation: "Rien n'est plus dommageable que de nouer une amitié sans réflexion, car une véritable amitié ne se rompt pas facilement.",
+      comment: "Avant de choisir un ami, il faut prendre le temps de le connaître, car l'amitié engage durablement."
+    },
+    {
+      id: 792,
+      tamil: "ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறை தான்சாம் துயரம் தரும்.",
+      tamilfr: "Aaindhaaindhu Kollaadhaan Kenmai Kataimurai Thaansaam Thuyaram Tharum",
+      translation: "L'amitié conclue sans examen attentif finit par apporter de profondes souffrances.",
+      comment: "Une relation choisie avec précipitation peut devenir une source de regrets tout au long de la vie."
+    },
+    {
+      id: 793,
+      tamil: "குணமும் குடிமையும் குற்றமும் குன்றா இனனும் அறிந்தியாக்க நட்பு.",
+      tamilfr: "Kunamum Kutimaiyum Kutramum Kundraa Inanum Arindhiyaakka Natpu",
+      translation: "Avant de se lier d'amitié, il faut connaître le caractère, les origines, les défauts et les fréquentations de la personne.",
+      comment: "Une amitié solide repose sur une bonne connaissance de celui à qui l'on accorde sa confiance."
+    },
+    {
+      id: 794,
+      tamil: "குடிப்பிறந்து தன்கண் பழிநாணு வானைக் கொடுத்தும் கொளல்வேண்டும் நட்பு.",
+      tamilfr: "Kutippirandhu Thankan Pazhinaanu Vaanaik Kotuththum Kolalventum Natpu",
+      translation: "Il vaut la peine de gagner l'amitié d'une personne honorable, quitte à faire de grands sacrifices.",
+      comment: "L'intégrité et le sens de l'honneur sont des qualités inestimables chez un ami."
+    },
+    {
+      id: 795,
+      tamil: "அழச்சொல்லி அல்லது இடித்து வழக்கறிய வல்லார்நடபு ஆய்ந்து கொளல்.",
+      tamilfr: "Azhachcholli Alladhu Itiththu Vazhakkariya Vallaarnatapu Aaindhu Kolal",
+      translation: "Choisis pour ami celui qui ose te reprendre, même sévèrement, lorsque tu t'écartes du droit chemin.",
+      comment: "Le véritable ami corrige avec franchise pour aider à progresser."
+    },
+    {
+      id: 796,
+      tamil: "கேட்டினும் உண்டோர் உறுதி கிளைஞரை நீட்டி அளப்பதோர் கோல்.",
+      tamilfr: "Kettinum Untor Urudhi Kilaignarai Neetti Alappadhor Kol",
+      translation: "L'adversité est la meilleure mesure pour connaître la fidélité de ses amis.",
+      comment: "Les difficultés révèlent ceux sur qui l'on peut réellement compter."
+    },
+    {
+      id: 797,
+      tamil: "ஊதியம் என்பது ஒருவற்குப் பேதையார் கேண்மை ஒரீஇ விடல்.",
+      tamilfr: "Oodhiyam Enpadhu Oruvarkup Pedhaiyaar Kenmai Oreei Vital",
+      translation: "Se libérer de l'amitié des insensés est déjà un grand bénéfice.",
+      comment: "Éviter les mauvaises fréquentations est une forme de sagesse et de protection."
+    },
+    {
+      id: 798,
+      tamil: "உள்ளற்க உள்ளம் சிறுகுவ கொள்ளற்க அல்லற்கண் ஆற்றறுப்பார் நட்பு.",
+      tamilfr: "Ullarka Ullam Sirukuva Kollarka Allarkan Aatraruppaar Natpu",
+      translation: "N'entretiens pas des pensées qui affaiblissent ton courage et ne choisis pas pour ami celui qui t'abandonnera dans l'épreuve.",
+      comment: "La fidélité dans les moments difficiles est le véritable critère d'une amitié."
+    },
+    {
+      id: 799,
+      tamil: "கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை உள்ளினும் உள்ளஞ் சுடும்.",
+      tamilfr: "Ketungaalaik Kaivituvaar Kenmai Atungaalai Ullinum Ullanj Chutum",
+      translation: "Le souvenir d'un ami qui abandonne dans le malheur continue de brûler le cœur jusqu'à la fin de la vie.",
+      comment: "La trahison d'un ami est une blessure profonde qui laisse une trace durable."
+    },
+    {
+      id: 800,
+      tamil: "மருவுக மாசற்றார் கேண்மைஒன் றீத்தும் ஒருவுக ஒப்பிலார் நட்பு.",
+      tamilfr: "Maruvuka Maasatraar Kenmaion Reeththum Oruvuka Oppilaar Natpu",
+      translation: "Recherche l'amitié des personnes irréprochables et éloigne-toi des indignes, même si cela exige un sacrifice.",
+      comment: "Mieux vaut investir pour conserver de bonnes amitiés que subir l'influence de mauvaises compagnies."
+    }
+
+  ]
+
+}, // fin du chapitre 80
+
+
+    {
+  id: 81,
+  name: "81. Pazhaimai - <br> Les anciennes amitiés",
+
+  kurals: [
+
+    {
+      id: 801,
+      tamil: "பழைமை எனப்படுவது யாதெனின் யாதும் கிழமையைக் கீழ்ந்திடா நட்பு.",
+      tamilfr: "Pazhaimai Enappatuvadhu Yaadhenin Yaadhum Kizhamaiyaik Keezhndhitaa Natpu",
+      translation: "On appelle ancienne amitié celle qui ne se laisse jamais altérer par les familiarités nées d'une longue relation.",
+      comment: "Une vieille amitié supporte les libertés réciproques sans que l'affection ne s'en trouve diminuée."
+    },
+    {
+      id: 802,
+      tamil: "நட்பிற் குறுப்புக் கெழுதகைமை மற்றதற்கு உப்பாதல் சான்றோர் கடன்.",
+      tamilfr: "Natpir Kuruppuk Kezhudhakaimai Matradharku Uppaadhal Saandror Katan",
+      translation: "La familiarité est le privilège de l'amitié ; l'accepter avec bienveillance est le devoir des personnes sages.",
+      comment: "Les vrais amis savent accueillir avec indulgence les libertés que permet une relation sincère."
+    },
+    {
+      id: 803,
+      tamil: "பழகிய நட்பெவன் செய்யுங் கெழுதகைமை செய்தாங்கு அமையாக் கடை.",
+      tamilfr: "Pazhakiya Natpevan Seyyung Kezhudhakaimai Seydhaangu Amaiyaak Katai",
+      translation: "À quoi sert une ancienne amitié si l'on n'accepte pas les marques de confiance qu'elle autorise ?",
+      comment: "La proximité entre amis se manifeste naturellement par une confiance réciproque."
+    },
+    {
+      id: 804,
+      tamil: "விழைதகையான் வேண்டி இருப்பர் கெழுதகையாற் கேளாது நட்டார் செயின்.",
+      tamilfr: "Vizhaidhakaiyaan Venti Iruppar Kezhudhakaiyaar Kelaadhu Nattaar Seyin",
+      translation: "Les sages accueillent avec plaisir ce qu'un vieil ami fait spontanément, sans demander leur permission.",
+      comment: "La confiance acquise avec le temps dispense parfois des formalités."
+    },
+    {
+      id: 805,
+      tamil: "பேதைமை ஒன்றோ பெருங்கிழமை என்றுணர்க நோதக்க நட்டார் செயின்.",
+      tamilfr: "Pedhaimai Ondro Perungizhamai Endrunarka Nodhakka Nattaar Seyin",
+      translation: "Si un vieil ami cause de la peine, considère que cela vient soit de son ignorance, soit de la liberté qu'autorise votre ancienne amitié.",
+      comment: "L'indulgence est l'une des qualités essentielles d'une amitié durable."
+    },
+    {
+      id: 806,
+      tamil: "எல்லைக்கண் நின்றார் துறவார் தொலைவிடத்தும் தொல்லைக்கண் நின்றார் தொடர்பு.",
+      tamilfr: "Ellaikkan Nindraar Thuravaar Tholaivitaththum Thollaikkan Nindraar Thotarpu",
+      translation: "Les véritables amis de longue date ne s'abandonnent jamais, même lorsque les circonstances deviennent défavorables.",
+      comment: "La fidélité demeure intacte malgré la distance, les difficultés ou les pertes."
+    },
+    {
+      id: 807,
+      tamil: "அழிவந்த செய்யினும் அன்பறார் அன்பின் வழிவந்த கேண்மை யவர்.",
+      tamilfr: "Azhivandha Seyyinum Anparaar Anpin Vazhivandha Kenmai Yavar",
+      translation: "Ceux dont l'amitié est née d'une véritable affection cessent rarement d'aimer, même lorsqu'ils subissent un tort.",
+      comment: "L'amour sincère est plus fort que les erreurs ou les déceptions passagères."
+    },
+    {
+      id: 808,
+      tamil: "கேளிழுக்கம் கேளாக் கெழுதகைமை வல்லார்க்கு நாளிழுக்கம் நட்டார் செயின்.",
+      tamilfr: "Kelizhukkam Kelaak Kezhudhakaimai Vallaarkku Naalizhukkam Nattaar Seyin",
+      translation: "Celui qui sait préserver une ancienne amitié considère même les fautes d'un ami comme une occasion de renforcer leur relation.",
+      comment: "La solidité d'une vieille amitié se révèle dans la manière de surmonter les erreurs."
+    },
+    {
+      id: 809,
+      tamil: "கெடாஅ வழிவந்த கேண்மையார் கேண்மை விடாஅர் விழையும் உலகு.",
+      tamilfr: "Ketaaa Vazhivandha Kenmaiyaar Kenmai Vitaaar Vizhaiyum Ulaku",
+      translation: "Le monde admire ceux qui demeurent fidèles aux anciennes amitiés sans jamais les abandonner.",
+      comment: "La loyauté envers ses vieux amis est une qualité universellement respectée."
+    },
+    {
+      id: 810,
+      tamil: "விழையார் விழையப் படுப பழையார்கண் பண்பின் தலைப்பிரியா தார்.",
+      tamilfr: "Vizhaiyaar Vizhaiyap Patupa Pazhaiyaarkan Panpin Thalaippiriyaa Thaar",
+      translation: "Même leurs adversaires admirent ceux qui restent inébranlablement fidèles à leurs anciens amis.",
+      comment: "La constance en amitié est une vertu si noble qu'elle force le respect de tous."
+    }
+
+  ]
+
+}, // fin du chapitre 81
+
+
+
+    {
+  id: 82,
+  name: "82. Thee Natpu - <br> Les mauvaises amitiés",
+
+  kurals: [
+
+    {
+      id: 811,
+      tamil: "பருகுவார் போலினும் பண்பிலார் கேண்மை பெருகலிற் குன்றல் இனிது.",
+      tamilfr: "Parukuvaar Polinum Panpilaar Kenmai Perukalir Kundral Inidhu",
+      translation: "Mieux vaut voir diminuer l'amitié des personnes sans vertu que la voir grandir, même si elles paraissent pleines d'affection.",
+      comment: "Une amitié hypocrite devient moins dangereuse à mesure qu'elle s'éloigne."
+    },
+    {
+      id: 812,
+      tamil: "உறின்நட்டு அறின்ஙருஉம் ஒப்பிலார் கேண்மை பெறினும் இழப்பினும் என்.",
+      tamilfr: "Urinnattu Arinoruum Oppilaar Kenmai Perinum Izhappinum En",
+      translation: "Que gagne-t-on ou que perd-on avec l'amitié de personnes inconstantes qui s'attachent et se détachent selon leur intérêt ?",
+      comment: "Une amitié instable n'apporte ni sécurité ni véritable valeur."
+    },
+    {
+      id: 813,
+      tamil: "உறுவது சீர்தூக்கும் நட்பும் பெறுவது கொள்வாரும் கள்வரும் நேர்.",
+      tamilfr: "Uruvadhu Seerdhookkum Natpum Peruvadhu Kolvaarum Kalvarum Ner",
+      translation: "Ceux qui évaluent une amitié selon le profit qu'ils peuvent en tirer ressemblent aux voleurs et aux escrocs.",
+      comment: "L'amitié fondée sur l'intérêt personnel n'est pas une véritable amitié."
+    },
+    {
+      id: 814,
+      tamil: "அமரகத்து ஆற்றறுக்கும் கல்லாமா அன்னார் தமரின் தனிமை தலை.",
+      tamilfr: "Amarakaththu Aatrarukkum Kallaamaa Annaar Thamarin Thanimai Thalai",
+      translation: "Mieux vaut être seul que d'avoir pour amis des personnes qui vous abandonnent au moment du danger.",
+      comment: "Un faux ami est plus nuisible que la solitude."
+    },
+    {
+      id: 815,
+      tamil: "செய்தேமஞ் சாராச் சிறியவர் புன்கேண்மை எய்தலின் எய்தாமை நன்று.",
+      tamilfr: "Seydhemanj Chaaraach Chiriyavar Punkenmai Eydhalin Eydhaamai Nandru",
+      translation: "Il vaut mieux ne jamais connaître l'amitié des personnes mesquines qui abandonnent leurs amis dans l'épreuve.",
+      comment: "Une amitié incapable de soutenir dans les difficultés ne mérite pas d'être recherchée."
+    },
+    {
+      id: 816,
+      tamil: "பேதை பெருங்கெழீஇ நட்பின் அறிவுடையார் ஏதின்மை கோடி உறும்.",
+      tamilfr: "Pedhai Perungezheei Natpin Arivutaiyaar Edhinmai Koti Urum",
+      translation: "L'inimitié d'un homme sage vaut infiniment mieux que l'amitié d'un insensé.",
+      comment: "La sagesse, même opposée à nous, est préférable à l'affection irréfléchie des ignorants."
+    },
+    {
+      id: 817,
+      tamil: "நகைவகைய ராகிய நட்பின் பகைவரால் பத்தடுத்த கோடி உறும்.",
+      tamilfr: "Nakaivakaiya Raakiya Natpin Pakaivaraal Paththatuththa Koti Urum",
+      translation: "L'hostilité d'un ennemi déclaré vaut bien mieux que l'amitié de ceux qui tournent tout en plaisanterie.",
+      comment: "Il est plus facile de se méfier d'un ennemi que d'un faux ami frivole."
+    },
+    {
+      id: 818,
+      tamil: "ஒல்லும் கருமம் உடற்று பவர்கேண்மை சொல்லாடார் சோர விடல்.",
+      tamilfr: "Ollum Karumam Utatru Pavarkenmai Sollaataar Sora Vital",
+      translation: "Éloigne-toi discrètement de ceux qui refusent de t'aider alors qu'ils en ont les moyens.",
+      comment: "Les actes révèlent la valeur d'une amitié bien mieux que les paroles."
+    },
+    {
+      id: 819,
+      tamil: "கனவினும் இன்னாது மன்னோ வினைவேறு சொல்வேறு பட்டார் தொடர்பு.",
+      tamilfr: "Kanavinum Innaadhu Manno Vinaiveru Solveru Pattaar Thotarpu",
+      translation: "Rien n'est plus pénible, même en rêve, que la fréquentation de ceux dont les paroles ne correspondent pas aux actes.",
+      comment: "L'hypocrisie détruit toute confiance et rend l'amitié impossible."
+    },
+    {
+      id: 820,
+      tamil: "எனைத்தும் குறுகுதல் ஓம்பல் மனைக்கெழீஇ மன்றில் பழிப்பார் தொடர்பு.",
+      tamilfr: "Enaiththum Kurukudhal Ompal Manaikkezheei Mandril Pazhippaar Thotarpu",
+      translation: "Évite autant que possible ceux qui se montrent amicaux en privé mais te critiquent en public.",
+      comment: "La loyauté exige la même attitude en privé comme en public."
+    }
+
+  ]
+
+}, // fin du chapitre 82
+
+
+
+    {
+  id: 83,
+  name: "83. Kooda Natpu - <br> L'amitié trompeuse",
+
+  kurals: [
+
+    {
+      id: 821,
+      tamil: "சீரிடம் காணின் எறிதற்குப் பட்டடை நேரா நிரந்தவர் நட்பு.",
+      tamilfr: "Seeritam Kaanin Eridharkup Pattatai Neraa Nirandhavar Natpu",
+      translation: "L'amitié de ceux qui ne sont pas sincères ressemble à une enclume : ils attendent seulement l'occasion de frapper.",
+      comment: "Les faux amis cachent parfois leurs intentions et cherchent le moment favorable pour nuire."
+    },
+    {
+      id: 822,
+      tamil: "இனம்போன்று இனமல்லார் கேண்மை மகளிர் மனம்போல வேறு படும்.",
+      tamilfr: "Inampondru Inamallaar Kenmai Makalir Manampola Veru Patum",
+      translation: "L'amitié de ceux qui semblent être des proches mais ne le sont pas véritablement change comme les pensées d'un esprit instable.",
+      comment: "Une relation fondée sur l'apparence et non sur la sincérité manque de constance."
+    },
+    {
+      id: 823,
+      tamil: "பலநல்ல கற்றக் கடைத்து மனநல்லர் ஆகுதல் மாணார்க் கரிது.",
+      tamilfr: "Palanalla Katrak Kataiththu Mananallar Aakudhal Maanaark Karidhu",
+      translation: "Même après avoir appris beaucoup de bonnes choses, il est difficile pour les personnes mauvaises de devenir bonnes dans leur cœur.",
+      comment: "Le savoir extérieur ne suffit pas à transformer une nature dépourvue de vertu."
+    },
+    {
+      id: 824,
+      tamil: "முகத்தின் இனிய நகாஅ அகத்தின்னா வஞ்சரை அஞ்சப் படும்.",
+      tamilfr: "Mukaththin Iniya Nakaaa Akaththinnaa Vanjarai Anjap Patum",
+      translation: "Il faut se méfier des personnes trompeuses qui sourient avec douceur mais cachent de mauvaises intentions dans leur cœur.",
+      comment: "Un visage aimable peut parfois dissimuler une pensée malveillante."
+    },
+    {
+      id: 825,
+      tamil: "மனத்தின் அமையா தவரை எனைத்தொன்றும் சொல்லினால் தேறற்பாற்று அன்று.",
+      tamilfr: "Manaththin Amaiyaa Thavarai Enaiththondrum Sollinaal Therarpaatru Andru",
+      translation: "On ne doit jamais se fier aux paroles de ceux dont le cœur n'est pas en accord avec leurs propos.",
+      comment: "La sincérité intérieure est plus importante que les belles paroles."
+    },
+    {
+      id: 826,
+      tamil: "நட்டார்போல் நல்லவை சொல்லினும் ஒட்டார்சொல் ஒல்லை உணரப் படும்.",
+      tamilfr: "Nattaarpol Nallavai Sollinum Ottaarsol Ollai Unarap Patum",
+      translation: "Même si un ennemi parle comme un ami et tient de bons propos, ses paroles finissent rapidement par être reconnues.",
+      comment: "La fausse bienveillance ne peut pas longtemps cacher une intention hostile."
+    },
+    {
+      id: 827,
+      tamil: "சொல்வணக்கம் ஒன்னார்கண் கொள்ளற்க வில்வணக்கம் தீங்கு குறித்தமை யான்.",
+      tamilfr: "Solvanakkam Onnaarkan Kollarka Vilvanakkam Theengu Kuriththamai Yaan",
+      translation: "Ne prends pas pour sincères les paroles humbles d'un ennemi : comme l'arc qui se courbe, elles peuvent annoncer un danger.",
+      comment: "Une apparence de soumission peut dissimuler une attaque prochaine."
+    },
+    {
+      id: 828,
+      tamil: "தொழுதகை யுள்ளும் படையொடுங்கும் ஒன்னார் அழுதகண் ணீரும் அனைத்து.",
+      tamilfr: "Thozhudhakai Yullum Pataiyotungum Onnaar Azhudhakan Neerum Anaiththu",
+      translation: "Même dans des mains jointes en signe de respect peut se cacher une arme, comme dans les larmes d'un ennemi.",
+      comment: "Les gestes d'humilité ne garantissent pas toujours la sincérité."
+    },
+    {
+      id: 829,
+      tamil: "மிகச்செய்து தம்மெள்ளு வாரை நகச்செய்து நட்பினுள் சாப்புல்லற் பாற்று.",
+      tamilfr: "Mikachcheydhu Thammellu Vaarai Nakachcheydhu Natpinul Saappullar Paatru",
+      translation: "Ceux qui vous flattent extérieurement tout en vous méprisant intérieurement doivent être traités avec prudence sous l'apparence de l'amitié.",
+      comment: "La meilleure réponse aux faux amis est de reconnaître leur hypocrisie sans leur accorder sa confiance."
+    },
+    {
+      id: 830,
+      tamil: "பகைநட்பாம் காலம் வருங்கால் முகநட்டு அகநட்பு ஒரீஇ விடல்.",
+      tamilfr: "Pakainatpaam Kaalam Varungaal Mukanattu Akanatpu Oreei Vital",
+      translation: "Lorsque l'ennemi cherche à devenir ami, garde une apparence amicale mais éloigne-le de ton cœur.",
+      comment: "La prudence est nécessaire lorsque l'amitié vient d'une personne dont les intentions ont été hostiles."
+    }
+
+  ]
+
+}, // fin du chapitre 83
+
+
+
+    {
+  id: 84,
+  name: "84. Pethaimai - <br> La sottise",
+
+  kurals: [
+
+    {
+      id: 831,
+      tamil: "பேதைமை என்பதொன்று யாதெனின் ஏதங்கொண்டு ஊதியம் போக விடல்.",
+      tamilfr: "Pedhaimai Enpadhondru Yaadhenin Edhangontu Oodhiyam Poka Vital",
+      translation: "La sottise consiste à choisir ce qui apporte du mal et à laisser échapper ce qui procure un bien.",
+      comment: "L'homme insensé agit contre son propre intérêt en préférant les pertes aux avantages."
+    },
+    {
+      id: 832,
+      tamil: "பேதைமையுள் எல்லாம் பேதைமை காதன்மை கையல்ல தன்கட் செயல்.",
+      tamilfr: "Pedhaimaiyul Ellaam Pedhaimai Kaadhanmai Kaiyalla Thankat Seyal",
+      translation: "La plus grande des folies est de désirer accomplir ce qui dépasse ses capacités.",
+      comment: "La sagesse consiste à connaître ses limites et à agir selon ses moyens."
+    },
+    {
+      id: 833,
+      tamil: "நாணாமை நாடாமை நாரின்மை யாதொன்றும் பேணாமை பேதை தொழில்.",
+      tamilfr: "Naanaamai Naataamai Naarinmai Yaadhondrum Penaamai Pedhai Thozhil",
+      translation: "L'absence de honte, de réflexion, de bonté et de souci pour toute chose caractérise le comportement de l'insensé.",
+      comment: "Le manque de conscience morale et d'attention envers les autres révèle la sottise."
+    },
+    {
+      id: 834,
+      tamil: "ஓதி உணர்ந்தும் பிறர்க்குரைத்தும் தானடங்காப் பேதையின் பேதையார் இல்.",
+      tamilfr: "Odhi Unarndhum Pirarkkuraiththum Thaanatangaap Pedhaiyin Pedhaiyaar Il",
+      translation: "Il n'existe pas de plus grand insensé que celui qui a étudié, enseigné aux autres, mais ne sait pas se maîtriser lui-même.",
+      comment: "Le véritable savoir exige une conduite conforme aux principes enseignés."
+    },
+    {
+      id: 835,
+      tamil: "ஒருமைச் செயலாற்றும் பேதை எழுமையும் தான்புக் கழுந்தும் அளறு.",
+      tamilfr: "Orumaich Cheyalaatrum Pedhai Ezhumaiyum Thaanpuk Kazhundhum Alaru",
+      translation: "Par une seule mauvaise action, l'insensé peut provoquer des conséquences désastreuses pour longtemps.",
+      comment: "Les actes irréfléchis peuvent entraîner des souffrances qui dépassent largement le moment présent."
+    },
+    {
+      id: 836,
+      tamil: "பொய்படும் ஒன்றோ புனைபூணும் கையறியாப் பேதை வினைமேற் கொளின்.",
+      tamilfr: "Poipatum Ondro Punaipoonum Kaiyariyaap Pedhai Vinaimer Kolin",
+      translation: "Lorsqu'un incapable entreprend une tâche, l'entreprise échoue et lui-même en subit les conséquences.",
+      comment: "Agir sans compétence ni préparation conduit inévitablement à l'échec."
+    },
+    {
+      id: 837,
+      tamil: "ஏதிலார் ஆரத் தமர்பசிப்பர் பேதை பெருஞ்செல்வம் உற்றக் கடை.",
+      tamilfr: "Edhilaar Aarath Thamarpasippar Pedhai Perunjelvam Utrak Katai",
+      translation: "Lorsque l'insensé acquiert une grande richesse, les étrangers en profitent tandis que ses proches souffrent.",
+      comment: "Celui qui manque de discernement ne sait pas préserver ni utiliser correctement ses biens."
+    },
+    {
+      id: 838,
+      tamil: "மையல் ஒருவன் களித்தற்றால் பேதைதன் கையொன்று உடைமை பெறின்.",
+      tamilfr: "Maiyal Oruvan Kaliththatraal Pedhaidhan Kaiyondru Utaimai Perin",
+      translation: "La possession d'un bien par un insensé ressemble à l'ivresse d'un homme déjà privé de raison.",
+      comment: "La richesse entre les mains d'un ignorant peut aggraver son manque de jugement."
+    },
+    {
+      id: 839,
+      tamil: "பெரிதினிது பேதையார் கேண்மை பிரிவின்கண் பீழை தருவதொன் றில்.",
+      tamilfr: "Peridhinidhu Pedhaiyaar Kenmai Pirivinkan Peezhai Tharuvadhon Ril",
+      translation: "L'amitié des insensés a au moins un avantage : lorsqu'elle cesse, elle ne cause aucune peine.",
+      comment: "Une relation sans profondeur ne laisse pas de véritable perte lorsqu'elle disparaît."
+    },
+    {
+      id: 840,
+      tamil: "கழாஅக்கால் பள்ளியுள் வைத்தற்றால் சான்றோர் குழாஅத்துப் பேதை புகல்.",
+      tamilfr: "Kazhaaakkaal Palliyul Vaiththatraal Saandror Kuzhaaaththup Pedhai Pukal",
+      translation: "L'entrée d'un insensé parmi les sages est comme entrer dans un lieu sacré avec des pieds impurs.",
+      comment: "La présence d'une personne sans discernement dans une assemblée de sagesse est déplacée."
+    }
+
+  ]
+
+}, // fin du chapitre 84
+
+
+
+    {
+  id: 85,
+  name: "85. Pullarivaanmai - <br> L'ignorance",
+
+  kurals: [
+
+    {
+      id: 841,
+      tamil: "அறிவின்மை இன்மையுள் இன்மை பிறிதின்மை இன்மையா வையா துலகு.",
+      tamilfr: "Arivinmai Inmaiyul Inmai Piridhinmai Inmaiyaa Vaiyaa Thulaku",
+      translation: "La plus grande des pauvretés est le manque de connaissance ; les autres manques ne sont pas considérés comme de véritables privations par le monde.",
+      comment: "La sagesse et le savoir sont les richesses les plus essentielles de l'être humain."
+    },
+    {
+      id: 842,
+      tamil: "அறிவிலான் நெஞ்சுவந்து ஈதல் பிறிதியாதும் இல்லை பெறுவான் தவம்.",
+      tamilfr: "Arivilaan Nenjuvandhu Eedhal Piridhiyaadhum Illai Peruvaan Thavam",
+      translation: "Si un ignorant donne avec générosité, ce n'est que la conséquence de la bonne fortune de celui qui reçoit.",
+      comment: "Un acte de bonté venant d'une personne sans discernement est davantage attribué au mérite du bénéficiaire."
+    },
+    {
+      id: 843,
+      tamil: "அறிவிலார் தாந்தம்மைப் பீழிக்கும் பீழை செறுவார்க்கும் செய்தல் அரிது.",
+      tamilfr: "Arivilaar Thaandhammaip Peezhikkum Peezhai Seruvaarkkum Seydhal Aridhu",
+      translation: "Les souffrances que les ignorants s'infligent eux-mêmes sont difficiles à causer même pour leurs ennemis.",
+      comment: "L'ignorance conduit souvent une personne à se nuire davantage que ne pourraient le faire ses adversaires."
+    },
+    {
+      id: 844,
+      tamil: "வெண்மை எனப்படுவ தியாதெனின் ஒண்மை உடையம்யாம் என்னும் செருக்கு.",
+      tamilfr: "Venmai Enappatuva Thiyaadhenin Onmai Utaiyamyaam Ennum Serukku",
+      translation: "Qu'appelle-t-on ignorance ? C'est l'orgueil de croire : « Nous possédons la sagesse. »",
+      comment: "Se croire savant sans réelle connaissance est une forme profonde d'aveuglement."
+    },
+    {
+      id: 845,
+      tamil: "கல்லாத மேற்கொண் டொழுகல் கசடற வல்லதூஉம் ஐயம் தரும்.",
+      tamilfr: "Kallaadha Merkon Tozhukal Kasatara Valladhooum Aiyam Tharum",
+      translation: "Prétendre maîtriser ce que l'on n'a pas appris jette même un doute sur les connaissances que l'on possède réellement.",
+      comment: "La fausse érudition détruit la confiance accordée au véritable savoir."
+    },
+    {
+      id: 846,
+      tamil: "அற்றம் மறைத்தலோ புல்லறிவு தம்வயின் குற்றம் மறையா வழி.",
+      tamilfr: "Atram Maraiththalo Pullarivu Thamvayin Kutram Maraiyaa Vazhi",
+      translation: "Cacher ses défauts sans corriger ses fautes révèle une intelligence limitée.",
+      comment: "La véritable sagesse consiste à reconnaître et à améliorer ses imperfections."
+    },
+    {
+      id: 847,
+      tamil: "அருமறை சோரும் அறிவிலான் செய்யும் பெருமிறை தானே தனக்கு.",
+      tamilfr: "Arumarai Sorum Arivilaan Seyyum Perumirai Thaane Thanakku",
+      translation: "L'ignorant qui ne sait pas garder les secrets précieux se cause lui-même un grand tort.",
+      comment: "Le manque de maîtrise de soi peut entraîner de graves conséquences."
+    },
+    {
+      id: 848,
+      tamil: "ஏவவும் செய்கலான் தான்தேறான் அவ்வுயிர் போஒம் அளவுமோர் நோய்.",
+      tamilfr: "Evavum Seykalaan Thaandheraan Avvuyir Poom Alavumor Noi",
+      translation: "Celui qui n'écoute aucun conseil et ne sait pas discerner est une souffrance pour lui-même jusqu'à la fin de sa vie.",
+      comment: "Refuser tout enseignement empêche toute progression et maintient l'ignorance."
+    },
+    {
+      id: 849,
+      tamil: "காணாதான் காட்டுவான் தான்காணான் காணாதான் கண்டானாம் தான்கண்ட வாறு.",
+      tamilfr: "Kaanaadhaan Kaattuvaan Thaankaanaan Kaanaadhaan Kantaanaam Thaankanta Vaaru",
+      translation: "Celui qui n'a pas compris prétend montrer la voie ; il ne voit pas lui-même, mais croit avoir vu.",
+      comment: "L'ignorant refuse souvent de reconnaître ses propres limites."
+    },
+    {
+      id: 850,
+      tamil: "உலகத்தார் உண்டென்பது இல்லென்பான் வையத்து அலகையா வைக்கப் படும்.",
+      tamilfr: "Ulakaththaar Untenpadhu Illenpaan Vaiyaththu Alakaiyaa Vaikkap Patum",
+      translation: "Celui qui nie ce que tous les hommes reconnaissent sera considéré comme un être étrange dans ce monde.",
+      comment: "Refuser toute vérité communément admise sans raison révèle un manque de discernement."
+    }
+
+  ]
+
+}, // fin du chapitre 85
+
+
+
+    {
+  id: 86,
+  name: "86. Ikal - <br> L'hostilité",
+
+  kurals: [
+
+    {
+      id: 851,
+      tamil: "இகலென்ப எல்லா உயிர்க்கும் பகலென்னும் பண்பின்மை பாரிக்கும் நோய்.",
+      tamilfr: "Ikalenpa Ellaa Uyirkkum Pakalennum Panpinmai Paarikkum Noi",
+      translation: "L'hostilité est une maladie qui répand parmi tous les êtres le manque d'harmonie appelé division.",
+      comment: "La haine et la discorde détruisent la paix qui unit les êtres vivants."
+    },
+    {
+      id: 852,
+      tamil: "பகல்கருதிப் பற்றா செயினும் இகல்கருதி இன்னாசெய் யாமை தலை.",
+      tamilfr: "Pakalkarudhip Patraa Seyinum Ikalkarudhi Innaasey Yaamai Thalai",
+      translation: "Même lorsqu'une séparation semble nécessaire, il vaut mieux éviter toute action nuisible née de l'hostilité.",
+      comment: "Éviter de blesser autrui par ressentiment est une marque de sagesse."
+    },
+    {
+      id: 853,
+      tamil: "இகலென்னும் எவ்வநோய் நீக்கின் தவலில்லாத் தாவில் விளக்கம் தரும்.",
+      tamilfr: "Ikalennum Evvanoi Neekkin Thavalillaath Thaavil Vilakkam Tharum",
+      translation: "Celui qui élimine la terrible maladie de l'hostilité obtient une gloire durable et sans déclin.",
+      comment: "La paix intérieure et la bienveillance conduisent à une renommée impérissable."
+    },
+    {
+      id: 854,
+      tamil: "இன்பத்துள் இன்பம் பயக்கும் இகலென்னும் துன்பத்துள் துன்பங் கெடின்.",
+      tamilfr: "Inpaththul Inpam Payakkum Ikalennum Thunpaththul Thunpang Ketin",
+      translation: "Lorsque disparaît la plus grande des souffrances, l'hostilité, naît alors la plus grande des joies.",
+      comment: "Se libérer de la haine apporte une joie profonde et durable."
+    },
+    {
+      id: 855,
+      tamil: "இகலெதிர் சாய்ந்தொழுக வல்லாரை யாரே மிக்லூக்கும் தன்மை யவர்.",
+      tamilfr: "Ikaledhir Saaindhozhuka Vallaarai Yaare Mikalookkum Thanmai Yavar",
+      translation: "Qui pourrait vaincre celui qui sait résister aux sentiments d'hostilité et rester maître de lui-même ?",
+      comment: "La maîtrise de soi face à la haine est une véritable force."
+    },
+    {
+      id: 856,
+      tamil: "இகலின் மிகலினிது என்பவன் வாழ்க்கை தவலும் கெடலும் நணித்து.",
+      tamilfr: "Ikalin Mikalinidhu Enpavan Vaazhkkai Thavalum Ketalum Naniththu",
+      translation: "Celui qui croit que l'excès d'hostilité est une source de plaisir verra bientôt sa vie tomber dans le malheur et la ruine.",
+      comment: "La haine excessive conduit inévitablement à la destruction."
+    },
+    {
+      id: 857,
+      tamil: "மிகல்மேவல் மெய்ப்பொருள் காணார் இகல்மேவல் இன்னா அறிவி னவர்.",
+      tamilfr: "Mikalmeval Meypporul Kaanaar Ikalmeval Innaa Arivi Navar",
+      translation: "Ceux qui s'attachent à la haine destructrice sont incapables de percevoir la véritable sagesse.",
+      comment: "L'hostilité obscurcit l'esprit et empêche de voir la vérité."
+    },
+    {
+      id: 858,
+      tamil: "இகலிற்கு எதிர்சாய்தல் ஆக்கம் அதனை மிக்லூக்கின் ஊக்குமாம் கேடு.",
+      tamilfr: "Ikalirku Edhirsaaidhal Aakkam Adhanai Mikalookkin Ookkumaam Ketu",
+      translation: "Résister à l'hostilité apporte le succès ; s'y abandonner attire la ruine.",
+      comment: "La victoire sur soi-même est plus grande que la victoire sur un adversaire."
+    },
+    {
+      id: 859,
+      tamil: "இகல்காணான் ஆக்கம் வருங்கால் அதனை மிகல்காணும் கேடு தரற்கு.",
+      tamilfr: "Ikalkaanaan Aakkam Varungaal Adhanai Mikalkaanum Ketu Thararku",
+      translation: "Celui qui est destiné à prospérer ne recherche pas l'hostilité, tandis que celui qui va vers la ruine ne voit qu'elle.",
+      comment: "L'esprit orienté vers le bien évite naturellement les conflits inutiles."
+    },
+    {
+      id: 860,
+      tamil: "இகலானாம் இன்னாத எல்லாம் நகலானாம் நன்னயம் என்னும் செருக்கு.",
+      tamilfr: "Ikalaanaam Innaadha Ellaam Nakalaanaam Nannayam Ennum Serukku",
+      translation: "Toute souffrance vient de l'hostilité, tandis que l'amitié engendre la noble fierté de la bonté.",
+      comment: "La haine produit les maux, alors que l'harmonie fait naître les vertus."
+    }
+
+  ]
+
+}, // fin du chapitre 86
+
+
+    {
+  id: 87,
+  name: "87. Pakaimaatchi - <br> La puissance de l'ennemi",
+
+  kurals: [
+
+    {
+      id: 861,
+      tamil: "வலியார்க்கு மாறேற்றல் ஓம்புக ஓம்பா மெலியார்மேல் மேக பகை.",
+      tamilfr: "Valiyaarkku Maaretral Ompuka Ompaa Meliyaarmel Meka Pakai",
+      translation: "Évite de t'opposer aux puissants ; ne nourris ton hostilité que contre ceux qui sont faibles.",
+      comment: "La prudence commande de ne pas provoquer ceux qui disposent d'une grande force, car un ennemi puissant peut devenir dangereux."
+    },
+    {
+      id: 862,
+      tamil: "அன்பிலன் ஆன்ற துணையிலன் தான்துவ்வான் என்பரியும் ஏதிலான் துப்பு.",
+      tamilfr: "Anpilan Aandra Thunaiyilan Thaandhuvvaan Enpariyum Edhilaan Thuppu",
+      translation: "Celui qui est sans affection, sans soutien solide et sans force personnelle, comment pourrait-il résister à un ennemi puissant ?",
+      comment: "L'absence de qualités humaines, d'alliés et de ressources rend l'homme incapable de faire face aux adversités."
+    },
+    {
+      id: 863,
+      tamil: "அஞ்சும் அறியான் அமைவிலன் ஈகலான் தஞ்சம் எளியன் பகைக்கு.",
+      tamilfr: "Anjum Ariyaan Amaivilan Eekalaan Thanjam Eliyan Pakaikku",
+      translation: "Le peureux, l'ignorant, l'instable et l'avare deviennent une proie facile pour leurs ennemis.",
+      comment: "Les faiblesses du caractère offrent aux adversaires des occasions de victoire."
+    },
+    {
+      id: 864,
+      tamil: "நீங்கான் வெகுளி நிறையிலன் எஞ்ஞான்றும் யாங்கணும் யார்க்கும் எளிது.",
+      tamilfr: "Neengaan Vekuli Niraiyilan Egngnaandrum Yaanganum Yaarkkum Elidhu",
+      translation: "Celui qui ne se défait pas de sa colère et manque de maîtrise de soi est toujours facile à vaincre, où qu'il soit et par qui que ce soit.",
+      comment: "Une colère incontrôlée et un esprit sans discipline rendent vulnérable face à tout adversaire."
+    },
+    {
+      id: 865,
+      tamil: "வழிநோக்கான் வாய்ப்பன செய்யான் பழிநோக்கான் பண்பிலன் பற்றார்க்கு இனிது.",
+      tamilfr: "Vazhinokkaan Vaaippana Seyyaan Pazhinokkaan Panpilan Patraarkku Inidhu",
+      translation: "Celui qui ignore les circonstances, n'agit pas avec discernement, ne craint pas le blâme et manque de vertu est un ennemi apprécié de ses adversaires.",
+      comment: "Un ennemi dépourvu de jugement et de bonnes qualités est facilement exploitable."
+    },
+    {
+      id: 866,
+      tamil: "காணாச் சினத்தான் கழிபெருங் காமத்தான் பேணாமை பேணப் படும்.",
+      tamilfr: "Kaanaach Chinaththaan Kazhiperung Kaamaththaan Penaamai Penap Patum",
+      translation: "Celui qui est dominé par une colère aveugle et des désirs excessifs est un ennemi qu'il faut même préserver.",
+      comment: "Les passions incontrôlées rendent un adversaire faible, car elles obscurcissent son jugement."
+    },
+    {
+      id: 867,
+      tamil: "கொடுத்தும் கொளல்வேண்டும் மன்ற அடுத்திருந்து மாணாத செய்வான் பகை.",
+      tamilfr: "Kotuththum Kolalventum Mandra Atuththirundhu Maanaadha Seyvaan Pakai",
+      translation: "Il faut même acheter un tel ennemi : celui qui reste proche mais agit sans dignité et sans mesure.",
+      comment: "Un adversaire maladroit qui se nuit à lui-même peut être moins dangereux s'il est neutralisé par la sagesse."
+    },
+    {
+      id: 868,
+      tamil: "குணனிலனாய்க் குற்றம் பலவாயின் மாற்றார்க்கு இனனிலனாம் ஏமாப் புடைத்து.",
+      tamilfr: "Kunanilanaaik Kutram Palavaayin Maatraarkku Inanilanaam Emaap Putaiththu",
+      translation: "Celui qui manque de vertus, possède de nombreux défauts et n'a aucun allié procure une grande satisfaction à ses ennemis.",
+      comment: "Sans qualités morales ni soutien, une personne devient facilement exposée aux attaques."
+    },
+    {
+      id: 869,
+      tamil: "செறுவார்க்குச் சேணிகவா இன்பம் அறிவிலா அஞ்சும் பகைவர்ப் பெறின்.",
+      tamilfr: "Seruvaarkkuch Chenikavaa Inpam Arivilaa Anjum Pakaivarp Perin",
+      translation: "La joie des ennemis est sans limite lorsqu'ils rencontrent un adversaire ignorant et craintif.",
+      comment: "Un adversaire privé de courage et de sagesse représente une victoire facile pour ceux qui le combattent."
+    },
+    {
+      id: 870,
+      tamil: "கல்லான் வெகுளும் சிறுபொருள் எஞ்ஞான்றும் ஒல்லானை ஒல்லா தொளி.",
+      tamilfr: "Kallaan Vekulum Siruporul Egngnaandrum Ollaanai Ollaath Oli",
+      translation: "Aucune gloire ni aucun avantage ne revient jamais à celui qui ne sait pas vaincre même un ennemi ignorant.",
+      comment: "La véritable renommée ne vient pas d'une victoire facile sur un adversaire sans valeur."
+    }
+
+  ]
+
+}, // fin du chapitre 87
+
+
+    {
+  id: 88,
+  name: "88. Pakaiththirandheridhal - <br> Connaître la nature de l'hostilité",
+
+  kurals: [
+
+    {
+      id: 871,
+      tamil: "பகைஎன்னும் பண்பி லதனை ஒருவன் நகையேயும் வேண்டற்பாற்று அன்று.",
+      tamilfr: "Pakaiennum Panpi Ladhanai Oruvan Nakaiyeyum Ventarpaatru Andru",
+      translation: "L'homme ne doit jamais désirer l'hostilité, même pour plaisanter.",
+      comment: "L'inimitié est un mal qu'il faut éviter, car elle engendre des conflits et des souffrances."
+    },
+    {
+      id: 872,
+      tamil: "வில்லேர் உழவர் பகைகொளினும் கொள்ளற்க சொல்லேர் உழவர் பகை.",
+      tamilfr: "Viller Uzhavar Pakaikolinum Kollarka Soller Uzhavar Pakai",
+      translation: "Même si l'on doit affronter des hommes armés d'arcs, il faut éviter l'ennemi dont l'arme est la parole.",
+      comment: "Les personnes habiles par la parole et l'intelligence peuvent être plus dangereuses que celles qui utilisent la force."
+    },
+    {
+      id: 873,
+      tamil: "ஏமுற் றவரினும் ஏழை தமியனாய்ப் பல்லார் பகைகொள் பவன்.",
+      tamilfr: "Emur Ravarinum Ezhai Thamiyanaaip Pallaar Pakaikol Pavan",
+      translation: "Plus malheureux qu'un fou est celui qui, seul et sans soutien, se fait de nombreux ennemis.",
+      comment: "Chercher des conflits avec plusieurs adversaires sans alliés révèle un manque de sagesse."
+    },
+    {
+      id: 874,
+      tamil: "பகைநட்பாக் கொண்டொழுகும் பண்புடை யாளன் தகைமைக்கண் தங்கிற்று உலகு.",
+      tamilfr: "Pakainatpaak Kontozhukum Panputai Yaalan Thakaimaikkan Thangitru Ulaku",
+      translation: "Le monde appartient à celui qui possède la grandeur de transformer ses ennemis en amis.",
+      comment: "La capacité à convertir l'hostilité en amitié est une marque de véritable noblesse."
+    },
+    {
+      id: 875,
+      tamil: "தன்துணை இன்றால் பகையிரண்டால் தான்ஒருவன் இன்துணையாக் கொள்கவற்றின் ஒன்று.",
+      tamilfr: "Thandhunai Indraal Pakaiyirantaal Thaanoruvan Indhunaiyaak Kolkavatrin Ondru",
+      translation: "Lorsqu'un homme seul sans soutien fait face à deux ennemis, qu'il choisisse l'un d'eux comme allié.",
+      comment: "La diplomatie et la stratégie permettent de surmonter une situation défavorable."
+    },
+    {
+      id: 876,
+      tamil: "தேறினும் தேறா விடினும் அழிவின்கண் தேறான் பகாஅன் விடல்.",
+      tamilfr: "Therinum Theraa Vitinum Azhivinkan Theraan Pakaaan Vital",
+      translation: "Dans une situation dangereuse, qu'il ne s'attache ni à un allié incertain ni à un ennemi incertain.",
+      comment: "Lorsque le danger approche, il faut éviter les choix précipités et agir avec discernement."
+    },
+    {
+      id: 877,
+      tamil: "நோவற்க நொந்தது அறியார்க்கு மேவற்க மென்மை பகைவர் அகத்து.",
+      tamilfr: "Novarka Nondhadhu Ariyaarkku Mevarka Menmai Pakaivar Akaththu",
+      translation: "Ne confie pas tes peines à ceux qui ne les comprennent pas, et ne montre pas tes faiblesses à tes ennemis.",
+      comment: "Révéler ses vulnérabilités à ses adversaires leur donne un avantage."
+    },
+    {
+      id: 878,
+      tamil: "வகையறிந்து தற்செய்து தற்காப்ப மாயும் பகைவர்கண் பட்ட செருக்கு.",
+      tamilfr: "Vakaiyarindhu Tharseydhu Tharkaappa Maayum Pakaivarkan Patta Serukku",
+      translation: "En connaissant les moyens, en agissant avec préparation et en se protégeant, on détruit l'orgueil des ennemis.",
+      comment: "Une bonne préparation et une défense intelligente permettent de vaincre les adversaires arrogants."
+    },
+    {
+      id: 879,
+      tamil: "இளைதாக முள்மரம் கொல்க களையுநர் கைகொல்லும் காழ்த்த இடத்து.",
+      tamilfr: "Ilaidhaaka Mulmaram Kolka Kalaiyunar Kaikollum Kaazhththa Idaththu",
+      translation: "Coupe le buisson épineux lorsqu'il est jeune ; devenu grand, il blessera la main de celui qui l'arrache.",
+      comment: "Les petites menaces doivent être éliminées tôt avant qu'elles ne deviennent incontrôlables."
+    },
+    {
+      id: 880,
+      tamil: "உயிர்ப்ப உளரல்லர் மன்ற செயிர்ப்பவர் செம்மல் சிதைக்கலா தார்.",
+      tamilfr: "Uyirppa Ularallar Mandra Seyirppavar Semmal Sidhaikkalaa Thaar",
+      translation: "Ceux qui ne peuvent détruire la fierté de leurs ennemis hostiles ne pourront longtemps rester en vie.",
+      comment: "Une menace persistante doit être maîtrisée, car ignorer un ennemi dangereux mène à la ruine."
+    }
+
+  ]
+
+}, // fin du chapitre 88
+
+
+    {
+  id: 89,
+  name: "89. Utpakai - <br> L'hostilité intérieure",
+
+  kurals: [
+
+    {
+      id: 881,
+      tamil: "நிழல்நீரும் இன்னாத இன்னா தமர்நீரும் இன்னாவாம் இன்னா செயின்.",
+      tamilfr: "Nizhalneerum Innaadha Innaa Thamarneerum Innaavaam Innaa Seyin",
+      translation: "Même l'ombre et l'eau peuvent devenir nuisibles lorsqu'elles causent du mal ; il en va de même des proches qui nuisent.",
+      comment: "Les personnes proches qui trahissent la confiance peuvent devenir plus dangereuses que des ennemis visibles."
+    },
+    {
+      id: 882,
+      tamil: "வாள்போல பகைவரை அஞ்சற்க அஞ்சுக கேள்போல் பகைவர் தொடர்பு.",
+      tamilfr: "Vaalpola Pakaivarai Anjarka Anjuka Kelpol Pakaivar Thotarpu",
+      translation: "Ne crains pas l'ennemi qui porte une épée ; crains plutôt le lien avec celui qui se présente comme un ami.",
+      comment: "Un ennemi ouvert est moins dangereux qu'une personne hostile qui cache ses intentions sous l'apparence de l'amitié."
+    },
+    {
+      id: 883,
+      tamil: "உட்பகை அஞ்சித்தற் காக்க உலைவிடத்து மட்பகையின் மாணத் தெறும்.",
+      tamilfr: "Utpakai Anjiththar Kaakka Ulaivitaththu Matpakaiyin Maanath Therum",
+      translation: "Protège-toi contre l'ennemi intérieur, car dans les moments difficiles il peut frapper comme l'outil du potier.",
+      comment: "Une hostilité cachée parmi les proches peut causer des blessures profondes lorsque survient une faiblesse."
+    },
+    {
+      id: 884,
+      tamil: "மனமாணா உட்பகை தோன்றின் இனமாணா ஏதம் பலவும் தரும்.",
+      tamilfr: "Manamaanaa Utpakai Thondrin Inamaanaa Edham Palavum Tharum",
+      translation: "Lorsque l'hostilité intérieure naît dans un esprit sans noblesse, elle apporte de nombreux malheurs parmi les proches.",
+      comment: "Les rancunes cachées détruisent l'harmonie au sein d'un groupe ou d'une famille."
+    },
+    {
+      id: 885,
+      tamil: "உறல்முறையான் உட்பகை தோன்றின் இறல்முறையான் ஏதம் பலவும் தரும்.",
+      tamilfr: "Uralmuraiyaan Utpakai Thondrin Iralmuraiyaan Edham Palavum Tharum",
+      translation: "Lorsque l'hostilité intérieure apparaît entre ceux qui sont liés, elle entraîne de nombreux malheurs destructeurs.",
+      comment: "Les conflits entre proches sont particulièrement douloureux car ils atteignent les liens fondamentaux."
+    },
+    {
+      id: 886,
+      tamil: "ஒன்றாமை ஒன்றியார் கட்படின் எஞ்ஞான்றும் பொன்றாமை ஒன்றல் அரிது.",
+      tamilfr: "Ondraamai Ondriyaar Katpatin Egngnaandrum Pondraamai Ondral Aridhu",
+      translation: "Lorsque la désunion apparaît parmi ceux qui étaient unis, il devient difficile de préserver leur existence et leur force.",
+      comment: "L'unité d'un groupe peut disparaître lorsque les divisions internes prennent racine."
+    },
+    {
+      id: 887,
+      tamil: "செப்பின் புணர்ச்சிபோல் கூடினும் கூடாதே உட்பகை உற்ற குடி.",
+      tamilfr: "Seppin Punarchchipol Kootinum Kootaadhe Utpakai Utra Kuti",
+      translation: "Une famille atteinte par l'hostilité intérieure ressemble à une boîte et son couvercle : elle paraît unie mais ne l'est pas.",
+      comment: "Les apparences d'unité ne peuvent masquer une division profonde entre ses membres."
+    },
+    {
+      id: 888,
+      tamil: "அரம்பொருத பொன்போலத் தேயும் உரம்பொருது உட்பகை உற்ற குடி.",
+      tamilfr: "Aramporudha Ponpolath Theyum Uramporudhu Utpakai Utra Kuti",
+      translation: "Une famille rongée par les conflits internes s'use comme l'or frotté par une lime.",
+      comment: "Les querelles intérieures diminuent peu à peu la force, la prospérité et la stabilité d'un groupe."
+    },
+    {
+      id: 889,
+      tamil: "எட்பக வன்ன சிறுமைத்தே ஆயினும் உட்பகை உள்ளதாங் கேடு.",
+      tamilfr: "Etpaka Vanna Sirumaiththe Aayinum Utpakai Ulladhaang Ketu",
+      translation: "Même une hostilité intérieure aussi petite qu'une graine peut devenir une grande source de destruction.",
+      comment: "Une petite rancune cachée peut se développer et causer de graves dommages."
+    },
+    {
+      id: 890,
+      tamil: "உடம்பாடு இலாதவர் வாழ்க்கை குடங்கருள் பாம்போடு உடனுறைந் தற்று.",
+      tamilfr: "Utampaatu Ilaadhavar Vaazhkkai Kutangarul Paampotu Utanurain Thatru",
+      translation: "Vivre avec une personne sans harmonie intérieure revient à partager une demeure avec un serpent.",
+      comment: "Une relation avec quelqu'un qui nourrit une hostilité cachée est toujours dangereuse et instable."
+    }
+
+  ]
+
+}, // fin du chapitre 89
+
+
+    {
+  id: 90,
+  name: "90. Periyaaraip Pizhaiyaamai - <br> Ne pas offenser les grands",
+
+  kurals: [
+
+    {
+      id: 891,
+      tamil: "ஆற்றுவார் ஆற்றல் இகழாமை போற்றுவார் போற்றலுள் எல்லாம் தலை.",
+      tamilfr: "Aatruvaar Aatral Ikazhaamai Potruvaar Potralul Ellaam Thalai",
+      translation: "La meilleure protection pour soi-même est de ne jamais mépriser la puissance de ceux qui ont la capacité d'agir.",
+      comment: "Respecter la force et les compétences des personnes puissantes est la première règle de prudence."
+    },
+    {
+      id: 892,
+      tamil: "பெரியாரைப் பேணாது ஒழுகிற் பெரியாரால் பேரா இடும்பை தரும்.",
+      tamilfr: "Periyaaraip Penaadhu Ozhukir Periyaaraal Peraa Itumpai Tharum",
+      translation: "Celui qui manque de respect aux grands s'attire par eux des souffrances sans fin.",
+      comment: "Offenser ceux qui possèdent sagesse, pouvoir ou influence peut entraîner de graves conséquences."
+    },
+    {
+      id: 893,
+      tamil: "கெடல்வேண்டின் கேளாது செய்க அடல்வேண்டின் ஆற்று பவர்கண் இழுக்கு.",
+      tamilfr: "Ketalventin Kelaadhu Seyka Atalventin Aatru Pavarkan Izhukku",
+      translation: "Si tu désires ta ruine, agis sans écouter les conseils ; si tu veux combattre, provoque ceux qui sont capables de te vaincre.",
+      comment: "S'opposer imprudemment à des personnes puissantes mène à la destruction."
+    },
+    {
+      id: 894,
+      tamil: "கூற்றத்தைக் கையால் விளித்தற்றால் ஆற்றுவார்க்கு ஆற்றாதார் இன்னா செயல்.",
+      tamilfr: "Kootraththaik Kaiyaal Viliththatraal Aatruvaarkku Aatraadhaar Innaa Seyal",
+      translation: "Faire du tort à ceux qui sont puissants revient, pour un faible, à appeler la mort de sa propre main.",
+      comment: "Un homme sans force ne doit pas provoquer ceux qui peuvent facilement le détruire."
+    },
+    {
+      id: 895,
+      tamil: "யாண்டுச்சென்று யாண்டும் உளராகார் வெந்துப்பின் வேந்து செறப்பட் டவர்.",
+      tamilfr: "Yaantuch Chendru Yaantum Ularaakaar Vendhuppin Vendhu Serappat Tavar",
+      translation: "Celui qui s'attire la colère d'un roi puissant ne trouvera aucun lieu où vivre en sécurité.",
+      comment: "La colère d'une personne disposant d'une grande autorité peut poursuivre celui qui l'a offensée."
+    },
+    {
+      id: 896,
+      tamil: "எரியால் சுடப்படினும் உய்வுண்டாம் உய்யார் பெரியார்ப் பிழைத்தொழுகு வார்.",
+      tamilfr: "Eriyaal Sutappatinum Uyvuntaam Uyyaar Periyaarp Pizhaiththozhuku Vaar",
+      translation: "Même celui qui est brûlé par le feu peut survivre ; mais celui qui offense les grands ne peut échapper aux conséquences.",
+      comment: "Les blessures causées par une flamme peuvent guérir, mais les conséquences d'une grave offense envers les puissants peuvent être irréversibles."
+    },
+    {
+      id: 897,
+      tamil: "வகைமாண்ட வாழ்க்கையும் வான்பொருளும் என்னாம் தகைமாண்ட தக்கார் செறின்.",
+      tamilfr: "Vakaimaanta Vaazhkkaiyum Vaanporulum Ennaam Thakaimaanta Thakkaar Serin",
+      translation: "À quoi servent une vie magnifique et de grandes richesses si l'on s'attire la colère des personnes vertueuses et honorables ?",
+      comment: "La richesse et le prestige ne protègent pas celui qui perd le respect des sages et des justes."
+    },
+    {
+      id: 898,
+      tamil: "குன்றன்னார் குன்ற மதிப்பின் குடியொடு நின்றன்னார் மாய்வர் நிலத்து.",
+      tamilfr: "Kundrannaar Kundra Madhippin Kutiyotu Nindrannaar Maaivar Nilaththu",
+      translation: "Si l'on méprise ceux qui sont grands comme des montagnes, ceux qui dépendent d'eux disparaîtront avec eux.",
+      comment: "Sous-estimer les personnes puissantes peut entraîner la chute de toute une communauté ou famille."
+    },
+    {
+      id: 899,
+      tamil: "ஏந்திய கொள்கையார் சீறின் இடைமுரிந்து வேந்தனும் வேந்து கெடும்.",
+      tamilfr: "Endhiya Kolkaiyaar Seerin Itaimurindhu Vendhanum Vendhu Ketum",
+      translation: "Même un roi puissant peut tomber au milieu de son règne lorsque des hommes de grande valeur et de principes s'irritent contre lui.",
+      comment: "La force morale des grands hommes peut dépasser le pouvoir politique."
+    },
+    {
+      id: 900,
+      tamil: "இறந்தமைந்த சார்புடையர் ஆயினும் உய்யார் சிறந்தமைந்த சீரார் செறின்.",
+      tamilfr: "Irandhamaindha Saarputaiyar Aayinum Uyyaar Sirandhamaindha Seeraar Serin",
+      translation: "Même ceux qui possèdent de grands soutiens et une immense puissance ne peuvent être sauvés si les personnes les plus éminentes leur deviennent hostiles.",
+      comment: "Aucune protection matérielle ne suffit lorsque l'on perd le soutien ou le respect des grands et des sages."
+    }
+
+  ]
+
+}, // fin du chapitre 90
+
+
+    {
+  id: 91,
+  name: "91. Penvazhichcheral - <br> Être dirigé par les femmes",
+
+  kurals: [
+
+    {
+      id: 901,
+      tamil: "மனைவிழைவார் மாண்பயன் எய்தார் வினைவிழையார் வேண்டாப் பொருளும் அது.",
+      tamilfr: "Manaivizhaivaar Maanpayan Eydhaar Vinaivizhaiyaar Ventaap Porulum Adhu",
+      translation: "Ceux qui sont dominés par leur attachement excessif à leur épouse n'atteignent pas la grandeur ; les hommes d'action évitent une telle faiblesse.",
+      comment: "Une affection excessive qui prive l'homme de son indépendance peut l'empêcher d'accomplir de grandes choses."
+    },
+    {
+      id: 902,
+      tamil: "பேணாது பெண்விழைவான் ஆக்கம் பெரியதோர் நாணாக நாணுத் தரும்.",
+      tamilfr: "Penaadhu Penvizhaivaan Aakkam Periyadhor Naanaaka Naanuth Tharum",
+      translation: "La richesse d'un homme qui se laisse gouverner par son amour excessif des femmes ne lui apporte qu'une grande honte.",
+      comment: "La prospérité perd sa valeur lorsqu'elle est accompagnée d'une perte de dignité et de maîtrise de soi."
+    },
+    {
+      id: 903,
+      tamil: "இல்லாள்கண் தாழ்ந்த இயல்பின்மை எஞ்ஞான்றும் நல்லாருள் நாணுத் தரும்.",
+      tamilfr: "Illaalkan Thaazhndha Iyalpinmai Egngnaandrum Nallaarul Naanuth Tharum",
+      translation: "Se soumettre constamment à son épouse entraîne toujours la honte parmi les personnes vertueuses.",
+      comment: "L'homme doit conserver sa dignité et son discernement dans ses relations personnelles."
+    },
+    {
+      id: 904,
+      tamil: "மனையாளை அஞ்சும் மறுமையி லாளன் வினையாண்மை வீறெய்த லின்று.",
+      tamilfr: "Manaiyaalai Anjum Marumaiyi Laalan Vinaiyaanmai Veereydha Lindru",
+      translation: "Celui qui craint son épouse ne peut atteindre la grandeur dans ses actions, ni dans cette vie ni dans l'autre.",
+      comment: "La peur excessive envers autrui affaiblit la capacité d'agir avec courage et responsabilité."
+    },
+    {
+      id: 905,
+      tamil: "இல்லாளை அஞ்சுவான் அஞ்சுமற் றெஞ்ஞான்றும் நல்லார்க்கு நல்ல செயல்.",
+      tamilfr: "Illaalai Anjuvaan Anjumar Regngnaandrum Nallaarkku Nalla Seyal",
+      translation: "Celui qui craint son épouse craindra toujours aussi de faire le bien envers les gens de valeur.",
+      comment: "Un manque de courage dans la vie privée peut se refléter dans les actions nobles et sociales."
+    },
+    {
+      id: 906,
+      tamil: "இமையாரின் வாழினும் பாடிலரே இல்லாள் அமையார்தோள் அஞ்சு பவர்.",
+      tamilfr: "Imaiyaarin Vaazhinum Paatilare Illaal Amaiyaardhol Anju Pavar",
+      translation: "Même s'ils vivaient comme les immortels, ceux qui craignent les épaules délicates de leur épouse ne possèdent pas une véritable dignité.",
+      comment: "La grandeur extérieure ne suffit pas lorsque l'homme manque de fermeté intérieure."
+    },
+    {
+      id: 907,
+      tamil: "பெண்ணேவல் செய்தொழுகும் ஆண்மையின் நாணுடைப் பெண்ணே பெருமை உடைத்து.",
+      tamilfr: "Penneval Seydhozhukum Aanmaiyin Naanutaip Penne Perumai Utaiththu",
+      translation: "Une femme modeste possède une plus grande noblesse qu'un homme qui vit dans la soumission à une femme.",
+      comment: "La dignité et la vertu comptent davantage que le simple statut d'homme ou de femme."
+    },
+    {
+      id: 908,
+      tamil: "நட்டார் குறைமுடியார் நன்றாற்றார் நன்னுதலாள் பெட்டாங்கு ஒழுகு பவர்.",
+      tamilfr: "Nattaar Kuraimutiyaar Nandraatraar Nannudhalaal Pettaangu Ozhuku Pavar",
+      translation: "Ceux qui se conduisent selon les désirs de leur épouse ne peuvent aider leurs amis ni accomplir de bonnes actions.",
+      comment: "Une dépendance excessive empêche de remplir ses devoirs envers les autres."
+    },
+    {
+      id: 909,
+      tamil: "அறவினையும் ஆன்ற பொருளும் பிறவினையும் பெண்ஏவல் செய்வார்கண் இல்.",
+      tamilfr: "Aravinaiyum Aandra Porulum Piravinaiyum Peneval Seyvaarkan Il",
+      translation: "Les actions vertueuses, les richesses honorables et les autres accomplissements ne se trouvent pas chez ceux qui vivent sous la domination des femmes.",
+      comment: "L'homme qui abandonne son jugement personnel perd sa capacité à poursuivre des buts élevés."
+    },
+    {
+      id: 910,
+      tamil: "எண்சேர்ந்த நெஞ்சத் திடனுடையார்க்கு எஞ்ஞான்றும் பெண்சேர்ந்தாம் பேதைமை இல்.",
+      tamilfr: "Enserndha Nenjath Thitanutaiyaarkku Egngnaandrum Penserndhaam Pedhaimai Il",
+      translation: "Ceux qui possèdent un esprit réfléchi et une volonté ferme ne tombent jamais dans la folie d'un attachement aveugle aux femmes.",
+      comment: "La sagesse et la maîtrise de soi protègent contre toute forme d'attachement excessif."
+    }
+
+  ]
+
+}, // fin du chapitre 91
+
+
+    {
+  id: 92,
+  name: "92. Varaivinmakalir - <br> Les femmes vénales",
+
+  kurals: [
+
+    {
+      id: 911,
+      tamil: "அன்பின் விழையார் பொருள்விழையும் ஆய்தொடியார் இன்சொல் இழுக்குத் தரும்.",
+      tamilfr: "Anpin Vizhaiyaar Porulvizhaiyum Aaidhotiyaar Insol Izhukkuth Tharum",
+      translation: "Les douces paroles des femmes ornées de bijoux qui recherchent la richesse et non l'amour conduisent au déshonneur.",
+      comment: "Une affection motivée uniquement par l'intérêt matériel cache une intention trompeuse."
+    },
+    {
+      id: 912,
+      tamil: "பயன்தூக்கிப் பண்புரைக்கும் பண்பின் மகளிர் நயன்தூக்கி நள்ளா விடல்.",
+      tamilfr: "Payandhookkip Panpuraikkum Panpin Makalir Nayandhookki Nallaa Vidal",
+      translation: "Il faut éviter les femmes sans vertu qui parlent avec douceur uniquement en fonction du profit qu'elles recherchent.",
+      comment: "Les paroles séduisantes guidées par l'intérêt personnel ne doivent pas être prises pour une véritable affection."
+    },
+    {
+      id: 913,
+      tamil: "பொருட்பெண்டிர் பொய்ம்மை முயக்கம் இருட்டறையில் ஏதில் பிணந்தழீஇ அற்று.",
+      tamilfr: "Porutpentir Poimmai Muyakkam Iruttaraiyil Edhil Pinandhazheei Atru",
+      translation: "L'étreinte trompeuse d'une femme qui recherche l'argent ressemble à embrasser un cadavre étranger dans une pièce obscure.",
+      comment: "Une relation fondée uniquement sur le gain matériel est vide de véritable attachement."
+    },
+    {
+      id: 914,
+      tamil: "பொருட்பொருளார் புன்னலந் தோயார் அருட்பொருள் ஆயும் அறிவி னவர்.",
+      tamilfr: "Porutporulaar Punnalan Thoyaar Arutporul Aayum Arivi Navar",
+      translation: "Ceux qui recherchent les richesses de la vertu ne désirent pas les faux plaisirs de celles qui recherchent l'argent.",
+      comment: "Les sages préfèrent les valeurs élevées aux plaisirs éphémères et intéressés."
+    },
+    {
+      id: 915,
+      tamil: "பொதுநலத்தார் புன்னலம் தோயார் மதிநலத்தின் மாண்ட அறிவி னவர்.",
+      tamilfr: "Podhunalaththaar Punnalam Thoyaar Madhinalaththin Maanta Arivi Navar",
+      translation: "Les hommes d'une grande sagesse ne recherchent pas les plaisirs vulgaires des femmes accessibles à tous.",
+      comment: "La véritable intelligence conduit à éviter les plaisirs qui diminuent la dignité."
+    },
+    {
+      id: 916,
+      tamil: "தந்நலம் பாரப்பார் தோயார் தகைசெருக்கிப் புன்னலம் பாரிப்பார் தோள்.",
+      tamilfr: "Thannalam Paarippaar Thoyaar Thakaiserukki Punnalam Paarippaar Thol",
+      translation: "Ceux qui veillent à leur propre bien ne recherchent pas les épaules de celles qui offrent leurs charmes pour l'argent.",
+      comment: "Celui qui protège sa dignité évite les relations fondées sur la vanité et l'intérêt."
+    },
+    {
+      id: 917,
+      tamil: "நிறைநெஞ்சம் இல்லவர் தோய்வார் பிறநெஞ்சிற் பேணிப் புணர்பவர் தோள்.",
+      tamilfr: "Nirainenjam Illavar Thoivaar Piranenjir Penip Punarpavar Thol",
+      translation: "Seuls ceux qui manquent de fermeté intérieure recherchent les bras de celles qui s'unissent sans véritable attachement.",
+      comment: "Une personne sans maîtrise de soi se laisse facilement séduire par des relations sans profondeur."
+    },
+    {
+      id: 918,
+      tamil: "ஆயும் அறிவினர் அல்லார்க்கு அணங்கென்ப மாய மகளிர் முயக்கு.",
+      tamilfr: "Aayum Arivinar Allaarkku Anangenpa Maaya Makalir Muyakku",
+      translation: "Seuls ceux qui manquent de discernement considèrent l'étreinte des femmes trompeuses comme un enchantement divin.",
+      comment: "Le manque de jugement fait prendre l'illusion pour une véritable beauté."
+    },
+    {
+      id: 919,
+      tamil: "வரைவிலா மாணிழையார் மென்தோள் புரையிலாப் பூரியர்கள் ஆழும் அளறு.",
+      tamilfr: "Varaivilaa Maanizhaiyaar Mendhol Puraiyilaap Pooriyarkal Aazhum Alaru",
+      translation: "Les bras doux des femmes sans retenue sont un abîme où tombent les hommes dépourvus de noblesse.",
+      comment: "Les plaisirs sans limites peuvent entraîner les personnes faibles vers leur propre perte."
+    },
+    {
+      id: 920,
+      tamil: "இருமனப் பெண்டிரும் கள்ளும் கவறும் திருநீக்கப் பட்டார் தொடர்பு.",
+      tamilfr: "Irumanap Pentirum Kallum Kavarum Thiruneekkap Pattaar Thotarpu",
+      translation: "Les femmes infidèles, l'alcool et les jeux de hasard sont les fréquentations de ceux que la fortune a abandonnés.",
+      comment: "Les habitudes et relations destructrices éloignent la prospérité et la réussite."
+    }
+
+  ]
+
+}, // fin du chapitre 92
+
+    {
+  id: 93,
+  name: "93. Kallunnaamai - <br> Ne pas boire d'alcool",
+
+  kurals: [
+
+    {
+      id: 921,
+      tamil: "உட்கப் படாஅர் ஒளியிழப்பர் எஞ்ஞான்றும் கட்காதல் கொண்டொழுகு வார்.",
+      tamilfr: "Utkap Pataaar Oliyizhappar Egngnaandrum Katkaadhal Kontozhuku Vaar",
+      translation: "Ceux qui aiment constamment l'alcool ne seront jamais respectés et perdront toujours leur réputation.",
+      comment: "L'attachement à l'ivresse détruit la dignité et fait perdre la considération des autres."
+    },
+    {
+      id: 922,
+      tamil: "உண்ணற்க கள்ளை உணில்உண்க சான்றோரான் எண்ணப் படவேண்டா தார்.",
+      tamilfr: "Unnarka Kallai Unilunka Saandroraan Ennap Pataventaa Thaar",
+      translation: "Ne bois pas d'alcool ; que seuls ceux qui ne désirent pas être estimés par les sages en boivent.",
+      comment: "Celui qui recherche l'honneur et le respect des personnes vertueuses doit éviter l'ivresse."
+    },
+    {
+      id: 923,
+      tamil: "ஈன்றாள் முகத்தேயும் இன்னாதால் என்மற்றுச் சான்றோர் முகத்துக் களி.",
+      tamilfr: "Eendraal Mukaththeyum Innaadhaal Enmatruch Chaandror Mukaththuk Kali",
+      translation: "Si l'ivresse est pénible même devant sa propre mère, combien plus l'est-elle devant les personnes sages.",
+      comment: "Le comportement d'un homme ivre provoque la honte même auprès de ceux qui lui sont les plus proches."
+    },
+    {
+      id: 924,
+      tamil: "நாண்என்னும் நல்லாள் புறங்கொடுக்கும் கள்ளென்னும் பேணாப் பெருங்குற்றத் தார்க்கு.",
+      tamilfr: "Naanennum Nallaal Purangotukkum Kallennum Penaap Perungutrath Thaarkku",
+      translation: "La noble pudeur abandonne ceux qui commettent le grand défaut de l'ivresse.",
+      comment: "L'alcool excessif fait disparaître la honte et la retenue qui protègent la dignité humaine."
+    },
+    {
+      id: 925,
+      tamil: "கையறி யாமை உடைத்தே பொருள்கொடுத்து மெய்யறி யாமை கொளல்.",
+      tamilfr: "Kaiyari Yaamai Utaiththe Porulkotuththu Meyyari Yaamai Kolal",
+      translation: "C'est une grande ignorance que de dépenser ses biens pour obtenir en retour la perte de sa conscience.",
+      comment: "Gaspiller ses ressources pour l'ivresse revient à acheter sa propre perte de discernement."
+    },
+    {
+      id: 926,
+      tamil: "துஞ்சினார் செத்தாரின் வேறல்லர் எஞ்ஞான்றும் நஞ்சுண்பார் கள்ளுண் பவர்.",
+      tamilfr: "Thunjinaar Seththaarin Verallar Egngnaandrum Nanjunpaar Kallun Pavar",
+      translation: "Les dormeurs ressemblent aux morts ; de même, ceux qui boivent de l'alcool ressemblent à ceux qui consomment du poison.",
+      comment: "L'ivresse excessive détruit la conscience et nuit au corps comme une substance toxique."
+    },
+    {
+      id: 927,
+      tamil: "உள்ளொற்றி உள்ளூர் நகப்படுவர் எஞ்ஞான்றும் கள்ளொற்றிக் கண்சாய் பவர்.",
+      tamilfr: "Ullotri Ulloor Nakappatuvar Egngnaandrum Kallotrik Kansaai Pavar",
+      translation: "Ceux qui s'enivrent en secret deviennent toujours un sujet de moquerie parmi les gens de leur entourage.",
+      comment: "Les habitudes cachées finissent souvent par être découvertes et entraînent la perte de respect."
+    },
+    {
+      id: 928,
+      tamil: "களித்தறியேன் என்பது கைவிடுக நெஞ்சத்து ஒளித்ததூஉம் ஆங்கே மிகும்.",
+      tamilfr: "Kaliththariyen Enpadhu Kaivituka Nenjaththu Oliththadhooum Aange Mikum",
+      translation: "Abandonne l'affirmation : « Je ne bois jamais » ; ce qui est caché dans le cœur se révèle dans l'ivresse.",
+      comment: "L'alcool fait tomber les masques et révèle les pensées ou défauts dissimulés."
+    },
+    {
+      id: 929,
+      tamil: "களித்தானைக் காரணம் காட்டுதல் கீழ்நீர்க் குளித்தானைத் தீத்துரீஇ அற்று.",
+      tamilfr: "Kaliththaanaik Kaaranam Kaattudhal Keezhneerk Kuliththaanaith Theeththureei Atru",
+      translation: "Chercher à raisonner avec un homme ivre revient à chercher un homme noyé dans l'eau profonde avec une torche.",
+      comment: "Il est inutile de tenter de convaincre quelqu'un dont l'esprit est momentanément privé de raison."
+    },
+    {
+      id: 930,
+      tamil: "கள்ளுண்ணாப் போழ்திற் களித்தானைக் காணுங்கால் உள்ளான்கொல் உண்டதன் சோர்வு.",
+      tamilfr: "Kallunnaap Pozhdhir Kaliththaanaik Kaanungaal Ullaankol Untadhan Sorvu",
+      translation: "Lorsqu'un homme sobre voit un autre ivre, ne reconnaît-il pas la déchéance que l'alcool lui-même lui apporte ?",
+      comment: "Observer les effets de l'ivresse chez autrui devrait conduire chacun à comprendre ses propres erreurs."
+    }
+
+  ]
+
+}, // fin du chapitre 93
+
+
+    {
+  id: 94,
+  name: "94. Soodhu - <br> Les jeux d'argent",
+
+  kurals: [
+
+    {
+      id: 931,
+      tamil: "வேண்டற்க வென்றிடினும் சூதினை வென்றதூஉம் தூண்டிற்பொன் மீன்விழுங்கி அற்று.",
+      tamilfr: "Ventarka Vendritinum Soodhinai Vendradhooum Thoontirpon Meenvizhungi Atru",
+      translation: "Ne désire pas le jeu, même si tu gagnes ; car une victoire au jeu ressemble au poisson qui avale l'appât brillant du pêcheur.",
+      comment: "Un gain obtenu par le jeu attire souvent vers une perte plus grande."
+    },
+    {
+      id: 932,
+      tamil: "ஒன்றெய்தி நூறிழக்கும் சூதர்க்கும் உண்டாங்கொல் நன்றெய்தி வாழ்வதோர் ஆறு.",
+      tamilfr: "Ondreydhi Noorizhakkum Soodharkkum Untaangol Nandreydhi Vaazhvadhor Aaru",
+      translation: "Ceux qui gagnent une fois et perdent cent fois dans le jeu peuvent-ils réellement trouver une voie vers une bonne vie ?",
+      comment: "Les pertes répétées finissent par détruire la prospérité du joueur."
+    },
+    {
+      id: 933,
+      tamil: "உருளாயம் ஓவாது கூறின் பொருளாயம் போஒய்ப் புறமே படும்.",
+      tamilfr: "Urulaayam Ovaadhu Koorin Porulaayam Pooip Purame Patum",
+      translation: "Si l'on s'attache sans cesse aux dés qui roulent, les richesses accumulées finiront par partir chez les autres.",
+      comment: "Le jeu transforme progressivement les biens d'une personne en fortune pour autrui."
+    },
+    {
+      id: 934,
+      tamil: "சிறுமை பலசெய்து சீரழிக்கும் சூதின் வறுமை தருவதொன்று இல்.",
+      tamilfr: "Sirumai Palaseydhu Seerazhikkum Soodhin Varumai Tharuvadhondru Il",
+      translation: "Rien ne cause autant la pauvreté que le jeu, qui engendre de nombreuses misères et détruit la réputation.",
+      comment: "Le jeu excessif entraîne la ruine matérielle et morale."
+    },
+    {
+      id: 935,
+      tamil: "கவறும் கழகமும் கையும் தருக்கி இவறியார் இல்லாகி யார்.",
+      tamilfr: "Kavarum Kazhakamum Kaiyum Tharukki Ivariyaar Illaaki Yaar",
+      translation: "Ceux qui ne peuvent abandonner les dés, le lieu du jeu et l'habitude de jouer finiront par tout perdre.",
+      comment: "L'attachement au jeu prive peu à peu l'homme de ses ressources."
+    },
+    {
+      id: 936,
+      tamil: "அகடாரார் அல்லல் உழப்பர்சூ தென்னும் முகடியான் மூடப்பட் டார்.",
+      tamilfr: "Akataaraar Allal Uzhapparsoo Thennum Mukatiyaan Mootappat Taar",
+      translation: "Ceux qui sont aveuglés par le démon appelé jeu souffriront et connaîtront la faim.",
+      comment: "Le jeu obscurcit le jugement et conduit aux difficultés les plus graves."
+    },
+    {
+      id: 937,
+      tamil: "பழகிய செல்வமும் பண்பும் கெடுக்கும் கழகத்துக் காலை புகின்.",
+      tamilfr: "Pazhakiya Selvamum Panpum Ketukkum Kazhakaththuk Kaalai Pukin",
+      translation: "Passer son temps dans les maisons de jeu détruit les richesses héritées et les qualités personnelles.",
+      comment: "Le temps consacré au jeu éloigne de la vertu et gaspille les biens."
+    },
+    {
+      id: 938,
+      tamil: "பொருள்கெடுத்துப் பொய்மேற் கொளீஇ அருள்கெடுத்து அல்லல் உழப்பிக்கும் சூது.",
+      tamilfr: "Porul Ketuththup Poimer Koleei Arulketuththu Allal Uzhappikkum Soodhu",
+      translation: "Le jeu détruit les biens, encourage le mensonge, fait perdre la compassion et apporte la souffrance.",
+      comment: "Les effets du jeu dépassent la perte d'argent et corrompent le caractère."
+    },
+    {
+      id: 939,
+      tamil: "உடைசெல்வம் ஊண்ஒளி கல்விஎன்று ஐந்தும் அடையாவாம் ஆயங் கொளின்.",
+      tamilfr: "Utaiselvam Oonoli Kalviendru Aindhum Ataiyaavaam Aayang Kolin",
+      translation: "Celui qui s'adonne au jeu perd cinq choses : vêtements, richesse, nourriture, réputation et savoir.",
+      comment: "Le jeu excessif prive progressivement l'homme de tout ce qui soutient une vie digne."
+    },
+    {
+      id: 940,
+      tamil: "இழத்தொறூஉம் காதலிக்கும் சூதேபோல் துன்பம் உழத்தொறூஉம் காதற்று உயிர்.",
+      tamilfr: "Izhaththoruvum Kaadhalikkum Soodhepol Thunpam Uzhaththoruvum Kaadhatru Uyir",
+      translation: "Comme l'homme continue d'aimer la vie malgré ses souffrances, le joueur continue d'aimer le jeu malgré ses pertes.",
+      comment: "L'attachement au jeu devient une passion irrationnelle difficile à abandonner."
+    }
+
+  ]
+
+}, // fin du chapitre 94
+
+
+    {
+  id: 95,
+  name: "95. Marundhu - <br> La médecine",
+
+  kurals: [
+
+    {
+      id: 941,
+      tamil: "மிகினும் குறையினும் நோய்செய்யும் நூலோர் வளிமுதலா எண்ணிய மூன்று.",
+      tamilfr: "Mikinum Kuraiyinum Noiseyyum Noolor Valimudhalaa Enniya Moondru",
+      translation: "Les trois éléments commençant par l'air, selon les savants, provoquent des maladies lorsqu'ils sont en excès ou en insuffisance.",
+      comment: "L'équilibre des éléments du corps est essentiel pour préserver la santé."
+    },
+    {
+      id: 942,
+      tamil: "மருந்தென வேண்டாவாம் யாக்கைக்கு அருந்தியது அற்றது போற்றி உணின்.",
+      tamilfr: "Marundhena Ventaavaam Yaakkaikku Arundhiyadhu Atradhu Potri Unin",
+      translation: "Le corps n'a pas besoin de médicament si l'on mange en respectant la digestion du repas précédent.",
+      comment: "Une alimentation équilibrée et une bonne digestion sont les premières protections contre la maladie."
+    },
+    {
+      id: 943,
+      tamil: "அற்றால் அறவறிந்து உண்க அஃதுடம்பு பெற்றான் நெடிதுய்க்கும் ஆறு.",
+      tamilfr: "Atraal Aravarindhu Unka Aqdhutampu Petraan Netidhuykkum Aaru",
+      translation: "Après la digestion, il faut manger avec mesure ; c'est la voie qui permet à celui qui possède un corps de vivre longtemps.",
+      comment: "La modération dans l'alimentation favorise une vie longue et saine."
+    },
+    {
+      id: 944,
+      tamil: "அற்றது அறிந்து கடைப்பிடித்து மாறல்ல துய்க்க துவரப் பசித்து.",
+      tamilfr: "Atradhu Arindhu Kataippitiththu Maaralla Thuykka Thuvarap Pasiththu",
+      translation: "Après avoir vérifié que le repas précédent est digéré et que la vraie faim est venue, il faut manger des aliments convenables.",
+      comment: "Manger au bon moment et choisir une nourriture adaptée protège la santé."
+    },
+    {
+      id: 945,
+      tamil: "மாறுபாடு இல்லாத உண்டி மறுத்துண்ணின் ஊறுபாடு இல்லை உயிர்க்கு.",
+      tamilfr: "Maarupaatu Illaadha Unti Maruththunnin Oorupaatu Illai Uyirkku",
+      translation: "Si l'on mange une nourriture adaptée sans excès, aucun dommage ne menace la vie.",
+      comment: "La qualité et la juste quantité des aliments maintiennent l'équilibre du corps."
+    },
+    {
+      id: 946,
+      tamil: "இழிவறிந்து உண்பான்கண் இன்பம்போல் நிற்கும் கழிபேர் இரையான்கண் நோய்.",
+      tamilfr: "Izhivarindhu Unpaankan Inpampol Nirkum Kazhiper Iraiyaankan Noi",
+      translation: "Chez celui qui mange avec modération demeure le plaisir, tandis que la maladie accompagne celui qui mange avec excès.",
+      comment: "La maîtrise de l'appétit apporte le bien-être, alors que la gourmandise attire les maladies."
+    },
+    {
+      id: 947,
+      tamil: "தீயள வன்றித் தெரியான் பெரிதுண்ணின் நோயள வின்றிப் படும்.",
+      tamilfr: "Theeyala Vandrith Theriyaan Peridhunnin Noyala Vindrip Patum",
+      translation: "Celui qui ignore ses limites et mange excessivement souffrira de maladies sans mesure.",
+      comment: "L'excès alimentaire est une source importante de souffrance physique."
+    },
+    {
+      id: 948,
+      tamil: "நோய்நாடி நோய்முதல் நாடி அதுதணிக்கும் வாய்நாடி வாய்ப்பச் செயல்.",
+      tamilfr: "Noinaati Noimudhal Naati Adhudhanikkum Vaainaati Vaaippach Cheyal",
+      translation: "Il faut examiner la maladie, rechercher sa cause, trouver le remède approprié et l'appliquer correctement.",
+      comment: "Une bonne médecine commence par un diagnostic précis avant tout traitement."
+    },
+    {
+      id: 949,
+      tamil: "உற்றான் அளவும் பிணியளவும் காலமும் கற்றான் கருதிச் செயல்.",
+      tamilfr: "Utraan Alavum Piniyalavum Kaalamum Katraan Karudhich Cheyal",
+      translation: "Le médecin doit considérer la constitution du patient, l'étendue de la maladie et le moment du traitement.",
+      comment: "Un traitement efficace dépend de la connaissance du malade, de la maladie et des circonstances."
+    },
+    {
+      id: 950,
+      tamil: "உற்றவன் தீர்ப்பான் மருந்துழைச் செல்வானென்று அப்பால் நாற்கூற்றே மருந்து.",
+      tamilfr: "Utravan Theerppaan Marundhuzhaich Chelvaanendru Appaal Naar Kootre Marundhu",
+      translation: "Un traitement repose sur quatre éléments : le malade, le médecin qui le soigne, le médicament et celui qui l'administre.",
+      comment: "La guérison dépend de l'union harmonieuse du patient, du praticien, du remède et des soins."
+    }
+
+  ]
+
+} // fin du chapitre 95
 
 
  ] // fin de tous les chapitres de l'Iyal 10
 
 }, // fin de l'Iyal 10
+
+
+      
     
       
 
