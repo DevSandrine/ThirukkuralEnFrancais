@@ -6325,7 +6325,7 @@ kurals: [
   name: " Koozhiyal <br> L'acquisition des richesses ",
 
   //====================================================
-  // DEBUT DES CHAPITRES DE L IYAL 7 DU LIVRE 2
+  // DEBUT DES CHAPITRES DE L IYAL 8 DU LIVRE 2
   //=======================================================
   chapters: [
 
@@ -6408,14 +6408,109 @@ kurals: [
 
   ]
 
-}, // fin du chapitre 76
-
- 
-    
+} // fin du chapitre 76
 
   ] // fin de tous les chapitres de l'Iyal 8
 
 }, // fin de l'Iyal 8
+
+
+{
+  id: 9,
+
+  //===========================================
+  // DEBUT DE L IYAL 9 DU LIVRE 2
+  //==============================================
+  name: " Padaiyiyal <br> L'armée ",
+
+  //====================================================
+  // DEBUT DES CHAPITRES DE L IYAL 9 DU LIVRE 2
+  //=======================================================
+  chapters: [
+     {
+  id: 77,
+  name: "77. Padai Maatchi - <br> L'excellence d'une armée",
+
+  kurals: [
+
+    {
+      id: 761,
+      tamil: "உறுப்பமைந்து ஊறஞ்சா வெல்படை வேந்தன் வெறுக்கையுள் எல்லாம் தலை.",
+      transliteration: "Uruppamaindhu Ooranjaa Velpatai Vendhan Verukkaiyul Ellaam Thalai",
+      translation: "Une armée bien organisée, disciplinée et intrépide face aux difficultés est le plus précieux des atouts d'un souverain.",
+      comment: "La force d'un royaume repose avant tout sur une armée unie, préparée et courageuse."
+    },
+    {
+      id: 762,
+      tamil: "உலைவிடத்து ஊறஞ்சா வன்கண் தொலைவிடத்துத் தொல்படைக் கல்லால் அரிது.",
+      transliteration: "Ulaivitaththu Ooranjaa Vankan Tholaivitaththuth Tholpataik Kallaal Aridhu",
+      translation: "Seule une armée aguerrie conserve son courage dans les situations les plus critiques, même après de lourdes pertes.",
+      comment: "L'expérience et la discipline permettent à une armée de rester ferme dans l'adversité."
+    },
+    {
+      id: 763,
+      tamil: "ஒலித்தக்கால் என்னாம் உவரி எலிப்பகை நாகம் உயிர்ப்பக் கெடும்.",
+      transliteration: "Oliththakkaal Ennaam Uvari Elippakai Naakam Uyirppak Ketum",
+      translation: "À quoi sert le vacarme d'une multitude d'ennemis faibles ? Au souffle d'un seul cobra, ils se dispersent.",
+      comment: "Le nombre ne remplace jamais la véritable puissance ni le courage."
+    },
+    {
+      id: 764,
+      tamil: "அழிவின்றி அறைபோகா தாகி வழிவந்த வன்க ணதுவே படை.",
+      transliteration: "Azhivindri Araipokaa Thaaki Vazhivandha Vanka Nadhuve Patai",
+      translation: "Une véritable armée est celle qui, fidèle à sa tradition, ne connaît ni la défaite ni la désertion.",
+      comment: "La valeur militaire s'appuie sur la loyauté, la continuité et la bravoure."
+    },
+    {
+      id: 765,
+      tamil: "கூற்றுடன்று மேல்வரினும் கூடி எதிர்நிற்கும் ஆற்ற லதுவே படை.",
+      transliteration: "Kootrutandru Melvarinum Kooti Edhirnirkum Aatra Ladhuve Patai",
+      translation: "Une armée digne de ce nom reste unie et fait face à l'ennemi, même si la mort elle-même s'avance contre elle.",
+      comment: "L'unité et le courage collectif sont les marques d'une armée véritable."
+    },
+    {
+      id: 766,
+      tamil: "மறமானம் மாண்ட வழிச்செலவு தேற்றம் எனநான்கே ஏமம் படைக்கு.",
+      transliteration: "Maramaanam Maanta Vazhichchelavu Thetram Enanaanke Emam Pataikku",
+      translation: "Le courage, l'honneur, la noble tradition militaire et la confiance sont les quatre piliers qui protègent une armée.",
+      comment: "Ces qualités assurent la solidité et la réputation des forces armées."
+    },
+    {
+      id: 767,
+      tamil: "தார்தாங்கிச் செல்வது தானை தலைவந்த போர்தாங்கும் தன்மை அறிந்து.",
+      transliteration: "Thaardhaangich Chelvadhu Thaanai Thalaivandha Pordhaangum Thanmai Arindhu",
+      translation: "Une armée doit savoir résister aux offensives ennemies tout en avançant avec ordre et détermination.",
+      comment: "La victoire appartient aux troupes capables de supporter les attaques tout en poursuivant leur objectif."
+    },
+    {
+      id: 768,
+      tamil: "அடல்தகையும் ஆற்றலும் இல்லெனினும் தானை படைத்தகையால் பாடு பெறும்.",
+      transliteration: "Ataldhakaiyum Aatralum Illeninum Thaanai Pataiththakaiyaal Paatu Perum",
+      translation: "Même si elle manque de puissance offensive, une armée peut acquérir de la renommée par sa taille et son organisation.",
+      comment: "La discipline et l'importance des effectifs inspirent parfois le respect autant que la force."
+    },
+    {
+      id: 769,
+      tamil: "சிறுமையும் செல்லாத் துனியும் வறுமையும் இல்லாயின் வெல்லும் படை.",
+      transliteration: "Sirumaiyum Sellaath Thuniyum Varumaiyum Illaayin Vellum Patai",
+      translation: "Une armée triomphe lorsqu'elle est exempte de faiblesse, de divisions et de pauvreté.",
+      comment: "La cohésion, les ressources et la stabilité sont essentielles à la victoire."
+    },
+    {
+      id: 770,
+      tamil: "நிலைமக்கள் சால உடைத்தெனினும் தானை தலைமக்கள் இல்வழி இல்.",
+      transliteration: "Nilaimakkal Saala Utaiththeninum Thaanai Thalaimakkal Ilvazhi Il",
+      translation: "Même composée de nombreux soldats valeureux, une armée est perdue si elle manque de chefs compétents.",
+      comment: "Le commandement est indispensable pour donner une direction et assurer le succès des troupes."
+    }
+
+  ]
+
+}, // fin du chapitre 77
+
+  ] // fin de tous les chapitres de l'Iyal 9
+
+}, // fin de l'Iyal 9
 
     
 
