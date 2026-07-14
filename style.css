@@ -290,25 +290,3 @@ header {
     transform: scale(1.05);
 }
 
-
-
-.titre-muppalkal {
-    text-align: center;
-    margin: 40px auto 30px;
-    padding: 20px;
-    max-width: 600px;
-    background: #fffdf8;
-    border-radius: 8px;
-}
-
-.titre-muppalkal h2 {
-    font-size: 2rem;
-    color: #6b3e1e;
-    margin-bottom: 8px;
-}
-
-.titre-muppalkal p {
-    font-size: 1.1rem;
-    color: #555;
-    margin: 0;
-}
