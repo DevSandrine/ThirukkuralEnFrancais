@@ -5297,7 +5297,7 @@ kurals: [
       // CHAPITRE 64
       //===========================================================================================
       id: 64,
-      name: "1. Amaichu - <br> Les qualités du ministre",
+      name: "64. Amaichu - <br> Les qualités du ministre",
 
       // ===========================================================================================
       // TOUS LES KURAL DU CHAPITRE 64
