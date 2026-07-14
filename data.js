@@ -6125,11 +6125,13 @@ kurals: [
 
   ]
 
-}, // fin du chapitre 73
+}// fin du chapitre 73
+
+    
 
   ] // fin de tous les chapitres de l'Iyal 6
 
-} // fin de l'Iyal 6 : Amaichiyal
+}, // fin de l'Iyal 6 : Amaichiyal
 
 
 
