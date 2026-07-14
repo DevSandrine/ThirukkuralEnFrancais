@@ -6140,7 +6140,7 @@ kurals: [
   //===========================================
   // DEBUT DE L IYAL 7 DU LIVRE 2
   //==============================================
-  name: "Aran Iyal, Koozh Iyal, Padai Iyal <br> Politique : défense, ressources et forces militaires ",
+  name: " Araṇiyal <br> L'État et sa défense ",
 
   //====================================================
   // DEBUT DES CHAPITRES DE L IYAL 7 DU LIVRE 2
@@ -6227,7 +6227,88 @@ kurals: [
 
 }, // fin du chapitre 74
 
- 
+
+    {
+  id: 75,
+  name: "75. Aran - La forteresse",
+
+  kurals: [
+
+    {
+      id: 741,
+      tamil: "ஆற்று பவர்க்கும் அரண்பொருள் அஞ்சித்தற் போற்று பவர்க்கும் பொருள்.",
+      transliteration: "Aatru Pavarkkum Aranporul Anjiththar Potru Pavarkkum Porul",
+      translation: "Une forteresse est un bien précieux aussi bien pour ceux qui attaquent que pour ceux qui cherchent à se protéger.",
+      comment: "Une place forte sert à la fois de moyen d’action et de refuge face aux dangers."
+    },
+    {
+      id: 742,
+      tamil: "மணிநீரும் மண்ணும் மலையும் அணிநிழற் காடும் உடைய தரண்.",
+      transliteration: "Manineerum Mannum Malaiyum Aninizhar Kaatum Utaiya Tharan",
+      translation: "Une forteresse possède des eaux limpides, des terres, des montagnes et des forêts protectrices.",
+      comment: "Une bonne défense repose sur des ressources naturelles et un environnement favorable."
+    },
+    {
+      id: 743,
+      tamil: "உயர்வகலம் திண்மை அருமைஇந் நான்கின் அமைவரண் என்றுரைக்கும் நூல்.",
+      transliteration: "Uyarvakalam Thinmai Arumaiin Naankin Amaivaran Endruraikkum Nool",
+      translation: "Les traités enseignent qu’une forteresse doit avoir quatre qualités : hauteur, étendue, solidité et difficulté d’accès.",
+      comment: "La puissance d’une fortification dépend de sa position, de sa résistance et de son imprenabilité."
+    },
+    {
+      id: 744,
+      tamil: "சிறுகாப்பிற் பேரிடத்த தாகி உறுபகை ஊக்கம் அழிப்ப தரண்.",
+      transliteration: "Sirukaappir Peritaththa Thaaki Urupakai Ookkam Azhippa Tharan",
+      translation: "Une forteresse idéale est vaste, facile à défendre et capable de décourager l’ennemi.",
+      comment: "Une bonne organisation défensive réduit la force et la motivation des adversaires."
+    },
+    {
+      id: 745,
+      tamil: "கொளற்கரிதாய்க் கொண்டகூழ்த் தாகி அகத்தார் நிலைக்கெளிதாம் நீரது அரண்.",
+      transliteration: "Kolarkaridhaaik Kontakoozhth Thaaki Akaththaar Nilaikkelidhaam Neeradhu Aran",
+      translation: "Une forteresse doit être difficile à conquérir, bien approvisionnée et agréable à vivre pour ceux qui y résident.",
+      comment: "L’autonomie et le confort intérieur sont essentiels pour résister aux sièges."
+    },
+    {
+      id: 746,
+      tamil: "எல்லாப் பொருளும் உடைத்தாய் இடத்துதவும் நல்லாள் உடையது அரண்.",
+      transliteration: "Ellaap Porulum Utaiththaai Itaththudhavum Nallaal Utaiyadhu Aran",
+      translation: "Une forteresse doit contenir toutes les ressources nécessaires et être défendue par des hommes courageux.",
+      comment: "Les ressources seules ne suffisent pas sans des défenseurs compétents."
+    },
+    {
+      id: 747,
+      tamil: "முற்றியும் முற்றா தெறிந்தும் அறைப்படுத்தும் பற்றற் கரியது அரண்.",
+      transliteration: "Mutriyum Mutraa Therindhum Araippatuththum Patrar Kariyadhu Aran",
+      translation: "Une forteresse capable de résister aux sièges, aux attaques et aux ruses est difficile à prendre.",
+      comment: "Une défense complète doit prévoir toutes les formes d’assaut."
+    },
+    {
+      id: 748,
+      tamil: "முற்றாற்றி முற்றி யவரையும் பற்றாற்றிப் பற்றியார் வெல்வது அரண்.",
+      transliteration: "Mutraatri Mutri Yavaraiyum Patraatrip Patriyaar Velvadhu Aran",
+      translation: "Une forteresse permet même aux assiégés de vaincre ceux qui les encerclent.",
+      comment: "Une position défensive solide peut transformer une situation désavantageuse en victoire."
+    },
+    {
+      id: 749,
+      tamil: "முனைமுகத்து மாற்றலர் சாய வினைமுகத்து வீறெய்தி மாண்ட தரண்.",
+      transliteration: "Munaimukaththu Maatralar Saaya Vinaimukaththu Veereydhi Maanta Tharan",
+      translation: "Une forteresse glorieuse est celle qui fait tomber les ennemis dès le début du combat.",
+      comment: "La valeur d’une défense se mesure à son efficacité contre l’adversaire."
+    },
+    {
+      id: 750,
+      tamil: "எனைமாட்சித் தாகியக் கண்ணும் வினைமாட்சி இல்லார்கண் இல்லது அரண்.",
+      transliteration: "Enaimaatchith Thaakiyak Kannum Vinaimaatchi Illaarkan Illadhu Aran",
+      translation: "Même une forteresse magnifique ne sert à rien si ceux qui la défendent manquent de compétence.",
+      comment: "La force d’une institution dépend toujours de la qualité de ceux qui la mettent en œuvre."
+    }
+
+  ]
+
+}, // fin du chapitre 75
+
 
   ] // fin de tous les chapitres de l'Iyal 7
 
