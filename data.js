@@ -5632,7 +5632,7 @@ kurals: [
 
   ]
 
-} // fin du chapitre 67
+}, // fin du chapitre 67
 
 
 
