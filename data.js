@@ -6508,12 +6508,194 @@ kurals: [
 
 }, // fin du chapitre 77
 
+    
+{
+  id: 78,
+  name: "78. Padai Cherukku - <br> La vaillance militaire",
+
+  kurals: [
+
+    {
+      id: 771,
+      tamil: "என்னைமுன் நில்லன்மின் தெவ்விர் பலரென்னை முன்நின்று கல்நின் றவர்.",
+      transliteration: "Ennaimun Nillanmin Thevvir Palarennai Munnindru Kalnin Ravar",
+      translation: "Ô ennemis, ne vous dressez pas devant mon chef : nombreux sont ceux qui l'ont affronté et ne sont plus aujourd'hui que des pierres funéraires.",
+      comment: "Le véritable guerrier inspire la crainte par les victoires qu'il a remportées sur ses adversaires."
+    },
+    {
+      id: 772,
+      tamil: "கான முயலெய்த அம்பினில் யானை பிழைத்தவேல் ஏந்தல் இனிது.",
+      transliteration: "Kaana Muyaleydha Ampinil Yaanai Pizhaiththavel Endhal Inidhu",
+      translation: "Il vaut mieux rapporter une lance lancée contre un éléphant, même sans l'avoir atteint, qu'une flèche ayant seulement abattu un lièvre.",
+      comment: "La grandeur réside dans l'audace des objectifs plutôt que dans la facilité des succès."
+    },
+    {
+      id: 773,
+      tamil: "பேராண்மை என்ப தறுகண்ஒன் றுற்றக்கால் ஊராண்மை மற்றதன் எஃகு.",
+      transliteration: "Peraanmai Enpa Tharukanon Rutrakkaal Ooraanmai Matradhan Eqku",
+      translation: "Le courage au combat est une grande vertu ; mais secourir un ennemi tombé dans le malheur est une noblesse plus grande encore.",
+      comment: "La véritable bravoure s'accompagne de générosité et d'humanité, même envers l'adversaire."
+    },
+    {
+      id: 774,
+      tamil: "கைவேல் களிற்றொடு போக்கி வருபவன் மெய்வேல் பறியா நகும்.",
+      transliteration: "Kaivel Kalitrotu Pokki Varupavan Meyvel Pariyaa Nakum",
+      translation: "Ayant lancé sa lance contre un éléphant, le guerrier sourit en retirant de son propre corps celle qui l'a transpercé.",
+      comment: "Le héros endure la douleur avec courage et ne renonce jamais au combat."
+    },
+    {
+      id: 775,
+      tamil: "விழித்தகண் வேல்கொண டெறிய அழித்திமைப்பின் ஒட்டன்றோ வன்க ணவர்க்கு.",
+      transliteration: "Vizhiththakan Velkona Teriya Azhiththimaippin Ottandro Vanka Navarkku",
+      translation: "Pour un guerrier valeureux, cligner des yeux lorsqu'une lance est lancée contre lui serait une honte.",
+      comment: "Le courage consiste à affronter le danger sans montrer le moindre signe de peur."
+    },
+    {
+      id: 776,
+      tamil: "விழுப்புண் படாதநாள் எல்லாம் வழுக்கினுள் வைக்கும்தன் நாளை எடுத்து.",
+      transliteration: "Vizhuppun Pataadhanaal Ellaam Vazhukkinul Vaikkumdhan Naalai Etuththu",
+      translation: "Le guerrier considère comme des jours perdus tous ceux où il n'a reçu aucune blessure glorieuse.",
+      comment: "Les blessures reçues au service de l'honneur sont pour le héros une source de fierté."
+    },
+    {
+      id: 777,
+      tamil: "சுழலும் இசைவேண்டி வேண்டா உயிரார் கழல்யாப்புக் காரிகை நீர்த்து.",
+      transliteration: "Suzhalum Isaiventi Ventaa Uyiraar Kazhalyaappuk Kaarikai Neerththu",
+      translation: "Celui qui recherche une gloire impérissable sans attachement à sa propre vie mérite les plus hautes distinctions du guerrier.",
+      comment: "La renommée acquise par le sacrifice dépasse la valeur de la vie elle-même."
+    },
+    {
+      id: 778,
+      tamil: "உறின்உயிர் அஞ்சா மறவர் இறைவன் செறினும் சீர்குன்றல் இலர்.",
+      transliteration: "Urinuyir Anjaa Maravar Iraivan Serinum Seerkundral Ilar",
+      translation: "Les guerriers qui ne craignent pas de donner leur vie ne perdent jamais leur honneur, même si leur roi se met en colère contre eux.",
+      comment: "Le véritable courage demeure indépendant des faveurs ou du courroux des puissants."
+    },
+    {
+      id: 779,
+      tamil: "இழைத்தது இகவாமைச் சாவாரை யாரே பிழைத்தது ஒறுக்கிற் பவர்.",
+      transliteration: "Izhaiththadhu Ikavaamaich Chaavaarai Yaare Pizhaiththadhu Orukkir Pavar",
+      translation: "Qui pourrait blâmer celui qui meurt en accomplissant fidèlement la mission qu'il avait promise d'exécuter ?",
+      comment: "Le sacrifice accompli dans le respect de la parole donnée mérite l'admiration, non le reproche."
+    },
+    {
+      id: 780,
+      tamil: "புரந்தார்கண் நீர்மல்கச் சாகிற்பின் சாக்காடு இரந்துகோள் தக்கது உடைத்து.",
+      transliteration: "Purandhaarkan Neermalkach Chaakirpin Saakkaatu Irandhukol Thakkadhu Utaiththu",
+      translation: "Une mort qui arrache des larmes de gratitude au souverain est une fin si glorieuse qu'elle mérite d'être recherchée.",
+      comment: "La plus haute récompense du guerrier est de mourir honorablement au service de son devoir."
+    }
+
+  ]
+
+} // fin du chapitre 78
+    
   ] // fin de tous les chapitres de l'Iyal 9
 
 }, // fin de l'Iyal 9
 
     
+{
+  id: 10,
 
+  //===========================================
+  // DEBUT DE L IYAL 10 DU LIVRE 2
+  //==============================================
+  name: " Natpiyal <br> L'amitié ",
+
+  //====================================================
+  // DEBUT DES CHAPITRES DE L IYAL 10 DU LIVRE 2
+  //=======================================================
+  chapters: [
+    {
+  id: 79,
+  name: "79. Natpu - <br> L'amitié",
+
+  kurals: [
+
+    {
+      id: 781,
+      tamil: "செயற்கரிய யாவுள நட்பின் அதுபோல் வினைக்கரிய யாவுள காப்பு.",
+      transliteration: "Seyarkariya Yaavula Natpin Adhupol Vinaikkariya Yaavula Kaappu",
+      translation: "Il n'existe pas de protection plus précieuse qu'une véritable amitié pour faire face aux difficultés et aux ennemis.",
+      comment: "L'amitié sincère est le plus sûr des soutiens dans les épreuves de la vie."
+    },
+    {
+      id: 782,
+      tamil: "நிறைநீர நீரவர் கேண்மை பிறைமதிப் பின்னீர பேதையார் நட்பு.",
+      transliteration: "Niraineera Neeravar Kenmai Piraimadhip Pinneera Pedhaiyaar Natpu",
+      translation: "L'amitié des sages grandit comme la lune croissante, tandis que celle des insensés décroît comme la lune après sa plénitude.",
+      comment: "Les relations fondées sur la sagesse se renforcent avec le temps, contrairement aux amitiés superficielles."
+    },
+    {
+      id: 783,
+      tamil: "நவில்தொறும் நூல்நயம் போலும் பயில்தொறும் பண்புடை யாளர் தொடர்பு.",
+      transliteration: "Navildhorum Noolnayam Polum Payildhorum Panputai Yaalar Thotarpu",
+      translation: "La fréquentation des personnes vertueuses ressemble à la lecture d'un bon livre : plus on les connaît, plus on les apprécie.",
+      comment: "Les meilleures amitiés révèlent toujours davantage de richesse au fil du temps."
+    },
+    {
+      id: 784,
+      tamil: "நகுதற் பொருட்டன்று நட்டல் மிகுதிக்கண் மேற்செனறு இடித்தற் பொருட்டு.",
+      transliteration: "Nakudhar Poruttandru Nattal Mikudhikkan Mersenaru Itiththar Poruttu",
+      translation: "L'amitié n'existe pas seulement pour partager les plaisirs, mais aussi pour corriger son ami lorsqu'il s'égare.",
+      comment: "Un véritable ami ose reprendre avec bienveillance celui qu'il estime."
+    },
+    {
+      id: 785,
+      tamil: "புணர்ச்சி பழகுதல் வேண்டா உணர்ச்சிதான் நட்பாங் கிழமை தரும்.",
+      transliteration: "Punarchchi Pazhakudhal Ventaa Unarchchidhaan Natpaang Kizhamai Tharum",
+      translation: "Une longue fréquentation n'est pas nécessaire : la communion des pensées suffit à faire naître une véritable amitié.",
+      comment: "L'amitié authentique repose avant tout sur l'accord des cœurs et des esprits."
+    },
+    {
+      id: 786,
+      tamil: "முகநக நட்பது நட்பன்று நெஞ்சத்து அகநக நட்பது நட்பு.",
+      transliteration: "Mukanaka Natpadhu Natpandru Nenjaththu Akanaka Natpadhu Natpu",
+      translation: "Le sourire du visage ne fait pas l'amitié ; la véritable amitié est celle qui vient du sourire du cœur.",
+      comment: "La sincérité intérieure vaut bien plus que les marques extérieures d'affection."
+    },
+    {
+      id: 787,
+      tamil: "அழிவி னவைநீக்கி ஆறுய்த்து அழிவின்கண் அல்லல் உழப்பதாம் நட்பு.",
+      transliteration: "Azhivi Navaineekki Aaruyththu Azhivinkan Allal Uzhappadhaam Natpu",
+      translation: "La véritable amitié écarte le malheur, guide vers le bon chemin et partage les souffrances lorsque l'épreuve survient.",
+      comment: "Un ami véritable protège, conseille et reste présent dans les moments les plus difficiles."
+    },
+    {
+      id: 788,
+      tamil: "உடுக்கை இழந்தவன் கைபோல ஆங்கே இடுக்கண் களைவதாம் நட்பு.",
+      transliteration: "Utukkai Izhandhavan Kaipola Aange Itukkan Kalaivadhaam Natpu",
+      translation: "Comme la main qui retient aussitôt un vêtement qui glisse, l'ami véritable accourt immédiatement pour soulager la détresse.",
+      comment: "L'amitié sincère se reconnaît à la rapidité avec laquelle elle vient en aide."
+    },
+    {
+      id: 789,
+      tamil: "நட்பிற்கு வீற்றிருக்கை யாதெனின் கொட்பின்றி ஒல்லும்வாய் ஊன்றும் நிலை.",
+      transliteration: "Natpirku Veetrirukkai Yaadhenin Kotpindri Ollumvaai Oondrum Nilai",
+      translation: "Le fondement de l'amitié est un soutien constant, offert sans hésitation chaque fois que le besoin s'en fait sentir.",
+      comment: "La fidélité et l'entraide inconditionnelle donnent toute sa force à l'amitié."
+    },
+    {
+      id: 790,
+      tamil: "இனையர் இவரெமக்கு இன்னம்யாம் என்று புனையினும் புல்லென்னும் நட்பு.",
+      transliteration: "Inaiyar Ivaremakku Innamyaam Endru Punaiyinum Pullennum Natpu",
+      translation: "Se vanter de son amitié en disant : « Il est tout pour moi et je suis tout pour lui » ne fait que diminuer sa valeur.",
+      comment: "La véritable amitié se vit avec simplicité et n'a pas besoin d'être proclamée."
+    }
+
+  ]
+
+}, // fin du chapitre 79
+
+
+
+
+ ] // fin de tous les chapitres de l'Iyal 10
+
+}, // fin de l'Iyal 10
+    
+      
 
       ] // fin de tous les iyals du Livre 2
 
