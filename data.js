@@ -5280,117 +5280,118 @@ kurals: [
       
 
      {
-  id: 6, 
+  id: 6,
+
   //===========================================
-  // DEBUT DE L IYAL 6 DU LIVRE 2 
+  // DEBUT DE L IYAL 6 DU LIVRE 2
   //==============================================
   name: "Amaichiyal <br> Les qualités du ministre",
 
   //====================================================
-  //DEBUT DES CHAPITRES DU L IYAL 6 DU LIVRE 2 
+  // DEBUT DES CHAPITRES DE L IYAL 6 DU LIVRE 2
   //=======================================================
   chapters: [
-    { 
+    {
 
       //==========================================================================================
-      // CHAPITRE DE LA 2EmE SECTION DU 2Eme LIVRE
+      // CHAPITRE 64
       //===========================================================================================
       id: 64,
       name: "1. Amaichu - <br> Les qualités du ministre",
 
       // ===========================================================================================
-      // TOUS LES KURAL DU 64eme CHAPITRE
+      // TOUS LES KURAL DU CHAPITRE 64
       //=============================================================================================
       kurals: [
+
         {
- id: 631,
-      tamil: "கருவியும் காலமும் செய்கையும் செய்யும் அருவினையும் மாண்டது அமைச்சு.",
-      transliteration: "Karuviyum Kaalamum Seykaiyum Seyyum Aruvinaiyum Maantadhu Amaichchu",
-      translation: "Un ministre accompli sait choisir les moyens, le moment, la méthode et l’action à entreprendre.",
-      comment: "Un bon conseiller maîtrise la préparation, la stratégie et l’exécution des affaires importantes."
-    },
-    {
-      id: 632,
-      tamil: "வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு ஐந்துடன் மாண்டது அமைச்சு.",
-      transliteration: "Vankan Kutikaaththal Katraridhal Aalvinaiyotu Aindhutan Maantadhu Amaichchu",
-      translation: "Un ministre possède la fermeté, protège le peuple, possède le savoir et la capacité d’agir, avec les cinq qualités essentielles.",
-      comment: "La force morale, la connaissance et la persévérance sont les fondements d’un grand ministre."
-    },
-    {
-      id: 633,
-      tamil: "பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப் பொருத்தலும் வல்ல தமைச்சு.",
-      transliteration: "Piriththalum Penik Kolalum Pirindhaarp Poruththalum Valla Thamaichchu",
-      translation: "Un ministre habile sait diviser les alliances ennemies, préserver les relations et réconcilier ceux qui sont séparés.",
-      comment: "La diplomatie et la gestion des relations humaines sont des compétences essentielles d’un conseiller d’État."
-    },
-    {
-      id: 634,
-      tamil: "தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச் சொல்லலும் வல்லது அமைச்சு.",
-      transliteration: "Theridhalum Therndhu Seyalum Orudhalaiyaach Chollalum Valladhu Amaichchu",
-      translation: "Un ministre sait comprendre les situations, agir avec discernement et donner des conseils clairs.",
-      comment: "La capacité d’analyser, de décider et de communiquer avec précision définit un bon ministre."
-    },
-    {
-      id: 635,
-      tamil: "அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றுந் திறனறிந்தான் தேர்ச்சித் துணை.",
-      transliteration: "Aranarindhu Aandramaindha Sollaanenj Gnaandrun Thiranarindhaan Therchchith Thunai",
-      translation: "Le meilleur conseiller connaît la vertu, maîtrise la parole et possède en permanence les compétences nécessaires.",
-      comment: "La sagesse morale et l’éloquence renforcent l’efficacité d’un conseiller."
-    },
-    {
-      id: 636,
-      tamil: "மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம் யாவுள முன்நிற் பவை.",
-      transliteration: "Madhinutpam Noolotu Utaiyaarkku Adhinutpam Yaavula Munnir Pavai",
-      translation: "Quelles subtilités pourraient résister à celui qui possède l’intelligence fine et la connaissance des textes ?",
-      comment: "L’union de l’intelligence et de l’apprentissage permet de résoudre les problèmes complexes."
-    },
-    {
-      id: 637,
-      tamil: "செயற்கை அறிந்த கடைத்தும் உலகத்து இயற்கை அறிந்து செயல்.",
-      transliteration: "Seyarkai Arindhak Kataiththum Ulakaththu Iyarkai Arindhu Seyal",
-      translation: "Même lorsqu’il connaît les théories, il doit agir en comprenant les réalités du monde.",
-      comment: "La connaissance pratique de la société est aussi importante que le savoir théorique."
-    },
-    {
-      id: 638,
-      tamil: "அறிகொன்று அறியான் எனினும் உறுதி உழையிருந்தான் கூறல் கடன்.",
-      transliteration: "Arikondru Ariyaan Eninum Urudhi Uzhaiyirundhaan Kooral Katan",
-      translation: "Même si le dirigeant refuse de comprendre, le devoir du ministre est de continuer à donner un conseil juste.",
-      comment: "Un véritable conseiller doit rester fidèle à la vérité malgré les résistances du pouvoir."
-    },
-    {
-      id: 639,
-      tamil: "பழுதெண்ணும் மந்திரியின் பக்கததுள் தெவ்வோர் எழுபது கோடி உறும்.",
-      transliteration: "Pazhudhennum Mandhiriyin Pakkadhadhul Thevvor Ezhupadhu Koti Urum",
-      translation: "Un ministre déloyal dans le royaume est plus dangereux que soixante-dix millions d’ennemis extérieurs.",
-      comment: "La trahison venant de l’intérieur menace davantage un État que ses adversaires visibles."
-    },
-    {
-      id: 640,
-      tamil: "முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர் திறப்பாடு இலாஅ தவர்.",
-      transliteration: "Muraippatach Choozhndhum Mutivilave Seyvar Thirappaatu Ilaaa Thavar",
-      translation: "Même après une bonne préparation, ceux qui manquent de compétence ne réussissent pas leurs projets.",
-      comment: "La planification seule ne suffit pas ; l’efficacité dans l’exécution est indispensable."
-          
+          id: 631,
+          tamil: "கருவியும் காலமும் செய்கையும் செய்யும் அருவினையும் மாண்டது அமைச்சு.",
+          transliteration: "Karuviyum Kaalamum Seykaiyum Seyyum Aruvinaiyum Maantadhu Amaichchu",
+          translation: "Un ministre accompli sait choisir les moyens, le moment, la méthode et l’action à entreprendre.",
+          comment: "Un bon conseiller maîtrise la préparation, la stratégie et l’exécution des affaires importantes."
+        },
+
+        {
+          id: 632,
+          tamil: "வன்கண் குடிகாத்தல் கற்றறிதல் ஆள்வினையோடு ஐந்துடன் மாண்டது அமைச்சு.",
+          transliteration: "Vankan Kutikaaththal Katraridhal Aalvinaiyotu Aindhutan Maantadhu Amaichchu",
+          translation: "Un ministre possède la fermeté, protège le peuple, possède le savoir et la capacité d’agir, avec les cinq qualités essentielles.",
+          comment: "La force morale, la connaissance et la persévérance sont les fondements d’un grand ministre."
+        },
+
+        {
+          id: 633,
+          tamil: "பிரித்தலும் பேணிக் கொளலும் பிரிந்தார்ப் பொருத்தலும் வல்ல தமைச்சு.",
+          transliteration: "Piriththalum Penik Kolalum Pirindhaarp Poruththalum Valla Thamaichchu",
+          translation: "Un ministre habile sait diviser les alliances ennemies, préserver les relations et réconcilier ceux qui sont séparés.",
+          comment: "La diplomatie et la gestion des relations humaines sont des compétences essentielles d’un conseiller d’État."
+        },
+
+        {
+          id: 634,
+          tamil: "தெரிதலும் தேர்ந்து செயலும் ஒருதலையாச் சொல்லலும் வல்லது அமைச்சு.",
+          transliteration: "Theridhalum Therndhu Seyalum Orudhalaiyaach Chollalum Valladhu Amaichchu",
+          translation: "Un ministre sait comprendre les situations, agir avec discernement et donner des conseils clairs.",
+          comment: "La capacité d’analyser, de décider et de communiquer avec précision définit un bon ministre."
+        },
+
+        {
+          id: 635,
+          tamil: "அறனறிந்து ஆன்றமைந்த சொல்லான்எஞ் ஞான்றுந் திறனறிந்தான் தேர்ச்சித் துணை.",
+          transliteration: "Aranarindhu Aandramaindha Sollaanenj Gnaandrun Thiranarindhaan Therchchith Thunai",
+          translation: "Le meilleur conseiller connaît la vertu, maîtrise la parole et possède en permanence les compétences nécessaires.",
+          comment: "La sagesse morale et l’éloquence renforcent l’efficacité d’un conseiller."
+        },
+
+        {
+          id: 636,
+          tamil: "மதிநுட்பம் நூலோடு உடையார்க்கு அதிநுட்பம் யாவுள முன்நிற் பவை.",
+          transliteration: "Madhinutpam Noolotu Utaiyaarkku Adhinutpam Yaavula Munnir Pavai",
+          translation: "Quelles subtilités pourraient résister à celui qui possède l’intelligence fine et la connaissance des textes ?",
+          comment: "L’union de l’intelligence et de l’apprentissage permet de résoudre les problèmes complexes."
+        },
+
+        {
+          id: 637,
+          tamil: "செயற்கை அறிந்த கடைத்தும் உலகத்து இயற்கை அறிந்து செயல்.",
+          transliteration: "Seyarkai Arindhak Kataiththum Ulakaththu Iyarkai Arindhu Seyal",
+          translation: "Même lorsqu’il connaît les théories, il doit agir en comprenant les réalités du monde.",
+          comment: "La connaissance pratique de la société est aussi importante que le savoir théorique."
+        },
+
+        {
+          id: 638,
+          tamil: "அறிகொன்று அறியான் எனினும் உறுதி உழையிருந்தான் கூறல் கடன்.",
+          transliteration: "Arikondru Ariyaan Eninum Urudhi Uzhaiyirundhaan Kooral Katan",
+          translation: "Même si le dirigeant refuse de comprendre, le devoir du ministre est de continuer à donner un conseil juste.",
+          comment: "Un véritable conseiller doit rester fidèle à la vérité malgré les résistances du pouvoir."
+        },
+
+        {
+          id: 639,
+          tamil: "பழுதெண்ணும் மந்திரியின் பக்கததுள் தெவ்வோர் எழுபது கோடி உறும்.",
+          transliteration: "Pazhudhennum Mandhiriyin Pakkadhadhul Thevvor Ezhupadhu Koti Urum",
+          translation: "Un ministre déloyal dans le royaume est plus dangereux que soixante-dix millions d’ennemis extérieurs.",
+          comment: "La trahison venant de l’intérieur menace davantage un État que ses adversaires visibles."
+        },
+
+        {
+          id: 640,
+          tamil: "முறைப்படச் சூழ்ந்தும் முடிவிலவே செய்வர் திறப்பாடு இலாஅ தவர்.",
+          transliteration: "Muraippatach Choozhndhum Mutivilave Seyvar Thirappaatu Ilaaa Thavar",
+          translation: "Même après une bonne préparation, ceux qui manquent de compétence ne réussissent pas leurs projets.",
+          comment: "La planification seule ne suffit pas ; l’efficacité dans l’exécution est indispensable."
         }
 
       ] // fin des kurals du chapitre 64
 
     }, // fin du chapitre 64
-
-
-
-
-
-
     
 
   ] // fin de tous les chapitres de l'Iyal 6
 
 }, // fin de l'Iyal 6 : Amaichiyal
-
-// virgule nécessaire si un autre Iyal suit
-
       
   
   3: {
