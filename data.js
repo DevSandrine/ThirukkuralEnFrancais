@@ -5271,7 +5271,7 @@ kurals: [
 
   ]
 
-} // fin du chapitre 63
+}, // fin du chapitre 63
 
         ] // fin des chapitres de l'iyal Arasiyal
 
@@ -6125,7 +6125,7 @@ kurals: [
 
   ]
 
-}// fin du chapitre 73
+},// fin du chapitre 73
 
     
 
