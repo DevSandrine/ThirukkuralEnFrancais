@@ -3169,7 +3169,7 @@ const thirukuralData = {
       comment: "Le chapitre s’achève en affirmant la force irrésistible du destin face aux projets humains."
     }
   ]
-},
+}
 // fin du chapitre 38
 
          
