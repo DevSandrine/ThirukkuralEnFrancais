@@ -8010,8 +8010,109 @@ kurals: [
 }, // fin de l'Iyal 10
 
 
-      
+ {
+  id: 11,
+
+  //===========================================
+  // DEBUT DE L IYAL 11 DU LIVRE 2
+  //==============================================
+  name: " Kudiyiyal <br> Les citoyens et la société ",
+
+  //====================================================
+  // DEBUT DES CHAPITRES DE L IYAL 11 DU LIVRE 2
+  //=======================================================
+  chapters: [
+   {
+  id: 96,
+  name: "96. Kutimai - <br> La noblesse",
+
+  kurals: [
+
+    {
+      id: 951,
+      tamil: "இற்பிறந்தார் கண்அல்லது இல்லை இயல்பாகச் செப்பமும் நாணும் ஒருங்கு.",
+      tamilfr: "Irpirandhaar Kanalladhu Illai Iyalpaakach Cheppamum Naanum Orungu",
+      translation: "La droiture et la pudeur naturelles réunies ne se trouvent que chez ceux issus d'une noble lignée.",
+      comment: "La véritable noblesse se manifeste par l'intégrité et le sens de l'honneur."
+    },
+    {
+      id: 952,
+      tamil: "ஒழுக்கமும் வாய்மையும் நாணும்இம் மூன்றும் இழுக்கார் குடிப்பிறந் தார்.",
+      tamilfr: "Ozhukkamum Vaaimaiyum Naanum Im Moondrum Izhukkaar Kutippiran Thaar",
+      translation: "Les personnes de noble naissance ne s'écartent jamais de ces trois qualités : la bonne conduite, la vérité et la pudeur.",
+      comment: "La noblesse véritable repose sur une conduite juste et honnête."
+    },
+    {
+      id: 953,
+      tamil: "நகைஈகை இன்சொல் இகழாமை நான்கும் வகையென்ப வாய்மைக் குடிக்கு.",
+      tamilfr: "Nakaieekai Insol Ikazhaamai Naankum Vakaiyenpa Vaaimaik Kutikku",
+      translation: "Un visage souriant, la générosité, les paroles douces et l'absence de mépris sont les quatre marques de la vraie noblesse.",
+      comment: "La noblesse se reconnaît dans la bienveillance envers les autres."
+    },
+    {
+      id: 954,
+      tamil: "அடுக்கிய கோடி பெறினும் குடிப்பிறந்தார் குன்றுவ செய்தல் இலர்.",
+      tamilfr: "Atukkiya Koti Perinum Kutippirandhaar Kundruva Seydhal Ilar",
+      translation: "Même s'ils recevaient des millions en abondance, les hommes nobles ne commettraient pas d'actes indignes.",
+      comment: "La dignité ne doit jamais être sacrifiée pour la richesse."
+    },
+    {
+      id: 955,
+      tamil: "வழங்குவ துள்வீழ்ந்தக் கண்ணும் பழங்குடி பண்பில் தலைப்பிரிதல் இன்று.",
+      tamilfr: "Vazhanguva Thulveezhndhak Kannum Pazhanguti Panpil Thalaippiridhal Indru",
+      translation: "Même lorsqu'une ancienne famille tombe dans la pauvreté et ne peut plus donner comme avant, elle ne renonce pas à ses bonnes qualités.",
+      comment: "La vraie noblesse demeure dans le caractère, même lorsque la fortune disparaît."
+    },
+    {
+      id: 956,
+      tamil: "சலம்பற்றிச் சால்பில செய்யார்மா சற்ற குலம்பற்றி வாழ்தும்என் பார்.",
+      tamilfr: "Salampatrich Chaalpila Seyyaarmaa Satra Kulampatri VaazhdhumEn Paar",
+      translation: "Ceux qui tiennent à leur noble héritage ne commettent pas d'actes trompeurs ou indignes.",
+      comment: "Respecter sa lignée signifie préserver une conduite honorable."
+    },
+    {
+      id: 957,
+      tamil: "குடிப்பிறந்தார் கண்விளங்கும் குற்றம் விசும்பின் மதிக்கண் மறுப்போல் உயர்ந்து.",
+      tamilfr: "Kutippirandhaar Kanvilangum Kutram Visumpin Madhikkan Maruppol Uyarndhu",
+      translation: "Les défauts des personnes nobles apparaissent davantage, comme une tache visible sur la lune dans le ciel.",
+      comment: "Plus une personne est estimée, plus ses fautes sont remarquées."
+    },
+    {
+      id: 958,
+      tamil: "நலத்தின்கண் நாரின்மை தோன்றின் அவனைக் குலத்தின்கண் ஐயப் படும்.",
+      tamilfr: "Nalaththinkan Naarinmai Thondrin Avanaik Kulaththinkan Aiyap Patum",
+      translation: "Si l'on voit un manque d'affection chez une personne réputée noble, sa véritable origine est mise en doute.",
+      comment: "La bonté et la compassion sont des signes essentiels de noblesse."
+    },
+    {
+      id: 959,
+      tamil: "நிலத்தில் கிடந்தமை கால்காட்டும் காட்டும் குலத்தில் பிறந்தார்வாய்ச் சொல்.",
+      tamilfr: "Nilaththil Kitandhamai Kaalkattum Kaattum Kulaththil Pirandhaarvaaich Chol",
+      translation: "La qualité du sol se révèle par la pousse qui en sort ; de même, les paroles révèlent l'origine d'une personne.",
+      comment: "Le langage reflète l'éducation, le caractère et la formation intérieure."
+    },
+    {
+      id: 960,
+      tamil: "நலம்வேண்டின் நாணுடைமை வேண்டும் குலம்வேண்டின் வேண்டுக யார்க்கும் பணிவு.",
+      tamilfr: "Nalamventin Naanutaimai Ventum Kulam Ventin Ventuka Yaarkkum Panivu",
+      translation: "Qui désire la vertu doit posséder la pudeur ; qui désire la noblesse doit pratiquer l'humilité envers tous.",
+      comment: "La modestie et le respect d'autrui sont les fondements d'une véritable grandeur."
+    }
+
+  ]
+
+}, // fin du chapitre 96
+
+
     
+    
+
+ ] // fin de tous les chapitres de l'Iyal 11
+
+}, // fin de l'Iyal 11
+
+
+
       
 
       ] // fin de tous les iyals du Livre 2
