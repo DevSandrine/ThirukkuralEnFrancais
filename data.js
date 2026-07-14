@@ -1168,7 +1168,7 @@ const thirukuralData = {
 
            { 
             id: 14,
-            name: " 14. Ozhukkamudaimai - <br> La maîtrise de soi ", 
+            name: " 14. Ozhukkamudaimai - <br> La bonne conduite ", 
             // KURAL DU CHAPITRE 14 ICI 
             kurals: [
               {
