@@ -6312,10 +6312,112 @@ kurals: [
 
   ] // fin de tous les chapitres de l'Iyal 7
 
-}, // fin de l'Iyal 7 : Amaichiyal
+}, // fin de l'Iyal 7 
 
+      
 
-   
+ {
+  id: 8,
+
+  //===========================================
+  // DEBUT DE L IYAL 8 DU LIVRE 2
+  //==============================================
+  name: " Koozhiyal <br> L'acquisition des richesses ",
+
+  //====================================================
+  // DEBUT DES CHAPITRES DE L IYAL 7 DU LIVRE 2
+  //=======================================================
+  chapters: [
+
+   {
+  id: 76,
+  name: "76. Porul Seyal Vakai - <br> L'acquisition des richesses",
+
+  kurals: [
+
+    {
+      id: 751,
+      tamil: "பொருளல் லவரைப் பொருளாகச் செய்யும் பொருளல்லது இல்லை பொருள்.",
+      transliteration: "Porulal Lavaraip Porulaakach Cheyyum Porulalladhu Illai Porul",
+      translation: "Il n'existe pas de bien plus précieux que la richesse, car elle donne de la valeur même à ceux qui en sont dépourvus.",
+      comment: "La richesse possède le pouvoir d'élever la considération sociale de celui qui la détient."
+    },
+    {
+      id: 752,
+      tamil: "இல்லாரை எல்லாரும் எள்ளுவர் செல்வரை எல்லாரும் செய்வர் சிறப்பு.",
+      transliteration: "Illaarai Ellaarum Elluvar Selvarai Ellaarum Seyvar Sirappu",
+      translation: "Tous méprisent les pauvres, tandis que tous honorent les riches.",
+      comment: "Le monde accorde souvent plus de respect à la prospérité matérielle qu'à la condition de la personne."
+    },
+    {
+      id: 753,
+      tamil: "பொருளென்னும் பொய்யா விளக்கம் இருளறுக்கும் எண்ணிய தேயத்துச் சென்று.",
+      transliteration: "Porulennum Poiyaa Vilakkam Irularukkum Enniya Theyaththuch Chendru",
+      translation: "La richesse est une lumière infaillible qui dissipe les ténèbres, même dans les contrées les plus lointaines.",
+      comment: "Les ressources matérielles permettent d'agir efficacement et d'ouvrir des possibilités partout."
+    },
+    {
+      id: 754,
+      tamil: "அறன்ஈனும் இன்பமும் ஈனும் திறனறிந்து தீதின்றி வந்த பொருள்.",
+      transliteration: "Araneenum Inpamum Eenum Thiranarindhu Theedhindri Vandha Porul",
+      translation: "Une richesse acquise honnêtement et avec discernement procure à la fois la vertu et le bonheur.",
+      comment: "Seule une fortune obtenue sans injustice devient une source durable de bien-être."
+    },
+    {
+      id: 755,
+      tamil: "அருளொடும் அன்பொடும் வாராப் பொருளாக்கம் புல்லார் புரள விடல்.",
+      transliteration: "Arulotum Anpotum Vaaraap Porulaakkam Pullaar Purala Vital",
+      translation: "Il faut renoncer aux richesses acquises sans bonté ni amour.",
+      comment: "Une fortune obtenue par des moyens contraires à la compassion et à la justice ne mérite pas d'être conservée."
+    },
+    {
+      id: 756,
+      tamil: "உறுபொருளும் உல்கு பொருளும்தன் ஒன்னார்த் தெறுபொருளும் வேந்தன் பொருள்.",
+      transliteration: "Uruporulum Ulku Porulumdhan Onnaarth Theruporulum Vendhan Porul",
+      translation: "Les biens sans propriétaire, les revenus des taxes et les richesses prises à l'ennemi constituent les ressources légitimes du souverain.",
+      comment: "Le roi dispose de plusieurs sources de revenus destinées au bon fonctionnement de l'État."
+    },
+    {
+      id: 757,
+      tamil: "அருளென்னும் அன்பீன் குழவி பொருளென்னும் செல்வச் செவிலியால் உண்டு.",
+      transliteration: "Arulennum Anpeen Kuzhavi Porulennum Selvach Cheviliyaal Untu",
+      translation: "La compassion, enfant de l'amour, grandit grâce à la richesse qui la nourrit comme une mère nourricière.",
+      comment: "Les ressources matérielles permettent d'exercer la générosité et de pratiquer la bienveillance."
+    },
+    {
+      id: 758,
+      tamil: "குன்றேறி யானைப்போர் கண்டற்றால் தன்கைத்தொன்று உண்டாகச் செய்வான் வினை.",
+      transliteration: "Kundreri Yaanaip Por Kantatraal Thankaiththondru Untaakach Cheyvaan Vinai",
+      translation: "Les entreprises d'un homme fortuné ressemblent à celui qui observe un combat d'éléphants depuis le sommet d'une colline.",
+      comment: "Celui qui possède des ressources agit avec davantage de sécurité et de maîtrise."
+    },
+    {
+      id: 759,
+      tamil: "செய்க பொருளைச் செறுநர் செருக்கறுக்கும் எஃகதனிற் கூரிய தில்.",
+      transliteration: "Seyka Porulaich Cherunar Serukkarukkum Eqkadhanir Kooriya Thil",
+      translation: "Acquiers des richesses : il n'existe pas d'arme plus tranchante pour abattre l'orgueil de ses ennemis.",
+      comment: "La prospérité constitue un moyen puissant de défense et de réussite."
+    },
+    {
+      id: 760,
+      tamil: "ஒண்பொருள் காழ்ப்ப இயற்றியார்க்கு எண்பொருள் ஏனை இரண்டும் ஒருங்கு.",
+      transliteration: "Onporul Kaazhppa Iyatriyaarkku Enporul Enai Irantum Orungu",
+      translation: "Celui qui acquiert une noble richesse en abondance obtient en même temps les deux autres biens : la vertu et le bonheur.",
+      comment: "Une fortune acquise avec intégrité favorise l'accomplissement moral et une vie heureuse."
+    }
+
+  ]
+
+}, // fin du chapitre 76
+
+ 
+    
+
+  ] // fin de tous les chapitres de l'Iyal 8
+
+}, // fin de l'Iyal 8
+
+    
 
 
       ] // fin de tous les iyals du Livre 2
