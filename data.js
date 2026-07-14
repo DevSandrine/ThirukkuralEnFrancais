@@ -3172,11 +3172,12 @@ const thirukuralData = {
 },
 // fin du chapitre 38
 
-          }
-      ]
-    ] //fin des iyals du livre 1 
-  }, // fin livre 1 (Ajout d'une virgule ici à la place de "};")
+         
+        ] // fin des chapitres
+      } // fin de l'iyal
 
+    ] // fin des iyals du livre 1
+  }, // fin du livre 1
   
   
  //=================================================================================================
