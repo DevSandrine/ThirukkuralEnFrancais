@@ -5391,14 +5391,14 @@ kurals: [
 
   ] // fin de tous les chapitres de l'Iyal 6
 
-}, // fin de l'Iyal 6 : Amaichiyal
+} // fin de l'Iyal 6 : Amaichiyal
 
       
 
 
       ] // fin de tous les iyals du Livre 2
 
-    } // fin du Livre 2 : Porutpāl
+    }, // fin du Livre 2 : Porutpāl
       
   
   3: {
