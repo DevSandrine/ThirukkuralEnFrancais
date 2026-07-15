@@ -3,7 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Distique - Kural - குறள்</title>
+    
+ <h1 id="pageTitle"></h1>
+<p id="pageSubtitle">Distique - Kural - குறள்</p>     <!-- <title>Distique - Kural - குறள்</title> -->
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -34,9 +36,20 @@
 
 <script>
 
-const chapterId = new URLSearchParams(window.location.search).get("chapter");
+    const params = new URLSearchParams(window.location.search);
+
+const chapterId = params.get("chapter");
+const title = params.get("title");
+
+if (title) {
+    document.getElementById("pageTitle").textContent = decodeURIComponent(title);
+}
 
 let kurals = [];
+
+// const chapterId = new URLSearchParams(window.location.search).get("chapter");
+
+// let kurals = [];
 
 Object.values(thirukuralData).forEach(section => {
 
