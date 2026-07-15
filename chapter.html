@@ -3,8 +3,7 @@
 <head>
 <meta charset="UTF-8">
   
-<h1 id="pageTitle"></h1>
-<p id="pageSubtitle">Chapitres - Adhigāram - அதிகாரம்</p>           <!-- <title>Chapitres - Adhigāram - அதிகாரம்</title> -->
+<title>Chapitres - Adhigāram - அதிகாரம்</title> 
   
 <link rel="stylesheet" href="style.css">
 </head>
@@ -23,25 +22,9 @@
 <script src="data.js"></script>
 
 <script>
-
-const params = new URLSearchParams(window.location.search);
-
-const iyalId = params.get("iyal");
-const title = params.get("title");
-
-if (title) {
-    document.getElementById("pageTitle").textContent = decodeURIComponent(title);
-}
-
+ 
+const iyalId = new URLSearchParams(window.location.search).get("iyal");
 const container = document.getElementById("container");
-
-
-
-
-
-  
-// const iyalId = new URLSearchParams(window.location.search).get("iyal");
-// const container = document.getElementById("container");
 
 let chapters = [];
 
@@ -57,7 +40,7 @@ chapters.forEach(c => {
   const a = document.createElement("a");
   a.className = "polaroid taped";
   
-a.href = `kurals.html?chapter=${c.id}&title=${encodeURIComponent(c.name)}`;   // a.href = `kurals.html?chapter=${c.id}`;
+a.href = `kurals.html?chapter=${c.id}`;
 
   a.innerHTML = `
     <div class="polaroid-caption">
