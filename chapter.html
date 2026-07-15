@@ -56,7 +56,8 @@ Object.values(thirukuralData).forEach(section => {
 chapters.forEach(c => {
   const a = document.createElement("a");
   a.className = "polaroid taped";
-  a.href = `kurals.html?chapter=${c.id}`;
+  
+a.href = `kurals.html?chapter=${c.id}&title=${encodeURIComponent(c.name)}`;   // a.href = `kurals.html?chapter=${c.id}`;
 
   a.innerHTML = `
     <div class="polaroid-caption">
