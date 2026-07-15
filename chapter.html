@@ -2,7 +2,10 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Chapitres - Adhigāram - அதிகாரம்</title>
+  
+<h1 id="pageTitle"></h1>
+<p id="pageSubtitle">Chapitres - Adhigāram - அதிகாரம்</p>           <!-- <title>Chapitres - Adhigāram - அதிகாரம்</title> -->
+  
 <link rel="stylesheet" href="style.css">
 </head>
 
@@ -20,8 +23,25 @@
 <script src="data.js"></script>
 
 <script>
-const iyalId = new URLSearchParams(window.location.search).get("iyal");
+
+const params = new URLSearchParams(window.location.search);
+
+const iyalId = params.get("iyal");
+const title = params.get("title");
+
+if (title) {
+    document.getElementById("pageTitle").textContent = decodeURIComponent(title);
+}
+
 const container = document.getElementById("container");
+
+
+
+
+
+  
+// const iyalId = new URLSearchParams(window.location.search).get("iyal");
+// const container = document.getElementById("container");
 
 let chapters = [];
 
