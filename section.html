@@ -30,7 +30,7 @@ const iyals = thirukuralData[section].iyals;
 iyals.forEach(i => {
   const a = document.createElement("a");
   a.className = "polaroid taped";
-  a.href = `chapter.html?iyal=${i.id}`;
+  a.href = `chapter.html?iyal=${i.id}&title=${encodeURIComponent(i.name)}`;                                   /* a.href = `chapter.html?iyal=${i.id}`; */
 
   a.innerHTML = `
     <div class="polaroid-caption">
